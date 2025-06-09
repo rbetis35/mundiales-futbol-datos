@@ -1,0 +1,17 @@
+player_id,world_cup_year,team,club
+1,2006,Argentina,Barcelona
+1,2010,Argentina,Barcelona
+1,2014,Argentina,Barcelona
+1,2018,Argentina,Barcelona
+1,2022,Argentina,Paris Saint-Germain
+2,2018,France,Paris Saint-Germain
+2,2022,France,Paris Saint-Germain
+3,2006,Croatia,Dinamo Zagreb
+3,2014,Croatia,Real Madrid
+3,2018,Croatia,Real Madrid
+3,2022,Croatia,Real Madrid
+4,2018,England,Tottenham
+4,2022,England,Tottenham
+5,2014,France,Arsenal
+5,2018,France,Chelsea
+5,2022,France,AC Milan
