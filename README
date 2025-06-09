@@ -1,0 +1,59 @@
+# Mundial de Fútbol - Análisis Histórico (1930-2022)
+
+Este proyecto recopila, organiza y analiza datos de los Mundiales de Fútbol de la FIFA, comenzando por Catar 2022 y con la meta de cubrir todas las ediciones desde Uruguay 1930. El objetivo es ofrecer una base de datos limpia y flexible para análisis estadísticos, visualizaciones y comparativas históricas.
+
+## 📁 Estructura de Carpetas
+
+WorldCups/
+├── 2022/
+│ ├── matches.csv
+│ ├── stadiums.csv
+│ ├── top_scorers.csv
+│ ├── players_stats.csv
+│ ├── teams.csv
+│ └── group_standings.csv
+└── players/
+├── players.csv
+└── player_world_cups.csv
+
+
+## 📄 Descripción de Archivos
+
+- **matches.csv**: Resultados de todos los partidos, incluyendo fecha, equipos, estadio, fase, grupo y asistencia de público.
+- **stadiums.csv**: Información de los estadios sede, ciudad y capacidad total.
+- **top_scorers.csv**: Goleadores del torneo y cantidad de goles.
+- **players_stats.csv**: Estadísticas individuales (minutos, partidos, tarjetas).
+- **teams.csv**: Selecciones participantes y entrenadores.
+- **group_standings.csv**: Tablas de posiciones de la fase de grupos.
+- **players.csv**: Información general de jugadores destacados.
+- **player_world_cups.csv**: Trayectoria de jugadores en diferentes mundiales y clubes en cada edición.
+
+## 📊 Ejemplos de análisis posibles
+
+- Ranking de partidos con mayor y menor asistencia.
+- Porcentaje de ocupación de estadios por partido y por torneo.
+- Evolución de la asistencia a lo largo de los mundiales.
+- Ranking de goleadores históricos y jugadores con más partidos/minutos.
+- Comparativas de disciplina (tarjetas) entre selecciones y ediciones.
+
+## 🚀 Cómo contribuir
+
+1. Haz un fork del repositorio.
+2. Agrega datos de otros mundiales siguiendo la estructura de carpetas y archivos.
+3. Propón nuevas visualizaciones o análisis.
+4. ¡Haz un pull request!
+
+## 📈 Próximos pasos
+
+- Agregar datos de Rusia 2018, Brasil 2014, etc.
+- Incluir más estadísticas avanzadas (asistencias, penales, etc.).
+- Desarrollar dashboards interactivos.
+- Comparar la evolución de clubes y selecciones a lo largo de la historia.
+
+---
+
+## Créditos y fuentes
+
+- [FIFA.com](https://www.fifa.com/)
+- [Transfermarkt](https://www.transfermarkt.com/)
+- [FBref](https://fbref.com/)
