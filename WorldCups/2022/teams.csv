@@ -22,12 +22,12 @@ team_id,team_name,group,coach
 21,Belgium,F,Roberto Martínez
 22,Canada,F,John Herdman
 23,Morocco,F,Walid Regragui
-24.Croatia,F,Zlatko Dalić
-25.Brazil,G,Tite
-26.Serbia,G,Dragan Stojković
-27.Switzeland,G,Murat Yakin
-28.Cameroon,G,Rigobert Song
-29.Portugal,H,Fernando Santos
-30.Ghana,H,Otto Addo
-31.Uruguay,H,Diego Alonso
-32.South Korea,H,Paulo Bento
+24,Croatia,F,Zlatko Dalić
+25,Brazil,G,Tite
+26,Serbia,G,Dragan Stojković
+27,Switzeland,G,Murat Yakin
+28,Cameroon,G,Rigobert Song
+29,Portugal,H,Fernando Santos
+30,Ghana,H,Otto Addo
+31,Uruguay,H,Diego Alonso
+32,South Korea,H,Paulo Bento
