@@ -1,11 +1,114 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot.
+1,Kylian Mbappé,France,8,2,689
+2,Lionel Messi,Argentina,7,3,690
+3,Julian Alvarez,Argentina,4,1,571
+4,Olivier Giroud,France,4,0,477
+5,Cody Gakpo,Netherlands,3,0,450
+6,Álvaro Morata,Spain,3,1,218
+7,Gonçalo Ramos,Portugal,3,1,238
+8,Marcus Rashford,England,3,0,241
+9,Richarlison,Brazil,3,1,327
+10,Bukayo Saka,England,3,0,449
+11,Enner Valencia,Ecuador,3,0,270
+12,Bruno Fernandes,Portugal,2,3,360
+13,Youssef En-Nesyri,Morocco,2,0,646
+14,Mehdi Taremi,Iran,2,1,270
+15,Ferran Torres,Spain,2,0,312
+16,Andrej Kramaric,Croatia,2,0,495
+17,Cho Gue-sung,South Korea,2,0,270
+18,Salem Al-Dawsari,Saudi Arabia,2,0,270
+19,Kai Havertz,Germany,2,0,180
+20,Niclas Füllkrug,Germany,2,1,134
+21,Giorgian De Arrascaeta,Uruguay,2,0,126
+22,Ritsu Doan,Japan,2,0,210
+23,Aleksandar Mitrovic,Serbia,2,0,270
+24,Breel Embolo,Switzerland,2,0,360
+25,Vincent Aboubakar,Cameroon,2,1,180
+26,Rafael Leão,Portugal,2,0,83
+27,Neymar,Brazil,2,1,339
+28,Harry Kane,England,2,3,514
+29,Wout Weghorst,Netherlands,2,0,143
+30,Mislav Orsic,Croatia,2,2,186
+31,Zakaria Aboukhlal,Morocco,1,0,186
+32,Manuel Akanji,Switzerland,1,0,390
+33,Saleh Al-Shehri,Saudi Arabia,1,0,270
+34,Takuma Asano,Japan,1,0,186
+35,Marco Asensio,Spain,1,0,312
+36,Andre Ayew,Ghana,1,0,180
+37,Gareth Bale,Wales,1,0,206
+38,Michy Batshuayi,Belgium,1,0,120
+39,Jude Bellingham,England,1,1,456
+40,Daley Blind,Netherlands,1,1,450
+41,Osman Bukari,Ghana,1,0,90
+42,Moisés Caicedo,Ecuador,1,0,270
+43,Casemiro,Brazil,1,0,360
+44,Jean-Charles Castelletto,Cameroon,1,0,270
+45,Luis Chávez,Mexico,1,0,270
+46,Rouzbeh Cheshmi,Iran,1,0,90
+47,Eric Maxim Choupo-Moting,Cameroon,1,0,270
+48,Andreas Christensen,Denmark,1,0,270
+49,Achraf Dari,Morocco,1,0,180
+50,Alphonso Davies,Canada,1,0,270
+51,Frenkie de Jong,Netherlands,1,1,450
+52,Memphis Depay,Netherlands,1,0,201
+53,Angel Di Maria,Argentina,1,2,484
+54,Boulaye Dia,Senegal,1,0,270
+55,Famara Diédhiou,Senegal,1,0,180
+56,Bamba Dieng,Senegal,1,0,120
+57,Mitchell Duke,Australia,1,0,360
+58,Denzel Dumfries,Netherlands,1,2,450
+59,João Félix,Portugal,1,2,360
+60,Enzo Fernandez,Argentina,1,1,563
+61,Phil Foden,England,1,2,304
+62,Remo Freuler,Switzerland,1,0,390
+63,Keysher Fuller,Costa Rica,1,0,270
+64,Gavi,Spain,1,0,312
+65,Serge Gnabry,Germany,1,0,270
+66,Craig Goodwin,Australia,1,1,360
+67,Jack Grealish,England,1,0,101
+68,Raphaël Guerreiro,Portugal,1,2,360
+69,Ilkay Gündogan,Germany,1,0,270
+70,Josko Gvardiol,Croatia,1,0,660
+71,Jordan Henderson,England,1,1,314
+72,Théo Hernandez,France,1,2,570
+73,Ricardo Horta,Portugal,1,0,90
+74,Hee-chan Hwang,South Korea,1,1,97
+75,Wahbi Khazri,Tunisia,1,0,180
+76,Young-Gwon Kim,South Korea,1,0,360
+77,Davy Klaassen,Netherlands,1,2,450
+78,Randal Kolo Muani,France,1,0,143
+79,Kalidou Koulibaly,Senegal,1,0,360
+80,Mathew Leckie,Australia,1,0,360
+81,Marko Livaja,Croatia,1,0,186
+82,Alexis Mac Allister,Argentina,1,0,555
+83,Daizen Maeda,Japan,1,0,186
+84,Henry Martin,Mexico,1,0,90
+85,Sergej Milinković-Savić,Serbia,1,0,270
+86,Nahuel Molina,Argentina,1,1,630
+87,Mohammed Muntari,Qatar,1,0,90
+88,Dani Olmo,Spain,1,1,312
+89,Seung-ho Paik,South Korea,1,0,90
+90,Lucas Paquetá,Brazil,1,1,327
+91,Strahinja Pavlovic,Serbia,1,0,270
+92,Pepe,Portugal,1,0,360
+93,Bruno Petkovic,Croatia,1,0,186
+94,Christian Pulisic,USA,1,2,360
+95,Adrien Rabiot,France,1,1,570
+96,Ramin Rezaeian,Iran,1,0,180
+97,Cristiano Ronaldo,Portugal,1,0,360
+98,Romain Saïss,Morocco,1,0,540
+99,Mohammed Salisu,Ghana,1,0,270
+100,Ismaïla Sarr,Senegal,1,0,360
+101,Xherdan Shaqiri,Switzerland,1,1,270
+102,Carlos Soler,Spain,1,0,90
+103,Raheem Sterling,England,1,0,180
+104,Ao Tanaka,Japan,1,0,186
+105,Aurélien Tchouaméni,France,1,0,690
+106,Yeltsin Tejeda,Costa Rica,1,0,270
+107,Juan Pablo Vargas,Costa Rica,1,0,180
+108,Vinicius Junior,Brazil,1,2,377
+109,Dusan Vlahovic,Serbia,1,0,120
+110,Tim Weah,USA,1,0,360
+111,Haji Wright,USA,1,0,120
+112,Piotr Zieliński,Poland,1,1,360
+113,Hakim Ziyech,Morocco,1,1,660
