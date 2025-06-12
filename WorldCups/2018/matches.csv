@@ -1,25 +1,65 @@
-match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance
-1,2022-11-20,Qatar,Ecuador,0,2,Group Stage,Al Bayt Stadium,Al Khor,A,67372
-2,2022-11-21,England,Iran,6,2,Group Stage,Khalifa International Stadium,Doha,B,45334
-3,2022-11-21,Senegal,Netherlands,0,2,Group Stage,Al Thumama Stadium,Doha,A,41721
-4,2022-11-22,Argentina,Saudi Arabia,1,2,Group Stage,Lusail Stadium,Lusail,C,88012
-5,2022-11-22,Denmark,Tunisia,0,0,Group Stage,Education City Stadium,Al Rayyan,D,43418
-6,2022-11-22,Mexico,Poland,0,0,Group Stage,Stadium 974,Doha,C,39369
-7,2022-11-22,France,Australia,4,1,Group Stage,Al Janoub Stadium,Al Wakrah,D,35441
-8,2022-11-23,Morocco,Croatia,0,0,Group Stage,Al Bayt Stadium,Al Khor,F,67013
-9,2022-11-23,Germany,Japan,1,2,Group Stage,Khalifa International Stadium,Doha,E,42608
-10,2022-11-24,Spain,Costa Rica,7,0,Group Stage,Al Thumama Stadium,Doha,E,40013
-11,2022-11-24,Belgium,Canada,1,0,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,F,43984
-12,2022-11-25,Brazil,Serbia,2,0,Group Stage,Lusail Stadium,Lusail,G,88103
-13,2022-12-03,Argentina,Australia,2,1,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,R16,44623
-14,2022-12-04,France,Poland,3,1,Round of 16,Al Thumama Stadium,Doha,R16,44089
-15,2022-12-05,England,Senegal,3,0,Round of 16,Al Bayt Stadium,Al Khor,R16,65985
-16,2022-12-06,Netherlands,USA,3,1,Round of 16,Khalifa International Stadium,Doha,R16,44846
-17,2022-12-09,Argentina,Netherlands,2,2,Quarter-final,Lusail Stadium,Lusail,QF,88235
-18,2022-12-10,France,England,2,1,Quarter-final,Al Bayt Stadium,Al Khor,QF,68895
-19,2022-12-10,Morocco,Portugal,1,0,Quarter-final,Al Thumama Stadium,Doha,QF,44198
-20,2022-12-11,Croatia,Brazil,1,1,Quarter-final,Education City Stadium,Al Rayyan,QF,43893
-21,2022-12-13,Argentina,Croatia,3,0,Semi-final,Lusail Stadium,Lusail,SF,88966
-22,2022-12-14,France,Morocco,2,0,Semi-final,Al Bayt Stadium,Al Khor,SF,68294
-23,2022-12-17,Croatia,Morocco,2,1,Third Place,Khalifa International Stadium,Doha,3rd,44137
-24,2022-12-18,Argentina,France,3,3,Final,Lusail Stadium,Lusail,Final,88966
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,2018-06-14,Russia,Saudi Arabia,5,0,Group Stage,Luzhniki Stadium,Moscow,A,78011,
+2,2018-06-15,Egypt,Uruguay,0,1,Group Stage,Ekaterinburg Arena,Yekaterinburg,A,33061,
+3,2018-06-15,Portugal,Spain,3,3,Group Stage,Fisht Stadium,Sochi,B,43866,
+4,2018-06-15,Morocco,Iran,0,1,Group Stage,Saint Petersburg Stadium,Saint Petersburg,B,64468,
+5,2018-06-16,France,Australia,2,1,Group Stage,Kazan Arena,Kazan,C,42718,
+6,2018-06-16,Peru,Denmark,0,1,Group Stage,Mordovia Arena,Saransk,C,41685,
+7,2018-06-16,Argentina,Iceland,1,1,Group Stage,Spartak Stadium,Moscow,D,44190,
+8,2018-06-16,Croatia,Nigeria,2,0,Group Stage,Kaliningrad Stadium,Kaliningrad,D,33973,
+9,2018-06-17,Brazil,Switzerland,1,1,Group Stage,Rostov Arena,Rostov-on-Don,E,43109,
+10,2018-06-17,Costa Rica,Serbia,0,1,Group Stage,Samara Arena,Samara,E,41970,
+11,2018-06-17,Germany,Mexico,0,1,Group Stage,Luzhniki Stadium,Moscow,F,78011,
+12,2018-06-18,Sweden,South Korea,1,0,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,F,43319,
+13,2018-06-18,Belgium,Panama,3,0,Group Stage,Fisht Stadium,Sochi,G,43866,
+14,2018-06-18,Tunisia,England,1,2,Group Stage,Volgograd Arena,Volgograd,G,39379,
+15,2018-06-19,Poland,Senegal,1,2,Group Stage,Spartak Stadium,Moscow,H,44190,
+16,2018-06-19,Colombia,Japan,1,2,Group Stage,Mordovia Arena,Saransk,H,41685,
+17,2018-06-19,Russia,Egypt,3,1,Group Stage,Saint Petersburg Stadium,Saint Petersburg,A,64468,
+18,2018-06-20,Uruguay,Saudi Arabia,1,0,Group Stage,Rostov Arena,Rostov-on-Don,A,43109,
+19,2018-06-20,Portugal,Morocco,1,0,Group Stage,Luzhniki Stadium,Moscow,B,78011,
+20,2018-06-20,Iran,Spain,0,1,Group Stage,Kazan Arena,Kazan,B,42718,
+21,2018-06-21,France,Peru,1,0,Group Stage,Ekaterinburg Arena,Yekaterinburg,C,33061,
+22,2018-06-21,Denmark,Australia,1,1,Group Stage,Samara Arena,Samara,C,41970,
+23,2018-06-21,Argentina,Croatia,0,3,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,D,43319,
+24,2018-06-22,Nigeria,Iceland,2,0,Group Stage,Volgograd Arena,Volgograd,D,39379,
+25,2018-06-22,Brazil,Costa Rica,2,0,Group Stage,Saint Petersburg Stadium,Saint Petersburg,E,64468,
+26,2018-06-22,Serbia,Switzerland,1,2,Group Stage,Kaliningrad Stadium,Kaliningrad,E,33973,
+27,2018-06-23,Germany,Sweden,2,1,Group Stage,Fisht Stadium,Sochi,F,43866,
+28,2018-06-23,South Korea,Mexico,1,2,Group Stage,Rostov Arena,Rostov-on-Don,F,43109,
+29,2018-06-23,Belgium,Tunisia,5,2,Group Stage,Spartak Stadium,Moscow,G,44190,
+30,2018-06-24,England,Panama,6,1,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,G,43319,
+31,2018-06-24,Poland,Colombia,0,3,Group Stage,Kazan Arena,Kazan,H,42718,
+32,2018-06-24,Japan,Senegal,2,2,Group Stage,Ekaterinburg Arena,Yekaterinburg,H,33061,
+33,2018-06-25,Uruguay,Russia,3,0,Group Stage,Samara Arena,Samara,A,41970,
+34,2018-06-25,Saudi Arabia,Egypt,2,1,Group Stage,Volgograd Arena,Volgograd,A,39379,
+35,2018-06-25,Iran,Portugal,1,1,Group Stage,Mordovia Arena,Saransk,B,41685,
+36,2018-06-25,Spain,Morocco,2,2,Group Stage,Kaliningrad Stadium,Kaliningrad,B,33973,
+37,2018-06-26,Denmark,France,0,0,Group Stage,Luzhniki Stadium,Moscow,C,78011,
+38,2018-06-26,Australia,Peru,0,2,Group Stage,Fisht Stadium,Sochi,C,43866,
+39,2018-06-26,Nigeria,Argentina,1,2,Group Stage,Saint Petersburg Stadium,Saint Petersburg,D,64468,
+40,2018-06-26,Iceland,Croatia,1,2,Group Stage,Rostov Arena,Rostov-on-Don,D,43109,
+41,2018-06-27,Serbia,Brazil,0,2,Group Stage,Spartak Stadium,Moscow,E,44190,
+42,2018-06-27,Switzerland,Costa Rica,2,2,Group Stage,Nizhny Novgorod Stadium,Nizhny Novgorod,E,43319,
+43,2018-06-27,South Korea,Germany,2,0,Group Stage,Kazan Arena,Kazan,F,42718,
+44,2018-06-27,Mexico,Sweden,0,3,Group Stage,Ekaterinburg Arena,Yekaterinburg,F,33061,
+45,2018-06-28,England,Belgium,0,1,Group Stage,Kaliningrad Stadium,Kaliningrad,G,33973,
+46,2018-06-28,Panama,Tunisia,1,2,Group Stage,Mordovia Arena,Saransk,G,41685,
+47,2018-06-28,Japan,Poland,0,1,Group Stage,Volgograd Arena,Volgograd,H,39379,Fair Play Points: Japan -4, Senegal -6
+48,2018-06-28,Senegal,Colombia,0,1,Group Stage,Samara Arena,Samara,H,41970,
+49,2018-06-30,Uruguay,Portugal,2,1,Round of 16,Fisht Stadium,Sochi,R16,43866,
+50,2018-06-30,France,Argentina,4,3,Round of 16,Kazan Arena,Kazan,R16,42718,
+51,2018-07-01,Spain,Russia,1,1,Round of 16,Luzhniki Stadium,Moscow,R16,78011,PSO: Spain 3 Russia 4
+52,2018-07-01,Croatia,Denmark,1,1,Round of 16,Nizhny Novgorod Stadium,Nizhny Novgorod,R16,43319,PSO: Croatia 3 Denmark 2
+53,2018-07-02,Brazil,Mexico,2,0,Round of 16,Samara Arena,Samara,R16,41970,
+54,2018-07-02,Belgium,Japan,3,2,Round of 16,Rostov Arena,Rostov-on-Don,R16,43109,
+55,2018-07-03,Sweden,Switzerland,1,0,Round of 16,Saint Petersburg Stadium,Saint Petersburg,R16,64468,
+56,2018-07-03,Colombia,England,1,1,Round of 16,Spartak Stadium,Moscow,R16,44190,PSO: Colombia 3 England 4
+57,2018-07-06,Uruguay,France,0,2,Quarter-final,Nizhny Novgorod Stadium,Nizhny Novgorod,QF,43319,
+58,2018-07-06,Brazil,Belgium,1,2,Quarter-final,Kazan Arena,Kazan,QF,42718,
+59,2018-07-07,Russia,Croatia,2,2,Quarter-final,Fisht Stadium,Sochi,QF,43866,PSO: Russia 3 Croatia 4
+60,2018-07-07,Sweden,England,0,2,Quarter-final,Samara Arena,Samara,QF,41970,
+61,2018-07-10,France,Belgium,1,0,Semi-final,Saint Petersburg Stadium,Saint Petersburg,SF,64468,
+62,2018-07-11,Croatia,England,2,1,Semi-final,Luzhniki Stadium,Moscow,SF,78011,
+63,2018-07-14,Belgium,England,2,0,Third Place Play-Off,Saint Petersburg Stadium,Saint Petersburg,3rd,64468,
+64,2018-07-15,France,Croatia,4,2,Final,Luzhniki Stadium,Moscow,Final,78011,
