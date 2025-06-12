@@ -1,832 +1,832 @@
-player_id;dorsal;player_name;birth_date;position;nationality
-1;23;Emiliano Martinez;02-09-1992;GK;Argentina
-2;1;Franco Armani;16-10-1986;GK;Argentina
-3;12;Geronimo Rulli;20-05-1992;GK;Argentina
-4;19;Nicolas Otamendi;12-02-1988;DF;Argentina
-5;8;Marcos Acuna;28-10-1991;DF;Argentina
-6;3;Nicolas Tagliafico;31-08-1992;DF;Argentina
-7;6;German Pezzella;27-06-1991;DF;Argentina
-8;26;Nahuel Molina;06-04-1998;DF;Argentina
-9;4;Gonzalo Montiel;01-01-1997;DF;Argentina
-10;2;Juan Foyth;12-01-1998;DF;Argentina
-11;13;Cristian Romero;27-04-1998;DF;Argentina
-12;25;Lisandro Martinez;18-01-1998;DF;Argentina
-13;5;Leandro Paredes;29-06-1994;MF;Argentina
-14;7;Rodrigo De Paul;24-05-1994;MF;Argentina
-15;18;Guido Rodriguez;12-04-1994;MF;Argentina
-16;14;Exequiel Palacios;05-10-1998;MF;Argentina
-17;20;Alexis Mac Allister;24-12-1998;MF;Argentina
-18;24;Enzo Fernandez;17-01-2001;MF;Argentina
-19;17;Alejandro Gomez;26-04-2001;MF;Argentina
-20;10;Lionel Messi ??;24-06-1987;FW;Argentina
-21;22;Lautaro Martinez;22-08-1997;FW;Argentina
-22;21;Paulo Dybala;15-11-1993;FW;Argentina
-23;16;Thiago Almada;26-04-2001;FW;Argentina
-24;9;Julian Alvarez;31-01-2000;FW;Argentina
-25;11;Angel Di Maria;14-02-1988;FW;Argentina
-26;15;Angel Correa;09-03-1995;FW;Argentina
-27;1;Mat Ryan;08-04-1992;GK;Australia
-28;18;Danny Vukovic;27-03-1985;GK;Australia
-29;12;Andrew Redmayne;13-01-1989;GK;Australia
-30;16;Aziz Behic;16-10-1990;DF;Australia
-31;2;Milos Degenek;28-04-1994;DF;Australia
-32;8;Bailey Wright;28-07-1992;DF;Australia
-33;5;Fran Karacic;12-05-1996;DF;Australia
-34;19;Harry Souttar;22-10-1998;DF;Australia
-35;3;Nathaniel Atkinson;13-06-1999;DF;Australia
-36;24;Joel King;30-10-2000;DF;Australia
-37;4;Kye Rowles;24-06-1998;DF;Australia
-38;20;Thomas Deng;20-03-1997;DF;Australia
-39;13;Aaron Mooy;15-09-1990;MF;Australia
-40;22;Jackson Irvine;07-03-1993;MF;Australia
-41;10;Ajdin Hrustic;05-07-1996;MF;Australia
-42;14;Riley McGree;02-11-1998;MF;Australia
-43;26;Keanu Baccus;07-06-1998;MF;Australia
-44;17;Cameron Devlin;07-06-1998;MF;Australia
-45;7;Mathew Leckie;04-02-1991;FW;Australia
-46;11;Awer Mabil;15-09-1995;FW;Australia
-47;9;Jamie Maclaren;29-07-1993;FW;Australia
-48;15;Mitchell Duke;18-01-1991;FW;Australia
-49;6;Marco Tilio;25-04-1993;FW;Australia
-50;23;Craig Goodwin;16-12-1991;FW;Australia
-51;25;Jason Cummings;01-08-1995;FW;Australia
-52;21;Garang Kuol;15-09-2004;FW;Australia
-53;1;Thibaut Courtois;11-05-1992;GK;Belgium
-54;12;Simon Mignolet;06-03-1988;GK;Belgium
-55;13;Koen Casteels;25-06-1992;GK;Belgium
-56;2;Toby Alderweireld;02-03-1989;DF;Belgium
-57;3;Arthur Theate;25-05-2000;DF;Belgium
-58;26;Zeno Debast;24-10-2003;DF;Belgium
-59;5;Jan Vertonghen;24-04-1987;DF;Belgium
-60;4;Wout Faes;03-04-1998;DF;Belgium
-61;21;Timothy Castagne;05-12-1995;DF;Belgium
-62;15;Thomas Meunier;12-09-1991;DF;Belgium
-63;16;Thorgan Hazard;29-03-1993;MF;Belgium
-64;7;Kevin De Bruyne;28-06-1991;MF;Belgium
-65;11;Yannick Carrasco;04-09-1993;MF;Belgium
-66;19;Leander Dendoncker;15-04-1995;MF;Belgium
-67;8;Youri Tielemans;07-05-1997;MF;Belgium
-68;20;Hans Vanaken;24-08-1992;MF;Belgium
-69;6;Axel Witsel;12-01-1989;MF;Belgium
-70;22;Charles De Ketelaere;10-03-2001;MF;Belgium
-71;18;Amadou Onana;16-08-2001;MF;Belgium
-72;25;Jeremy Doku;27-05-2002;FW;Belgium
-73;10;Eden Hazard;07-01-1991;FW;Belgium
-74;14;Dries Mertens;06-05-1987;FW;Belgium
-75;17;Leandro Trossard;04-12-1994;FW;Belgium
-76;23;Michy Batshuayi;02-10-1993;FW;Belgium
-77;24;Lois Openda;16-02-2000;FW;Belgium
-78;9;Romelu Lukaku;13-05-1993;FW;Belgium
-79;1;Alisson;02-10-1992;GK;Brazil
-80;23;Ederson;17-08-1993;GK;Brazil
-81;12;Weverton;13-12-1987;GK;Brazil
-82;13;Dani Alves;06-05-1983;DF;Brazil
-83;3;Thiago Silva;22-09-1984;DF;Brazil
-84;4;Marquinhos;14-05-1994;DF;Brazil
-85;2;Danilo;15-07-1991;DF;Brazil
-86;6;Alex Sandro;26-01-1991;DF;Brazil
-87;14;Eder Militao;18-01-1998;DF;Brazil
-88;16;Alex Telles;15-12-1992;DF;Brazil
-89;24;Bremer;18-03-1997;DF;Brazil
-90;5;Casemiro;23-02-1992;MF;Brazil
-91;7;Lucas Paqueta;27-08-1997;MF;Brazil
-92;15;Fabinho;23-10-1993;MF;Brazil
-93;8;Fred;05-03-1993;MF;Brazil
-94;22;Everton Ribeiro;10-04-1989;MF;Brazil
-95;17;Bruno Guimaraes;16-11-1997;MF;Brazil
-96;10;Neymar;05-02-1992;FW;Brazil
-97;18;Gabriel Jesus;03-04-1997;FW;Brazil
-98;9;Richarlison;10-05-1997;FW;Brazil
-99;20;Vinicius Jr;12-07-2000;FW;Brazil
-100;19;Antony;24-02-2000;FW;Brazil
-101;11;Raphinha;14-12-1996;FW;Brazil
-102;21;Rodrygo;09-01-2001;FW;Brazil
-103;26;Gabriel Matinelli;18-06-2001;FW;Brazil
-104;25;Pedro;20-06-1997;FW;Brazil
-105;23;Andre Onana;02-04-1996;GK;Cameroon
-106;16;Davis Epassy;02-02-1993;GK;Cameroon
-107;1;Simon Ngapandouetnbu;12-04-1993;GK;Cameroon
-108;24;Enzo Ebosse;11-03-1999;DF;Cameroon
-109;19;Collins Fai;13-08-1992;DF;Cameroon
-110;17;Olivier Mbaizo;15-08-1997;DF;Cameroon
-111;21;Jean Charles Castelletto;26-01-1995;DF;Cameroon
-112;25;Nouhou Tolo;23-06-1997;DF;Cameroon
-113;4;Christopher Wooh;18-09-2001;DF;Cameroon
-114;3;Nicolas Nkolou;27-03-1990;DF;Cameroon
-115;22;Olivier Ntcham;09-02-1996;MF;Cameroon
-116;5;Gael Ondoua;04-11-1995;MF;Cameroon
-117;15;Pierre Kunde;26-07-1995;MF;Cameroon
-118;14;Samuel Gouet;14-12-1997;MF;Cameroon
-119;8;Andre-Frank Zambo Anguissa;16-11-1995;MF;Cameroon
-120;2;Jerome Ngom;30-09-1998;MF;Cameroon
-121;18;Martin Hongla;16-03-1998;MF;Cameroon
-122;6;Moumi Ngamaleu;09-07-1994;FW;Cameroon
-123;11;Christian Bassogog;18-10-1995;FW;Cameroon
-124;20;Bryan Mbeumo;07-08-1995;FW;Cameroon
-125;7;Georges-Kevin Nkoudou;13-02-1995;FW;Cameroon
-126;9;Jean-Pierre Nsame;01-05-1993;FW;Cameroon
-127;10;Vincent Aboubakar;22-01-1992;FW;Cameroon
-128;12;Karl Toko Ekambi;14-09-1992;FW;Cameroon
-129;13;Eric Maxim Choupo-Moting;23-03-1989;FW;Cameroon
-130;26;Souaibou Marou;03-12-2000;FW;Cameroon
-131;16;James Paternis;21-02-1997;GK;Canada
-132;18;Milan Borjan;23-10-1987;GK;Canada
-133;1;Dayne St Clair;09-05-1997;GK;Canada
-134;2;Alistair Johnson;08-10-1998;DF;Canada
-135;3;Sam Adekugbe;16-01-1995;DF;Canada
-136;4;Kamal Miller;16-05-1997;DF;Canada
-137;5;Steven Vit ria;11-01-1987;DF;Canada
-138;22;Richie Laryea;07-01-1995;DF;Canada
-139;25;Derek Cornelius;25-11-1997;DF;Canada
-140;26;Joel Waterman;24-01-1996;DF;Canada
-141;6;Samuel Piette;12-11-1994;MF;Canada
-142;7;Stephen Eustaquio;21-12-1996;MF;Canada
-143;13;Atiba Hutchinson;08-02-1983;MF;Canada
-144;14;Mark-Anthony Kaye;04-12-1994;MF;Canada
-145;21;Jonathan Osorio;12-06-1992;MF;Canada
-146;24;David Wotherspoon;16-01-1990;MF;Canada
-147;8;Liam Fraser;13-02-1998;MF;Canada
-148;15;Ismael Kone;06-06-2002;MF;Canada
-149;9;Lucas Cavallini;28-12-1992;FW;Canada
-150;10;Junior Hoilett;05-06-1990;FW;Canada
-151;11;Tajon Buchanan;08-02-1999;FW;Canada
-152;17;Cyle Larin;17-04-1995;FW;Canada
-153;19;Alphonso Davies;02-11-2000;FW;Canada
-154;20;Jonathan David;14-01-2000;FW;Canada
-155;23;Liam Millar;27-09-1999;FW;Canada
-156;12;Ike Ugbo;21-09-1998;FW;Canada
-157;1;Keylor Navas;15-12-1986;GK;Costa Rica
-158;18;Esteban Alvarado;28-04-1989;GK;Costa Rica
-159;23;Patrick Sequeira;01-03-1999;GK;Costa Rica
-160;8;Bryan Oviedo;18-02-1990;DF;Costa Rica
-161;6;Oscar Duarte;03-06-1989;DF;Costa Rica
-162;19;Kendall Waston;01-01-1988;DF;Costa Rica
-163;22;Ronald Matarrita;09-07-1994;DF;Costa Rica
-164;4;Keysher Fuller;12-07-1994;DF;Costa Rica
-165;3;Juan Pablo Vargas;06-06-1995;DF;Costa Rica
-166;16;Carlos Martinez;30-03-1999;DF;Costa Rica
-167;15;Francisco Calvo;08-07-1992;DF;Costa Rica
-168;5;Celso Borges;27-05-1988;MF;Costa Rica
-169;10;Bryan Ruiz;18-08-1985;MF;Costa Rica
-170;17;Yeltsin Tejeda;17-03-1992;MF;Costa Rica
-171;13;Gerson Torres;28-08-1997;MF;Costa Rica
-172;9;Jewison Bennette;15-06-2004;MF;Costa Rica
-173;2;Daniel Chacon;11-04-2001;MF;Costa Rica
-174;14;Youstin Salas;17-06-1996;MF;Costa Rica
-175;24;Roan Wilson;01-05-2002;MF;Costa Rica
-176;20;Brandon Aguilera;28-06-2003;MF;Costa Rica
-177;21;Douglas Lopez;21-09-1998;MF;Costa Rica
-178;25;Anthony Hernandez;11-10-2001;MF;Costa Rica
-179;26;Alvaro Zamora;09-03-2002;MF;Costa Rica
-180;12;Joel Campbell;26-06-1992;FW;Costa Rica
-181;11;Johan Venegas;27-11-1988;FW;Costa Rica
-182;7;Anthony Contreras;29-01-2000;FW;Costa Rica
-183;1;Dominik Livakovic;09-01-1995;GK;Croatia
-184;23;Ivica Ivusic;01-02-1995;GK;Croatia
-185;12;Ivo Grbic;18-01-1996;GK;Croatia
-186;21;Domagoj Vida;29-04-1989;DF;Croatia
-187;6;Dejan Lovren;05-07-1989;DF;Croatia
-188;3;Borna Barisic;10-11-1992;DF;Croatia
-189;22;Josip Juranovic;16-08-1995;DF;Croatia
-190;19;Borna Sosa;21-01-1998;DF;Croatia
-191;20;Josko Gvardiol;23-01-2002;DF;Croatia
-192;2;Josip Stanisic;02-04-2000;DF;Croatia
-193;5;Martin Erlic;24-01-1998;DF;Croatia
-194;24;Josip Sutalo;28-02-2000;DF;Croatia
-195;10;Luka Modric;09-09-1985;MF;Croatia
-196;8;Mateo Kovacic;06-05-1994;MF;Croatia
-197;11;Marcelo Brozovic;16-11-1992;MF;Croatia
-198;15;Mario Pasalic;09-02-1995;MF;Croatia
-199;13;Nikola Vlasic;04-10-1997;MF;Croatia
-200;7;Lovro Majer;17-01-1998;MF;Croatia
-201;26;Kristijan Jakic;14-05-1997;MF;Croatia
-202;25;Luka Sucic;08-09-2002;MF;Croatia
-203;4;Ivan Perisic;02-02-1989;FW;Croatia
-204;9;Andrej Kramaric;19-06-1991;FW;Croatia
-205;16;Bruno Petkovic;16-09-1997;FW;Croatia
-206;18;Mislav Orsic;29-12-1992;FW;Croatia
-207;17;Ante Budimir;22-07-1991;FW;Croatia
-208;14;Marko Livaja;26-08-1993;FW;Croatia
-209;1;Kasper Schmeichel;05-11-1986;GK;Denmark
-210;16;Oliver Christensen;22-03-1999;GK;Denmark
-211;22;Frederik Ronnow;04-08-1992;GK;Denmark
-212;4;Simon Kjaer;26-03-1989;DF;Denmark
-213;6;Andreas Christensen;10-04-1996;DF;Denmark
-214;17;Jens Stryger Larsen;21-02-1991;DF;Denmark
-215;18;Daniel Wass;31-05-1989;DF;Denmark
-216;13;Rasmus Kristensen;11-07-1997;DF;Denmark
-217;5;Joakim Maehle;20-05-1997;DF;Denmark
-218;2;Joachim Andersen;31-05-1996;DF;Denmark
-219;8;Thomas Delaney;03-09-1991;DF;Denmark
-220;3;Victor Nelsson;14-10-1998;DF;Denmark
-221;26;Alexander Bah;09-12-1997;DF;Denmark
-222;10;Christian Eriksen;14-02-1992;MF;Denmark
-223;15;Christian Norgaard;10-03-1994;MF;Denmark
-224;23;Pierre-Emile Hojbjerg;05-08-1995;MF;Denmark
-225;7;Mathias Jensen;01-01-1996;MF;Denmark
-226;24;Robert Skov;20-05-1996;FW;Denmark
-227;9;Martin Braithwaite;05-06-1991;FW;Denmark
-228;21;Andreas Cornelius;16-03-1993;FW;Denmark
-229;12;Kasper Dolberg;06-10-1997;FW;Denmark
-230;11;Andreas Skov Olsen;29-12-1999;FW;Denmark
-231;14;Mikkel Damsgaard;03-07-2000;FW;Denmark
-232;19;Jonas Wind;07-02-1999;FW;Denmark
-233;25;Jesper Lindstrom;29-02-2000;FW;Denmark
-234;20;Yussuf Yurary Poulsen;15-06-1994;FW;Denmark
-235;1;Hernan Galindez;30-03-1987;GK;Ecuador 
-236;12;Moises Ramirez;09-09-2000;GK;Ecuador 
-237;22;Alexander Dominguez;05-06-1987;GK;Ecuador 
-238;2;Felix Torres;11-01-1997;DF;Ecuador 
-239;3;Piero Hincapie;09-01-2002;DF;Ecuador 
-240;4;Robert Arboleda;22-10-1991;DF;Ecuador 
-241;6;William Pacho;16-10-2001;DF;Ecuador 
-242;7;Pervis Estupinan;21-01-1998;DF;Ecuador 
-243;14;Xavier Arreaga;28-09-1994;DF;Ecuador 
-244;17;Angelo Preciado;18-02-1998;DF;Ecuador 
-245;18;Diego Palacios;12-07-1999;DF;Ecuador 
-246;25;Jackson Porozo;04-08-2000;DF;Ecuador 
-247;5;Jose Cifuentes;12-03-1999;MF;Ecuador 
-248;8;Carlos Gruezo;19-04-1995;MF;Ecuador 
-249;15;Angel Mena;21-01-1988;MF;Ecuador 
-250;16;Jeremy Sarmiento;16-06-2002;MF;Ecuador 
-251;19;Gonzalo Plata;01-11-2000;MF;Ecuador 
-252;20;Jhegson Mendez;26-04-1997;MF;Ecuador 
-253;21;Alan Franco;21-08-1998;MF;Ecuador 
-254;23;Moises Caicedo;02-11-2001;MF;Ecuador 
-255;26;Kevin Rodriguez;04-03-2000;MF;Ecuador 
-256;9;Ayrton Preciado;17-07-1994;FW;Ecuador 
-257;10;Romario Ibarra;24-09-1994;FW;Ecuador 
-258;11;Michael Estrada;07-04-1996;FW;Ecuador 
-259;13;Enner Valencia;04-11-1989;FW;Ecuador 
-260;24;Djorkaeff Reasco;18-01-1999;FW;Ecuador 
-261;1;Jordan Pickford;07-03-1994;GK;England
-262;13;Nick Pope;19-04-1992;GK;England
-263;23;Aaron Ramsdale;14-05-1998;GK;England
-264;18;Trent Alexander-Arnold;07-10-1998;DF;England
-265;16;Conor Coady;25-02-1993;DF;England
-266;15;Eric Dier;15-01-1994;DF;England
-267;6;Harry Maguire;05-03-1993;DF;England
-268;3;Luke Shaw;12-07-1995;DF;England
-269;5;John Stones;28-05-1994;DF;England
-270;12;Kieran Trippier;19-09-1990;DF;England
-271;2;Kyle Walker;28-05-1990;DF;England
-272;21;Ben White;08-10-1997;DF;England
-273;22;Jude Bellingham;29-06-2003;MF;England
-274;26;Conor Gallagher;06-02-2000;MF;England
-275;8;Jordan Henderson;17-06-1990;MF;England
-276;19;Mason Mount;10-01-1999;MF;England
-277;14;Kalvin Phillips;02-12-1995;MF;England
-278;4;Declan Rice;14-01-1999;MF;England
-279;20;Phil Foden;28-05-2000;MF;England
-280;7;Jack Grealish;10-09-1995;MF;England
-281;9;Harry Kane;28-07-1993;FW;England
-282;25;James Maddison;13-11-1996;FW;England
-283;11;Marcus Rashford;31-10-1997;FW;England
-284;17;Bukayo Saka;05-09-2001;FW;England
-285;10;Raheem Sterling;08-12-1994;FW;England
-286;24;Callum Wilson;27-02-1992;FW;England
-287;1;Hugo Lloris;26-12-1986;GK;France
-288;23;Alphonse Areola;27-02-1993;GK;France
-289;16;Steve Mandanda;28-03-1985;GK;France
-290;2;Benjamin Pavard;28-03-1996;DF;France
-291;5;Jules Kounde;12-11-1998;DF;France
-292;4;Raphael Varane;25-04-1993;DF;France
-293;3;Axel Disasi;11-03-1998;DF;France
-294;17;William Saliba;24-03-2001;DF;France
-295;22;Theo Hernandez;06-10-1994;DF;France
-296;21;Lucas Hernandez;14-02-1996;DF;France
-297;24;Ibrahima Konate;25-05-1999;DF;France
-298;18;Dayot Upamecano;27-10-1998;DF;France
-299;14;Adrien Rabiot;03-04-1995;MF;France
-300;8;Aurelien Tchouam ni;27-01-2000;MF;France
-301;19;Youssouf Fofana;10-01-1999;MF;France
-302;6;Matteo Guendouzi;14-04-1999;MF;France
-303;15;Jordan Veretout;01-03-1999;MF;France
-304;25;Eduardo Camavinga;10-11-2002;MF;France
-305;13;Youssouf Fofana;10-01-1999;MF;France
-306;20;Kingsley Coman;13-06-1996;FW;France
-307;10;Kylian Mbappe;20-12-1998;FW;France
-308;9;Olivier Giroud;30-09-1986;FW;France
-309;7;Antoine Griezmann;21-03-1991;FW;France
-310;11;Ousmane Dembele;15-05-1997;FW;France
-311;12;Randal Kolo Muani;05-12-1998;FW;France
-312;26;Marcus Thuram;06-08-1997;FW;France
-313;1;Manuel Neuer;27-03-1986;GK;Germany
-314;22;Marc-Andre ter Stegen;30-04-1992;GK;Germany
-315;12;Kevin Trapp;08-07-1990;GK;Germany
-316;2;Antonio Rudiger;03-03-1993;DF;Germany
-317;4;Matthias Ginter;18-01-1994;DF;Germany
-318;15;Niklas Sule;03-09-1995;DF;Germany
-319;5;Thilo Kehrer;21-09-1996;DF;Germany
-320;16;Lukas Klostermann;03-06-1996;DF;Germany
-321;3;David Raum;22-04-1998;DF;Germany
-322;20;Christian Gunter;28-02-1993;DF;Germany
-323;23;Nico Schlotterbeck;01-12-1999;DF;Germany
-324;25;Armel Bella-Kotchap;11-12-2001;DF;Germany
-325;6;Joshua Kimmich;08-02-1995;MF;Germany
-326;11;Mario Gotze;03-06-1992;MF;Germany
-327;21;Ilkay Gundogan;24-10-1990;MF;Germany
-328;8;Leon Goretzka;06-02-1995;MF;Germany
-329;17;Julian Brandt;02-05-1996;MF;Germany
-330;7;Kai Havertz;11-06-1999;MF;Germany
-331;14;Jamal Musiala;26-02-2003;MF;Germany
-332;18;Jonas Hofmann;14-07-1992;MF;Germany
-333;13;Thomas Muller;13-09-1989;FW;Germany
-334;19;Leroy Sane;11-01-1996;FW;Germany
-335;10;Serge Gnabry;14-07-1995;FW;Germany
-336;24;Karim Adeyemi;18-01-2002;FW;Germany
-337;9;Niclas Fullkrug;09-02-1993;FW;Germany
-338;26;Youssoufa Moukoko;20-11-2004;FW;Germany
-339;16;Manaf Nurudeen;08-02-1999;GK;Ghana
-340;12;Danlad Ibrahim;02-12-2002;GK;Ghana
-341;1;Lawrence Ati Zigi;29-11-1996;GK;Ghana
-342;3;Denis Odoi;27-05-1988;DF;Ghana
-343;2;Tariq Lamptey;30-09-2000;DF;Ghana
-344;26;Alidu Seidu;04-06-2000;DF;Ghana
-345;18;Daniel Amartey;21-12-1994;DF;Ghana
-346;15;Joseph Aidoo;29-09-1995;DF;Ghana
-347;23;Alexander Djiku;09-08-1994;DF;Ghana
-348;4;Mohammed Salisu;17-04-1999;DF;Ghana
-349;17;Abdul-Rahman Baba;02-07-1994;DF;Ghana
-350;14;Gideon Mensah;18-07-1998;DF;Ghana
-351;10;Andre Ayew;17-12-1989;MF;Ghana
-352;5;Thomas Partey;13-06-1993;MF;Ghana
-353;6;Elisha Owusu;07-11-1997;MF;Ghana
-354;21;Salis Abdul Samed;26-03-2000;MF;Ghana
-355;20;Mohammed Kudus;02-08-2000;MF;Ghana
-356;8;Daniel Kofi Kyereh;09-03-1996;MF;Ghana
-357;13;Daniel Barnieh Afriyie;26-06-2001;FW;Ghana
-358;24;Kamal Sowah;09-01-2000;FW;Ghana
-359;7;Issahaku Abdul Fatawu;08-03-2004;FW;Ghana
-360;11;Osman Bukari;13-12-1998;FW;Ghana
-361;19;Inaki Williams;15-06-1994;FW;Ghana
-362;25;Antoine Semenyo;07-01-2000;FW;Ghana
-363;9;Jordan Ayew;11-09-1991;FW;Ghana
-364;22;Kamaldeen Sulemana;15-02-2002;FW;Ghana
-365;1;Alireza Beiranvand;12-09-1992;GK;Iran
-366;22;Amir Absedzadeh;26-04-1993;GK;Iran
-367;24;Hossein Hosseini;30-05-1992;GK;Iran
-368;12;Payam Niazmand;06-04-1995;GK;Iran
-369;3;Ehsan Hajsafi;25-02-1990;DF;Iran
-370;13;Hossein Kanaani;23-03-1994;DF;Iran
-371;8;Morteza Pouraliganji;19-04-1992;DF;Iran
-372;23;Ramin Rezaeian;21-03-1990;DF;Iran
-373;5;Milad Mohammadi;29-09-1993;DF;Iran
-374;4;Shojae Khalilzadeh;31-05-1989;DF;Iran
-375;2;Sadegh Moharrami;24-03-1996;DF;Iran
-376;19;Majid Hosseini;20-06-1996;DF;Iran
-377;25;Abolfazi Jalali;26-06-1998;DF;Iran
-378;11;Vahid Amiri;02-04-1988;MF;Iran
-379;7;Alireza Jahanbakhsh;11-08-1993;MF;Iran
-380;6;Saeid Ezatolahi;01-10-1996;MF;Iran
-381;16;Mehdi Torabi;10-09-1994;MF;Iran
-382;15;Rouzbeh Cheshmi;24-06-1993;MF;Iran
-383;14;Saman Ghoddos;06-09-1993;MF;Iran
-384;17;Ali Gholizadeh;10-03-1996;MF;Iran
-385;21;Ahmad Nourollahi;02-01-1993;MF;Iran
-386;18;Ali Karimi;11-02-1994;MF;Iran
-387;10;Karim Ansarifard;03-04-1990;FW;Iran
-388;20;Sardar Azmoun;01-01-1995;FW;Iran
-389;9;Mehdi Taremi;18-07-1992;FW;Iran
-390;1;Eiji Kawashima;20-03-1983;GK;Japan
-391;12;Shuichi Gonda;03-03-1989;GK;Japan
-392;23;Daniel Schmidt;03-02-1992;GK;Japan
-393;2;Miki Yamane;22-12-1993;DF;Japan
-394;3;Shogo Taniguchi;15-07-1991;DF;Japan
-395;4;K? Itakura;27-01-1997;DF;Japan
-396;5;Yuto Nagatomo;12-09-1986;DF;Japan
-397;16;Takehiro Tomiyasu;05-11-1998;DF;Japan
-398;19;Hiroki Sakai;12-04-1990;DF;Japan
-399;22;Maya Yoshida;24-08-1988;DF;Japan
-400;26;Hiroki Ito;12-05-1999;DF;Japan
-401;6;Wataru Endo;09-02-1993;MF;Japan
-402;7;Gaku Shibasaki;28-05-1992;MF;Japan
-403;8;Ritsu Doan;16-06-1998;MF;Japan
-404;9;Kaoru Mitoma;20-05-1997;MF;Japan
-405;10;Takumi Minamino;16-01-1995;MF;Japan
-406;11;Takefusa Kubo;04-06-2001;MF;Japan
-407;13;Hidemasa Morita;10-05-1995;MF;Japan
-408;14;Junya Ito;09-03-1993;MF;Japan
-409;15;Daichi Kamada;05-11-1996;MF;Japan
-410;17;Ao Tanaka;10-09-1998;MF;Japan
-411;24;Yuki Soma;25-02-1997;MF;Japan
-412;18;Takuma Asano;10-11-1994;FW;Japan
-413;20;Shuto Machino;30-09-1999;FW;Japan
-414;21;Ayase Ueda;28-08-1998;FW;Japan
-415;25;Daizen Maeda;20-10-1997;FW;Japan
-416;13;Guillermo Ochoa;13-07-1985;GK;Mexico 
-417;1;Alfredo Talavera;18-09-1982;GK;Mexico 
-418;12;Rodolfo Cota;03-07-1987;GK;Mexico 
-419;15;Hector Moreno;17-01-1988;DF;Mexico 
-420;23;Jesus Gallardo;15-08-1994;DF;Mexico 
-421;2;Nestor Araujo;29-08-1991;DF;Mexico 
-422;3;Cesar Montes;24-02-1997;DF;Mexico 
-423;19;Jorge Sanchez;10-12-1997;DF;Mexico 
-424;6;Gerardo Arteaga;07-09-1998;DF;Mexico 
-425;26;Kevin Alvarez;15-01-1999;DF;Mexico 
-426;5;Johan Vasquez;22-10-1998;DF;Mexico 
-427;18;Andres Guardado;28-09-1986;MF;Mexico 
-428;16;Hector Herrera;19-04-1990;MF;Mexico 
-429;4;Edson Alvarez;24-10-1997;MF;Mexico 
-430;17;Orbelin Pineda;24-03-1996;MF;Mexico 
-431;21;Uriel Antuna;21-08-1997;MF;Mexico 
-432;14;Erick Gutierrez;15-06-1995;MF;Mexico 
-433;8;Carlos Rodriguez;03-01-1997;MF;Mexico 
-434;25;Roberto Alvarado;07-09-1998;MF;Mexico 
-435;7;Luis Romo;05-06-1995;MF;Mexico 
-436;10;Alexis Vega;25-11-1997;MF;Mexico 
-437;24;Luis Chavez;15-01-1996;MF;Mexico 
-438;9;Raul Jimenez;05-05-1991;FW;Mexico 
-439;22;Hirving Lozano;30-07-1995;FW;Mexico 
-440;20;Henry Martin;18-11-1992;FW;Mexico 
-441;11;Rogelio Funes Mori;05-03-1991;FW;Mexico 
-442;1;Yassine Bounou;05-04-1991;GK;Morocco 
-443;12;Munir Mohamedi;10-05-1989;GK;Morocco 
-444;22;Ahmed Reda Tagnaouti;05-04-1996;GK;Morocco 
-445;2;Achraf Hakimi;04-11-1998;DF;Morocco 
-446;3;Noussair Mazraoui;14-11-1997;DF;Morocco 
-447;5;Nayef Aguerd;30-03-1996;DF;Morocco 
-448;6;Roman Saiss;26-03-1990;DF;Morocco 
-449;20;Achraf Dari;06-05-1999;DF;Morocco 
-450;25;Yahia Attiyat Allah;02-03-1995;DF;Morocco 
-451;24;Badr Benoun;30-09-1993;DF;Morocco 
-452;18;Jawad El Yamiq;29-02-1992;DF;Morocco 
-453;4;Sofyan Amrabat;21-08-1996;MF;Morocco 
-454;11;Abdelhamid Sabiri;28-11-1996;MF;Morocco 
-455;15;Selim Amallah;15-11-1996;MF;Morocco 
-456;8;Azzedine Ounahi;19-04-2000;MF;Morocco 
-457;23;Bilal El Khannous;10-05-2004;MF;Morocco 
-458;26;Yahya Jabrane;18-06-1991;MF;Morocco 
-459;7;Hakim Ziyech;19-03-1993;FW;Morocco 
-460;17;Sofiane Boufal;17-09-1993;FW;Morocco 
-461;14;Zakaria Aboukhlal;18-02-2000;FW;Morocco 
-462;10;Anass Zaroury;07-11-2000;FW;Morocco 
-463;16;Abde Ezzalzouli;17-12-2001;FW;Morocco 
-464;13;Ilias Chair;30-10-1997;FW;Morocco 
-465;19;Youssef En-Nesyri;01-06-1997;FW;Morocco 
-466;21;Walid Cheddira;22-01-1998;FW;Morocco 
-467;9;Abderrazak Hamdallah;17-12-1990;FW;Morocco 
-468;13;Justin Bijlow;22-01-1998;GK;Netherlands 
-469;1;Remko Pasveer;08-11-1983;GK;Netherlands 
-470;23;Andries Noppert;07-04-1994;GK;Netherlands 
-471;17;Daley Blind;09-03-1990;DF;Netherlands 
-472;6;Stefan de Vrij;05-02-1992;DF;Netherlands 
-473;4;Virgil van Dijk;08-07-1991;DF;Netherlands 
-474;3;Matthijs de Ligt;12-08-1999;DF;Netherlands 
-475;22;Denzel Dumfries;18-04-1996;DF;Netherlands 
-476;5;Nathan Ake;18-02-1995;DF;Netherlands 
-477;2;Jurrien Timber;17-06-2001;DF;Netherlands 
-478;16;Tyrell Malacia;17-06-1999;DF;Netherlands 
-479;26;Jeremie Frimpong;10-12-2000;DF;Netherlands 
-480;21;Frenkie de Jong;12-05-1997;MF;Netherlands 
-481;11;Steven Berghuis;19-12-1991;MF;Netherlands 
-482;15;Maarten de Roon;29-03-1991;MF;Netherlands 
-483;20;Teun Koopmeiners;28-02-1998;MF;Netherlands 
-484;24;Kenneth Taylor;16-05-2002;MF;Netherlands 
-485;25;Xavi Simons;21-04-2003;MF;Netherlands 
-486;14;Davy Klaassen;21-02-1993;MF;Netherlands 
-487;10;Memphis Depay;13-02-1994;FW;Netherlands 
-488;9;Luuk de Jong;27-08-1990;FW;Netherlands 
-489;7;Steven Bergwijn;08-10-1997;FW;Netherlands 
-490;18;Vincent Janssen;15-06-1994;FW;Netherlands 
-491;19;Wout Weghorst;07-08-1992;FW;Netherlands 
-492;8;Cody Gakpo;07-05-1999;FW;Netherlands 
-493;12;Noa Lang;17-06-1999;FW;Netherlands 
-494;1;Wojciech Szczesny;15-04-1990;GK;Poland 
-495;22;Kamil Grabara;08-01-1999;GK;Poland 
-496;12;Lukasz Skorupski;05-05-1991;GK;Poland 
-497;5;Jan Bednarek;12-04-1996;DF;Poland 
-498;15;Kamil Glik;03-02-1988;DF;Poland 
-499;25;Robert Gumny;04-06-1998;DF;Poland 
-500;3;Artur Jedrzejczyk;04-11-1987;DF;Poland 
-501;14;Jakub Kiwior;15-02-2000;DF;Poland 
-502;4;Mateusz Wieteska;11-02-1997;DF;Poland 
-503;18;Bartosz Bereszynski;12-07-1992;DF;Poland 
-504;2;Matty Cash;07-08-1997;DF;Poland 
-505;21;Nicola Zalewski;23-01-2002;DF;Poland 
-506;6;Krystian Bielik;04-01-1998;MF;Poland 
-507;24;Przemyslaw Frankowski;12-04-1995;MF;Poland 
-508;11;Kamil Grosicki;08-06-1988;MF;Poland 
-509;10;Grzegorz Krychowiak;29-01-1990;MF;Poland 
-510;13;Jakub Kaminski;05-06-2002;MF;Poland 
-511;26;Michal Skoras;15-02-2000;MF;Poland 
-512;8;Damian Szymanski;16-06-1995;MF;Poland 
-513;19;Sebastian Szymanski;10-05-1999;MF;Poland 
-514;20;Piotr Zielinski;20-05-1994;MF;Poland 
-515;17;Szymon Zurkowski;25-09-1997;MF;Poland 
-516;9;Robert Lewandowski;21-08-1988;FW;Poland 
-517;7;Arkadiusz Milik;28-02-1994;FW;Poland 
-518;23;Krzysztof Piatek;01-07-1995;FW;Poland 
-519;16;Karol Swiderski;23-01-1997;FW;Poland 
-520;22;Diogo Costa;19-09-1999;GK;Portugal
-521;1;Rui Patricio;15-02-1988;GK;Portugal
-522;12;Jose Sa;17-01-1993;GK;Portugal
-523;2;Diogo Dalot;18-03-1999;DF;Portugal
-524;13;Danilo Pereira;09-09-1991;DF;Portugal
-525;3;Pepe;26-02-1983;DF;Portugal
-526;4;Ruben Dias;14-05-1997;DF;Portugal
-527;24;Antonio Silva;30-10-2003;DF;Portugal
-528;19;Nuno Mendes;19-06-2002;DF;Portugal
-529;20;Joao Cancelo;27-05-1994;DF;Portugal
-530;5;Raphael Guerreiro;22-12-1993;DF;Portugal
-531;6;Joao Palhinha;09-07-1995;MF;Portugal
-532;18;Ruben Neves;13-03-1997;MF;Portugal
-533;10;Bernardo Silva;10-08-1994;MF;Portugal
-534;8;Bruno Fernandes;08-09-1994;MF;Portugal
-535;17;Joao Mario;19-01-1993;MF;Portugal
-536;23;Matheus Nunes;27-08-1998;MF;Portugal
-537;25;Otavio;09-02-1995;MF;Portugal
-538;14;William Carvalho;07-04-1992;MF;Portugal
-539;16;Vitinha;13-02-2000;MF;Portugal
-540;24;Andre Silva;06-11-1995;FW;Portugal
-541;7;Cristiano Ronaldo ??;05-02-1985;FW;Portugal
-542;26;Goncalo Ramos;20-06-2001;FW;Portugal
-543;11;Joao Felix;10-11-1999;FW;Portugal
-544;15;Rafael Leao;10-06-1999;FW;Portugal
-545;21;Ricardo Horta;15-09-1994;FW;Portugal
-546;1;Saad Al Sheeb;19-02-1990;GK;Qatar
-547;22;Meshaal Barsham;14-02-1998;GK;Qatar
-548;21;Yousef Hassan;24-05-1996;GK;Qatar
-549;3;Abdelkarim Hassan;28-08-1993;DF;Qatar
-550;16;Boualem Khoukhi;07-09-1990;DF;Qatar
-551;2;Pedro Miguel;06-08-1990;DF;Qatar
-552;5;Tarek Salman;05-12-1997;DF;Qatar
-553;15;Bassam Al-Rawi;16-12-1997;DF;Qatar
-554;13;Musab Kheder;26-09-1993;DF;Qatar
-555;14;Homam Ahmed;25-08-1999;DF;Qatar
-556;25;Jassem Gaber;20-02-2002;DF;Qatar
-557;12;Karim Boudiaf;16-09-1990;MF;Qatar
-558;20;Salem Al-Hajri;10-04-1996;MF;Qatar
-559;6;Abdulaziz Hatem;28-10-1990;MF;Qatar
-560;8;Ali Assadalla;19-01-1993;MF;Qatar
-561;4;Mohammed Waad;18-09-1999;MF;Qatar
-562;23;Assim Madibo;22-10-1996;MF;Qatar
-563;26;Mustafa Tarek;28-03-2001;MF;Qatar
-564;10;Hassan Al-Haydos;11-12-1990;FW;Qatar
-565;11;Akram Afif;18-11-1996;FW;Qatar
-566;19;Almoez Ali;19-08-1996;FW;Qatar
-567;17;Ismaeel Mohammada;05-04-1990;FW;Qatar
-568;9;Mohammed Muntari;20-12-1993;FW;Qatar
-569;7;Ahmed Alaaeldin;31-01-1993;FW;Qatar
-570;18;Khalid Muneer;24-02-1998;FW;Qatar
-571;24;Naif Al-Hadhrami;18-07-2001;FW;Qatar
-572;21;Mohammed Al-Owais;10-10-1991;GK;Saudi Arabia
-573;1;Mohammed Al Yami;14-08-1997;GK;Saudi Arabia
-574;22;Nawaf Al-Aqidi;10-05-2000;GK;Saudi Arabia
-575;13;Yasser Al-Shahrani;25-05-1992;DF;Saudi Arabia
-576;6;Mohammed Al-Breik;15-09-1992;DF;Saudi Arabia
-577;5;Ali Al-Bulaihi;21-11-1989;DF;Saudi Arabia
-578;2;Sultan Al-Ghanam;06-05-1994;DF;Saudi Arabia
-579;12;Saud Abdulhamid;18-07-1999;DF;Saudi Arabia
-580;4;Abdulelah Al-Amri;15-01-1997;DF;Saudi Arabia
-581;17;Hassan Tambakti;09-02-1999;DF;Saudi Arabia
-582;3;Abdullah Madu;15-07-1993;DF;Saudi Arabia
-583;18;Nawaf Alabid;26-01-1990;MF;Saudi Arabia
-584;7;Salman Al-Faraj;01-08-1989;MF;Saudi Arabia
-585;10;Salem Al-Dawsari;19-08-1991;MF;Saudi Arabia
-586;14;Abdullah Otayf;03-08-1992;MF;Saudi Arabia
-587;23;Mohamed Kanno;22-09-1994;MF;Saudi Arabia
-588;8;Abdulellah Al-Malki;11-10-1994;MF;Saudi Arabia
-589;16;Sami Al-Najei;07-02-1997;MF;Saudi Arabia
-590;15;Ali Al-Hassan;04-03-1997;MF;Saudi Arabia
-591;24;Nasser Al-Dawsari;19-12-1998;MF;Saudi Arabia
-592;20;Abdulrahman Al-Aboud;01-06-1995;MF;Saudi Arabia
-593;26;Riyadh Sharahili;28-04-1993;MF;Saudi Arabia
-594;19;Hattan Bahebri;16-07-1992;FW;Saudi Arabia
-595;9;Firas Al-Buraikan;14-05-2000;FW;Saudi Arabia
-596;11;Saleh Al-Shehri;01-11-1993;FW;Saudi Arabia
-597;25;Haitham Asiri;25-03-2001;FW;Saudi Arabia
-598;16;Edouard Mendy;01-03-1992;GK;Senegal
-599;23;Alfred Gomis;05-09-1993;GK;Senegal
-600;1;Seny Dieng;23-11-1994;GK;Senegal
-601;2;Formose Mendy;02-01-2001;DF;Senegal
-602;3;Kalidou Koulibaly;20-06-1991;DF;Senegal
-603;4;Papa Abou Cisse;14-09-1995;DF;Senegal
-604;8;Cheikhou Kouyat ;21-12-1989;DF;Senegal
-605;22;Abdou Diallo;04-05-1996;DF;Senegal
-606;12;Fode Ballo-Toure;03-01-1997;DF;Senegal
-607;14;Ismail Jakobs;17-08-1999;DF;Senegal
-608;21;Youssouf Sabaly;05-03-1993;DF;Senegal
-609;10;Moussa Ndiaye;18-06-2002;DF;Senegal
-610;5;Idrissa Gueye;26-09-1989;MF;Senegal
-611;26;Papa Gueye;24-01-1999;MF;Senegal
-612;17;Pape Matar Sarr;14-09-2002;MF;Senegal
-613;6;Nampalys Mendy;23-06-1992;MF;Senegal
-614;15;Krepin Diatta;25-02-1999;MF;Senegal
-615;11;Pathe Ciss;16-03-1994;MF;Senegal
-616;24;Moustapha Name;05-05-1995;MF;Senegal
-617;25;Loum Ndiaye;30-12-1996;MF;Senegal
-618;9;Boulaye Dia;16-11-1996;FW;Senegal
-619;18;Ismalia Sarr;25-02-1998;FW;Senegal
-620;20;Bamba Dieng;23-03-2000;FW;Senegal
-621;13;Iliman Ndiaye;06-03-2000;FW;Senegal
-622;7;Nicolas Jackson;20-06-2001;FW;Senegal
-623;19;Famara Diedhiou;15-12-1992;FW;Senegal
-624;1;Marko Dmitrovic;24-01-1992;GK;Serbia
-625;23;Vanja Milinkovic-Savic;20-02-1997;GK;Serbia
-626;12;Predrag Rajkovi?;31-10-1995;GK;Serbia
-627;13;Stefan Mitrovic;22-05-1990;DF;Serbia
-628;25;Filip Mladenovic;15-08-1991;DF;Serbia
-629;2;Strahinja Pavlovic;24-05-2001;DF;Serbia
-630;5;Milos Veljkovic;26-09-1995;DF;Serbia
-631;3;Strahinja Erakovic;22-01-2001;DF;Serbia
-632;15;Srdan Babic;22-04-1996;DF;Serbia
-633;4;Nikola Milenkovic;12-10-1997;DF;Serbia
-634;8;Nemanja Gudelj;16-11-1991;MF;Serbia
-635;17;Filip Kostic;01-11-1992;MF;Serbia
-636;6;Nemanja Maksimovic;26-01-1995;MF;Serbia
-637;20;Sergej Milinkovic-Savic;27-02-1995;MF;Serbia
-638;16;Sasa Lukic;13-08-1996;MF;Serbia
-639;14;Andrija Zivkovic;11-07-1996;MF;Serbia
-640;19;Uros Racic;17-03-1998;MF;Serbia
-641;24;Ivan Ilic;17-03-2001;MF;Serbia
-642;22;Darko Lazovic;15-09-1990;MF;Serbia
-643;26;Marko Grujic;13-04-1996;MF;Serbia
-644;11;Luka Jovi?;23-12-1997;FW;Serbia
-645;9;Aleksandr Mitrovic;16-09-1994;FW;Serbia
-646;18;Dusan Vlahovic;28-01-2000;FW;Serbia
-647;7;Nemanja Radonjic;15-02-1996;FW;Serbia
-648;21;Filip Duricic;30-01-1992;FW;Serbia
-649;10;Dusan Tadic;20-11-1988;FW;Serbia
-650;1;Kim Seung-gyu;30-09-1990;GK;South Korea
-651;21;Jo Hyeon-woon;25-09-1991;GK;South Korea
-652;12;Song Bum-keun;15-10-1997;GK;South Korea
-653;4;Kim Min-jae;15-11-1996;DF;South Korea
-654;3;Kim Jin-su;13-06-1992;DF;South Korea
-655;14;Hong Chul;17-09-1990;DF;South Korea
-656;15;Kim Moon-hwan;01-08-1995;DF;South Korea
-657;2;Yoon Jong-gyu;20-03-1998;DF;South Korea
-658;19;Kim Young-gwon;27-02-1990;DF;South Korea
-659;23;Kim Tae-hwan;24-07-1989;DF;South Korea
-660;20;Kwon Kyung-won;31-01-1992;DF;South Korea
-661;24;Cho Yu-min;17-11-1996;DF;South Korea
-662;5;Jung Woo-young;14-12-1989;MF;South Korea
-663;17;Na Sang-ho;12-08-1996;MF;South Korea
-664;8;Paik Seung-ho;17-03-1997;MF;South Korea
-665;13;Son Jun-ho;12-05-1992;MF;South Korea
-666;26;Song Min-kyu;12-09-1999;MF;South Korea
-667;22;Kwon Chang-hoon;30-06-1994;MF;South Korea
-668;10;Lee Jae-sung;10-08-1992;MF;South Korea
-669;6;Hwang In-beom;20-09-1996;MF;South Korea
-670;18;Lee Kang-in;19-02-2001;MF;South Korea
-671;7;Son Heung-min;08-07-1992;FW;South Korea
-672;11;Hwang Hee-chan;26-01-1996;FW;South Korea
-673;25;Jeong Woo-yeong;20-09-1999;FW;South Korea
-674;16;Hwang Ui-jo;28-08-1992;FW;South Korea
-675;9;Cho Gue-sung;26-01-1998;FW;South Korea
-676;1;Robert Sanchez;18-11-1997;GK;Spain
-677;13;David Raya;15-09-1995;GK;Spain
-678;23;Unai Simon;11-06-1997;GK;Spain
-679;2;Cesar Azpilicueta;28-08-1989;DF;Spain
-680;18;Jordi Alba;21-03-1989;DF;Spain
-681;15;Hugo Guillamon;31-01-2000;DF;Spain
-682;4;Pau Torrres;17-01-1997;DF;Spain
-683;3;Eric Garcia;09-01-2001;DF;Spain
-684;14;Alejandro Balde;18-10-2003;DF;Spain
-685;20;Dani Carvajal;11-01-1992;DF;Spain
-686;24;Aymeric Laporte;27-05-1994;DF;Spain
-687;5;Sergio Busquets;16-07-1988;MF;Spain
-688;6;Marcos Llorente;30-01-1995;MF;Spain
-689;26;Pedri;25-11-2002;MF;Spain
-690;16;Rodri;22-06-1996;MF;Spain
-691;8;Koke;08-01-1992;MF;Spain
-692;9;Gavi;05-08-2004;MF;Spain
-693;19;Carlos Soler;02-01-1997;MF;Spain
-694;7;Alvaro Morata;23-10-1992;FW;Spain
-695;17;Yeremy Pino;20-10-2002;FW;Spain
-696;11;Ferran Torres;29-02-2000;FW;Spain
-697;10;Marco Asensio;21-01-1996;FW;Spain
-698;22;Pablo Sarabia;11-05-1992;FW;Spain
-699;21;Dani Olmo;07-05-1998;FW;Spain
-700;12;Nico Williams;12-07-2002;FW;Spain
-701;25;Ansu Fati;31-10-2002;FW;Spain
-702;1;Yann Sommer;17-12-1988;GK;Switzerland
-703;12;Jonas Omlin;10-01-1994;GK;Switzerland
-704;21;Gregor Kobel;06-12-1997;GK;Switzerland
-705;24;Philipp Kohn;02-04-1998;GK;Switzerland
-706;3;Silvan Widmer;05-03-1993;DF;Switzerland
-707;13;Ricardo Rodriguez;25-08-1992;DF;Switzerland
-708;22;Fabian Schar;20-12-1991;DF;Switzerland
-709;5;Manuel Akanji;19-07-1995;DF;Switzerland
-710;4;Nico Elvedi;30-09-1996;DF;Switzerland
-711;18;Eray Comert;04-02-1998;DF;Switzerland
-712;23;Xherdan Shaqiri;10-10-1991;MF;Switzerland
-713;10;Granit Xhaka;27-09-1992;MF;Switzerland
-714;8;Remo Freuler;15-04-1992;MF;Switzerland
-715;6;Denis Zakaria;20-11-1996;MF;Switzerland
-716;15;Djibril Sow;06-02-1997;MF;Switzerland
-717;11;Renato Steffen;03-11-1991;MF;Switzerland
-718;2;Edimilson Fernandes;15-04-1996;MF;Switzerland
-719;20;Fabian Frei;08-01-1989;MF;Switzerland
-720;14;Michel Aebischer;06-01-1997;MF;Switzerland
-721;26;Ardon Jashari;30-06-2002;MF;Switzerland
-722;25;Fabian Rieder;16-02-2002;MF;Switzerland
-723;9;Haris Seferovic;22-02-1992;FW;Switzerland
-724;7;Breel Embolo;14-02-1997;FW;Switzerland
-725;17;Ruben Vargas;05-08-1998;FW;Switzerland
-726;16;Christian Fassnacht;11-11-1993;FW;Switzerland
-727;19;Noah Okafor;24-05-2000;FW;Switzerland
-728;16;Aymen Dahmen;27-01-1997;GK;Tunisia
-729;26;Mouez Hassen;05-03-1995;GK;Tunisia
-730;1;Balbouli;14-09-1984;GK;Tunisia
-731;22;Bechir Ben Sa d;29-11-1994;GK;Tunisia
-732;20;Mohamed Drager;25-06-1996;DF;Tunisia
-733;21;Wajdi Kechrida;05-11-1995;DF;Tunisia
-734;2;Bilel Ifa;09-03-1990;DF;Tunisia
-735;3;Montassar Talbi;26-05-1998;DF;Tunisia
-736;6;Dylan Bronn;19-06-1995;DF;Tunisia
-737;4;Yassine Meriah;02-07-1993;DF;Tunisia
-738;5;Nader Ghandri;18-02-1995;DF;Tunisia
-739;12;Ali Maaloul;01-01-1990;DF;Tunisia
-740;24;Ali Abdi;20-12-1993;DF;Tunisia
-741;17;Ellyes Skhiri;10-05-1995;MF;Tunisia
-742;14;Aissa Laidouni;13-12-1996;MF;Tunisia
-743;13;Ferjani Sassi;18-03-1992;MF;Tunisia
-744;18;Ghailene Chaalali;28-02-1994;MF;Tunisia
-745;8;Hannibal Mejbri;21-01-2003;MF;Tunisia
-746;15;Mohamed Ali Ben Romdhane;06-09-1999;MF;Tunisia
-747;19;Seifeddine Jaziri;12-02-1993;FW;Tunisia
-748;23;Naim Sliti;27-07-1992;FW;Tunisia
-749;11;Taha Yassine Khenissi;06-01-1992;FW;Tunisia
-750;25;Anis Ben Slimane;16-03-2001;FW;Tunisia
-751;9;Issam Jebali;25-12-1991;FW;Tunisia
-752;10;Wahbi Khazri;08-02-1991;FW;Tunisia
-753;7;Youssef Msakni;28-10-1990;FW;Tunisia
-754;1;Fernando Muslera;16-06-1986;GK;Uruguay
-755;23;Sergio Rochet;23-03-1993;GK;Uruguay
-756;12;Sebastian Sosa;19-08-1986;GK;Uruguay
-757;4;Ronald Araujo;07-03-1999;DF;Uruguay
-758;22;Martin Caceres;07-04-1987;DF;Uruguay
-759;19;Sebastian Coates;07-10-1990;DF;Uruguay
-760;2;Jose Maria Gimenez;20-01-1995;DF;Uruguay
-761;3;Diego Godin;16-02-1986;DF;Uruguay
-762;16;Mathias Olivera;31-10-1997;DF;Uruguay
-763;26;Jose Luis Rodriguez;14-03-1997;DF;Uruguay
-764;17;Matias Vina;09-11-1997;DF;Uruguay
-765;13;Guillermo Varela;24-03-1993;DF;Uruguay
-766;5;Matias Vecino;24-08-1991;MF;Uruguay
-767;7;Nicol s de la Cruz;01-06-1997;MF;Uruguay
-768;6;Rodrigo Bentancur;25-06-1997;MF;Uruguay
-769;15;Federico Valverde;22-07-1998;MF;Uruguay
-770;10;Giorgian de Arrascaeta;01-06-1994;MF;Uruguay
-771;14;Lucas Torreira;11-02-1996;MF;Uruguay
-772;20;Facundo Torres;13-04-2000;MF;Uruguay
-773;25;Manuel Ugarte;11-04-2001;MF;Uruguay
-774;9;Luis Suarez;24-01-1987;FW;Uruguay
-775;21;Edinson Cavani;14-02-1987;FW;Uruguay
-776;18;Maxi Gomez;14-08-1996;FW;Uruguay
-777;11;Darwin Nunez;24-06-1999;FW;Uruguay
-778;8;Facundo Pellistri;20-12-2001;FW;Uruguay
-779;24;Agustin Canobbio;01-10-1998;FW;Uruguay
-780;1;Matt Turner;24-06-1994;GK;USA
-781;12;Ethan Horvath;09-06-1995;GK;USA
-782;25;Sean Johnson;31-05-1989;GK;USA
-783;20;Cameron Carter-Vickers;31-12-1997;DF;USA
-784;2;Sergi o Dest;03-11-2000;DF;USA
-785;15;Aaron Long;12-10-2000;DF;USA
-786;18;Shaq Moore;02-11-1996;DF;USA
-787;13;Tim Ream;05-10-1987;DF;USA
-788;5;Antonee Robinson;08-08-1997;DF;USA
-789;26;Joe Scally;31-12-2002;DF;USA
-790;22;DeAndre Yedlin;09-07-1993;DF;USA
-791;3;Walker Zimmerman;19-05-1993;DF;USA
-792;11;Brenden Aaronson;22-10-2000;MF;USA
-793;23;Kellyn Acosta;24-07-1995;MF;USA
-794;4;Tyler Adams;14-02-1999;MF;USA
-795;14;Luca de la Torre;23-05-1998;MF;USA
-796;8;Weston McKennie;28-08-1998;MF;USA
-797;6;Yunus Musah;29-11-2002;MF;USA
-798;17;Cristian Roldan;03-06-1995;MF;USA
-799;24;Josh Sargent;20-02-2000;FW;USA
-800;9;Jes s Ferreira;24-12-2000;FW;USA
-801;16;Jordan Morris;26-10-1994;FW;USA
-802;10;Christian Pulisic;18-09-1998;FW;USA
-803;7;Gio Reyna;13-11-2002;FW;USA
-804;21;Tim Weah;22-02-2000;FW;USA
-805;19;Haji Wright;27-03-1998;FW;USA
-806;12;Danny Ward;22-06-1993;GK;Wales
-807;1;Wayne Hennessey;24-01-1987;GK;Wales
-808;21;Adam Davies;17-07-1992;GK;Wales
-809;4;Ben Davies;24-04-1993;DF;Wales
-810;24;Ben Cabango;30-05-2000;DF;Wales
-811;6;Joe Rodon;22-10-1997;DF;Wales
-812;5;Chris Mepham;05-11-1997;DF;Wales
-813;15;Ethan Ampadu;14-09-2000;DF;Wales
-814;2;Chris Gunter;21-07-1989;DF;Wales
-815;3;Neco Williams;13-04-2001;DF;Wales
-816;14;Connor Roberts;23-09-1995;DF;Wales
-817;17;Tom Lockyer;03-12-1994;DF;Wales
-818;22;Sorba Thomas;25-01-1999;MF;Wales
-819;7;Joe Allen;14-03-2000;MF;Wales
-820;26;Matthew Smith;22-11-1999;MF;Wales
-821;23;Dylan Levitt;17-11-2000;MF;Wales
-822;8;Harry Wilson;22-03-1997;MF;Wales
-823;16;Joe Morrell;03-01-1997;MF;Wales
-824;18;Jonny Williams;09-10-1993;MF;Wales
-825;10;Aaron Ramsey;26-12-1990;MF;Wales
-826;25;Rubin Colwill;27-04-2000;FW;Wales
-827;11;Gareth Bale;16-07-1989;FW;Wales
-828;13;Kieffer Moore;08-08-1992;FW;Wales
-829;19;Mark Harris;29-12-1998;FW;Wales
-830;9;Brennan Johnson;23-05-2001;FW;Wales
-831;20;Dan James;10-11-1997;FW;Wales
+player_id,dorsal,player_name,birth_date,position,nationality
+1,23,Emiliano Martinez,02-09-1992,GK,Argentina
+2,1,Franco Armani,16-10-1986,GK,Argentina
+3,12,Geronimo Rulli,20-05-1992,GK,Argentina
+4,19,Nicolas Otamendi,12-02-1988,DF,Argentina
+5,8,Marcos Acuna,28-10-1991,DF,Argentina
+6,3,Nicolas Tagliafico,31-08-1992,DF,Argentina
+7,6,German Pezzella,27-06-1991,DF,Argentina
+8,26,Nahuel Molina,06-04-1998,DF,Argentina
+9,4,Gonzalo Montiel,01-01-1997,DF,Argentina
+10,2,Juan Foyth,12-01-1998,DF,Argentina
+11,13,Cristian Romero,27-04-1998,DF,Argentina
+12,25,Lisandro Martinez,18-01-1998,DF,Argentina
+13,5,Leandro Paredes,29-06-1994,MF,Argentina
+14,7,Rodrigo De Paul,24-05-1994,MF,Argentina
+15,18,Guido Rodriguez,12-04-1994,MF,Argentina
+16,14,Exequiel Palacios,05-10-1998,MF,Argentina
+17,20,Alexis Mac Allister,24-12-1998,MF,Argentina
+18,24,Enzo Fernandez,17-01-2001,MF,Argentina
+19,17,Alejandro Gomez,26-04-2001,MF,Argentina
+20,10,Lionel Messi ??,24-06-1987,FW,Argentina
+21,22,Lautaro Martinez,22-08-1997,FW,Argentina
+22,21,Paulo Dybala,15-11-1993,FW,Argentina
+23,16,Thiago Almada,26-04-2001,FW,Argentina
+24,9,Julian Alvarez,31-01-2000,FW,Argentina
+25,11,Angel Di Maria,14-02-1988,FW,Argentina
+26,15,Angel Correa,09-03-1995,FW,Argentina
+27,1,Mat Ryan,08-04-1992,GK,Australia
+28,18,Danny Vukovic,27-03-1985,GK,Australia
+29,12,Andrew Redmayne,13-01-1989,GK,Australia
+30,16,Aziz Behic,16-10-1990,DF,Australia
+31,2,Milos Degenek,28-04-1994,DF,Australia
+32,8,Bailey Wright,28-07-1992,DF,Australia
+33,5,Fran Karacic,12-05-1996,DF,Australia
+34,19,Harry Souttar,22-10-1998,DF,Australia
+35,3,Nathaniel Atkinson,13-06-1999,DF,Australia
+36,24,Joel King,30-10-2000,DF,Australia
+37,4,Kye Rowles,24-06-1998,DF,Australia
+38,20,Thomas Deng,20-03-1997,DF,Australia
+39,13,Aaron Mooy,15-09-1990,MF,Australia
+40,22,Jackson Irvine,07-03-1993,MF,Australia
+41,10,Ajdin Hrustic,05-07-1996,MF,Australia
+42,14,Riley McGree,02-11-1998,MF,Australia
+43,26,Keanu Baccus,07-06-1998,MF,Australia
+44,17,Cameron Devlin,07-06-1998,MF,Australia
+45,7,Mathew Leckie,04-02-1991,FW,Australia
+46,11,Awer Mabil,15-09-1995,FW,Australia
+47,9,Jamie Maclaren,29-07-1993,FW,Australia
+48,15,Mitchell Duke,18-01-1991,FW,Australia
+49,6,Marco Tilio,25-04-1993,FW,Australia
+50,23,Craig Goodwin,16-12-1991,FW,Australia
+51,25,Jason Cummings,01-08-1995,FW,Australia
+52,21,Garang Kuol,15-09-2004,FW,Australia
+53,1,Thibaut Courtois,11-05-1992,GK,Belgium
+54,12,Simon Mignolet,06-03-1988,GK,Belgium
+55,13,Koen Casteels,25-06-1992,GK,Belgium
+56,2,Toby Alderweireld,02-03-1989,DF,Belgium
+57,3,Arthur Theate,25-05-2000,DF,Belgium
+58,26,Zeno Debast,24-10-2003,DF,Belgium
+59,5,Jan Vertonghen,24-04-1987,DF,Belgium
+60,4,Wout Faes,03-04-1998,DF,Belgium
+61,21,Timothy Castagne,05-12-1995,DF,Belgium
+62,15,Thomas Meunier,12-09-1991,DF,Belgium
+63,16,Thorgan Hazard,29-03-1993,MF,Belgium
+64,7,Kevin De Bruyne,28-06-1991,MF,Belgium
+65,11,Yannick Carrasco,04-09-1993,MF,Belgium
+66,19,Leander Dendoncker,15-04-1995,MF,Belgium
+67,8,Youri Tielemans,07-05-1997,MF,Belgium
+68,20,Hans Vanaken,24-08-1992,MF,Belgium
+69,6,Axel Witsel,12-01-1989,MF,Belgium
+70,22,Charles De Ketelaere,10-03-2001,MF,Belgium
+71,18,Amadou Onana,16-08-2001,MF,Belgium
+72,25,Jeremy Doku,27-05-2002,FW,Belgium
+73,10,Eden Hazard,07-01-1991,FW,Belgium
+74,14,Dries Mertens,06-05-1987,FW,Belgium
+75,17,Leandro Trossard,04-12-1994,FW,Belgium
+76,23,Michy Batshuayi,02-10-1993,FW,Belgium
+77,24,Lois Openda,16-02-2000,FW,Belgium
+78,9,Romelu Lukaku,13-05-1993,FW,Belgium
+79,1,Alisson,02-10-1992,GK,Brazil
+80,23,Ederson,17-08-1993,GK,Brazil
+81,12,Weverton,13-12-1987,GK,Brazil
+82,13,Dani Alves,06-05-1983,DF,Brazil
+83,3,Thiago Silva,22-09-1984,DF,Brazil
+84,4,Marquinhos,14-05-1994,DF,Brazil
+85,2,Danilo,15-07-1991,DF,Brazil
+86,6,Alex Sandro,26-01-1991,DF,Brazil
+87,14,Eder Militao,18-01-1998,DF,Brazil
+88,16,Alex Telles,15-12-1992,DF,Brazil
+89,24,Bremer,18-03-1997,DF,Brazil
+90,5,Casemiro,23-02-1992,MF,Brazil
+91,7,Lucas Paqueta,27-08-1997,MF,Brazil
+92,15,Fabinho,23-10-1993,MF,Brazil
+93,8,Fred,05-03-1993,MF,Brazil
+94,22,Everton Ribeiro,10-04-1989,MF,Brazil
+95,17,Bruno Guimaraes,16-11-1997,MF,Brazil
+96,10,Neymar,05-02-1992,FW,Brazil
+97,18,Gabriel Jesus,03-04-1997,FW,Brazil
+98,9,Richarlison,10-05-1997,FW,Brazil
+99,20,Vinicius Jr,12-07-2000,FW,Brazil
+100,19,Antony,24-02-2000,FW,Brazil
+101,11,Raphinha,14-12-1996,FW,Brazil
+102,21,Rodrygo,09-01-2001,FW,Brazil
+103,26,Gabriel Matinelli,18-06-2001,FW,Brazil
+104,25,Pedro,20-06-1997,FW,Brazil
+105,23,Andre Onana,02-04-1996,GK,Cameroon
+106,16,Davis Epassy,02-02-1993,GK,Cameroon
+107,1,Simon Ngapandouetnbu,12-04-1993,GK,Cameroon
+108,24,Enzo Ebosse,11-03-1999,DF,Cameroon
+109,19,Collins Fai,13-08-1992,DF,Cameroon
+110,17,Olivier Mbaizo,15-08-1997,DF,Cameroon
+111,21,Jean Charles Castelletto,26-01-1995,DF,Cameroon
+112,25,Nouhou Tolo,23-06-1997,DF,Cameroon
+113,4,Christopher Wooh,18-09-2001,DF,Cameroon
+114,3,Nicolas Nkolou,27-03-1990,DF,Cameroon
+115,22,Olivier Ntcham,09-02-1996,MF,Cameroon
+116,5,Gael Ondoua,04-11-1995,MF,Cameroon
+117,15,Pierre Kunde,26-07-1995,MF,Cameroon
+118,14,Samuel Gouet,14-12-1997,MF,Cameroon
+119,8,Andre-Frank Zambo Anguissa,16-11-1995,MF,Cameroon
+120,2,Jerome Ngom,30-09-1998,MF,Cameroon
+121,18,Martin Hongla,16-03-1998,MF,Cameroon
+122,6,Moumi Ngamaleu,09-07-1994,FW,Cameroon
+123,11,Christian Bassogog,18-10-1995,FW,Cameroon
+124,20,Bryan Mbeumo,07-08-1995,FW,Cameroon
+125,7,Georges-Kevin Nkoudou,13-02-1995,FW,Cameroon
+126,9,Jean-Pierre Nsame,01-05-1993,FW,Cameroon
+127,10,Vincent Aboubakar,22-01-1992,FW,Cameroon
+128,12,Karl Toko Ekambi,14-09-1992,FW,Cameroon
+129,13,Eric Maxim Choupo-Moting,23-03-1989,FW,Cameroon
+130,26,Souaibou Marou,03-12-2000,FW,Cameroon
+131,16,James Paternis,21-02-1997,GK,Canada
+132,18,Milan Borjan,23-10-1987,GK,Canada
+133,1,Dayne St Clair,09-05-1997,GK,Canada
+134,2,Alistair Johnson,08-10-1998,DF,Canada
+135,3,Sam Adekugbe,16-01-1995,DF,Canada
+136,4,Kamal Miller,16-05-1997,DF,Canada
+137,5,Steven Vit ria,11-01-1987,DF,Canada
+138,22,Richie Laryea,07-01-1995,DF,Canada
+139,25,Derek Cornelius,25-11-1997,DF,Canada
+140,26,Joel Waterman,24-01-1996,DF,Canada
+141,6,Samuel Piette,12-11-1994,MF,Canada
+142,7,Stephen Eustaquio,21-12-1996,MF,Canada
+143,13,Atiba Hutchinson,08-02-1983,MF,Canada
+144,14,Mark-Anthony Kaye,04-12-1994,MF,Canada
+145,21,Jonathan Osorio,12-06-1992,MF,Canada
+146,24,David Wotherspoon,16-01-1990,MF,Canada
+147,8,Liam Fraser,13-02-1998,MF,Canada
+148,15,Ismael Kone,06-06-2002,MF,Canada
+149,9,Lucas Cavallini,28-12-1992,FW,Canada
+150,10,Junior Hoilett,05-06-1990,FW,Canada
+151,11,Tajon Buchanan,08-02-1999,FW,Canada
+152,17,Cyle Larin,17-04-1995,FW,Canada
+153,19,Alphonso Davies,02-11-2000,FW,Canada
+154,20,Jonathan David,14-01-2000,FW,Canada
+155,23,Liam Millar,27-09-1999,FW,Canada
+156,12,Ike Ugbo,21-09-1998,FW,Canada
+157,1,Keylor Navas,15-12-1986,GK,Costa Rica
+158,18,Esteban Alvarado,28-04-1989,GK,Costa Rica
+159,23,Patrick Sequeira,01-03-1999,GK,Costa Rica
+160,8,Bryan Oviedo,18-02-1990,DF,Costa Rica
+161,6,Oscar Duarte,03-06-1989,DF,Costa Rica
+162,19,Kendall Waston,01-01-1988,DF,Costa Rica
+163,22,Ronald Matarrita,09-07-1994,DF,Costa Rica
+164,4,Keysher Fuller,12-07-1994,DF,Costa Rica
+165,3,Juan Pablo Vargas,06-06-1995,DF,Costa Rica
+166,16,Carlos Martinez,30-03-1999,DF,Costa Rica
+167,15,Francisco Calvo,08-07-1992,DF,Costa Rica
+168,5,Celso Borges,27-05-1988,MF,Costa Rica
+169,10,Bryan Ruiz,18-08-1985,MF,Costa Rica
+170,17,Yeltsin Tejeda,17-03-1992,MF,Costa Rica
+171,13,Gerson Torres,28-08-1997,MF,Costa Rica
+172,9,Jewison Bennette,15-06-2004,MF,Costa Rica
+173,2,Daniel Chacon,11-04-2001,MF,Costa Rica
+174,14,Youstin Salas,17-06-1996,MF,Costa Rica
+175,24,Roan Wilson,01-05-2002,MF,Costa Rica
+176,20,Brandon Aguilera,28-06-2003,MF,Costa Rica
+177,21,Douglas Lopez,21-09-1998,MF,Costa Rica
+178,25,Anthony Hernandez,11-10-2001,MF,Costa Rica
+179,26,Alvaro Zamora,09-03-2002,MF,Costa Rica
+180,12,Joel Campbell,26-06-1992,FW,Costa Rica
+181,11,Johan Venegas,27-11-1988,FW,Costa Rica
+182,7,Anthony Contreras,29-01-2000,FW,Costa Rica
+183,1,Dominik Livakovic,09-01-1995,GK,Croatia
+184,23,Ivica Ivusic,01-02-1995,GK,Croatia
+185,12,Ivo Grbic,18-01-1996,GK,Croatia
+186,21,Domagoj Vida,29-04-1989,DF,Croatia
+187,6,Dejan Lovren,05-07-1989,DF,Croatia
+188,3,Borna Barisic,10-11-1992,DF,Croatia
+189,22,Josip Juranovic,16-08-1995,DF,Croatia
+190,19,Borna Sosa,21-01-1998,DF,Croatia
+191,20,Josko Gvardiol,23-01-2002,DF,Croatia
+192,2,Josip Stanisic,02-04-2000,DF,Croatia
+193,5,Martin Erlic,24-01-1998,DF,Croatia
+194,24,Josip Sutalo,28-02-2000,DF,Croatia
+195,10,Luka Modric,09-09-1985,MF,Croatia
+196,8,Mateo Kovacic,06-05-1994,MF,Croatia
+197,11,Marcelo Brozovic,16-11-1992,MF,Croatia
+198,15,Mario Pasalic,09-02-1995,MF,Croatia
+199,13,Nikola Vlasic,04-10-1997,MF,Croatia
+200,7,Lovro Majer,17-01-1998,MF,Croatia
+201,26,Kristijan Jakic,14-05-1997,MF,Croatia
+202,25,Luka Sucic,08-09-2002,MF,Croatia
+203,4,Ivan Perisic,02-02-1989,FW,Croatia
+204,9,Andrej Kramaric,19-06-1991,FW,Croatia
+205,16,Bruno Petkovic,16-09-1997,FW,Croatia
+206,18,Mislav Orsic,29-12-1992,FW,Croatia
+207,17,Ante Budimir,22-07-1991,FW,Croatia
+208,14,Marko Livaja,26-08-1993,FW,Croatia
+209,1,Kasper Schmeichel,05-11-1986,GK,Denmark
+210,16,Oliver Christensen,22-03-1999,GK,Denmark
+211,22,Frederik Ronnow,04-08-1992,GK,Denmark
+212,4,Simon Kjaer,26-03-1989,DF,Denmark
+213,6,Andreas Christensen,10-04-1996,DF,Denmark
+214,17,Jens Stryger Larsen,21-02-1991,DF,Denmark
+215,18,Daniel Wass,31-05-1989,DF,Denmark
+216,13,Rasmus Kristensen,11-07-1997,DF,Denmark
+217,5,Joakim Maehle,20-05-1997,DF,Denmark
+218,2,Joachim Andersen,31-05-1996,DF,Denmark
+219,8,Thomas Delaney,03-09-1991,DF,Denmark
+220,3,Victor Nelsson,14-10-1998,DF,Denmark
+221,26,Alexander Bah,09-12-1997,DF,Denmark
+222,10,Christian Eriksen,14-02-1992,MF,Denmark
+223,15,Christian Norgaard,10-03-1994,MF,Denmark
+224,23,Pierre-Emile Hojbjerg,05-08-1995,MF,Denmark
+225,7,Mathias Jensen,01-01-1996,MF,Denmark
+226,24,Robert Skov,20-05-1996,FW,Denmark
+227,9,Martin Braithwaite,05-06-1991,FW,Denmark
+228,21,Andreas Cornelius,16-03-1993,FW,Denmark
+229,12,Kasper Dolberg,06-10-1997,FW,Denmark
+230,11,Andreas Skov Olsen,29-12-1999,FW,Denmark
+231,14,Mikkel Damsgaard,03-07-2000,FW,Denmark
+232,19,Jonas Wind,07-02-1999,FW,Denmark
+233,25,Jesper Lindstrom,29-02-2000,FW,Denmark
+234,20,Yussuf Yurary Poulsen,15-06-1994,FW,Denmark
+235,1,Hernan Galindez,30-03-1987,GK,Ecuador 
+236,12,Moises Ramirez,09-09-2000,GK,Ecuador 
+237,22,Alexander Dominguez,05-06-1987,GK,Ecuador 
+238,2,Felix Torres,11-01-1997,DF,Ecuador 
+239,3,Piero Hincapie,09-01-2002,DF,Ecuador 
+240,4,Robert Arboleda,22-10-1991,DF,Ecuador 
+241,6,William Pacho,16-10-2001,DF,Ecuador 
+242,7,Pervis Estupinan,21-01-1998,DF,Ecuador 
+243,14,Xavier Arreaga,28-09-1994,DF,Ecuador 
+244,17,Angelo Preciado,18-02-1998,DF,Ecuador 
+245,18,Diego Palacios,12-07-1999,DF,Ecuador 
+246,25,Jackson Porozo,04-08-2000,DF,Ecuador 
+247,5,Jose Cifuentes,12-03-1999,MF,Ecuador 
+248,8,Carlos Gruezo,19-04-1995,MF,Ecuador 
+249,15,Angel Mena,21-01-1988,MF,Ecuador 
+250,16,Jeremy Sarmiento,16-06-2002,MF,Ecuador 
+251,19,Gonzalo Plata,01-11-2000,MF,Ecuador 
+252,20,Jhegson Mendez,26-04-1997,MF,Ecuador 
+253,21,Alan Franco,21-08-1998,MF,Ecuador 
+254,23,Moises Caicedo,02-11-2001,MF,Ecuador 
+255,26,Kevin Rodriguez,04-03-2000,MF,Ecuador 
+256,9,Ayrton Preciado,17-07-1994,FW,Ecuador 
+257,10,Romario Ibarra,24-09-1994,FW,Ecuador 
+258,11,Michael Estrada,07-04-1996,FW,Ecuador 
+259,13,Enner Valencia,04-11-1989,FW,Ecuador 
+260,24,Djorkaeff Reasco,18-01-1999,FW,Ecuador 
+261,1,Jordan Pickford,07-03-1994,GK,England
+262,13,Nick Pope,19-04-1992,GK,England
+263,23,Aaron Ramsdale,14-05-1998,GK,England
+264,18,Trent Alexander-Arnold,07-10-1998,DF,England
+265,16,Conor Coady,25-02-1993,DF,England
+266,15,Eric Dier,15-01-1994,DF,England
+267,6,Harry Maguire,05-03-1993,DF,England
+268,3,Luke Shaw,12-07-1995,DF,England
+269,5,John Stones,28-05-1994,DF,England
+270,12,Kieran Trippier,19-09-1990,DF,England
+271,2,Kyle Walker,28-05-1990,DF,England
+272,21,Ben White,08-10-1997,DF,England
+273,22,Jude Bellingham,29-06-2003,MF,England
+274,26,Conor Gallagher,06-02-2000,MF,England
+275,8,Jordan Henderson,17-06-1990,MF,England
+276,19,Mason Mount,10-01-1999,MF,England
+277,14,Kalvin Phillips,02-12-1995,MF,England
+278,4,Declan Rice,14-01-1999,MF,England
+279,20,Phil Foden,28-05-2000,MF,England
+280,7,Jack Grealish,10-09-1995,MF,England
+281,9,Harry Kane,28-07-1993,FW,England
+282,25,James Maddison,13-11-1996,FW,England
+283,11,Marcus Rashford,31-10-1997,FW,England
+284,17,Bukayo Saka,05-09-2001,FW,England
+285,10,Raheem Sterling,08-12-1994,FW,England
+286,24,Callum Wilson,27-02-1992,FW,England
+287,1,Hugo Lloris,26-12-1986,GK,France
+288,23,Alphonse Areola,27-02-1993,GK,France
+289,16,Steve Mandanda,28-03-1985,GK,France
+290,2,Benjamin Pavard,28-03-1996,DF,France
+291,5,Jules Kounde,12-11-1998,DF,France
+292,4,Raphael Varane,25-04-1993,DF,France
+293,3,Axel Disasi,11-03-1998,DF,France
+294,17,William Saliba,24-03-2001,DF,France
+295,22,Theo Hernandez,06-10-1994,DF,France
+296,21,Lucas Hernandez,14-02-1996,DF,France
+297,24,Ibrahima Konate,25-05-1999,DF,France
+298,18,Dayot Upamecano,27-10-1998,DF,France
+299,14,Adrien Rabiot,03-04-1995,MF,France
+300,8,Aurelien Tchouam ni,27-01-2000,MF,France
+301,19,Youssouf Fofana,10-01-1999,MF,France
+302,6,Matteo Guendouzi,14-04-1999,MF,France
+303,15,Jordan Veretout,01-03-1999,MF,France
+304,25,Eduardo Camavinga,10-11-2002,MF,France
+305,13,Youssouf Fofana,10-01-1999,MF,France
+306,20,Kingsley Coman,13-06-1996,FW,France
+307,10,Kylian Mbappe,20-12-1998,FW,France
+308,9,Olivier Giroud,30-09-1986,FW,France
+309,7,Antoine Griezmann,21-03-1991,FW,France
+310,11,Ousmane Dembele,15-05-1997,FW,France
+311,12,Randal Kolo Muani,05-12-1998,FW,France
+312,26,Marcus Thuram,06-08-1997,FW,France
+313,1,Manuel Neuer,27-03-1986,GK,Germany
+314,22,Marc-Andre ter Stegen,30-04-1992,GK,Germany
+315,12,Kevin Trapp,08-07-1990,GK,Germany
+316,2,Antonio Rudiger,03-03-1993,DF,Germany
+317,4,Matthias Ginter,18-01-1994,DF,Germany
+318,15,Niklas Sule,03-09-1995,DF,Germany
+319,5,Thilo Kehrer,21-09-1996,DF,Germany
+320,16,Lukas Klostermann,03-06-1996,DF,Germany
+321,3,David Raum,22-04-1998,DF,Germany
+322,20,Christian Gunter,28-02-1993,DF,Germany
+323,23,Nico Schlotterbeck,01-12-1999,DF,Germany
+324,25,Armel Bella-Kotchap,11-12-2001,DF,Germany
+325,6,Joshua Kimmich,08-02-1995,MF,Germany
+326,11,Mario Gotze,03-06-1992,MF,Germany
+327,21,Ilkay Gundogan,24-10-1990,MF,Germany
+328,8,Leon Goretzka,06-02-1995,MF,Germany
+329,17,Julian Brandt,02-05-1996,MF,Germany
+330,7,Kai Havertz,11-06-1999,MF,Germany
+331,14,Jamal Musiala,26-02-2003,MF,Germany
+332,18,Jonas Hofmann,14-07-1992,MF,Germany
+333,13,Thomas Muller,13-09-1989,FW,Germany
+334,19,Leroy Sane,11-01-1996,FW,Germany
+335,10,Serge Gnabry,14-07-1995,FW,Germany
+336,24,Karim Adeyemi,18-01-2002,FW,Germany
+337,9,Niclas Fullkrug,09-02-1993,FW,Germany
+338,26,Youssoufa Moukoko,20-11-2004,FW,Germany
+339,16,Manaf Nurudeen,08-02-1999,GK,Ghana
+340,12,Danlad Ibrahim,02-12-2002,GK,Ghana
+341,1,Lawrence Ati Zigi,29-11-1996,GK,Ghana
+342,3,Denis Odoi,27-05-1988,DF,Ghana
+343,2,Tariq Lamptey,30-09-2000,DF,Ghana
+344,26,Alidu Seidu,04-06-2000,DF,Ghana
+345,18,Daniel Amartey,21-12-1994,DF,Ghana
+346,15,Joseph Aidoo,29-09-1995,DF,Ghana
+347,23,Alexander Djiku,09-08-1994,DF,Ghana
+348,4,Mohammed Salisu,17-04-1999,DF,Ghana
+349,17,Abdul-Rahman Baba,02-07-1994,DF,Ghana
+350,14,Gideon Mensah,18-07-1998,DF,Ghana
+351,10,Andre Ayew,17-12-1989,MF,Ghana
+352,5,Thomas Partey,13-06-1993,MF,Ghana
+353,6,Elisha Owusu,07-11-1997,MF,Ghana
+354,21,Salis Abdul Samed,26-03-2000,MF,Ghana
+355,20,Mohammed Kudus,02-08-2000,MF,Ghana
+356,8,Daniel Kofi Kyereh,09-03-1996,MF,Ghana
+357,13,Daniel Barnieh Afriyie,26-06-2001,FW,Ghana
+358,24,Kamal Sowah,09-01-2000,FW,Ghana
+359,7,Issahaku Abdul Fatawu,08-03-2004,FW,Ghana
+360,11,Osman Bukari,13-12-1998,FW,Ghana
+361,19,Inaki Williams,15-06-1994,FW,Ghana
+362,25,Antoine Semenyo,07-01-2000,FW,Ghana
+363,9,Jordan Ayew,11-09-1991,FW,Ghana
+364,22,Kamaldeen Sulemana,15-02-2002,FW,Ghana
+365,1,Alireza Beiranvand,12-09-1992,GK,Iran
+366,22,Amir Absedzadeh,26-04-1993,GK,Iran
+367,24,Hossein Hosseini,30-05-1992,GK,Iran
+368,12,Payam Niazmand,06-04-1995,GK,Iran
+369,3,Ehsan Hajsafi,25-02-1990,DF,Iran
+370,13,Hossein Kanaani,23-03-1994,DF,Iran
+371,8,Morteza Pouraliganji,19-04-1992,DF,Iran
+372,23,Ramin Rezaeian,21-03-1990,DF,Iran
+373,5,Milad Mohammadi,29-09-1993,DF,Iran
+374,4,Shojae Khalilzadeh,31-05-1989,DF,Iran
+375,2,Sadegh Moharrami,24-03-1996,DF,Iran
+376,19,Majid Hosseini,20-06-1996,DF,Iran
+377,25,Abolfazi Jalali,26-06-1998,DF,Iran
+378,11,Vahid Amiri,02-04-1988,MF,Iran
+379,7,Alireza Jahanbakhsh,11-08-1993,MF,Iran
+380,6,Saeid Ezatolahi,01-10-1996,MF,Iran
+381,16,Mehdi Torabi,10-09-1994,MF,Iran
+382,15,Rouzbeh Cheshmi,24-06-1993,MF,Iran
+383,14,Saman Ghoddos,06-09-1993,MF,Iran
+384,17,Ali Gholizadeh,10-03-1996,MF,Iran
+385,21,Ahmad Nourollahi,02-01-1993,MF,Iran
+386,18,Ali Karimi,11-02-1994,MF,Iran
+387,10,Karim Ansarifard,03-04-1990,FW,Iran
+388,20,Sardar Azmoun,01-01-1995,FW,Iran
+389,9,Mehdi Taremi,18-07-1992,FW,Iran
+390,1,Eiji Kawashima,20-03-1983,GK,Japan
+391,12,Shuichi Gonda,03-03-1989,GK,Japan
+392,23,Daniel Schmidt,03-02-1992,GK,Japan
+393,2,Miki Yamane,22-12-1993,DF,Japan
+394,3,Shogo Taniguchi,15-07-1991,DF,Japan
+395,4,K? Itakura,27-01-1997,DF,Japan
+396,5,Yuto Nagatomo,12-09-1986,DF,Japan
+397,16,Takehiro Tomiyasu,05-11-1998,DF,Japan
+398,19,Hiroki Sakai,12-04-1990,DF,Japan
+399,22,Maya Yoshida,24-08-1988,DF,Japan
+400,26,Hiroki Ito,12-05-1999,DF,Japan
+401,6,Wataru Endo,09-02-1993,MF,Japan
+402,7,Gaku Shibasaki,28-05-1992,MF,Japan
+403,8,Ritsu Doan,16-06-1998,MF,Japan
+404,9,Kaoru Mitoma,20-05-1997,MF,Japan
+405,10,Takumi Minamino,16-01-1995,MF,Japan
+406,11,Takefusa Kubo,04-06-2001,MF,Japan
+407,13,Hidemasa Morita,10-05-1995,MF,Japan
+408,14,Junya Ito,09-03-1993,MF,Japan
+409,15,Daichi Kamada,05-11-1996,MF,Japan
+410,17,Ao Tanaka,10-09-1998,MF,Japan
+411,24,Yuki Soma,25-02-1997,MF,Japan
+412,18,Takuma Asano,10-11-1994,FW,Japan
+413,20,Shuto Machino,30-09-1999,FW,Japan
+414,21,Ayase Ueda,28-08-1998,FW,Japan
+415,25,Daizen Maeda,20-10-1997,FW,Japan
+416,13,Guillermo Ochoa,13-07-1985,GK,Mexico 
+417,1,Alfredo Talavera,18-09-1982,GK,Mexico 
+418,12,Rodolfo Cota,03-07-1987,GK,Mexico 
+419,15,Hector Moreno,17-01-1988,DF,Mexico 
+420,23,Jesus Gallardo,15-08-1994,DF,Mexico 
+421,2,Nestor Araujo,29-08-1991,DF,Mexico 
+422,3,Cesar Montes,24-02-1997,DF,Mexico 
+423,19,Jorge Sanchez,10-12-1997,DF,Mexico 
+424,6,Gerardo Arteaga,07-09-1998,DF,Mexico 
+425,26,Kevin Alvarez,15-01-1999,DF,Mexico 
+426,5,Johan Vasquez,22-10-1998,DF,Mexico 
+427,18,Andres Guardado,28-09-1986,MF,Mexico 
+428,16,Hector Herrera,19-04-1990,MF,Mexico 
+429,4,Edson Alvarez,24-10-1997,MF,Mexico 
+430,17,Orbelin Pineda,24-03-1996,MF,Mexico 
+431,21,Uriel Antuna,21-08-1997,MF,Mexico 
+432,14,Erick Gutierrez,15-06-1995,MF,Mexico 
+433,8,Carlos Rodriguez,03-01-1997,MF,Mexico 
+434,25,Roberto Alvarado,07-09-1998,MF,Mexico 
+435,7,Luis Romo,05-06-1995,MF,Mexico 
+436,10,Alexis Vega,25-11-1997,MF,Mexico 
+437,24,Luis Chavez,15-01-1996,MF,Mexico 
+438,9,Raul Jimenez,05-05-1991,FW,Mexico 
+439,22,Hirving Lozano,30-07-1995,FW,Mexico 
+440,20,Henry Martin,18-11-1992,FW,Mexico 
+441,11,Rogelio Funes Mori,05-03-1991,FW,Mexico 
+442,1,Yassine Bounou,05-04-1991,GK,Morocco 
+443,12,Munir Mohamedi,10-05-1989,GK,Morocco 
+444,22,Ahmed Reda Tagnaouti,05-04-1996,GK,Morocco 
+445,2,Achraf Hakimi,04-11-1998,DF,Morocco 
+446,3,Noussair Mazraoui,14-11-1997,DF,Morocco 
+447,5,Nayef Aguerd,30-03-1996,DF,Morocco 
+448,6,Roman Saiss,26-03-1990,DF,Morocco 
+449,20,Achraf Dari,06-05-1999,DF,Morocco 
+450,25,Yahia Attiyat Allah,02-03-1995,DF,Morocco 
+451,24,Badr Benoun,30-09-1993,DF,Morocco 
+452,18,Jawad El Yamiq,29-02-1992,DF,Morocco 
+453,4,Sofyan Amrabat,21-08-1996,MF,Morocco 
+454,11,Abdelhamid Sabiri,28-11-1996,MF,Morocco 
+455,15,Selim Amallah,15-11-1996,MF,Morocco 
+456,8,Azzedine Ounahi,19-04-2000,MF,Morocco 
+457,23,Bilal El Khannous,10-05-2004,MF,Morocco 
+458,26,Yahya Jabrane,18-06-1991,MF,Morocco 
+459,7,Hakim Ziyech,19-03-1993,FW,Morocco 
+460,17,Sofiane Boufal,17-09-1993,FW,Morocco 
+461,14,Zakaria Aboukhlal,18-02-2000,FW,Morocco 
+462,10,Anass Zaroury,07-11-2000,FW,Morocco 
+463,16,Abde Ezzalzouli,17-12-2001,FW,Morocco 
+464,13,Ilias Chair,30-10-1997,FW,Morocco 
+465,19,Youssef En-Nesyri,01-06-1997,FW,Morocco 
+466,21,Walid Cheddira,22-01-1998,FW,Morocco 
+467,9,Abderrazak Hamdallah,17-12-1990,FW,Morocco 
+468,13,Justin Bijlow,22-01-1998,GK,Netherlands 
+469,1,Remko Pasveer,08-11-1983,GK,Netherlands 
+470,23,Andries Noppert,07-04-1994,GK,Netherlands 
+471,17,Daley Blind,09-03-1990,DF,Netherlands 
+472,6,Stefan de Vrij,05-02-1992,DF,Netherlands 
+473,4,Virgil van Dijk,08-07-1991,DF,Netherlands 
+474,3,Matthijs de Ligt,12-08-1999,DF,Netherlands 
+475,22,Denzel Dumfries,18-04-1996,DF,Netherlands 
+476,5,Nathan Ake,18-02-1995,DF,Netherlands 
+477,2,Jurrien Timber,17-06-2001,DF,Netherlands 
+478,16,Tyrell Malacia,17-06-1999,DF,Netherlands 
+479,26,Jeremie Frimpong,10-12-2000,DF,Netherlands 
+480,21,Frenkie de Jong,12-05-1997,MF,Netherlands 
+481,11,Steven Berghuis,19-12-1991,MF,Netherlands 
+482,15,Maarten de Roon,29-03-1991,MF,Netherlands 
+483,20,Teun Koopmeiners,28-02-1998,MF,Netherlands 
+484,24,Kenneth Taylor,16-05-2002,MF,Netherlands 
+485,25,Xavi Simons,21-04-2003,MF,Netherlands 
+486,14,Davy Klaassen,21-02-1993,MF,Netherlands 
+487,10,Memphis Depay,13-02-1994,FW,Netherlands 
+488,9,Luuk de Jong,27-08-1990,FW,Netherlands 
+489,7,Steven Bergwijn,08-10-1997,FW,Netherlands 
+490,18,Vincent Janssen,15-06-1994,FW,Netherlands 
+491,19,Wout Weghorst,07-08-1992,FW,Netherlands 
+492,8,Cody Gakpo,07-05-1999,FW,Netherlands 
+493,12,Noa Lang,17-06-1999,FW,Netherlands 
+494,1,Wojciech Szczesny,15-04-1990,GK,Poland 
+495,22,Kamil Grabara,08-01-1999,GK,Poland 
+496,12,Lukasz Skorupski,05-05-1991,GK,Poland 
+497,5,Jan Bednarek,12-04-1996,DF,Poland 
+498,15,Kamil Glik,03-02-1988,DF,Poland 
+499,25,Robert Gumny,04-06-1998,DF,Poland 
+500,3,Artur Jedrzejczyk,04-11-1987,DF,Poland 
+501,14,Jakub Kiwior,15-02-2000,DF,Poland 
+502,4,Mateusz Wieteska,11-02-1997,DF,Poland 
+503,18,Bartosz Bereszynski,12-07-1992,DF,Poland 
+504,2,Matty Cash,07-08-1997,DF,Poland 
+505,21,Nicola Zalewski,23-01-2002,DF,Poland 
+506,6,Krystian Bielik,04-01-1998,MF,Poland 
+507,24,Przemyslaw Frankowski,12-04-1995,MF,Poland 
+508,11,Kamil Grosicki,08-06-1988,MF,Poland 
+509,10,Grzegorz Krychowiak,29-01-1990,MF,Poland 
+510,13,Jakub Kaminski,05-06-2002,MF,Poland 
+511,26,Michal Skoras,15-02-2000,MF,Poland 
+512,8,Damian Szymanski,16-06-1995,MF,Poland 
+513,19,Sebastian Szymanski,10-05-1999,MF,Poland 
+514,20,Piotr Zielinski,20-05-1994,MF,Poland 
+515,17,Szymon Zurkowski,25-09-1997,MF,Poland 
+516,9,Robert Lewandowski,21-08-1988,FW,Poland 
+517,7,Arkadiusz Milik,28-02-1994,FW,Poland 
+518,23,Krzysztof Piatek,01-07-1995,FW,Poland 
+519,16,Karol Swiderski,23-01-1997,FW,Poland 
+520,22,Diogo Costa,19-09-1999,GK,Portugal
+521,1,Rui Patricio,15-02-1988,GK,Portugal
+522,12,Jose Sa,17-01-1993,GK,Portugal
+523,2,Diogo Dalot,18-03-1999,DF,Portugal
+524,13,Danilo Pereira,09-09-1991,DF,Portugal
+525,3,Pepe,26-02-1983,DF,Portugal
+526,4,Ruben Dias,14-05-1997,DF,Portugal
+527,24,Antonio Silva,30-10-2003,DF,Portugal
+528,19,Nuno Mendes,19-06-2002,DF,Portugal
+529,20,Joao Cancelo,27-05-1994,DF,Portugal
+530,5,Raphael Guerreiro,22-12-1993,DF,Portugal
+531,6,Joao Palhinha,09-07-1995,MF,Portugal
+532,18,Ruben Neves,13-03-1997,MF,Portugal
+533,10,Bernardo Silva,10-08-1994,MF,Portugal
+534,8,Bruno Fernandes,08-09-1994,MF,Portugal
+535,17,Joao Mario,19-01-1993,MF,Portugal
+536,23,Matheus Nunes,27-08-1998,MF,Portugal
+537,25,Otavio,09-02-1995,MF,Portugal
+538,14,William Carvalho,07-04-1992,MF,Portugal
+539,16,Vitinha,13-02-2000,MF,Portugal
+540,24,Andre Silva,06-11-1995,FW,Portugal
+541,7,Cristiano Ronaldo ??,05-02-1985,FW,Portugal
+542,26,Goncalo Ramos,20-06-2001,FW,Portugal
+543,11,Joao Felix,10-11-1999,FW,Portugal
+544,15,Rafael Leao,10-06-1999,FW,Portugal
+545,21,Ricardo Horta,15-09-1994,FW,Portugal
+546,1,Saad Al Sheeb,19-02-1990,GK,Qatar
+547,22,Meshaal Barsham,14-02-1998,GK,Qatar
+548,21,Yousef Hassan,24-05-1996,GK,Qatar
+549,3,Abdelkarim Hassan,28-08-1993,DF,Qatar
+550,16,Boualem Khoukhi,07-09-1990,DF,Qatar
+551,2,Pedro Miguel,06-08-1990,DF,Qatar
+552,5,Tarek Salman,05-12-1997,DF,Qatar
+553,15,Bassam Al-Rawi,16-12-1997,DF,Qatar
+554,13,Musab Kheder,26-09-1993,DF,Qatar
+555,14,Homam Ahmed,25-08-1999,DF,Qatar
+556,25,Jassem Gaber,20-02-2002,DF,Qatar
+557,12,Karim Boudiaf,16-09-1990,MF,Qatar
+558,20,Salem Al-Hajri,10-04-1996,MF,Qatar
+559,6,Abdulaziz Hatem,28-10-1990,MF,Qatar
+560,8,Ali Assadalla,19-01-1993,MF,Qatar
+561,4,Mohammed Waad,18-09-1999,MF,Qatar
+562,23,Assim Madibo,22-10-1996,MF,Qatar
+563,26,Mustafa Tarek,28-03-2001,MF,Qatar
+564,10,Hassan Al-Haydos,11-12-1990,FW,Qatar
+565,11,Akram Afif,18-11-1996,FW,Qatar
+566,19,Almoez Ali,19-08-1996,FW,Qatar
+567,17,Ismaeel Mohammada,05-04-1990,FW,Qatar
+568,9,Mohammed Muntari,20-12-1993,FW,Qatar
+569,7,Ahmed Alaaeldin,31-01-1993,FW,Qatar
+570,18,Khalid Muneer,24-02-1998,FW,Qatar
+571,24,Naif Al-Hadhrami,18-07-2001,FW,Qatar
+572,21,Mohammed Al-Owais,10-10-1991,GK,Saudi Arabia
+573,1,Mohammed Al Yami,14-08-1997,GK,Saudi Arabia
+574,22,Nawaf Al-Aqidi,10-05-2000,GK,Saudi Arabia
+575,13,Yasser Al-Shahrani,25-05-1992,DF,Saudi Arabia
+576,6,Mohammed Al-Breik,15-09-1992,DF,Saudi Arabia
+577,5,Ali Al-Bulaihi,21-11-1989,DF,Saudi Arabia
+578,2,Sultan Al-Ghanam,06-05-1994,DF,Saudi Arabia
+579,12,Saud Abdulhamid,18-07-1999,DF,Saudi Arabia
+580,4,Abdulelah Al-Amri,15-01-1997,DF,Saudi Arabia
+581,17,Hassan Tambakti,09-02-1999,DF,Saudi Arabia
+582,3,Abdullah Madu,15-07-1993,DF,Saudi Arabia
+583,18,Nawaf Alabid,26-01-1990,MF,Saudi Arabia
+584,7,Salman Al-Faraj,01-08-1989,MF,Saudi Arabia
+585,10,Salem Al-Dawsari,19-08-1991,MF,Saudi Arabia
+586,14,Abdullah Otayf,03-08-1992,MF,Saudi Arabia
+587,23,Mohamed Kanno,22-09-1994,MF,Saudi Arabia
+588,8,Abdulellah Al-Malki,11-10-1994,MF,Saudi Arabia
+589,16,Sami Al-Najei,07-02-1997,MF,Saudi Arabia
+590,15,Ali Al-Hassan,04-03-1997,MF,Saudi Arabia
+591,24,Nasser Al-Dawsari,19-12-1998,MF,Saudi Arabia
+592,20,Abdulrahman Al-Aboud,01-06-1995,MF,Saudi Arabia
+593,26,Riyadh Sharahili,28-04-1993,MF,Saudi Arabia
+594,19,Hattan Bahebri,16-07-1992,FW,Saudi Arabia
+595,9,Firas Al-Buraikan,14-05-2000,FW,Saudi Arabia
+596,11,Saleh Al-Shehri,01-11-1993,FW,Saudi Arabia
+597,25,Haitham Asiri,25-03-2001,FW,Saudi Arabia
+598,16,Edouard Mendy,01-03-1992,GK,Senegal
+599,23,Alfred Gomis,05-09-1993,GK,Senegal
+600,1,Seny Dieng,23-11-1994,GK,Senegal
+601,2,Formose Mendy,02-01-2001,DF,Senegal
+602,3,Kalidou Koulibaly,20-06-1991,DF,Senegal
+603,4,Papa Abou Cisse,14-09-1995,DF,Senegal
+604,8,Cheikhou Kouyat ,21-12-1989,DF,Senegal
+605,22,Abdou Diallo,04-05-1996,DF,Senegal
+606,12,Fode Ballo-Toure,03-01-1997,DF,Senegal
+607,14,Ismail Jakobs,17-08-1999,DF,Senegal
+608,21,Youssouf Sabaly,05-03-1993,DF,Senegal
+609,10,Moussa Ndiaye,18-06-2002,DF,Senegal
+610,5,Idrissa Gueye,26-09-1989,MF,Senegal
+611,26,Papa Gueye,24-01-1999,MF,Senegal
+612,17,Pape Matar Sarr,14-09-2002,MF,Senegal
+613,6,Nampalys Mendy,23-06-1992,MF,Senegal
+614,15,Krepin Diatta,25-02-1999,MF,Senegal
+615,11,Pathe Ciss,16-03-1994,MF,Senegal
+616,24,Moustapha Name,05-05-1995,MF,Senegal
+617,25,Loum Ndiaye,30-12-1996,MF,Senegal
+618,9,Boulaye Dia,16-11-1996,FW,Senegal
+619,18,Ismalia Sarr,25-02-1998,FW,Senegal
+620,20,Bamba Dieng,23-03-2000,FW,Senegal
+621,13,Iliman Ndiaye,06-03-2000,FW,Senegal
+622,7,Nicolas Jackson,20-06-2001,FW,Senegal
+623,19,Famara Diedhiou,15-12-1992,FW,Senegal
+624,1,Marko Dmitrovic,24-01-1992,GK,Serbia
+625,23,Vanja Milinkovic-Savic,20-02-1997,GK,Serbia
+626,12,Predrag Rajkovi?,31-10-1995,GK,Serbia
+627,13,Stefan Mitrovic,22-05-1990,DF,Serbia
+628,25,Filip Mladenovic,15-08-1991,DF,Serbia
+629,2,Strahinja Pavlovic,24-05-2001,DF,Serbia
+630,5,Milos Veljkovic,26-09-1995,DF,Serbia
+631,3,Strahinja Erakovic,22-01-2001,DF,Serbia
+632,15,Srdan Babic,22-04-1996,DF,Serbia
+633,4,Nikola Milenkovic,12-10-1997,DF,Serbia
+634,8,Nemanja Gudelj,16-11-1991,MF,Serbia
+635,17,Filip Kostic,01-11-1992,MF,Serbia
+636,6,Nemanja Maksimovic,26-01-1995,MF,Serbia
+637,20,Sergej Milinkovic-Savic,27-02-1995,MF,Serbia
+638,16,Sasa Lukic,13-08-1996,MF,Serbia
+639,14,Andrija Zivkovic,11-07-1996,MF,Serbia
+640,19,Uros Racic,17-03-1998,MF,Serbia
+641,24,Ivan Ilic,17-03-2001,MF,Serbia
+642,22,Darko Lazovic,15-09-1990,MF,Serbia
+643,26,Marko Grujic,13-04-1996,MF,Serbia
+644,11,Luka Jovi?,23-12-1997,FW,Serbia
+645,9,Aleksandr Mitrovic,16-09-1994,FW,Serbia
+646,18,Dusan Vlahovic,28-01-2000,FW,Serbia
+647,7,Nemanja Radonjic,15-02-1996,FW,Serbia
+648,21,Filip Duricic,30-01-1992,FW,Serbia
+649,10,Dusan Tadic,20-11-1988,FW,Serbia
+650,1,Kim Seung-gyu,30-09-1990,GK,South Korea
+651,21,Jo Hyeon-woon,25-09-1991,GK,South Korea
+652,12,Song Bum-keun,15-10-1997,GK,South Korea
+653,4,Kim Min-jae,15-11-1996,DF,South Korea
+654,3,Kim Jin-su,13-06-1992,DF,South Korea
+655,14,Hong Chul,17-09-1990,DF,South Korea
+656,15,Kim Moon-hwan,01-08-1995,DF,South Korea
+657,2,Yoon Jong-gyu,20-03-1998,DF,South Korea
+658,19,Kim Young-gwon,27-02-1990,DF,South Korea
+659,23,Kim Tae-hwan,24-07-1989,DF,South Korea
+660,20,Kwon Kyung-won,31-01-1992,DF,South Korea
+661,24,Cho Yu-min,17-11-1996,DF,South Korea
+662,5,Jung Woo-young,14-12-1989,MF,South Korea
+663,17,Na Sang-ho,12-08-1996,MF,South Korea
+664,8,Paik Seung-ho,17-03-1997,MF,South Korea
+665,13,Son Jun-ho,12-05-1992,MF,South Korea
+666,26,Song Min-kyu,12-09-1999,MF,South Korea
+667,22,Kwon Chang-hoon,30-06-1994,MF,South Korea
+668,10,Lee Jae-sung,10-08-1992,MF,South Korea
+669,6,Hwang In-beom,20-09-1996,MF,South Korea
+670,18,Lee Kang-in,19-02-2001,MF,South Korea
+671,7,Son Heung-min,08-07-1992,FW,South Korea
+672,11,Hwang Hee-chan,26-01-1996,FW,South Korea
+673,25,Jeong Woo-yeong,20-09-1999,FW,South Korea
+674,16,Hwang Ui-jo,28-08-1992,FW,South Korea
+675,9,Cho Gue-sung,26-01-1998,FW,South Korea
+676,1,Robert Sanchez,18-11-1997,GK,Spain
+677,13,David Raya,15-09-1995,GK,Spain
+678,23,Unai Simon,11-06-1997,GK,Spain
+679,2,Cesar Azpilicueta,28-08-1989,DF,Spain
+680,18,Jordi Alba,21-03-1989,DF,Spain
+681,15,Hugo Guillamon,31-01-2000,DF,Spain
+682,4,Pau Torrres,17-01-1997,DF,Spain
+683,3,Eric Garcia,09-01-2001,DF,Spain
+684,14,Alejandro Balde,18-10-2003,DF,Spain
+685,20,Dani Carvajal,11-01-1992,DF,Spain
+686,24,Aymeric Laporte,27-05-1994,DF,Spain
+687,5,Sergio Busquets,16-07-1988,MF,Spain
+688,6,Marcos Llorente,30-01-1995,MF,Spain
+689,26,Pedri,25-11-2002,MF,Spain
+690,16,Rodri,22-06-1996,MF,Spain
+691,8,Koke,08-01-1992,MF,Spain
+692,9,Gavi,05-08-2004,MF,Spain
+693,19,Carlos Soler,02-01-1997,MF,Spain
+694,7,Alvaro Morata,23-10-1992,FW,Spain
+695,17,Yeremy Pino,20-10-2002,FW,Spain
+696,11,Ferran Torres,29-02-2000,FW,Spain
+697,10,Marco Asensio,21-01-1996,FW,Spain
+698,22,Pablo Sarabia,11-05-1992,FW,Spain
+699,21,Dani Olmo,07-05-1998,FW,Spain
+700,12,Nico Williams,12-07-2002,FW,Spain
+701,25,Ansu Fati,31-10-2002,FW,Spain
+702,1,Yann Sommer,17-12-1988,GK,Switzerland
+703,12,Jonas Omlin,10-01-1994,GK,Switzerland
+704,21,Gregor Kobel,06-12-1997,GK,Switzerland
+705,24,Philipp Kohn,02-04-1998,GK,Switzerland
+706,3,Silvan Widmer,05-03-1993,DF,Switzerland
+707,13,Ricardo Rodriguez,25-08-1992,DF,Switzerland
+708,22,Fabian Schar,20-12-1991,DF,Switzerland
+709,5,Manuel Akanji,19-07-1995,DF,Switzerland
+710,4,Nico Elvedi,30-09-1996,DF,Switzerland
+711,18,Eray Comert,04-02-1998,DF,Switzerland
+712,23,Xherdan Shaqiri,10-10-1991,MF,Switzerland
+713,10,Granit Xhaka,27-09-1992,MF,Switzerland
+714,8,Remo Freuler,15-04-1992,MF,Switzerland
+715,6,Denis Zakaria,20-11-1996,MF,Switzerland
+716,15,Djibril Sow,06-02-1997,MF,Switzerland
+717,11,Renato Steffen,03-11-1991,MF,Switzerland
+718,2,Edimilson Fernandes,15-04-1996,MF,Switzerland
+719,20,Fabian Frei,08-01-1989,MF,Switzerland
+720,14,Michel Aebischer,06-01-1997,MF,Switzerland
+721,26,Ardon Jashari,30-06-2002,MF,Switzerland
+722,25,Fabian Rieder,16-02-2002,MF,Switzerland
+723,9,Haris Seferovic,22-02-1992,FW,Switzerland
+724,7,Breel Embolo,14-02-1997,FW,Switzerland
+725,17,Ruben Vargas,05-08-1998,FW,Switzerland
+726,16,Christian Fassnacht,11-11-1993,FW,Switzerland
+727,19,Noah Okafor,24-05-2000,FW,Switzerland
+728,16,Aymen Dahmen,27-01-1997,GK,Tunisia
+729,26,Mouez Hassen,05-03-1995,GK,Tunisia
+730,1,Balbouli,14-09-1984,GK,Tunisia
+731,22,Bechir Ben Sa d,29-11-1994,GK,Tunisia
+732,20,Mohamed Drager,25-06-1996,DF,Tunisia
+733,21,Wajdi Kechrida,05-11-1995,DF,Tunisia
+734,2,Bilel Ifa,09-03-1990,DF,Tunisia
+735,3,Montassar Talbi,26-05-1998,DF,Tunisia
+736,6,Dylan Bronn,19-06-1995,DF,Tunisia
+737,4,Yassine Meriah,02-07-1993,DF,Tunisia
+738,5,Nader Ghandri,18-02-1995,DF,Tunisia
+739,12,Ali Maaloul,01-01-1990,DF,Tunisia
+740,24,Ali Abdi,20-12-1993,DF,Tunisia
+741,17,Ellyes Skhiri,10-05-1995,MF,Tunisia
+742,14,Aissa Laidouni,13-12-1996,MF,Tunisia
+743,13,Ferjani Sassi,18-03-1992,MF,Tunisia
+744,18,Ghailene Chaalali,28-02-1994,MF,Tunisia
+745,8,Hannibal Mejbri,21-01-2003,MF,Tunisia
+746,15,Mohamed Ali Ben Romdhane,06-09-1999,MF,Tunisia
+747,19,Seifeddine Jaziri,12-02-1993,FW,Tunisia
+748,23,Naim Sliti,27-07-1992,FW,Tunisia
+749,11,Taha Yassine Khenissi,06-01-1992,FW,Tunisia
+750,25,Anis Ben Slimane,16-03-2001,FW,Tunisia
+751,9,Issam Jebali,25-12-1991,FW,Tunisia
+752,10,Wahbi Khazri,08-02-1991,FW,Tunisia
+753,7,Youssef Msakni,28-10-1990,FW,Tunisia
+754,1,Fernando Muslera,16-06-1986,GK,Uruguay
+755,23,Sergio Rochet,23-03-1993,GK,Uruguay
+756,12,Sebastian Sosa,19-08-1986,GK,Uruguay
+757,4,Ronald Araujo,07-03-1999,DF,Uruguay
+758,22,Martin Caceres,07-04-1987,DF,Uruguay
+759,19,Sebastian Coates,07-10-1990,DF,Uruguay
+760,2,Jose Maria Gimenez,20-01-1995,DF,Uruguay
+761,3,Diego Godin,16-02-1986,DF,Uruguay
+762,16,Mathias Olivera,31-10-1997,DF,Uruguay
+763,26,Jose Luis Rodriguez,14-03-1997,DF,Uruguay
+764,17,Matias Vina,09-11-1997,DF,Uruguay
+765,13,Guillermo Varela,24-03-1993,DF,Uruguay
+766,5,Matias Vecino,24-08-1991,MF,Uruguay
+767,7,Nicol s de la Cruz,01-06-1997,MF,Uruguay
+768,6,Rodrigo Bentancur,25-06-1997,MF,Uruguay
+769,15,Federico Valverde,22-07-1998,MF,Uruguay
+770,10,Giorgian de Arrascaeta,01-06-1994,MF,Uruguay
+771,14,Lucas Torreira,11-02-1996,MF,Uruguay
+772,20,Facundo Torres,13-04-2000,MF,Uruguay
+773,25,Manuel Ugarte,11-04-2001,MF,Uruguay
+774,9,Luis Suarez,24-01-1987,FW,Uruguay
+775,21,Edinson Cavani,14-02-1987,FW,Uruguay
+776,18,Maxi Gomez,14-08-1996,FW,Uruguay
+777,11,Darwin Nunez,24-06-1999,FW,Uruguay
+778,8,Facundo Pellistri,20-12-2001,FW,Uruguay
+779,24,Agustin Canobbio,01-10-1998,FW,Uruguay
+780,1,Matt Turner,24-06-1994,GK,USA
+781,12,Ethan Horvath,09-06-1995,GK,USA
+782,25,Sean Johnson,31-05-1989,GK,USA
+783,20,Cameron Carter-Vickers,31-12-1997,DF,USA
+784,2,Sergi o Dest,03-11-2000,DF,USA
+785,15,Aaron Long,12-10-2000,DF,USA
+786,18,Shaq Moore,02-11-1996,DF,USA
+787,13,Tim Ream,05-10-1987,DF,USA
+788,5,Antonee Robinson,08-08-1997,DF,USA
+789,26,Joe Scally,31-12-2002,DF,USA
+790,22,DeAndre Yedlin,09-07-1993,DF,USA
+791,3,Walker Zimmerman,19-05-1993,DF,USA
+792,11,Brenden Aaronson,22-10-2000,MF,USA
+793,23,Kellyn Acosta,24-07-1995,MF,USA
+794,4,Tyler Adams,14-02-1999,MF,USA
+795,14,Luca de la Torre,23-05-1998,MF,USA
+796,8,Weston McKennie,28-08-1998,MF,USA
+797,6,Yunus Musah,29-11-2002,MF,USA
+798,17,Cristian Roldan,03-06-1995,MF,USA
+799,24,Josh Sargent,20-02-2000,FW,USA
+800,9,Jes s Ferreira,24-12-2000,FW,USA
+801,16,Jordan Morris,26-10-1994,FW,USA
+802,10,Christian Pulisic,18-09-1998,FW,USA
+803,7,Gio Reyna,13-11-2002,FW,USA
+804,21,Tim Weah,22-02-2000,FW,USA
+805,19,Haji Wright,27-03-1998,FW,USA
+806,12,Danny Ward,22-06-1993,GK,Wales
+807,1,Wayne Hennessey,24-01-1987,GK,Wales
+808,21,Adam Davies,17-07-1992,GK,Wales
+809,4,Ben Davies,24-04-1993,DF,Wales
+810,24,Ben Cabango,30-05-2000,DF,Wales
+811,6,Joe Rodon,22-10-1997,DF,Wales
+812,5,Chris Mepham,05-11-1997,DF,Wales
+813,15,Ethan Ampadu,14-09-2000,DF,Wales
+814,2,Chris Gunter,21-07-1989,DF,Wales
+815,3,Neco Williams,13-04-2001,DF,Wales
+816,14,Connor Roberts,23-09-1995,DF,Wales
+817,17,Tom Lockyer,03-12-1994,DF,Wales
+818,22,Sorba Thomas,25-01-1999,MF,Wales
+819,7,Joe Allen,14-03-2000,MF,Wales
+820,26,Matthew Smith,22-11-1999,MF,Wales
+821,23,Dylan Levitt,17-11-2000,MF,Wales
+822,8,Harry Wilson,22-03-1997,MF,Wales
+823,16,Joe Morrell,03-01-1997,MF,Wales
+824,18,Jonny Williams,09-10-1993,MF,Wales
+825,10,Aaron Ramsey,26-12-1990,MF,Wales
+826,25,Rubin Colwill,27-04-2000,FW,Wales
+827,11,Gareth Bale,16-07-1989,FW,Wales
+828,13,Kieffer Moore,08-08-1992,FW,Wales
+829,19,Mark Harris,29-12-1998,FW,Wales
+830,9,Brennan Johnson,23-05-2001,FW,Wales
+831,20,Dan James,10-11-1997,FW,Wales
