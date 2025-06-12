@@ -1,17 +1,832 @@
-player_id,world_cup_year,team,club
-1,2006,Argentina,Barcelona
-1,2010,Argentina,Barcelona
-1,2014,Argentina,Barcelona
-1,2018,Argentina,Barcelona
-1,2022,Argentina,Paris Saint-Germain
-2,2018,France,Paris Saint-Germain
-2,2022,France,Paris Saint-Germain
-3,2006,Croatia,Dinamo Zagreb
-3,2014,Croatia,Real Madrid
-3,2018,Croatia,Real Madrid
-3,2022,Croatia,Real Madrid
-4,2018,England,Tottenham
-4,2022,England,Tottenham
-5,2014,France,Arsenal
-5,2018,France,Chelsea
-5,2022,France,AC Milan
+player_id,world_cup_year,team,club,country_club
+1,2022,Argentina,Aston Villa,England
+2,2022,Argentina,River Plate,Argentina
+3,2022,Argentina,Villarreal,Spain
+4,2022,Argentina,Benfica,Portugal
+5,2022,Argentina,Sevilla,Spain
+6,2022,Argentina,Lyon,France
+7,2022,Argentina,Real Betis,Spain
+8,2022,Argentina,Atletico Madrid,Spain
+9,2022,Argentina,Sevilla,Spain
+10,2022,Argentina,Villarreal,Spain
+11,2022,Argentina,Tottenham,England
+12,2022,Argentina,Manchester United,England
+13,2022,Argentina,Juventus,Italy
+14,2022,Argentina,Atletico Madrid,Spain
+15,2022,Argentina,Real Betis,Spain
+16,2022,Argentina,Bayer Leverkusen,Germany
+17,2022,Argentina,Brighton,England
+18,2022,Argentina,Benfica,Portugal
+19,2022,Argentina,Atlanta United,USA
+20,2022,Argentina,PSG,France
+21,2022,Argentina,Internazionale,Italy
+22,2022,Argentina,Roma,Italy
+23,2022,Argentina,Internazionale,Italy
+24,2022,Argentina,Manchester City,England
+25,2022,Argentina,Juventus,Italy
+26,2022,Argentina,Atletico Madrid,Spain
+27,2022,Australia,Copenhagen,Denmark
+28,2022,Australia,Central Coast Mariners,Australia
+29,2022,Australia,Sydney,Australia
+30,2022,Australia,Dundee United,Scotland
+31,2022,Australia,Columbus Crew,USA
+32,2022,Australia,Sunderland,England
+33,2022,Australia,Brescia,Italy
+34,2022,Australia,Stoke City,England
+35,2022,Australia,Hearts,Scotland
+36,2022,Australia,OB,Denmark
+37,2022,Australia,Hearts,Scotland
+38,2022,Australia,Albirex Niigata,Japan
+39,2022,Australia,Celtic,Scotland
+40,2022,Australia,St Pauli,Germany
+41,2022,Australia,Hellas Verona,Italy
+42,2022,Australia,Middlesbrough,England
+43,2022,Australia,St Mirren,Scotland
+44,2022,Australia,Hearts,Scotland
+45,2022,Australia,Melbourne City,Australia
+46,2022,Australia,Cadiz,Spain
+47,2022,Australia,Melbourne City,Australia
+48,2022,Australia,Fagiano Okayama,Japan
+49,2022,Australia,Hibernian,Scotland
+50,2022,Australia,Adelaide United,Australia
+51,2022,Australia,Central Coast Mariners,Australia
+52,2022,Australia,Central Coast Mariners,Australia
+53,2022,Belgium,Real Madrid,Spain
+54,2022,Belgium,Club Brugge,Belgium
+55,2022,Belgium,Wolfsburg,Germany
+56,2022,Belgium,Antwerp,Belgium
+57,2022,Belgium,Rennes,France
+58,2022,Belgium,Anderlecht,Belgium
+59,2022,Belgium,Anderlecht,Belgium
+60,2022,Belgium,Leicester City,England
+61,2022,Belgium,Leicester,England
+62,2022,Belgium,Borussia Dortmund,Germany
+63,2022,Belgium,Borussia Dortmund,Germany
+64,2022,Belgium,Manchester City,England
+65,2022,Belgium,Atletico Madrid,Spain
+66,2022,Belgium,Aston Villa,England
+67,2022,Belgium,Leicester City,England
+68,2022,Belgium,Club Brugge,Belgium
+69,2022,Belgium,Atletico Madrid,Spain
+70,2022,Belgium,AC Milan,Italy
+71,2022,Belgium,Everton,England
+72,2022,Belgium,Rennes,France
+73,2022,Belgium,Real Madrid,Spain
+74,2022,Belgium,Galatasaray,Turkey
+75,2022,Belgium,Brighton,England
+76,2022,Belgium,Fenerbahce,Turkey
+77,2022,Belgium,Lens,France
+78,2022,Belgium,Internazionale,Italy
+79,2022,Brazil,Liverpool,England
+80,2022,Brazil,Manchester City,England
+81,2022,Brazil,Palmeiras,Brazil
+82,2022,Brazil,UNAM,Mexico
+83,2022,Brazil,Chelsea,England
+84,2022,Brazil,PSG,France
+85,2022,Brazil,Juventus,Italy
+86,2022,Brazil,Juventus,Italy
+87,2022,Brazil,Real Madrid,Spain
+88,2022,Brazil,Sevilla,Spain
+89,2022,Brazil,Juventus,Italy
+90,2022,Brazil,Manchester United,England
+91,2022,Brazil,West Ham,England
+92,2022,Brazil,Liverpool,England
+93,2022,Brazil,Manchester United,England
+94,2022,Brazil,Flamengo,Brazil
+95,2022,Brazil,Newcastle United,England
+96,2022,Brazil,PSG,France
+97,2022,Brazil,Arsenal,England
+98,2022,Brazil,Tottenham,England
+99,2022,Brazil,Real Madrid,Spain
+100,2022,Brazil,Manchester United,England
+101,2022,Brazil,Barcelona,Spain
+102,2022,Brazil,Real Madrid,Spain
+103,2022,Brazil,Arsenal,England
+104,2022,Brazil,Flamengo,Brazil
+105,2022,Cameroon,Internazionale,Italy
+106,2022,Cameroon,Abha,Saudi Arabia
+107,2022,Cameroon,Marseille,France
+108,2022,Cameroon,Udinese,Italy
+109,2022,Cameroon,Al-Tai,Saudi Arabia
+110,2022,Cameroon,Philadelphia Union,USA
+111,2022,Cameroon,Nantes,France
+112,2022,Cameroon,Seattle Sounders,USA
+113,2022,Cameroon,Rennes,France
+114,2022,Cameroon,Aris,Greece
+115,2022,Cameroon,Swansea City,Wales
+116,2022,Cameroon,Hannover,Germany
+117,2022,Cameroon,Olympiacos,Greece
+118,2022,Cameroon,Mechelen,Belgium
+119,2022,Cameroon,Napoli,Italy
+120,2022,Cameroon,San Diego Loyal SC,USA
+121,2022,Cameroon,Verona,Italy
+122,2022,Cameroon,Dynamo Moscow,Russia
+123,2022,Cameroon,Shanghai Shenhua,China
+124,2022,Cameroon,Brentford,England
+125,2022,Cameroon,Besiktas,Turkey
+126,2022,Cameroon,Young Boys,Switzerland
+127,2022,Cameroon,Al-Nassr,Saudi Arabia
+128,2022,Cameroon,Lyon,France
+129,2022,Cameroon,Bayern Munich,Germany
+130,2022,Cameroon,Coton Sport de Garoua,Cameroon
+131,2022,Canada,CF Montreal ,Canada
+132,2022,Canada,Red Star Belgrade,Serbia
+133,2022,Canada,Minnesota United,USA
+134,2022,Canada,Celtic,Scotland
+135,2022,Canada,Hatayspor,Turkey
+136,2022,Canada,Montreal Impact,Canada
+137,2022,Canada,GD Chaves,Portugal
+138,2022,Canada,Toronto,Canada
+139,2022,Canada,Panaitolikos,Greece
+140,2022,Canada,Montreal Impact,Canada
+141,2022,Canada,Montreal Impact,Canada
+142,2022,Canada,Porto,Portugal
+143,2022,Canada,Besiktas,Turkey
+144,2022,Canada,Toronto,Canada
+145,2022,Canada,Toronto,Canada
+146,2022,Canada,St. Johnstone,Scotland
+147,2022,Canada,KMSK Deinze,Belgium
+148,2022,Canada,Watford,England
+149,2022,Canada,Vancouver Whitecaps,Canada
+150,2022,Canada,Reading,England
+151,2022,Canada,Club Brugge,Belgium
+152,2022,Canada,Club Brugge,Belgium
+153,2022,Canada,Bayern Munich,Germany
+154,2022,Canada,Lille,France
+155,2022,Canada,Basel,Switzerland
+156,2022,Canada,Troyes,France
+157,2022,Costa Rica,PSG,France
+158,2022,Costa Rica,Herediano,Costa Rica
+159,2022,Costa Rica,Lugo,Spain
+160,2022,Costa Rica,Real Salt Lake,USA
+161,2022,Costa Rica,Al-Wehda,Saudi Arabia
+162,2022,Costa Rica,Saprissa,Costa Rica
+163,2022,Costa Rica,Cincinnati,USA
+164,2022,Costa Rica,Herediano,Costa Rica
+165,2022,Costa Rica,Millonarios,Colombia
+166,2022,Costa Rica,San Carlos,Costa Rica
+167,2022,Costa Rica,Konyaspor,Turkey
+168,2022,Costa Rica,Alajuelense,Costa Rica
+169,2022,Costa Rica,Alajuelense,Costa Rica
+170,2022,Costa Rica,Herediano,Costa Rica
+171,2022,Costa Rica,Herediano,Costa Rica
+172,2022,Costa Rica,Sunderland,England
+173,2022,Costa Rica,Colorado Rapids,USA
+174,2022,Costa Rica,Saprissa,Costa Rica
+175,2022,Costa Rica,Municipal Grecia,Costa Rica
+176,2022,Costa Rica,Nottingham Forest,England
+177,2022,Costa Rica,Herediano,Costa Rica
+178,2022,Costa Rica,Puntarenas,Costa Rica
+179,2022,Costa Rica,Saprissa,Costa Rica
+180,2022,Costa Rica,Leon,Mexico
+181,2022,Costa Rica,Alajuelense,Costa Rica
+182,2022,Costa Rica,Herediano,Costa Rica
+183,2022,Croatia,Dinamo Zagreb,Croatia
+184,2022,Croatia,Osijek,Croatia
+185,2022,Croatia,Atletico Madrid,Spain
+186,2022,Croatia,AEK Athens,Greece
+187,2022,Croatia,Zenit,Russia
+188,2022,Croatia,Rangers,Scotland
+189,2022,Croatia,Celtic,Scotland
+190,2022,Croatia,Stuttgart,Germany
+191,2022,Croatia,RB Leipzig,Germany
+192,2022,Croatia,Bayern Munich,Germany
+193,2022,Croatia,Sassuolo,Italy
+194,2022,Croatia,Dinamo Zagreb,Croatia
+195,2022,Croatia,Real Madrid,Spain
+196,2022,Croatia,Chelsea,England
+197,2022,Croatia,Internazionale,Italy
+198,2022,Croatia,Atalanta,Italy
+199,2022,Croatia,Torino,Italy
+200,2022,Croatia,Rennes,France
+201,2022,Croatia,Eintracht Frankfurt,Germany
+202,2022,Croatia,Red Bull Salzburg,Austria
+203,2022,Croatia,Tottenham,England
+204,2022,Croatia,Hoffenheim,Germany
+205,2022,Croatia,Dinamo Zagreb,Croatia
+206,2022,Croatia,Dinamo Zagreb,Croatia
+207,2022,Croatia,Osasuna,Spain
+208,2022,Croatia,Hajduk Split,Croatia
+209,2022,Denmark,Nice,France
+210,2022,Denmark,Hertha Berlin,Germany
+211,2022,Denmark,Union Berlin,Germany
+212,2022,Denmark,AC Milan,Italy
+213,2022,Denmark,Barcelona,Spain
+214,2022,Denmark,Trabzonspor,Turkey
+215,2022,Denmark,Brondby,Denmark
+216,2022,Denmark,Leeds United,England
+217,2022,Denmark,Atalanta,Italy
+218,2022,Denmark,Crystal Palace,England
+219,2022,Denmark,Sevilla,Spain
+220,2022,Denmark,Galatasaray,Turkey
+221,2022,Denmark,Benfica,Portugal
+222,2022,Denmark,Manchester United,England
+223,2022,Denmark,Brentford,England
+224,2022,Denmark,Tottenham,England
+225,2022,Denmark,Brentford,England
+226,2022,Denmark,Hoffenheim ,Germany
+227,2022,Denmark,Espanyol,Spain
+228,2022,Denmark,Copenhagen,Denmark
+229,2022,Denmark,Sevilla,Spain
+230,2022,Denmark,Club Brugge,Belgium
+231,2022,Denmark,Brentford,England
+232,2022,Denmark,Wolfsburg,Germany
+233,2022,Denmark,Eintracht Frankfurt,Germany
+234,2022,Denmark,RB Leipzig,Germany
+235,2022,Ecuador ,Aucas,Ecuador
+236,2022,Ecuador ,Independiente del Valle,Ecuador
+237,2022,Ecuador ,LDU Quito,Ecuador
+238,2022,Ecuador ,Santos Laguna,Mexico
+239,2022,Ecuador ,Bayer Leverkusen,Germany
+240,2022,Ecuador ,Sao Paulo,Brazil
+241,2022,Ecuador ,Antwerp,Belgium
+242,2022,Ecuador ,Brighton,England
+243,2022,Ecuador ,Seattle Sounders FC,USA
+244,2022,Ecuador ,Genk,Belgium
+245,2022,Ecuador ,Los Angeles FC,USA
+246,2022,Ecuador ,Troyes,France
+247,2022,Ecuador ,Los Angeles FC,USA
+248,2022,Ecuador ,Augsburg,Germany
+249,2022,Ecuador ,Leon,Mexico
+250,2022,Ecuador ,Brighton,England
+251,2022,Ecuador ,Real Valladolid,Spain
+252,2022,Ecuador ,Los Angeles FC,USA
+253,2022,Ecuador ,Talleres,Argentina
+254,2022,Ecuador ,Brighton,England
+255,2022,Ecuador ,Imbabura,Ecuador
+256,2022,Ecuador ,Santos Laguna,Mexico
+257,2022,Ecuador ,Pachuca,Mexico
+258,2022,Ecuador ,Cruz Azul,Mexico
+259,2022,Ecuador ,Fenerbahce,Turkey
+260,2022,Ecuador ,Newell's Old Boys,Argentina
+261,2022,England,Everton,England
+262,2022,England,Newcastle United,England
+263,2022,England,Arsenal,England
+264,2022,England,Liverpool,England
+265,2022,England,Everton,England
+266,2022,England,Tottenham,England
+267,2022,England,Manchester United,England
+268,2022,England,Manchester United,England
+269,2022,England,Manchester City,England
+270,2022,England,Newcastle United,England
+271,2022,England,Manchester City,England
+272,2022,England,Arsenal,England
+273,2022,England,Borussia Dortmund,Germany
+274,2022,England,Chelsea,England
+275,2022,England,Liverpool,England
+276,2022,England,Chelsea,England
+277,2022,England,Manchester City,England
+278,2022,England,West Ham United,England
+279,2022,England,Manchester City,England
+280,2022,England,Manchester City,England
+281,2022,England,Tottenham,England
+282,2022,England,Leicester City,England
+283,2022,England,Manchester United,England
+284,2022,England,Arsenal,England
+285,2022,England,Chelsea,England
+286,2022,England,Newcastle United,England
+287,2022,France,Tottenham,England
+288,2022,France,West Ham United,England
+289,2022,France,Rennes,France
+290,2022,France,Bayern Munich,Germany
+291,2022,France,Barcelona,Spain
+292,2022,France,Man Utd,England
+293,2022,France,PSG,France
+294,2022,France,Arsenal,England
+295,2022,France,AC Milan,Italy
+296,2022,France,Bayern Munich,Germany
+297,2022,France,Liverpool,England
+298,2022,France,Bayern Munich,Germany
+299,2022,France,Juventus,Italy
+300,2022,France,Real Madrid,Spain
+301,2022,France,Monaco,France
+302,2022,France,Marseille,France
+303,2022,France,Marseille,France
+304,2022,France,Real Madrid,Spain
+305,2022,France,Monaco,France
+306,2022,France,Bayern Munich,Germany
+307,2022,France,PSG,France
+308,2022,France,AC Milan,Italy
+309,2022,France,Atletico Madrid,Spain
+310,2022,France,Barcelona,Spain
+311,2022,France,Eintracht Frankfurt,Germany
+312,2022,France,Borussia Monchengladbach,Germany
+313,2022,Germany,Bayern Munich,Germany
+314,2022,Germany,Barcelona,Spain
+315,2022,Germany,Eintracht Frankfurt,Germany
+316,2022,Germany,Real Madrid,Spain
+317,2022,Germany,Freiburg,Germany
+318,2022,Germany,Borussia Dortmund,Germany
+319,2022,Germany,West Ham,England
+320,2022,Germany,RB Leipzig,Germany
+321,2022,Germany,RB Leipzig,Germany
+322,2022,Germany,Freiburg,Germany
+323,2022,Germany,Borussia Dortmund,Germany
+324,2022,Germany,Southampton,England
+325,2022,Germany,Bayern Munich,Germany
+326,2022,Germany,Eintracht Frankfurt,Germany
+327,2022,Germany,Manchester City,England
+328,2022,Germany,Bayern Munich,Germany
+329,2022,Germany,Borussia Dortmund,Germany
+330,2022,Germany,Chelsea,England
+331,2022,Germany,Bayern Munich,Germany
+332,2022,Germany,Borussia Monchengladbach,Germany
+333,2022,Germany,Bayern Munich,Germany
+334,2022,Germany,Bayern Munich,Germany
+335,2022,Germany,Bayern Munich,Germany
+336,2022,Germany,Borussia Dortmund,Germany
+337,2022,Germany,Werder Bremen,Germany
+338,2022,Germany,Borussia Dortmund,Germany
+339,2022,Ghana,Eupen,Belgium
+340,2022,Ghana,Asante Kotoko,Ghana
+341,2022,Ghana,St. Gellen,Switzerland
+342,2022,Ghana,Club Brugge,Belgium
+343,2022,Ghana,Brighton,England
+344,2022,Ghana,Clermont,France
+345,2022,Ghana,Leicester City,England
+346,2022,Ghana,Celta Vigo,Spain
+347,2022,Ghana,Strasbourg,France
+348,2022,Ghana,Southampton,England
+349,2022,Ghana,Reading,England
+350,2022,Ghana,Auxerre,France
+351,2022,Ghana,Al-Sadd,Qatar
+352,2022,Ghana,Arsenal,England
+353,2022,Ghana,Gent,Belgium
+354,2022,Ghana,Lens,France
+355,2022,Ghana,Ajax,Netherlands
+356,2022,Ghana,SC Freiburg,Germany
+357,2022,Ghana,Hearts of Oak,Ghana
+358,2022,Ghana,Club Brugge,Belgium
+359,2022,Ghana,Sporting CP,Portugal
+360,2022,Ghana,Red Star Belgrade,Serbia
+361,2022,Ghana,Athletic Club,Spain
+362,2022,Ghana,Bristol City,England
+363,2022,Ghana,Crystal Palace,England
+364,2022,Ghana,Rennes,France
+365,2022,Iran,Persepolis,Iran
+366,2022,Iran,Ponferradina,Spain
+367,2022,Iran,Esteghlal,Iran
+368,2022,Iran,Sepahan,Iran
+369,2022,Iran,AEK Athens,Greece
+370,2022,Iran,Al Ahli,Qatar
+371,2022,Iran,Persepolis,Iran
+372,2022,Iran,Sepahan,Iran
+373,2022,Iran,AEK Athens,Greece
+374,2022,Iran,Al-Ahli,Qatar
+375,2022,Iran,Dinamo Zagreb,Croatia
+376,2022,Iran,Kayserispor,Turkey
+377,2022,Iran,Esteghlal,Iran
+378,2022,Iran,Persepolis,Iran
+379,2022,Iran,Feyenoord,Netherlands
+380,2022,Iran,Vejle,Denmark
+381,2022,Iran,Persepolis,Iran
+382,2022,Iran,Esteghlal,Iran
+383,2022,Iran,Brentford,England
+384,2022,Iran,Charleroi,Belgium
+385,2022,Iran,Shabab Al-Ahli,United Arab Emirates
+386,2022,Iran,Kayserispor,Turkey
+387,2022,Iran,Omonia,Cyprus
+388,2022,Iran,Bayer Leverkusen,Germany
+389,2022,Iran,Porto,Portugal
+390,2022,Japan,Strasbourg,France
+391,2022,Japan,Shimizu S-Pulse,Japan
+392,2022,Japan,Sint-Truiden,Belgium
+393,2022,Japan,Kawasaki Frontale,Japan
+394,2022,Japan,Kawasaki Frontale,Japan
+395,2022,Japan,Borussia Monchengladbach,Germany
+396,2022,Japan,Tokyo,Japan
+397,2022,Japan,Arsenal,England
+398,2022,Japan,Urawa Red Diamonds,Japan
+399,2022,Japan,Schalke,Germany
+400,2022,Japan,Stuttgart,Germany
+401,2022,Japan,Stuttgart,Germany
+402,2022,Japan,Leganes,Spain
+403,2022,Japan,Freiburg,Germany
+404,2022,Japan,Brighton,England
+405,2022,Japan,Monaco,France
+406,2022,Japan,Real Sociedad,Spain
+407,2022,Japan,Sporting,Portugal
+408,2022,Japan,Reims,France
+409,2022,Japan,Eintracht Frankfurt,Germany
+410,2022,Japan,Fortuna Dusseldorf,Germany
+411,2022,Japan,Nagoya Grampus,Japan
+412,2022,Japan,Bochum,Germany
+413,2022,Japan,Shonan Bellmare,Japan
+414,2022,Japan,Cercle Brugge,Belgium
+415,2022,Japan,Celtic,Scotland
+416,2022,Mexico ,America,Mexico
+417,2022,Mexico ,Juarez,Mexico
+418,2022,Mexico ,Leon,Mexico
+419,2022,Mexico ,Monterrey,Mexico
+420,2022,Mexico ,Monterrey,Mexico
+421,2022,Mexico ,America,Mexico
+422,2022,Mexico ,Monterrey,Mexico
+423,2022,Mexico ,Ajax,Netherlands
+424,2022,Mexico ,Genk,Belgium
+425,2022,Mexico ,Pachuca,Mexico
+426,2022,Mexico ,Cremonese,Italy
+427,2022,Mexico ,Real Betis,Spain
+428,2022,Mexico ,Houston Dynamo,USA
+429,2022,Mexico ,Ajax,Netherlands
+430,2022,Mexico ,AEK Athens,Greece
+431,2022,Mexico ,Cruz Azul,Mexico
+432,2022,Mexico ,PSV,Netherlands
+433,2022,Mexico ,Cruz Azul,Mexico
+434,2022,Mexico ,Guadalajara,Mexico
+435,2022,Mexico ,Monterrey,Mexico
+436,2022,Mexico ,Guadalajara,Mexico
+437,2022,Mexico ,Pachuca,Mexico
+438,2022,Mexico ,Wolves,England
+439,2022,Mexico ,Napoli,Italy
+440,2022,Mexico ,America,Mexico
+441,2022,Mexico ,Monterrey,Mexico
+442,2022,Morocco ,Sevilla,Spain
+443,2022,Morocco ,Al Wehda,Saudi Arabia
+444,2022,Morocco ,Wydad AC,Morocco
+445,2022,Morocco ,PSG,France
+446,2022,Morocco ,Bayern Munich,Germany
+447,2022,Morocco ,West Ham,England
+448,2022,Morocco ,Besiktas,Turkey
+449,2022,Morocco ,Brest,France
+450,2022,Morocco ,Wydad AC,Morocco
+451,2022,Morocco ,Qatar SC,Qatar
+452,2022,Morocco ,Valladolid,Spain
+453,2022,Morocco ,Fiorentina,Italy
+454,2022,Morocco ,Sampdoria,Italy
+455,2022,Morocco ,Standard Liege,Belgium
+456,2022,Morocco ,Angers,France
+457,2022,Morocco ,Genk,Belgium
+458,2022,Morocco ,Wydad AC,Morocco
+459,2022,Morocco ,Chelsea,England
+460,2022,Morocco ,Angers,France
+461,2022,Morocco ,Toulouse,France
+462,2022,Morocco ,Burnley,England
+463,2022,Morocco , Osasuna,Spain
+464,2022,Morocco ,QPR,England
+465,2022,Morocco ,Sevilla,Spain
+466,2022,Morocco ,Bari,Italy
+467,2022,Morocco ,Al-Ittihad,Saudi Arabia
+468,2022,Netherlands ,Feyenoord,Netherlands
+469,2022,Netherlands ,Ajax,Netherlands
+470,2022,Netherlands ,Heerenveen,Netherlands
+471,2022,Netherlands ,Ajax,Netherlands
+472,2022,Netherlands ,Internazionale,Italy
+473,2022,Netherlands ,Liverpool,England
+474,2022,Netherlands ,Bayern Munich,Germany
+475,2022,Netherlands ,Internazionale,Italy
+476,2022,Netherlands ,Manchester City,England
+477,2022,Netherlands ,Ajax,Netherlands
+478,2022,Netherlands ,Manchester United,England
+479,2022,Netherlands ,Bayer Leverkusen,Germany
+480,2022,Netherlands ,Barcelona,Spain
+481,2022,Netherlands ,Ajax,Netherlands
+482,2022,Netherlands ,Atalanta,Italy
+483,2022,Netherlands ,Atalanta,Italy
+484,2022,Netherlands ,Ajax,Netherlands
+485,2022,Netherlands ,PSV,Netherlands
+486,2022,Netherlands ,Ajax,Netherlands
+487,2022,Netherlands ,Barcelona,Spain
+488,2022,Netherlands ,PSV,Netherlands
+489,2022,Netherlands ,Ajax,Netherlands
+490,2022,Netherlands ,Antwerp,Belgium
+491,2022,Netherlands ,Besiktas,Turkey
+492,2022,Netherlands ,PSV,Netherlands
+493,2022,Netherlands ,Club Brugge,Belgium
+494,2022,Poland ,Juventus,Italy
+495,2022,Poland ,Copenhagen,Denmark
+496,2022,Poland ,Bologna,Italy
+497,2022,Poland ,Aston Villa,England
+498,2022,Poland ,Benevento,Italy
+499,2022,Poland ,Augsburg,Germany
+500,2022,Poland ,Legia Warsaw,Poland
+501,2022,Poland ,Spezia,Italy
+502,2022,Poland ,Clermont,France
+503,2022,Poland ,Sampdoria,Italy
+504,2022,Poland ,Aston Villa,England
+505,2022,Poland ,Roma,Italy
+506,2022,Poland ,Birmingham City,England
+507,2022,Poland ,Lens,France
+508,2022,Poland ,Pogon Szczecin,Poland
+509,2022,Poland ,Al-Shabab,Saudi Arabia
+510,2022,Poland ,Wolfsburg,Germany
+511,2022,Poland ,Lech Poznan,Poland
+512,2022,Poland ,AEK Athens,Greece
+513,2022,Poland ,Feyenoord,Netherlands
+514,2022,Poland ,Napoli,Italy
+515,2022,Poland ,Fiorentina,Italy
+516,2022,Poland ,Barcelona,Spain
+517,2022,Poland ,Juventus,Italy
+518,2022,Poland ,Salernitana,Italy
+519,2022,Poland ,Charlotte FC,USA
+520,2022,Portugal,Porto,Portugal
+521,2022,Portugal,Roma,Italy
+522,2022,Portugal,Wolves,England
+523,2022,Portugal,Manchester United,England
+524,2022,Portugal,PSG,France
+525,2022,Portugal,Porto,Portugal
+526,2022,Portugal,Manchester City,England
+527,2022,Portugal,Benfica,Portugal
+528,2022,Portugal,PSG,France
+529,2022,Portugal,Manchester City,England
+530,2022,Portugal,Borussia Dortmund,Germany
+531,2022,Portugal,Fulham,England
+532,2022,Portugal,Wolves,England
+533,2022,Portugal,Manchester City,England
+534,2022,Portugal,Manchester United,England
+535,2022,Portugal,Benfica,Portugal
+536,2022,Portugal,Wolves,England
+537,2022,Portugal,Porto,Portugal
+538,2022,Portugal,Real Betis,Spain
+539,2022,Portugal,PSG,France
+540,2022,Portugal,RB Leipzig,Germany
+541,2022,Portugal,Manchester United,England
+542,2022,Portugal,Benfica,Portugal
+543,2022,Portugal,Atletico Madrid,Spain
+544,2022,Portugal,AC Milan,Italy
+545,2022,Portugal,SC Braga,Portugal
+546,2022,Qatar,Al-Sadd,Qatar
+547,2022,Qatar,Al-Sadd,Qatar
+548,2022,Qatar,Al-Gharafa,Qatar
+549,2022,Qatar,Al-Sadd,Qatar
+550,2022,Qatar,Al-Sadd,Qatar
+551,2022,Qatar,Al-Sadd,Qatar
+552,2022,Qatar,Al-Sadd,Qatar
+553,2022,Qatar,Al-Duhail,Qatar
+554,2022,Qatar,Al-Sadd,Qatar
+555,2022,Qatar,Al-Gharafa,Qatar
+556,2022,Qatar,Al-Arabi,Qatar
+557,2022,Qatar,Al-Duhail,Qatar
+558,2022,Qatar,Al-Sadd,Qatar
+559,2022,Qatar,Al-Rayyan,Qatar
+560,2022,Qatar,Al-Sadd,Qatar
+561,2022,Qatar,Al-Sadd,Qatar
+562,2022,Qatar,Al-Duhail,Qatar
+563,2022,Qatar,Al-Sadd,Qatar
+564,2022,Qatar,Al-Sadd,Qatar
+565,2022,Qatar,Al-Sadd,Qatar
+566,2022,Qatar,Al-Duhail,Qatar
+567,2022,Qatar,Al-Duhail,Qatar
+568,2022,Qatar,Al-Duhail,Qatar
+569,2022,Qatar,Al-Gharafa,Qatar
+570,2022,Qatar,Al-Wakrah,Qatar
+571,2022,Qatar,Al-Rayyan,Qatar
+572,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+573,2022,Saudi Arabia,Al-Ahli,Saudi Arabia
+574,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+575,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+576,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+577,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+578,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+579,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+580,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+581,2022,Saudi Arabia,Al-Shabab,Saudi Arabia
+582,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+583,2022,Saudi Arabia,Al-Shabab,Saudi Arabia
+584,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+585,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+586,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+587,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+588,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+589,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+590,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+591,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+592,2022,Saudi Arabia,Al-Ittihad,Saudi Arabia
+593,2022,Saudi Arabia,Abha,Saudi Arabia
+594,2022,Saudi Arabia,Al-Shabab,Saudi Arabia
+595,2022,Saudi Arabia,Al-Fateh,Saudi Arabia
+596,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+597,2022,Saudi Arabia,Al-Ahli,Saudi Arabia
+598,2022,Senegal,Chelsea,England
+599,2022,Senegal,Rennes,France
+600,2022,Senegal,QPR,England
+601,2022,Senegal,Amiens,France
+602,2022,Senegal,Chelsea,England
+603,2022,Senegal,Olympiacos,Greece
+604,2022,Senegal,Nottingham Forest,England
+605,2022,Senegal,RB Leipzig,Germany
+606,2022,Senegal,AC Milan,Italy
+607,2022,Senegal,Monaco,France
+608,2022,Senegal,Real Betis,Spain
+609,2022,Senegal,Anderlecht,Belgium
+610,2022,Senegal,Everton,England
+611,2022,Senegal,Marseille,France
+612,2022,Senegal,Tottenham Hotspur,England
+613,2022,Senegal,Leicester City,England
+614,2022,Senegal,Monaco,France
+615,2022,Senegal,Rayo Vallecano,Spain
+616,2022,Senegal,Monaco,France
+617,2022,Senegal,Pafos,Cyprus
+618,2022,Senegal,Salernitana,Italy
+619,2022,Senegal,Watford,England
+620,2022,Senegal,Marseille,France
+621,2022,Senegal,Sheffield United,England
+622,2022,Senegal,Villarreal,Spain
+623,2022,Senegal,Alanyaspor,Turkey
+624,2022,Serbia,Sevilla,Spain
+625,2022,Serbia,Torino,Italy
+626,2022,Serbia,Mallorca,Spain
+627,2022,Serbia,Getafe,Spain
+628,2022,Serbia,Legia Warsaw,Poland
+629,2022,Serbia,Salzburg,Austria
+630,2022,Serbia,Werder Bremen,Germany
+631,2022,Serbia,Red Star Belgrade,Serbia
+632,2022,Serbia,Almeria,Spain
+633,2022,Serbia,Fiorentina,Italy
+634,2022,Serbia,Sevilla,Spain
+635,2022,Serbia,Juventus,Italy
+636,2022,Serbia,Getafe,Spain
+637,2022,Serbia,Lazio,Italy
+638,2022,Serbia,Torino,Italy
+639,2022,Serbia,PAOK,Greece
+640,2022,Serbia,Braga,Portugal
+641,2022,Serbia,Verona,Italy
+642,2022,Serbia,Verona,Italy
+643,2022,Serbia,Porto,Portugal
+644,2022,Serbia,Fiorentina,Italy
+645,2022,Serbia,Fulham,England
+646,2022,Serbia,Juventus,Italy
+647,2022,Serbia,Torino,Italy
+648,2022,Serbia,Sampdoria,Italy
+649,2022,Serbia,Ajax,Netherlands
+650,2022,South Korea,Al Shabab,Saudi Arabia
+651,2022,South Korea,Ulsan Hyundai,South Korea
+652,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+653,2022,South Korea,Napoli,Italy
+654,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+655,2022,South Korea,Daegu FC,South Korea
+656,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+657,2022,South Korea,FC Seoul,South Korea
+658,2022,South Korea,Ulsan Hyundai,South Korea
+659,2022,South Korea,Ulsan Hyundai,South Korea
+660,2022,South Korea,Gamba Osaka,Japan
+661,2022,South Korea,Daejon Citizen,South Korea
+662,2022,South Korea,Al Sadd,Qatar
+663,2022,South Korea,FC Seoul,South Korea
+664,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+665,2022,South Korea,Shandong Taishan,China
+666,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+667,2022,South Korea,Gimcheon Sangmu,South Korea
+668,2022,South Korea,Mainz,Germany
+669,2022,South Korea,Olympiacos,Greece
+670,2022,South Korea,Mallorca,Spain
+671,2022,South Korea,Tottenham Hotspur,England
+672,2022,South Korea,Wolverhampton Wanderers,England
+673,2022,South Korea,Freiburg,Germany
+674,2022,South Korea,Olympiacos,Greece
+675,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+676,2022,Spain,Brighton,England
+677,2022,Spain,Brentford,England
+678,2022,Spain,Athletic Club,Spain
+679,2022,Spain,Chelsea,England
+680,2022,Spain,Barcelona,Spain
+681,2022,Spain,Valencia,Spain
+682,2022,Spain,Villarreal,Spain
+683,2022,Spain,Barcelona,Spain
+684,2022,Spain,Barcelona,Spain
+685,2022,Spain,Real Madrid,Spain
+686,2022,Spain,Manchester City,England
+687,2022,Spain,Barcelona,Spain
+688,2022,Spain,Atletico Madrid,Spain
+689,2022,Spain,Barcelona,Spain
+690,2022,Spain,Manchester City,England
+691,2022,Spain,Atletico Madrid,Spain
+692,2022,Spain,Barcelona,Spain
+693,2022,Spain,PSG,France
+694,2022,Spain,Atletico Madrid,Spain
+695,2022,Spain,Villarreal,Spain
+696,2022,Spain,Barcelona,Spain
+697,2022,Spain,Real Madrid,Spain
+698,2022,Spain,PSG,France
+699,2022,Spain,RB Leipzig,Germany
+700,2022,Spain,Athletic Club,Spain
+701,2022,Spain,Barcelona,Spain
+702,2022,Switzerland,Borussia Monchengladbach,Germany
+703,2022,Switzerland,Montpellier,France
+704,2022,Switzerland,Borussia Dortmund,Germany
+705,2022,Switzerland,Red Bull Salzburg,Austria
+706,2022,Switzerland,Mainz,Germany
+707,2022,Switzerland,Torino,Italy
+708,2022,Switzerland,Newcastle United,England
+709,2022,Switzerland,Manchester City,England
+710,2022,Switzerland,Borussia Monchengladbach,Germany
+711,2022,Switzerland,Valencia,Spain
+712,2022,Switzerland,Chicago Fire,USA
+713,2022,Switzerland,Arsenal,England
+714,2022,Switzerland,Nottingham Forest,England
+715,2022,Switzerland,Chelsea,England
+716,2022,Switzerland,Eintracht Frankfurt,Germany
+717,2022,Switzerland,Lugano,Switzerland
+718,2022,Switzerland,Mainz,Germany
+719,2022,Switzerland,Basel,Switzerland
+720,2022,Switzerland,Bologna,Italy
+721,2022,Switzerland,Luzern,Switzerland
+722,2022,Switzerland,Young Boys,Switzerland
+723,2022,Switzerland,Galatasaray,Turkey
+724,2022,Switzerland,Monaco,France
+725,2022,Switzerland,Augsburg,Germany
+726,2022,Switzerland,Young Boys,Switzerland
+727,2022,Switzerland,Red Bull Salzburg,Austria
+728,2022,Tunisia,CS Sfaxien,Tunisia
+729,2022,Tunisia,Club Africain,Tunisia
+730,2022,Tunisia,Etoile du Sahel,Tunisia
+731,2022,Tunisia,US Monastir,Tunisia
+732,2022,Tunisia,Luzern,Switzerland
+733,2022,Tunisia,Atromitos,Greece
+734,2022,Tunisia,Kuwait SC,Kuwait
+735,2022,Tunisia,Lorient,France
+736,2022,Tunisia,Salernitana,Italy
+737,2022,Tunisia,Esperance de Tunis,Tunisia
+738,2022,Tunisia,Club Africain,Tunisia
+739,2022,Tunisia,Al Ahly,Egypt
+740,2022,Tunisia,Caen,France
+741,2022,Tunisia,FC Koln,Germany
+742,2022,Tunisia,Ferencvaros,Hungary
+743,2022,Tunisia,Al-Duhail,Qatar
+744,2022,Tunisia,Esperance de Tunis,Tunisia
+745,2022,Tunisia,Birmingham City,England
+746,2022,Tunisia,Esperance de Tunis,Tunisia
+747,2022,Tunisia,Zamalek,Egypt
+748,2022,Tunisia,Al-Ettifaq,Saudi Arabia
+749,2022,Tunisia,Kuwait SC,Kuwait
+750,2022,Tunisia,Brondby,Denmark
+751,2022,Tunisia,OB,Denmark
+752,2022,Tunisia,Montpellier,France
+753,2022,Tunisia,Al-Arabi,Qatar
+754,2022,Uruguay,Galatasaray,Turkey
+755,2022,Uruguay,Nacional,Uruguay
+756,2022,Uruguay,Independiente,Argentina
+757,2022,Uruguay,Barcelona,Spain
+758,2022,Uruguay,La Galaxy,USA
+759,2022,Uruguay,Sporting CP,Portugal
+760,2022,Uruguay,Atletico Madrid,Spain
+761,2022,Uruguay,Velez Sarsfield,Argentina
+762,2022,Uruguay,Napoli,Italy
+763,2022,Uruguay,Nacional,Uruguay
+764,2022,Uruguay,Roma,Italy
+765,2022,Uruguay,Flamengo,Brazil
+766,2022,Uruguay,Lazio,Italy
+767,2022,Uruguay,River Plate,Argentina
+768,2022,Uruguay,Tottenham Hotspur,England
+769,2022,Uruguay,Real Madrid,Spain
+770,2022,Uruguay,Flamengo,Brazil
+771,2022,Uruguay,Galatasaray,Turkey
+772,2022,Uruguay,Orlando City ,USA
+773,2022,Uruguay,Sporting CP,Portugal
+774,2022,Uruguay,Nacional,Uruguay
+775,2022,Uruguay,Valencia,Spain
+776,2022,Uruguay,Trabzonspor,Turkey
+777,2022,Uruguay,Liverpool,England
+778,2022,Uruguay,Manchester United,England
+779,2022,Uruguay,Athletico Paranaense,Brazil
+780,2022,USA,Arsenal,England
+781,2022,USA,Luton Town ,England
+782,2022,USA,New York City FC,USA
+783,2022,USA,Celtic,Scotland
+784,2022,USA,AC Milan,Italy
+785,2022,USA,New York Red Bills,USA
+786,2022,USA,Nashville SC,USA
+787,2022,USA,Fulham,England
+788,2022,USA,Fulham,England
+789,2022,USA,Borussia Monchengladbach,Germany
+790,2022,USA,Inter Miami,USA
+791,2022,USA,Nashville SC,USA
+792,2022,USA,Leeds United,England
+793,2022,USA,Los Angeles FC,USA
+794,2022,USA,Leeds United,England
+795,2022,USA,Celta Vigo,Spain
+796,2022,USA,Juventus,Italy
+797,2022,USA,Valencia,Spain
+798,2022,USA,Seattle Sounders,USA
+799,2022,USA,Norwich City,England
+800,2022,USA,Tulsa Roughnecks,USA
+801,2022,USA,Swansea City,Wales
+802,2022,USA,Chelsea,England
+803,2022,USA,Borussia Dortmund,Germany
+804,2022,USA,Lille,France
+805,2022,USA,Antalyaspor,Turkey
+806,2022,Wales,Leicester City,England
+807,2022,Wales,Nottingham Forest,England
+808,2022,Wales,Sheffield United,England
+809,2022,Wales,Tottenham,England
+810,2022,Wales,Swansea City,Wales
+811,2022,Wales,Rennes,France
+812,2022,Wales,Bournemouth,England
+813,2022,Wales,Spezia,Italy
+814,2022,Wales,AFC Wimbledon,England
+815,2022,Wales,Nottingham Forest,England
+816,2022,Wales,Burnley,England
+817,2022,Wales,Luton Town ,England
+818,2022,Wales,Huddersfield Town,England
+819,2022,Wales,Swansea City,Wales
+820,2022,Wales,MK Dons,England
+821,2022,Wales,Dundee United,Scotland
+822,2022,Wales,Fulham,England
+823,2022,Wales,Portsmouth,England
+824,2022,Wales,Swindon Town,England
+825,2022,Wales,Nice,France
+826,2022,Wales,Cardiff City,Wales
+827,2022,Wales,Los Angeles FC,USA
+828,2022,Wales,Bournemouth,England
+829,2022,Wales,Cardiff City,Wales
+830,2022,Wales,Nottingham Forest,England
+831,2022,Wales,Fulham,England
