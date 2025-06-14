@@ -1,11 +1,110 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Harry Kane,England,6,0,573
+2,Antoine Griezmann,France,4,2,624
+3,Cristiano Ronaldo,Portugal,4,1,360
+4,Denis Cheryshev,Russia,4,0,370
+5,Kylian Mbappé,France,4,1,594
+6,Romelu Lukaku,Belgium,4,1,476
+7,Artem Dzyuba,Russia,3,2,450
+8,Diego Costa,Spain,3,0,357
+9,Eden Hazard,Belgium,3,2,604
+10,Edinson Cavani,Uruguay,3,0,360
+11,Ivan Perisic,Croatia,3,1,660
+12,Mario Mandzukic,Croatia,3,1,624
+13,Yerry Mina,Colombia,3,0,270
+14,Ahmed Musa,Nigeria,2,0,270
+15,Andreas Granqvist,Sweden,2,0,450
+16,Son Heung-Min,South Korea,2,0,270
+17,John Stones,England,2,0,630
+18,Luis Suárez,Uruguay,2,1,450
+19,Luka Modric,Croatia,2,1,694
+20,Mile Jedinak,Australia,2,0,360
+21,Mohamed Salah,Egypt,2,1,180
+22,Neymar,Brazil,2,2,456
+23,Philippe Coutinho,Brazil,2,2,450
+24,Sergio Agüero,Argentina,2,0,247
+25,Takashi Inui,Japan,2,1,360
+26,Wahbi Khazri,Tunisia,2,2,270
+27,Adnan Januzaj,Belgium,1,0,360
+28,Aleksandar Kolarov,Serbia,1,0,270
+29,Aleksandar Mitrovic,Serbia,1,0,270
+30,Aleksandr Golovin,Russia,1,2,360
+31,Alfred Finnbogason,Iceland,1,0,270
+32,André Carrillo,Peru,1,0,270
+33,Andrej Kramaric,Croatia,1,0,630
+34,Ángel Di María,Argentina,1,0,270
+35,Ante Rebic,Croatia,1,0,540
+36,Benjamin Pavard,France,1,0,540
+37,Blerim Dzemaili,Switzerland,1,0,270
+38,Carlos Vela,Mexico,1,0,270
+39,Christian Eriksen,Denmark,1,1,360
+40,Dele Alli,England,1,0,450
+41,Domagoj Vida,Croatia,1,1,540
+42,Dries Mertens,Belgium,1,1,540
+43,Dylan Bronn,Tunisia,1,0,270
+44,Emil Forsberg,Sweden,1,0,450
+45,Fakhreddine Ben Youssef,Tunisia,1,0,270
+46,Radamel Falcao,Colombia,1,0,270
+47,Felipe Baloy,Panama,1,0,270
+48,Ferjani Sassi,Tunisia,1,0,270
+49,Gabriel Mercado,Argentina,1,1,270
+50,Genki Haraguchi,Japan,1,0,360
+51,Granit Xhaka,Switzerland,1,0,270
+52,Grzegorz Krychowiak,Poland,1,0,270
+53,Harry Maguire,England,1,1,630
+54,Hirving Lozano,Mexico,1,1,270
+55,Iago Aspas,Spain,1,0,270
+56,Isco,Spain,1,0,357
+57,Ivan Rakitic,Croatia,1,0,694
+58,Jan Bednarek,Poland,1,0,270
+59,Jan Vertonghen,Belgium,1,0,604
+60,Javier Hernández,Mexico,1,1,270
+61,Jesse Lingard,England,1,1,540
+62,José Giménez,Uruguay,1,0,450
+63,Josip Drmic,Switzerland,1,0,270
+64,Juan Cuadrado,Colombia,1,1,270
+65,Juan Quintero,Colombia,1,2,360
+66,Karim Ansarifard,Iran,1,0,270
+67,Keisuke Honda,Japan,1,1,360
+68,Kendall Waston,Costa Rica,1,0,270
+69,Kevin De Bruyne,Belgium,1,2,604
+70,Khalid Boutaïb,Morocco,1,0,270
+71,Kieran Trippier,England,1,1,540
+72,Lionel Messi,Argentina,1,2,360
+73,Ludwig Augustinsson,Sweden,1,0,450
+74,Marco Reus,Germany,1,1,270
+75,Marcos Rojo,Argentina,1,1,270
+76,Mário Fernandes,Russia,1,1,450
+77,Marouane Fellaini,Belgium,1,0,450
+78,Mathias Jørgensen,Denmark,1,0,360
+79,M'Baye Niang,Senegal,1,1,270
+80,Michy Batshuayi,Belgium,1,0,270
+81,Milan Badelj,Croatia,1,1,270
+82,Moussa Wagué,Senegal,1,0,270
+83,Nacer Chadli,Belgium,1,1,540
+84,Nacho,Spain,1,0,357
+85,Ola Toivonen,Sweden,1,1,450
+86,Paolo Guerrero,Peru,1,1,270
+87,Paul Pogba,France,1,0,540
+88,Paulinho,Brazil,1,0,450
+89,Pepe,Portugal,1,0,360
+90,Raphaël Varane,France,1,0,624
+91,Renato Augusto,Brazil,1,0,270
+92,Ricardo Quaresma,Portugal,1,0,270
+93,Roberto Firmino,Brazil,1,0,270
+94,Sadio Mané,Senegal,1,0,270
+95,Salem Al-Dawsari,Saudi Arabia,1,0,270
+96,Salman Al-Faraj,Saudi Arabia,1,0,270
+97,Samuel Umtiti,France,1,0,540
+98,Shinji Kagawa,Japan,1,1,360
+99,Steven Zuber,Switzerland,1,0,270
+100,Thiago Silva,Brazil,1,0,450
+101,Thomas Meunier,Belgium,1,2,450
+102,Toni Kroos,Germany,1,0,270
+103,Victor Moses,Nigeria,1,1,270
+104,Xherdan Shaqiri,Switzerland,1,1,270
+105,Young-Gwon Kim,South Korea,1,0,270
+106,Youssef En-Nesyri,Morocco,1,0,270
+107,Yury Gazinsky,Russia,1,0,270
+108,Yussuf Poulsen,Denmark,1,0,270
+109,Yuya Osako,Japan,1,0,270
