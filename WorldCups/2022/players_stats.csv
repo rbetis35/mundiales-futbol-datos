@@ -1,11 +1,832 @@
-player_id,player_name,team,minutes_played,matches_played,yellow_cards,red_cards
-1,Lionel Messi,Argentina,690,7,2,0
-2,Kylian Mbappé,France,660,7,2,0
-3,Luka Modrić,Croatia,570,7,1,0
-4,Harry Kane,England,358,5,0,0
-5,Olivier Giroud,France,546,7,1,0
-6,Julián Álvarez,Argentina,399,7,1,0
-7,Antoine Griezmann,France,631,7,1,0
-8,Emiliano Martínez,Argentina,690,7,1,0
-9,Achraf Hakimi,Morocco,570,7,2,0
-10,Sofyan Amrabat,Morocco,540,7,3,0
+player_id;dorsal;Player;position;Squad;MP;Starts;Min;Gls;Ast;CrdY;CrdR
+1;23;Emiliano Martinez;GK;Argentina;7;7;690;0;0;1;0
+2;1;Franco Armani;GK;Argentina;0;0;0;0;0;0;0
+3;12;Geronimo Rulli;GK;Argentina;0;0;0;0;0;0;0
+4;19;Nicolas Otamendi;DF;Argentina;7;7;690;0;1;2;0
+5;8;Marcos Acuna;DF;Argentina;6;4;373;0;0;3;0
+6;3;Nicolas Tagliafico;DF;Argentina;6;3;373;0;0;0;0
+7;6;German Pezzella;DF;Argentina;3;0;60;0;0;1;0
+8;26;Nahuel Molina;DF;Argentina;7;6;567;1;1;0;0
+9;4;Gonzalo Montiel;DF;Argentina;4;1;118;0;0;3;0
+10;2;Juan Foyth;DF;Argentina;1;0;5;0;0;0;0
+11;13;Cristian Romero;DF;Argentina;7;6;547;0;0;2;0
+12;25;Lisandro Martinez;DF;Argentina;5;2;303;0;0;1;0
+13;5;Leandro Paredes;MF;Argentina;5;2;225;0;0;2;0
+14;7;Rodrigo De Paul;MF;Argentina;7;7;599;0;0;0;0
+15;18;Guido Rodriguez;MF;Argentina;1;1;56;0;0;0;0
+16;14;Exequiel Palacios;MF;Argentina;3;0;50;0;0;0;0
+17;20;Alexis Mac Allister;MF;Argentina;6;6;550;1;1;0;0
+18;24;Enzo Fernandez;MF;Argentina;7;5;564;1;1;1;0
+19;17;Alejandro Gomez;MF;Argentina;2;2;107;0;0;0;0
+20;10;Lionel Messi ??;FW;Argentina;7;7;690;7;3;1;0
+21;22;Lautaro Martinez;FW;Argentina;6;2;241;0;0;0;0
+22;21;Paulo Dybala;FW;Argentina;2;0;18;0;0;0;0
+23;16;Thiago Almada;FW;Argentina;1;0;7;0;0;0;0
+24;9;Julian Alvarez;FW;Argentina;7;5;464;4;0;0;0
+25;11;Angel Di Maria;FW;Argentina;5;4;288;1;1;0;0
+26;15;Angel Correa;FW;Argentina;1;0;5;0;0;0;0
+27;1;Mat Ryan;GK;Australia;4;4;360;0;0;0;0
+28;18;Danny Vukovic;GK;Australia;0;0;0;0;0;0;0
+29;12;Andrew Redmayne;GK;Australia;0;0;0;0;0;0;0
+30;16;Aziz Behic;DF;Australia;4;4;360;0;0;1;0
+31;2;Milos Degenek;DF;Australia;4;2;183;0;0;2;0
+32;8;Bailey Wright;DF;Australia;1;0;17;0;0;0;0
+33;5;Fran Karacic;DF;Australia;2;1;93;0;0;0;0
+34;19;Harry Souttar;DF;Australia;4;4;360;0;0;0;0
+35;3;Nathaniel Atkinson;DF;Australia;1;1;84;0;0;0;0
+36;24;Joel King;DF;Australia;0;0;0;0;0;0;0
+37;4;Kye Rowles;DF;Australia;4;4;360;0;0;0;0
+38;20;Thomas Deng;DF;Australia;0;0;0;0;0;0;0
+39;13;Aaron Mooy;MF;Australia;4;4;360;0;0;1;0
+40;22;Jackson Irvine;MF;Australia;4;4;354;0;0;2;0
+41;10;Ajdin Hrustic;MF;Australia;3;0;62;0;0;0;0
+42;14;Riley McGree;MF;Australia;4;4;265;0;1;0;0
+43;26;Keanu Baccus;MF;Australia;4;1;114;0;0;0;0
+44;17;Cameron Devlin;MF;Australia;0;0;0;0;0;0;0
+45;7;Mathew Leckie;FW;Australia;4;4;333;1;1;0;0
+46;11;Awer Mabil;FW;Australia;2;0;24;0;0;0;0
+47;9;Jamie Maclaren;FW;Australia;3;0;55;0;0;0;0
+48;15;Mitchell Duke;FW;Australia;4;4;270;1;0;1;0
+49;6;Marco Tilio;FW;Australia;0;0;0;0;0;0;0
+50;23;Craig Goodwin;FW;Australia;4;3;234;1;1;0;0
+51;25;Jason Cummings;FW;Australia;1;0;35;0;0;0;0
+52;21;Garang Kuol;FW;Australia;2;0;37;0;0;0;0
+53;1;Thibaut Courtois;GK;Belgium;3;3;270;0;0;0;0
+54;12;Simon Mignolet;GK;Belgium;0;0;0;0;0;0;0
+55;13;Koen Casteels;GK;Belgium;0;0;0;0;0;0;0
+56;2;Toby Alderweireld;DF;Belgium;3;3;270;0;1;0;0
+57;3;Arthur Theate;DF;Belgium;0;0;0;0;0;0;0
+58;26;Zeno Debast;DF;Belgium;0;0;0;0;0;0;0
+59;5;Jan Vertonghen;DF;Belgium;3;3;270;0;0;0;0
+60;4;Wout Faes;DF;Belgium;0;0;0;0;0;0;0
+61;21;Timothy Castagne;DF;Belgium;3;3;270;0;0;0;0
+62;15;Thomas Meunier;DF;Belgium;3;2;211;0;0;1;0
+63;16;Thorgan Hazard;MF;Belgium;2;1;106;0;0;0;0
+64;7;Kevin De Bruyne;MF;Belgium;3;3;270;0;0;0;0
+65;11;Yannick Carrasco;MF;Belgium;2;2;116;0;0;1;0
+66;19;Leander Dendoncker;MF;Belgium;2;2;161;0;0;1;0
+67;8;Youri Tielemans;MF;Belgium;3;1;95;0;0;0;0
+68;20;Hans Vanaken;MF;Belgium;0;0;0;0;0;0;0
+69;6;Axel Witsel;MF;Belgium;3;3;270;0;0;0;0
+70;22;Charles De Ketelaere;MF;Belgium;1;0;16;0;0;0;0
+71;18;Amadou Onana;MF;Belgium;2;1;104;0;0;2;0
+72;25;Jeremy Doku;FW;Belgium;1;0;19;0;0;0;0
+73;10;Eden Hazard;FW;Belgium;3;2;124;0;0;0;0
+74;14;Dries Mertens;FW;Belgium;2;1;76;0;0;0;0
+75;17;Leandro Trossard;FW;Belgium;3;1;103;0;0;0;0
+76;23;Michy Batshuayi;FW;Belgium;2;2;151;1;0;0;0
+77;24;Lois Openda;FW;Belgium;1;0;13;0;0;0;0
+78;9;Romelu Lukaku;FW;Belgium;2;0;55;0;0;0;0
+79;1;Alisson;GK;Brazil;4;4;379;0;0;0;0
+80;23;Ederson;GK;Brazil;1;1;90;0;0;0;0
+81;12;Weverton;GK;Brazil;1;0;11;0;0;0;0
+82;13;Dani Alves;DF;Brazil;2;1;118;0;0;0;0
+83;3;Thiago Silva;DF;Brazil;4;4;390;0;1;0;0
+84;4;Marquinhos;DF;Brazil;5;4;426;0;0;1;0
+85;2;Danilo;DF;Brazil;3;3;281;0;0;1;0
+86;6;Alex Sandro;DF;Brazil;3;2;190;0;0;0;0
+87;14;Eder Militao;DF;Brazil;4;4;347;0;0;1;0
+88;16;Alex Telles;DF;Brazil;2;1;59;0;0;0;0
+89;24;Bremer;DF;Brazil;2;1;109;0;0;0;0
+90;5;Casemiro;MF;Brazil;4;4;390;1;0;1;0
+91;7;Lucas Paqueta;MF;Brazil;4;4;314;1;1;0;0
+92;15;Fabinho;MF;Brazil;1;1;90;0;0;0;0
+93;8;Fred;MF;Brazil;4;2;142;0;0;1;0
+94;22;Everton Ribeiro;MF;Brazil;1;0;36;0;0;0;0
+95;17;Bruno Guimaraes;MF;Brazil;2;0;69;0;0;1;0
+96;10;Neymar;FW;Brazil;3;3;279;2;0;0;0
+97;18;Gabriel Jesus;FW;Brazil;3;1;93;0;0;0;0
+98;9;Richarlison;FW;Brazil;4;4;323;3;0;0;0
+99;20;Vinicius Jr;FW;Brazil;4;4;299;1;2;0;0
+100;19;Antony;FW;Brazil;4;1;172;0;0;0;0
+101;11;Raphinha;FW;Brazil;5;4;315;0;1;0;0
+102;21;Rodrygo;FW;Brazil;5;1;181;0;1;0;0
+103;26;Gabriel Matinelli;FW;Brazil;3;1;113;0;0;0;0
+104;25;Pedro;FW;Brazil;2;0;64;0;0;0;0
+105;23;Andre Onana;GK;Cameroon;1;1;90;0;0;0;0
+106;16;Davis Epassy;GK;Cameroon;2;2;180;0;0;0;0
+107;1;Simon Ngapandouetnbu;GK;Cameroon;0;0;0;0;0;0;0
+108;24;Enzo Ebosse;DF;Cameroon;1;1;90;0;0;0;0
+109;19;Collins Fai;DF;Cameroon;3;3;270;0;0;2;0
+110;17;Olivier Mbaizo;DF;Cameroon;0;0;0;0;0;0;0
+111;21;Jean Charles Castelletto;DF;Cameroon;2;2;180;1;1;0;0
+112;25;Nouhou Tolo;DF;Cameroon;3;3;270;0;0;1;0
+113;4;Christopher Wooh;DF;Cameroon;1;1;90;0;0;0;0
+114;3;Nicolas Nkolou;DF;Cameroon;2;2;180;0;1;1;0
+115;22;Olivier Ntcham;MF;Cameroon;1;0;25;0;0;0;0
+116;5;Gael Ondoua;MF;Cameroon;2;0;47;0;0;0;0
+117;15;Pierre Kunde;MF;Cameroon;2;2;131;0;0;1;0
+118;14;Samuel Gouet;MF;Cameroon;2;1;100;0;0;0;0
+119;8;Andre-Frank Zambo Anguissa;MF;Cameroon;3;3;260;0;1;0;0
+120;2;Jerome Ngom;MF;Cameroon;1;0;5;0;0;0;0
+121;18;Martin Hongla;MF;Cameroon;2;2;121;0;0;0;0
+122;6;Moumi Ngamaleu;FW;Cameroon;2;1;95;0;0;0;0
+123;11;Christian Bassogog;FW;Cameroon;1;0;24;0;0;1;0
+124;20;Bryan Mbeumo;FW;Cameroon;3;3;233;0;0;0;0
+125;7;Georges-Kevin Nkoudou;FW;Cameroon;2;0;27;0;0;0;0
+126;9;Jean-Pierre Nsame;FW;Cameroon;0;0;0;0;0;0;0
+127;10;Vincent Aboubakar;FW;Cameroon;3;1;142;2;1;2;1
+128;12;Karl Toko Ekambi;FW;Cameroon;3;2;166;0;0;0;0
+129;13;Eric Maxim Choupo-Moting;FW;Cameroon;3;3;253;1;0;0;0
+130;26;Souaibou Marou;FW;Cameroon;0;0;0;0;0;0;0
+131;16;James Paternis;GK;Canada;0;0;0;0;0;0;0
+132;18;Milan Borjan;GK;Canada;3;3;270;0;0;0;0
+133;1;Dayne St Clair;GK;Canada;0;0;0;0;0;0;0
+134;2;Alistair Johnson;DF;Canada;3;3;270;0;0;1;0
+135;3;Sam Adekugbe;DF;Canada;3;1;95;0;0;1;0
+136;4;Kamal Miller;DF;Canada;3;3;270;0;0;1;0
+137;5;Steven Vit ria;DF;Canada;3;3;270;0;0;1;0
+138;22;Richie Laryea;DF;Canada;3;2;160;0;0;0;0
+139;25;Derek Cornelius;DF;Canada;0;0;0;0;0;0;0
+140;26;Joel Waterman;DF;Canada;0;0;0;0;0;0;0
+141;6;Samuel Piette;MF;Canada;0;0;0;0;0;0;0
+142;7;Stephen Eustaquio;MF;Canada;2;2;125;0;0;0;0
+143;13;Atiba Hutchinson;MF;Canada;3;2;159;0;0;0;0
+144;14;Mark-Anthony Kaye;MF;Canada;1;1;59;0;0;0;0
+145;21;Jonathan Osorio;MF;Canada;3;1;119;0;0;1;0
+146;24;David Wotherspoon;MF;Canada;1;0;15;0;0;0;0
+147;8;Liam Fraser;MF;Canada;0;0;0;0;0;0;0
+148;15;Ismael Kone;MF;Canada;3;0;109;0;0;0;0
+149;9;Lucas Cavallini;FW;Canada;1;0;19;0;0;0;0
+150;10;Junior Hoilett;FW;Canada;3;2;161;0;0;1;0
+151;11;Tajon Buchanan;FW;Canada;3;3;260;0;1;1;0
+152;17;Cyle Larin;FW;Canada;3;2;137;0;0;0;0
+153;19;Alphonso Davies;FW;Canada;3;3;270;1;0;1;0
+154;20;Jonathan David;FW;Canada;3;2;192;0;0;0;0
+155;23;Liam Millar;FW;Canada;1;0;10;0;0;0;0
+156;12;Ike Ugbo;FW;Canada;0;0;0;0;0;0;0
+157;1;Keylor Navas;GK;Costa Rica;3;3;270;0;0;0;0
+158;18;Esteban Alvarado;GK;Costa Rica;0;0;0;0;0;0;0
+159;23;Patrick Sequeira;GK;Costa Rica;0;0;0;0;0;0;0
+160;8;Bryan Oviedo;DF;Costa Rica;3;3;260;0;0;0;0
+161;6;Oscar Duarte;DF;Costa Rica;3;3;270;0;0;1;0
+162;19;Kendall Waston;DF;Costa Rica;3;2;225;0;0;0;0
+163;22;Ronald Matarrita;DF;Costa Rica;2;0;26;0;0;0;0
+164;4;Keysher Fuller;DF;Costa Rica;3;3;253;1;0;0;0
+165;3;Juan Pablo Vargas;DF;Costa Rica;1;1;90;1;0;0;0
+166;16;Carlos Martinez;DF;Costa Rica;1;1;45;0;0;0;0
+167;15;Francisco Calvo;DF;Costa Rica;2;2;180;0;0;2;0
+168;5;Celso Borges;MF;Costa Rica;3;3;249;0;0;1;0
+169;10;Bryan Ruiz;MF;Costa Rica;1;0;30;0;0;0;0
+170;17;Yeltsin Tejeda;MF;Costa Rica;3;3;269;1;1;0;0
+171;13;Gerson Torres;MF;Costa Rica;1;1;64;0;0;0;0
+172;9;Jewison Bennette;MF;Costa Rica;3;1;103;0;0;0;0
+173;2;Daniel Chacon;MF;Costa Rica;1;0;1;0;0;0;0
+174;14;Youstin Salas;MF;Costa Rica;2;0;47;0;0;0;0
+175;24;Roan Wilson;MF;Costa Rica;1;0;1;0;0;0;0
+176;20;Brandon Aguilera;MF;Costa Rica;3;1;90;0;0;0;0
+177;21;Douglas Lopez;MF;Costa Rica;0;0;0;0;0;0;0
+178;25;Anthony Hernandez;MF;Costa Rica;0;0;0;0;0;0;0
+179;26;Alvaro Zamora;MF;Costa Rica;1;0;30;0;0;0;0
+180;12;Joel Campbell;FW;Costa Rica;3;3;269;0;0;1;0
+181;11;Johan Venegas;FW;Costa Rica;1;1;73;0;0;0;0
+182;7;Anthony Contreras;FW;Costa Rica;3;2;125;0;0;1;0
+183;1;Dominik Livakovic;GK;Croatia;7;7;690;0;0;1;0
+184;23;Ivica Ivusic;GK;Croatia;0;0;0;0;0;0;0
+185;12;Ivo Grbic;GK;Croatia;0;0;0;0;0;0;0
+186;21;Domagoj Vida;DF;Croatia;0;0;0;0;0;0;0
+187;6;Dejan Lovren;DF;Croatia;6;6;600;0;1;1;0
+188;3;Borna Barisic;DF;Croatia;1;1;120;0;0;1;0
+189;22;Josip Juranovic;DF;Croatia;6;6;600;0;1;0;0
+190;19;Borna Sosa;DF;Croatia;5;5;424;0;0;0;0
+191;20;Josko Gvardiol;DF;Croatia;7;7;690;1;0;0;0
+192;2;Josip Stanisic;DF;Croatia;1;1;90;0;0;0;0
+193;5;Martin Erlic;DF;Croatia;0;0;0;0;0;0;0
+194;24;Josip Sutalo;DF;Croatia;1;1;90;0;0;0;0
+195;10;Luka Modric;MF;Croatia;7;7;653;0;0;1;0
+196;8;Mateo Kovacic;MF;Croatia;7;7;635;0;0;2;0
+197;11;Marcelo Brozovic;MF;Croatia;6;6;552;0;0;1;0
+198;15;Mario Pasalic;MF;Croatia;7;2;271;0;0;0;0
+199;13;Nikola Vlasic;MF;Croatia;6;1;209;0;0;0;0
+200;7;Lovro Majer;MF;Croatia;7;1;130;1;0;0;0
+201;26;Kristijan Jakic;MF;Croatia;1;0;1;0;0;0;0
+202;25;Luka Sucic;MF;Croatia;0;0;0;0;0;0;0
+203;4;Ivan Perisic;FW;Croatia;7;7;669;1;3;0;0
+204;9;Andrej Kramaric;FW;Croatia;7;7;474;2;0;0;0
+205;16;Bruno Petkovic;FW;Croatia;6;1;234;1;0;1;0
+206;18;Mislav Orsic;FW;Croatia;6;1;162;1;2;0;0
+207;17;Ante Budimir;FW;Croatia;2;0;55;0;0;0;0
+208;14;Marko Livaja;FW;Croatia;6;3;241;1;1;0;0
+209;1;Kasper Schmeichel;GK;Denmark;3;3;270;0;0;0;0
+210;16;Oliver Christensen;GK;Denmark;0;0;0;0;0;0;0
+211;22;Frederik Ronnow;GK;Denmark;0;0;0;0;0;0;0
+212;4;Simon Kjaer;DF;Denmark;1;1;64;0;0;0;0
+213;6;Andreas Christensen;DF;Denmark;3;3;270;1;0;1;0
+214;17;Jens Stryger Larsen;DF;Denmark;0;0;0;0;0;0;0
+215;18;Daniel Wass;DF;Denmark;0;0;0;0;0;0;0
+216;13;Rasmus Kristensen;DF;Denmark;3;3;224;0;0;1;0
+217;5;Joakim Maehle;DF;Denmark;3;3;249;0;0;0;0
+218;2;Joachim Andersen;DF;Denmark;3;3;270;0;1;0;0
+219;8;Thomas Delaney;DF;Denmark;1;1;44;0;0;0;0
+220;3;Victor Nelsson;DF;Denmark;1;1;90;0;0;0;0
+221;26;Alexander Bah;DF;Denmark;2;0;46;0;0;0;0
+222;10;Christian Eriksen;MF;Denmark;3;3;270;0;0;0;0
+223;15;Christian Norgaard;MF;Denmark;1;0;6;0;0;0;0
+224;23;Pierre-Emile Hojbjerg;MF;Denmark;3;3;270;0;0;0;0
+225;7;Mathias Jensen;MF;Denmark;2;1;84;0;0;1;0
+226;24;Robert Skov;FW;Denmark;1;0;22;0;0;1;0
+227;9;Martin Braithwaite;FW;Denmark;2;1;103;0;0;0;0
+228;21;Andreas Cornelius;FW;Denmark;3;1;92;0;0;1;0
+229;12;Kasper Dolberg;FW;Denmark;3;1;114;0;0;0;0
+230;11;Andreas Skov Olsen;FW;Denmark;2;2;132;0;0;0;0
+231;14;Mikkel Damsgaard;FW;Denmark;3;1;150;0;0;0;0
+232;19;Jonas Wind;FW;Denmark;0;0;0;0;0;0;0
+233;25;Jesper Lindstrom;FW;Denmark;3;2;200;0;0;0;0
+234;20;Yussuf Yurary Poulsen;FW;Denmark;0;0;0;0;0;0;0
+235;1;Hernan Galindez;GK;Ecuador ;3;3;270;0;0;0;0
+236;12;Moises Ramirez;GK;Ecuador ;0;0;0;0;0;0;0
+237;22;Alexander Dominguez;GK;Ecuador ;0;0;0;0;0;0;0
+238;2;Felix Torres;DF;Ecuador ;3;3;270;0;1;0;0
+239;3;Piero Hincapie;DF;Ecuador ;3;3;270;0;0;0;0
+240;4;Robert Arboleda;DF;Ecuador ;0;0;0;0;0;0;0
+241;6;William Pacho;DF;Ecuador ;0;0;0;0;0;0;0
+242;7;Pervis Estupinan;DF;Ecuador ;3;3;270;0;0;0;0
+243;14;Xavier Arreaga;DF;Ecuador ;0;0;0;0;0;0;0
+244;17;Angelo Preciado;DF;Ecuador ;3;3;264;0;1;0;0
+245;18;Diego Palacios;DF;Ecuador ;0;0;0;0;0;0;0
+246;25;Jackson Porozo;DF;Ecuador ;2;1;96;0;0;0;0
+247;5;Jose Cifuentes;MF;Ecuador ;2;0;59;0;0;0;0
+248;8;Carlos Gruezo;MF;Ecuador ;1;1;45;0;0;0;0
+249;15;Angel Mena;MF;Ecuador ;0;0;0;0;0;0;0
+250;16;Jeremy Sarmiento;MF;Ecuador ;3;0;85;0;0;0;0
+251;19;Gonzalo Plata;MF;Ecuador ;3;3;269;0;0;0;0
+252;20;Jhegson Mendez;MF;Ecuador ;2;2;180;0;0;2;0
+253;21;Alan Franco;MF;Ecuador ;2;1;46;0;0;0;0
+254;23;Moises Caicedo;MF;Ecuador ;3;3;269;1;0;1;0
+255;26;Kevin Rodriguez;MF;Ecuador ;2;0;2;0;0;0;0
+256;9;Ayrton Preciado;FW;Ecuador ;0;0;0;0;0;0;0
+257;10;Romario Ibarra;FW;Ecuador ;2;1;68;0;0;0;0
+258;11;Michael Estrada;FW;Ecuador ;3;3;225;0;0;0;0
+259;13;Enner Valencia;FW;Ecuador ;3;3;255;3;0;0;0
+260;24;Djorkaeff Reasco;FW;Ecuador ;1;0;27;0;0;0;0
+261;1;Jordan Pickford;GK;England;5;5;450;0;0;0;0
+262;13;Nick Pope;GK;England;0;0;0;0;0;0;0
+263;23;Aaron Ramsdale;GK;England;0;0;0;0;0;0;0
+264;18;Trent Alexander-Arnold;DF;England;1;0;34;0;0;0;0
+265;16;Conor Coady;DF;England;0;0;0;0;0;0;0
+266;15;Eric Dier;DF;England;2;0;36;0;0;0;0
+267;6;Harry Maguire;DF;England;5;5;429;0;1;1;0
+268;3;Luke Shaw;DF;England;5;5;424;0;1;0;0
+269;5;John Stones;DF;England;5;5;434;0;0;0;0
+270;12;Kieran Trippier;DF;England;3;2;206;0;0;0;0
+271;2;Kyle Walker;DF;England;3;3;236;0;0;0;0
+272;21;Ben White;DF;England;0;0;0;0;0;0;0
+273;22;Jude Bellingham;MF;England;5;5;414;1;1;0;0
+274;26;Conor Gallagher;MF;England;0;0;0;0;0;0;0
+275;8;Jordan Henderson;MF;England;4;3;271;1;0;0;0
+276;19;Mason Mount;MF;England;4;2;186;0;0;0;0
+277;14;Kalvin Phillips;MF;England;2;0;42;0;1;0;0
+278;4;Declan Rice;MF;England;5;5;417;0;0;0;0
+279;20;Phil Foden;MF;England;4;3;258;1;2;0;0
+280;7;Jack Grealish;MF;England;5;0;86;1;0;0;0
+281;9;Harry Kane;FW;England;5;5;402;2;3;0;0
+282;25;James Maddison;FW;England;0;0;0;0;0;0;0
+283;11;Marcus Rashford;FW;England;5;1;140;3;0;0;0
+284;17;Bukayo Saka;FW;England;4;4;288;3;0;0;0
+285;10;Raheem Sterling;FW;England;3;2;149;1;1;0;0
+286;24;Callum Wilson;FW;England;2;0;48;0;1;0;0
+287;1;Hugo Lloris;GK;France;6;6;570;0;0;0;0
+288;23;Alphonse Areola;GK;France;0;0;0;0;0;0;0
+289;16;Steve Mandanda;GK;France;1;1;90;0;0;0;0
+290;2;Benjamin Pavard;DF;France;1;1;88;0;0;0;0
+291;5;Jules Kounde;DF;France;6;5;480;0;0;1;0
+292;4;Raphael Varane;DF;France;6;6;518;0;0;0;0
+293;3;Axel Disasi;DF;France;3;1;92;0;0;0;0
+294;17;William Saliba;DF;France;1;0;28;0;0;0;0
+295;22;Theo Hernandez;DF;France;6;5;508;1;2;1;0
+296;21;Lucas Hernandez;DF;France;1;1;12;0;0;0;0
+297;24;Ibrahima Konate;DF;France;5;3;294;0;0;0;0
+298;18;Dayot Upamecano;DF;France;5;5;480;0;0;0;0
+299;14;Adrien Rabiot;MF;France;6;5;483;1;1;1;0
+300;8;Aurelien Tchouam ni;MF;France;7;7;621;1;0;1;0
+301;19;Youssouf Fofana;MF;France;6;2;227;0;0;0;0
+302;6;Matteo Guendouzi;MF;France;1;1;78;0;0;0;0
+303;15;Jordan Veretout;MF;France;1;1;62;0;0;0;0
+304;25;Eduardo Camavinga;MF;France;2;1;140;0;0;0;0
+305;13;Youssouf Fofana;MF;France;0;0;0;0;0;0;0
+306;20;Kingsley Coman;FW;France;6;1;169;0;0;0;0
+307;10;Kylian Mbappe;FW;France;7;6;598;8;2;0;0
+308;9;Olivier Giroud;FW;France;6;6;419;4;0;1;0
+309;7;Antoine Griezmann;FW;France;7;6;537;0;3;1;0
+310;11;Ousmane Dembele;FW;France;7;6;433;0;2;1;0
+311;12;Randal Kolo Muani;FW;France;3;1;182;1;0;0;0
+312;26;Marcus Thuram;FW;France;5;0;151;0;2;1;0
+313;1;Manuel Neuer;GK;Germany;3;3;270;0;0;0;0
+314;22;Marc-Andre ter Stegen;GK;Germany;0;0;0;0;0;0;0
+315;12;Kevin Trapp;GK;Germany;0;0;0;0;0;0;0
+316;2;Antonio Rudiger;DF;Germany;3;3;270;0;0;0;0
+317;4;Matthias Ginter;DF;Germany;1;0;1;0;0;0;0
+318;15;Niklas Sule;DF;Germany;3;3;269;0;0;0;0
+319;5;Thilo Kehrer;DF;Germany;1;1;69;0;0;1;0
+320;16;Lukas Klostermann;DF;Germany;2;0;66;0;0;0;0
+321;3;David Raum;DF;Germany;3;3;242;0;1;0;0
+322;20;Christian Gunter;DF;Germany;0;0;0;0;0;0;0
+323;23;Nico Schlotterbeck;DF;Germany;2;1;94;0;0;0;0
+324;25;Armel Bella-Kotchap;DF;Germany;0;0;0;0;0;0;0
+325;6;Joshua Kimmich;MF;Germany;3;3;270;0;0;1;0
+326;11;Mario Gotze;MF;Germany;2;0;36;0;0;0;0
+327;21;Ilkay Gundogan;MF;Germany;3;3;189;1;0;0;0
+328;8;Leon Goretzka;MF;Germany;3;2;159;0;0;1;0
+329;17;Julian Brandt;MF;Germany;0;0;0;0;0;0;0
+330;7;Kai Havertz;MF;Germany;2;1;102;2;0;0;0
+331;14;Jamal Musiala;MF;Germany;3;3;258;0;1;0;0
+332;18;Jonas Hofmann;MF;Germany;2;0;30;0;0;0;0
+333;13;Thomas Muller;FW;Germany;3;3;201;0;0;0;0
+334;19;Leroy Sane;FW;Germany;2;1;111;0;1;0;0
+335;10;Serge Gnabry;FW;Germany;3;3;263;1;1;0;0
+336;24;Karim Adeyemi;FW;Germany;0;0;0;0;0;0;0
+337;9;Niclas Fullkrug;FW;Germany;3;0;69;2;1;0;0
+338;26;Youssoufa Moukoko;FW;Germany;1;0;1;0;0;0;0
+339;16;Manaf Nurudeen;GK;Ghana;0;0;0;0;0;0;0
+340;12;Danlad Ibrahim;GK;Ghana;0;0;0;0;0;0;0
+341;1;Lawrence Ati Zigi;GK;Ghana;3;3;270;0;0;0;0
+342;3;Denis Odoi;DF;Ghana;1;0;13;0;0;0;0
+343;2;Tariq Lamptey;DF;Ghana;2;1;102;0;0;1;0
+344;26;Alidu Seidu;DF;Ghana;2;2;155;0;0;2;0
+345;18;Daniel Amartey;DF;Ghana;3;3;251;0;0;2;0
+346;15;Joseph Aidoo;DF;Ghana;0;0;0;0;0;0;0
+347;23;Alexander Djiku;DF;Ghana;2;1;97;0;0;0;0
+348;4;Mohammed Salisu;DF;Ghana;3;3;270;1;0;0;0
+349;17;Abdul-Rahman Baba;DF;Ghana;3;2;183;0;0;0;0
+350;14;Gideon Mensah;DF;Ghana;1;1;87;0;1;0;0
+351;10;Andre Ayew;MF;Ghana;3;3;198;1;0;1;0
+352;5;Thomas Partey;MF;Ghana;3;3;270;0;0;0;0
+353;6;Elisha Owusu;MF;Ghana;0;0;0;0;0;0;0
+354;21;Salis Abdul Samed;MF;Ghana;3;3;250;0;0;0;0
+355;20;Mohammed Kudus;MF;Ghana;3;3;247;2;0;1;0
+356;8;Daniel Kofi Kyereh;MF;Ghana;3;0;33;0;0;0;0
+357;13;Daniel Barnieh Afriyie;FW;Ghana;0;0;0;0;0;0;0
+358;24;Kamal Sowah;FW;Ghana;0;0;0;0;0;0;0
+359;7;Issahaku Abdul Fatawu;FW;Ghana;1;0;1;0;0;0;0
+360;11;Osman Bukari;FW;Ghana;2;0;59;1;0;0;0
+361;19;Inaki Williams;FW;Ghana;3;3;270;0;0;0;0
+362;25;Antoine Semenyo;FW;Ghana;2;0;20;0;0;0;0
+363;9;Jordan Ayew;FW;Ghana;3;2;136;0;1;0;0
+364;22;Kamaldeen Sulemana;FW;Ghana;2;0;58;0;0;1;0
+365;1;Alireza Beiranvand;GK;Iran;2;2;109;0;0;0;0
+366;22;Amir Absedzadeh;GK;Iran;0;0;0;0;0;0;0
+367;24;Hossein Hosseini;GK;Iran;2;1;161;0;0;0;0
+368;12;Payam Niazmand;GK;Iran;0;0;0;0;0;0;0
+369;3;Ehsan Hajsafi;DF;Iran;3;3;237;0;0;0;0
+370;13;Hossein Kanaani;DF;Iran;1;0;45;0;0;1;0
+371;8;Morteza Pouraliganji;DF;Iran;3;3;270;0;0;1;0
+372;23;Ramin Rezaeian;DF;Iran;2;2;180;1;0;1;0
+373;5;Milad Mohammadi;DF;Iran;3;3;196;0;0;0;0
+374;4;Shojae Khalilzadeh;DF;Iran;0;0;0;0;0;0;0
+375;2;Sadegh Moharrami;DF;Iran;1;1;90;0;0;0;0
+376;19;Majid Hosseini;DF;Iran;3;3;270;0;0;1;0
+377;25;Abolfazi Jalali;DF;Iran;1;0;19;0;0;1;0
+378;11;Vahid Amiri;MF;Iran;0;0;0;0;0;0;0
+379;7;Alireza Jahanbakhsh;MF;Iran;2;1;59;0;0;2;0
+380;6;Saeid Ezatolahi;MF;Iran;3;2;217;0;0;0;0
+381;16;Mehdi Torabi;MF;Iran;3;0;62;0;0;0;0
+382;15;Rouzbeh Cheshmi;MF;Iran;2;1;58;1;0;0;0
+383;14;Saman Ghoddos;MF;Iran;1;0;45;0;0;0;0
+384;17;Ali Gholizadeh;MF;Iran;3;2;199;0;1;0;0
+385;21;Ahmad Nourollahi;MF;Iran;3;3;223;0;0;0;0
+386;18;Ali Karimi;MF;Iran;3;1;99;0;0;0;0
+387;10;Karim Ansarifard;FW;Iran;2;0;35;0;0;0;0
+388;20;Sardar Azmoun;FW;Iran;3;2;126;0;0;0;0
+389;9;Mehdi Taremi;FW;Iran;3;3;270;2;1;0;0
+390;1;Eiji Kawashima;GK;Japan;0;0;0;0;0;0;0
+391;12;Shuichi Gonda;GK;Japan;4;4;390;0;0;0;0
+392;23;Daniel Schmidt;GK;Japan;0;0;0;0;0;0;0
+393;2;Miki Yamane;DF;Japan;1;1;61;0;0;1;0
+394;3;Shogo Taniguchi;DF;Japan;2;2;210;0;0;1;0
+395;4;K? Itakura;DF;Japan;3;3;270;0;1;2;0
+396;5;Yuto Nagatomo;DF;Japan;4;4;209;0;0;0;0
+397;16;Takehiro Tomiyasu;DF;Japan;3;1;187;0;0;0;0
+398;19;Hiroki Sakai;DF;Japan;2;1;119;0;0;0;0
+399;22;Maya Yoshida;DF;Japan;4;4;390;0;1;1;0
+400;26;Hiroki Ito;DF;Japan;1;0;45;0;0;0;0
+401;6;Wataru Endo;MF;Japan;4;3;304;0;0;1;0
+402;7;Gaku Shibasaki;MF;Japan;0;0;0;0;0;0;0
+403;8;Ritsu Doan;MF;Japan;4;2;217;2;0;0;0
+404;9;Kaoru Mitoma;MF;Japan;4;0;165;0;1;0;0
+405;10;Takumi Minamino;MF;Japan;3;0;60;0;0;0;0
+406;11;Takefusa Kubo;MF;Japan;2;2;90;0;0;0;0
+407;13;Hidemasa Morita;MF;Japan;3;3;285;0;0;0;0
+408;14;Junya Ito;MF;Japan;4;3;324;0;1;0;0
+409;15;Daichi Kamada;MF;Japan;4;4;322;0;0;0;0
+410;17;Ao Tanaka;MF;Japan;3;2;171;1;0;0;0
+411;24;Yuki Soma;MF;Japan;1;1;81;0;0;0;0
+412;18;Takuma Asano;FW;Japan;4;0;165;1;0;0;0
+413;20;Shuto Machino;FW;Japan;0;0;0;0;0;0;0
+414;21;Ayase Ueda;FW;Japan;1;1;45;0;0;0;0
+415;25;Daizen Maeda;FW;Japan;3;3;180;1;0;0;0
+416;13;Guillermo Ochoa;GK;Mexico ;3;3;270;0;0;0;0
+417;1;Alfredo Talavera;GK;Mexico ;0;0;0;0;0;0;0
+418;12;Rodolfo Cota;GK;Mexico ;0;0;0;0;0;0;0
+419;15;Hector Moreno;DF;Mexico ;3;3;270;0;0;1;0
+420;23;Jesus Gallardo;DF;Mexico ;3;3;270;0;0;0;0
+421;2;Nestor Araujo;DF;Mexico ;1;1;90;0;0;1;0
+422;3;Cesar Montes;DF;Mexico ;3;3;270;0;1;0;0
+423;19;Jorge Sanchez;DF;Mexico ;2;2;175;0;0;1;0
+424;6;Gerardo Arteaga;DF;Mexico ;0;0;0;0;0;0;0
+425;26;Kevin Alvarez;DF;Mexico ;2;1;70;0;0;0;0
+426;5;Johan Vasquez;DF;Mexico ;0;0;0;0;0;0;0
+427;18;Andres Guardado;MF;Mexico ;1;1;41;0;0;0;0
+428;16;Hector Herrera;MF;Mexico ;2;2;160;0;0;1;0
+429;4;Edson Alvarez;MF;Mexico ;2;2;175;0;0;1;0
+430;17;Orbelin Pineda;MF;Mexico ;1;1;76;0;0;0;0
+431;21;Uriel Antuna;MF;Mexico ;3;0;77;0;0;0;0
+432;14;Erick Gutierrez;MF;Mexico ;1;0;49;0;0;1;0
+433;8;Carlos Rodriguez;MF;Mexico ;2;0;34;0;0;0;0
+434;25;Roberto Alvarado;MF;Mexico ;1;0;18;0;0;1;0
+435;7;Luis Romo;MF;Mexico ;0;0;0;0;0;0;0
+436;10;Alexis Vega;MF;Mexico ;3;3;193;0;0;0;0
+437;24;Luis Chavez;MF;Mexico ;3;3;270;1;0;0;0
+438;9;Raul Jimenez;FW;Mexico ;3;0;59;0;0;0;0
+439;22;Hirving Lozano;FW;Mexico ;3;3;252;0;0;0;0
+440;20;Henry Martin;FW;Mexico ;2;2;146;1;0;0;0
+441;11;Rogelio Funes Mori;FW;Mexico ;1;0;5;0;0;0;0
+442;1;Yassine Bounou;GK;Morocco ;6;6;570;0;0;0;0
+443;12;Munir Mohamedi;GK;Morocco ;1;1;90;0;0;0;0
+444;22;Ahmed Reda Tagnaouti;GK;Morocco ;0;0;0;0;0;0;0
+445;2;Achraf Hakimi;DF;Morocco ;7;7;631;0;1;0;0
+446;3;Noussair Mazraoui;DF;Morocco ;5;5;365;0;0;0;0
+447;5;Nayef Aguerd;DF;Morocco ;4;4;353;0;0;0;0
+448;6;Roman Saiss;DF;Morocco ;6;6;466;1;0;1;0
+449;20;Achraf Dari;DF;Morocco ;3;2;187;1;0;1;0
+450;25;Yahia Attiyat Allah;DF;Morocco ;6;2;318;0;1;0;0
+451;24;Badr Benoun;DF;Morocco ;3;0;54;0;0;0;0
+452;18;Jawad El Yamiq;DF;Morocco ;6;3;309;0;0;0;0
+453;4;Sofyan Amrabat;MF;Morocco ;7;7;660;0;0;1;0
+454;11;Abdelhamid Sabiri;MF;Morocco ;5;2;181;0;1;1;0
+455;15;Selim Amallah;MF;Morocco ;7;4;409;0;0;1;0
+456;8;Azzedine Ounahi;MF;Morocco ;7;6;568;0;0;1;0
+457;23;Bilal El Khannous;MF;Morocco ;1;1;55;0;0;0;0
+458;26;Yahya Jabrane;MF;Morocco ;2;0;15;0;0;0;0
+459;7;Hakim Ziyech;FW;Morocco ;7;7;635;1;1;0;0
+460;17;Sofiane Boufal;FW;Morocco ;7;7;475;0;0;1;0
+461;14;Zakaria Aboukhlal;FW;Morocco ;4;0;79;1;0;0;0
+462;10;Anass Zaroury;FW;Morocco ;1;0;27;0;0;0;0
+463;16;Abde Ezzalzouli;FW;Morocco ;3;0;93;0;0;0;0
+464;13;Ilias Chair;FW;Morocco ;1;0;45;0;0;0;0
+465;19;Youssef En-Nesyri;FW;Morocco ;7;7;542;2;0;0;0
+466;21;Walid Cheddira;FW;Morocco ;2;0;64;0;0;2;1
+467;9;Abderrazak Hamdallah;FW;Morocco ;4;0;68;0;0;0;0
+468;13;Justin Bijlow;GK;Netherlands ;0;0;0;0;0;0;0
+469;1;Remko Pasveer;GK;Netherlands ;0;0;0;0;0;0;0
+470;23;Andries Noppert;GK;Netherlands ;5;5;480;0;0;0;0
+471;17;Daley Blind;DF;Netherlands ;5;5;423;1;1;0;0
+472;6;Stefan de Vrij;DF;Netherlands ;0;0;0;0;0;0;0
+473;4;Virgil van Dijk;DF;Netherlands ;5;5;480;0;0;0;0
+474;3;Matthijs de Ligt;DF;Netherlands ;2;1;91;0;0;1;0
+475;22;Denzel Dumfries;DF;Netherlands ;5;5;479;1;2;2;1
+476;5;Nathan Ake;DF;Netherlands ;5;5;479;0;0;1;0
+477;2;Jurrien Timber;DF;Netherlands ;4;4;390;0;0;1;0
+478;16;Tyrell Malacia;DF;Netherlands ;0;0;0;0;0;0;0
+479;26;Jeremie Frimpong;DF;Netherlands ;0;0;0;0;0;0;0
+480;21;Frenkie de Jong;MF;Netherlands ;5;5;475;1;1;1;0
+481;11;Steven Berghuis;MF;Netherlands ;4;1;200;0;1;1;0
+482;15;Maarten de Roon;MF;Netherlands ;5;3;184;0;0;0;0
+483;20;Teun Koopmeiners;MF;Netherlands ;5;1;219;0;1;1;0
+484;24;Kenneth Taylor;MF;Netherlands ;1;0;5;0;0;0;0
+485;25;Xavi Simons;MF;Netherlands ;1;0;9;0;0;0;0
+486;14;Davy Klaassen;MF;Netherlands ;4;3;190;1;2;0;0
+487;10;Memphis Depay;FW;Netherlands ;5;3;297;1;0;1;0
+488;9;Luuk de Jong;FW;Netherlands ;1;0;57;0;0;0;0
+489;7;Steven Bergwijn;FW;Netherlands ;4;3;213;0;0;1;0
+490;18;Vincent Janssen;FW;Netherlands ;2;1;86;0;0;0;0
+491;19;Wout Weghorst;FW;Netherlands ;4;0;64;2;0;1;0
+492;8;Cody Gakpo;FW;Netherlands ;5;5;450;3;0;0;0
+493;12;Noa Lang;FW;Netherlands ;1;0;8;0;0;1;0
+494;1;Wojciech Szczesny;GK;Poland ;4;4;360;0;0;0;0
+495;22;Kamil Grabara;GK;Poland ;0;0;0;0;0;0;0
+496;12;Lukasz Skorupski;GK;Poland ;0;0;0;0;0;0;0
+497;5;Jan Bednarek;DF;Poland ;1;0;5;0;0;0;0
+498;15;Kamil Glik;DF;Poland ;4;4;360;0;0;0;0
+499;25;Robert Gumny;DF;Poland ;0;0;0;0;0;0;0
+500;3;Artur Jedrzejczyk;DF;Poland ;1;0;19;0;0;0;0
+501;14;Jakub Kiwior;DF;Poland ;4;4;355;0;0;1;0
+502;4;Mateusz Wieteska;DF;Poland ;0;0;0;0;0;0;0
+503;18;Bartosz Bereszynski;DF;Poland ;4;4;341;0;0;1;0
+504;2;Matty Cash;DF;Poland ;4;4;360;0;0;2;0
+505;21;Nicola Zalewski;DF;Poland ;2;1;65;0;0;0;0
+506;6;Krystian Bielik;MF;Poland ;4;2;216;0;0;0;0
+507;24;Przemyslaw Frankowski;MF;Poland ;4;3;240;0;0;1;0
+508;11;Kamil Grosicki;MF;Poland ;1;0;4;0;0;0;0
+509;10;Grzegorz Krychowiak;MF;Poland ;4;4;332;0;0;1;0
+510;13;Jakub Kaminski;MF;Poland ;4;2;233;0;0;0;0
+511;26;Michal Skoras;MF;Poland ;1;0;45;0;0;0;0
+512;8;Damian Szymanski;MF;Poland ;1;0;29;0;0;0;0
+513;19;Sebastian Szymanski;MF;Poland ;2;2;134;0;0;0;0
+514;20;Piotr Zielinski;MF;Poland ;4;4;328;1;0;0;0
+515;17;Szymon Zurkowski;MF;Poland ;0;0;0;0;0;0;0
+516;9;Robert Lewandowski;FW;Poland ;4;4;360;2;1;0;0
+517;7;Arkadiusz Milik;FW;Poland ;3;1;101;0;0;1;0
+518;23;Krzysztof Piatek;FW;Poland ;2;0;28;0;0;0;0
+519;16;Karol Swiderski;FW;Poland ;1;1;45;0;0;0;0
+520;22;Diogo Costa;GK;Portugal;5;5;450;0;0;0;0
+521;1;Rui Patricio;GK;Portugal;0;0;0;0;0;0;0
+522;12;Jose Sa;GK;Portugal;0;0;0;0;0;0;0
+523;2;Diogo Dalot;DF;Portugal;3;3;258;0;2;0;0
+524;13;Danilo Pereira;DF;Portugal;1;1;90;0;0;1;0
+525;3;Pepe;DF;Portugal;4;4;360;1;0;0;0
+526;4;Ruben Dias;DF;Portugal;4;4;360;0;0;1;0
+527;24;Antonio Silva;DF;Portugal;1;1;90;0;0;0;0
+528;19;Nuno Mendes;DF;Portugal;1;1;41;0;0;0;0
+529;20;Joao Cancelo;DF;Portugal;4;3;310;0;0;0;0
+530;5;Raphael Guerreiro;DF;Portugal;4;3;279;1;2;0;0
+531;6;Joao Palhinha;MF;Portugal;3;0;38;0;0;0;0
+532;18;Ruben Neves;MF;Portugal;5;4;268;0;0;1;0
+533;10;Bernardo Silva;MF;Portugal;5;4;356;0;0;0;0
+534;8;Bruno Fernandes;MF;Portugal;4;4;356;2;3;1;0
+535;17;Joao Mario;MF;Portugal;2;1;84;0;0;0;0
+536;23;Matheus Nunes;MF;Portugal;2;1;73;0;0;0;0
+537;25;Otavio;MF;Portugal;3;3;196;0;0;0;0
+538;14;William Carvalho;MF;Portugal;4;2;215;0;0;0;0
+539;16;Vitinha;MF;Portugal;3;1;120;0;0;1;0
+540;24;Andre Silva;FW;Portugal;1;0;26;0;0;0;0
+541;7;Cristiano Ronaldo ??;FW;Portugal;5;3;290;1;0;0;0
+542;26;Goncalo Ramos;FW;Portugal;4;2;152;3;1;0;0
+543;11;Joao Felix;FW;Portugal;4;4;331;1;2;1;0
+544;15;Rafael Leao;FW;Portugal;5;0;88;2;0;0;0
+545;21;Ricardo Horta;FW;Portugal;3;1;119;1;0;0;0
+546;1;Saad Al Sheeb;GK;Qatar;1;1;90;0;0;1;0
+547;22;Meshaal Barsham;GK;Qatar;2;2;180;0;0;0;0
+548;21;Yousef Hassan;GK;Qatar;0;0;0;0;0;0;0
+549;3;Abdelkarim Hassan;DF;Qatar;3;3;270;0;0;0;0
+550;16;Boualem Khoukhi;DF;Qatar;3;3;270;0;0;0;0
+551;2;Pedro Miguel Ro-Ro;DF;Qatar;3;3;262;0;0;0;0
+552;5;Tarek Salman;DF;Qatar;1;0;8;0;0;0;0
+553;15;Bassam Al-Rawi;DF;Qatar;1;1;90;0;0;0;0
+554;13;Musab Kheder;DF;Qatar;1;0;6;0;0;0;0
+555;14;Homam Ahmed;DF;Qatar;3;3;262;0;0;1;0
+556;25;Jassem Gaber;DF;Qatar;0;0;0;0;0;0;0
+557;12;Karim Boudiaf;MF;Qatar;3;2;185;0;0;1;0
+558;20;Salem Al-Hajri;MF;Qatar;0;0;0;0;0;0;0
+559;6;Abdulaziz Hatem;MF;Qatar;3;2;196;0;0;0;0
+560;8;Ali Assadalla;MF;Qatar;1;0;27;0;0;0;0
+561;4;Mohammed Waad;MF;Qatar;2;0;28;0;0;0;0
+562;23;Assim Madibo;MF;Qatar;2;2;153;0;0;1;0
+563;26;Mustafa Tarek;MF;Qatar;0;0;0;0;0;0;0
+564;10;Hassan Al-Haydos;FW;Qatar;3;3;206;0;0;0;0
+565;11;Akram Afif;FW;Qatar;3;3;270;0;0;1;0
+566;19;Almoez Ali;FW;Qatar;3;3;224;0;0;1;0
+567;17;Ismaeel Mohammada;FW;Qatar;2;2;174;0;1;1;0
+568;9;Mohammed Muntari;FW;Qatar;3;0;63;1;0;0;0
+569;7;Ahmed Alaaeldin;FW;Qatar;1;0;6;0;0;0;0
+570;18;Khalid Muneer;FW;Qatar;0;0;0;0;0;0;0
+571;24;Naif Al-Hadhrami;FW;Qatar;0;0;0;0;0;0;0
+572;21;Mohammed Al-Owais;GK;Saudi Arabia;3;3;270;0;0;1;0
+573;1;Mohammed Al Yami;GK;Saudi Arabia;0;0;0;0;0;0;0
+574;22;Nawaf Al-Aqidi;GK;Saudi Arabia;0;0;0;0;0;0;0
+575;13;Yasser Al-Shahrani;DF;Saudi Arabia;1;1;89;0;0;0;0
+576;6;Mohammed Al-Breik;DF;Saudi Arabia;2;1;65;0;0;0;0
+577;5;Ali Al-Bulaihi;DF;Saudi Arabia;3;3;216;0;0;1;0
+578;2;Sultan Al-Ghanam;DF;Saudi Arabia;3;1;126;0;0;0;0
+579;12;Saud Abdulhamid;DF;Saudi Arabia;3;3;270;0;0;1;0
+580;4;Abdulelah Al-Amri;DF;Saudi Arabia;3;2;182;0;0;2;0
+581;17;Hassan Tambakti;DF;Saudi Arabia;2;2;180;0;0;1;0
+582;3;Abdullah Madu;DF;Saudi Arabia;1;0;45;0;0;1;0
+583;18;Nawaf Alabid;MF;Saudi Arabia;2;0;88;0;0;1;0
+584;7;Salman Al-Faraj;MF;Saudi Arabia;1;1;44;0;0;0;0
+585;10;Salem Al-Dawsari;MF;Saudi Arabia;3;3;270;2;0;1;0
+586;14;Abdullah Otayf;MF;Saudi Arabia;0;0;0;0;0;0;0
+587;23;Mohamed Kanno;MF;Saudi Arabia;3;3;270;0;0;0;0
+588;8;Abdulellah Al-Malki;MF;Saudi Arabia;2;2;174;0;0;2;0
+589;16;Sami Al-Najei;MF;Saudi Arabia;1;1;45;0;0;0;0
+590;15;Ali Al-Hassan;MF;Saudi Arabia;1;1;45;0;0;1;0
+591;24;Nasser Al-Dawsari;MF;Saudi Arabia;1;0;5;0;0;0;0
+592;20;Abdulrahman Al-Aboud;MF;Saudi Arabia;2;0;35;0;0;0;0
+593;26;Riyadh Sharahili;MF;Saudi Arabia;1;0;54;0;0;0;0
+594;19;Hattan Bahebri;FW;Saudi Arabia;2;0;4;0;1;1;0
+595;9;Firas Al-Buraikan;FW;Saudi Arabia;3;3;268;0;1;0;0
+596;11;Saleh Al-Shehri;FW;Saudi Arabia;3;3;223;1;0;1;0
+597;25;Haitham Asiri;FW;Saudi Arabia;1;0;2;0;0;0;0
+598;16;Edouard Mendy;GK;Senegal;4;4;360;0;0;0;0
+599;23;Alfred Gomis;GK;Senegal;0;0;0;0;0;0;0
+600;1;Seny Dieng;GK;Senegal;0;0;0;0;0;0;0
+601;2;Formose Mendy;DF;Senegal;0;0;0;0;0;0;0
+602;3;Kalidou Koulibaly;DF;Senegal;4;4;360;1;0;1;0
+603;4;Papa Abou Cisse;DF;Senegal;3;1;105;0;0;0;0
+604;8;Cheikhou Kouyat ;DF;Senegal;1;1;72;0;0;0;0
+605;22;Abdou Diallo;DF;Senegal;4;4;331;0;0;0;0
+606;12;Fode Ballo-Toure;DF;Senegal;1;0;7;0;0;0;0
+607;14;Ismail Jakobs;DF;Senegal;4;3;278;0;1;1;0
+608;21;Youssouf Sabaly;DF;Senegal;4;4;360;0;0;0;0
+609;10;Moussa Ndiaye;DF;Senegal;0;0;0;0;0;0;0
+610;5;Idrissa Gueye;MF;Senegal;3;3;270;0;0;2;0
+611;26;Papa Gueye;MF;Senegal;3;1;153;0;0;0;0
+612;17;Pape Matar Sarr;MF;Senegal;2;0;59;0;0;0;0
+613;6;Nampalys Mendy;MF;Senegal;4;3;272;0;0;1;0
+614;15;Krepin Diatta;MF;Senegal;3;3;181;0;0;0;0
+615;11;Pathe Ciss;MF;Senegal;3;2;146;0;0;1;0
+616;24;Moustapha Name;MF;Senegal;0;0;0;0;0;0;0
+617;25;Loum Ndiaye;MF;Senegal;0;0;0;0;0;0;0
+618;9;Boulaye Dia;FW;Senegal;4;4;318;1;0;1;0
+619;18;Ismalia Sarr;FW;Senegal;4;4;344;1;0;0;0
+620;20;Bamba Dieng;FW;Senegal;4;0;100;1;0;0;0
+621;13;Iliman Ndiaye;FW;Senegal;3;2;135;0;1;0;0
+622;7;Nicolas Jackson;FW;Senegal;1;0;17;0;0;0;0
+623;19;Famara Diedhiou;FW;Senegal;2;1;92;1;0;0;0
+624;1;Marko Dmitrovic;GK;Serbia;0;0;0;0;0;0;0
+625;23;Vanja Milinkovic-Savic;GK;Serbia;3;3;270;0;0;0;0
+626;12;Predrag Rajkovi?;GK;Serbia;0;0;0;0;0;0;0
+627;13;Stefan Mitrovic;DF;Serbia;1;0;35;0;0;0;0
+628;25;Filip Mladenovic;DF;Serbia;1;1;65;0;0;0;0
+629;2;Strahinja Pavlovic;DF;Serbia;3;3;235;1;0;2;0
+630;5;Milos Veljkovic;DF;Serbia;3;3;221;0;0;0;0
+631;3;Strahinja Erakovic;DF;Serbia;0;0;0;0;0;0;0
+632;15;Srdan Babic;DF;Serbia;1;0;13;0;0;0;0
+633;4;Nikola Milenkovic;DF;Serbia;3;3;270;0;0;2;0
+634;8;Nemanja Gudelj;MF;Serbia;2;1;92;0;0;2;0
+635;17;Filip Kostic;MF;Serbia;2;2;179;0;0;0;0
+636;6;Nemanja Maksimovic;MF;Serbia;3;1;122;0;0;0;0
+637;20;Sergej Milinkovic-Savic;MF;Serbia;3;3;233;1;0;1;0
+638;16;Sasa Lukic;MF;Serbia;3;3;245;0;0;2;0
+639;14;Andrija Zivkovic;MF;Serbia;3;3;210;0;2;0;0
+640;19;Uros Racic;MF;Serbia;0;0;0;0;0;0;0
+641;24;Ivan Ilic;MF;Serbia;1;0;34;0;0;0;0
+642;22;Darko Lazovic;MF;Serbia;1;0;25;0;0;0;0
+643;26;Marko Grujic;MF;Serbia;1;0;13;0;0;0;0
+644;11;Luka Jovi?;FW;Serbia;1;0;36;0;0;1;0
+645;9;Aleksandr Mitrovic;FW;Serbia;3;3;262;2;0;1;0
+646;18;Dusan Vlahovic;FW;Serbia;2;1;79;1;0;0;0
+647;7;Nemanja Radonjic;FW;Serbia;3;0;60;0;0;0;0
+648;21;Filip Duricic;FW;Serbia;2;0;14;0;0;0;0
+649;10;Dusan Tadic;FW;Serbia;3;3;257;0;2;0;0
+650;1;Kim Seung-gyu;GK;South Korea;4;4;360;0;0;0;0
+651;21;Jo Hyeon-woon;GK;South Korea;0;0;0;0;0;0;0
+652;12;Song Bum-keun;GK;South Korea;0;0;0;0;0;0;0
+653;4;Kim Min-jae;DF;South Korea;3;3;269;0;0;0;0
+654;3;Kim Jin-su;DF;South Korea;4;4;315;0;1;0;0
+655;14;Hong Chul;DF;South Korea;1;0;45;0;0;0;0
+656;15;Kim Moon-hwan;DF;South Korea;4;4;360;0;0;0;0
+657;2;Yoon Jong-gyu;DF;South Korea;0;0;0;0;0;0;0
+658;19;Kim Young-gwon;DF;South Korea;4;4;350;1;0;1;0
+659;23;Kim Tae-hwan;DF;South Korea;0;0;0;0;0;0;0
+660;20;Kwon Kyung-won;DF;South Korea;2;1;91;0;0;0;0
+661;24;Cho Yu-min;DF;South Korea;1;0;1;0;0;0;0
+662;5;Jung Woo-young;MF;South Korea;4;4;303;0;0;2;0
+663;17;Na Sang-ho;MF;South Korea;2;1;119;0;0;0;0
+664;8;Paik Seung-ho;MF;South Korea;1;0;26;1;0;0;0
+665;13;Son Jun-ho;MF;South Korea;3;0;72;0;0;0;0
+666;26;Song Min-kyu;MF;South Korea;0;0;0;0;0;0;0
+667;22;Kwon Chang-hoon;MF;South Korea;1;1;56;0;0;0;0
+668;10;Lee Jae-sung;MF;South Korea;3;3;211;0;0;0;0
+669;6;Hwang In-beom;MF;South Korea;4;4;334;0;0;0;0
+670;18;Lee Kang-in;MF;South Korea;4;1;147;0;1;1;0
+671;7;Son Heung-min;FW;South Korea;4;4;360;0;1;0;0
+672;11;Hwang Hee-chan;FW;South Korea;2;1;115;1;0;1;0
+673;25;Jeong Woo-yeong;FW;South Korea;1;1;45;0;0;0;0
+674;16;Hwang Ui-jo;FW;South Korea;4;1;106;0;0;0;0
+675;9;Cho Gue-sung;FW;South Korea;4;3;275;2;0;1;0
+676;1;Robert Sanchez;GK;Spain;0;0;0;0;0;0;0
+677;13;David Raya;GK;Spain;0;0;0;0;0;0;0
+678;23;Unai Simon;GK;Spain;4;4;390;0;0;0;0
+679;2;Cesar Azpilicueta;DF;Spain;2;2;135;0;1;0;0
+680;18;Jordi Alba;DF;Spain;4;3;264;0;2;0;0
+681;15;Hugo Guillamon;DF;Spain;0;0;0;0;0;0;0
+682;4;Pau Torrres;DF;Spain;1;1;90;0;0;0;0
+683;3;Eric Garcia;DF;Spain;0;0;0;0;0;0;0
+684;14;Alejandro Balde;DF;Spain;4;1;126;0;0;0;0
+685;20;Dani Carvajal;DF;Spain;2;1;135;0;0;0;0
+686;24;Aymeric Laporte;DF;Spain;3;3;300;0;0;1;0
+687;5;Sergio Busquets;MF;Spain;4;4;363;0;0;1;0
+688;6;Marcos Llorente;MF;Spain;1;1;120;0;0;0;0
+689;26;Pedri;MF;Spain;4;4;356;0;0;0;0
+690;16;Rodri;MF;Spain;4;4;390;0;0;0;0
+691;8;Koke;MF;Spain;2;0;52;0;0;0;0
+692;9;Gavi;MF;Spain;4;4;284;1;0;0;0
+693;19;Carlos Soler;MF;Spain;2;0;92;1;0;0;0
+694;7;Alvaro Morata;FW;Spain;4;1;185;3;1;0;0
+695;17;Yeremy Pino;FW;Spain;0;0;0;0;0;0;0
+696;11;Ferran Torres;FW;Spain;4;3;217;2;0;0;0
+697;10;Marco Asensio;FW;Spain;4;3;229;1;0;0;0
+698;22;Pablo Sarabia;FW;Spain;1;0;3;0;0;0;0
+699;21;Dani Olmo;FW;Spain;4;4;367;1;1;0;0
+700;12;Nico Williams;FW;Spain;4;1;146;0;0;0;0
+701;25;Ansu Fati;FW;Spain;2;0;46;0;0;0;0
+702;1;Yann Sommer;GK;Switzerland;3;3;270;0;0;0;0
+703;12;Jonas Omlin;GK;Switzerland;0;0;0;0;0;0;0
+704;21;Gregor Kobel;GK;Switzerland;1;1;90;0;0;0;0
+705;24;Philipp Kohn;GK;Switzerland;0;0;0;0;0;0;0
+706;3;Silvan Widmer;DF;Switzerland;3;3;265;0;1;1;0
+707;13;Ricardo Rodriguez;DF;Switzerland;4;4;359;0;0;0;0
+708;22;Fabian Schar;DF;Switzerland;2;2;135;0;0;2;0
+709;5;Manuel Akanji;DF;Switzerland;4;4;360;1;0;1;0
+710;4;Nico Elvedi;DF;Switzerland;2;2;180;0;0;1;0
+711;18;Eray Comert;DF;Switzerland;2;0;46;0;0;1;0
+712;23;Xherdan Shaqiri;MF;Switzerland;3;3;229;1;1;0;0
+713;10;Granit Xhaka;MF;Switzerland;4;4;360;0;0;1;0
+714;8;Remo Freuler;MF;Switzerland;4;4;323;1;0;0;0
+715;6;Denis Zakaria;MF;Switzerland;2;0;59;0;0;0;0
+716;15;Djibril Sow;MF;Switzerland;4;4;264;0;1;0;0
+717;11;Renato Steffen;MF;Switzerland;1;0;32;0;0;0;0
+718;2;Edimilson Fernandes;MF;Switzerland;3;1;145;0;0;0;0
+719;20;Fabian Frei;MF;Switzerland;2;0;25;0;0;0;0
+720;14;Michel Aebischer;MF;Switzerland;1;0;16;0;0;0;0
+721;26;Ardon Jashari;MF;Switzerland;1;0;2;0;0;0;0
+722;25;Fabian Rieder;MF;Switzerland;2;1;68;0;0;1;0
+723;9;Haris Seferovic;FW;Switzerland;3;0;71;0;0;0;0
+724;7;Breel Embolo;FW;Switzerland;4;4;323;2;0;0;0
+725;17;Ruben Vargas;FW;Switzerland;4;4;285;0;1;1;0
+726;16;Christian Fassnacht;FW;Switzerland;1;0;8;0;0;0;0
+727;19;Noah Okafor;FW;Switzerland;3;0;45;0;0;0;0
+728;16;Aymen Dahmen;GK;Tunisia;3;3;270;0;0;0;0
+729;26;Mouez Hassen;GK;Tunisia;0;0;0;0;0;0;0
+730;1;Balbouli;GK;Tunisia;0;0;0;0;0;0;0
+731;22;Bechir Ben Sa d;GK;Tunisia;0;0;0;0;0;0;0
+732;20;Mohamed Drager;DF;Tunisia;2;2;132;0;0;0;0
+733;21;Wajdi Kechrida;DF;Tunisia;3;1;111;0;0;1;0
+734;2;Bilel Ifa;DF;Tunisia;0;0;0;0;0;0;0
+735;3;Montassar Talbi;DF;Tunisia;3;3;270;0;0;0;0
+736;6;Dylan Bronn;DF;Tunisia;2;2;162;0;0;0;0
+737;4;Yassine Meriah;DF;Tunisia;3;3;270;0;0;0;0
+738;5;Nader Ghandri;DF;Tunisia;1;1;90;0;0;0;0
+739;12;Ali Maaloul;DF;Tunisia;1;1;90;0;0;0;0
+740;24;Ali Abdi;DF;Tunisia;3;2;188;0;0;1;0
+741;17;Ellyes Skhiri;MF;Tunisia;3;3;270;0;0;0;0
+742;14;Aissa Laidouni;MF;Tunisia;3;3;243;0;1;1;0
+743;13;Ferjani Sassi;MF;Tunisia;2;0;48;0;0;1;0
+744;18;Ghailene Chaalali;MF;Tunisia;1;0;17;0;0;0;0
+745;8;Hannibal Mejbri;MF;Tunisia;1;0;11;0;0;0;0
+746;15;Mohamed Ali Ben Romdhane;MF;Tunisia;1;1;73;0;0;0;0
+747;19;Seifeddine Jaziri;FW;Tunisia;0;0;0;0;0;0;0
+748;23;Naim Sliti;FW;Tunisia;2;1;114;0;0;0;0
+749;11;Taha Yassine Khenissi;FW;Tunisia;2;0;29;0;0;1;0
+750;25;Anis Ben Slimane;FW;Tunisia;2;2;148;0;0;0;0
+751;9;Issam Jebali;FW;Tunisia;3;2;182;0;0;0;0
+752;10;Wahbi Khazri;FW;Tunisia;2;1;83;1;0;0;0
+753;7;Youssef Msakni;FW;Tunisia;2;2;169;0;0;0;0
+754;1;Fernando Muslera;GK;Uruguay;0;0;0;0;0;0;0
+755;23;Sergio Rochet;GK;Uruguay;3;3;270;0;0;0;0
+756;12;Sebastian Sosa;GK;Uruguay;0;0;0;0;0;0;0
+757;4;Ronald Araujo;DF;Uruguay;0;0;0;0;0;0;0
+758;22;Martin Caceres;DF;Uruguay;1;1;90;0;0;1;0
+759;19;Sebastian Coates;DF;Uruguay;2;2;180;0;0;1;0
+760;2;Jose Maria Gimenez;DF;Uruguay;3;3;270;0;0;1;0
+761;3;Diego Godin;DF;Uruguay;2;2;151;0;0;0;0
+762;16;Mathias Olivera;DF;Uruguay;3;3;253;0;0;1;0
+763;26;Jose Luis Rodriguez;DF;Uruguay;0;0;0;0;0;0;0
+764;17;Matias Vina;DF;Uruguay;2;0;17;0;0;0;0
+765;13;Guillermo Varela;DF;Uruguay;3;2;183;0;0;0;0
+766;5;Matias Vecino;MF;Uruguay;3;2;195;0;0;0;0
+767;7;Nicol s de la Cruz;MF;Uruguay;2;0;38;0;0;0;0
+768;6;Rodrigo Bentancur;MF;Uruguay;3;3;213;0;0;1;0
+769;15;Federico Valverde;MF;Uruguay;3;3;270;0;0;0;0
+770;10;Giorgian de Arrascaeta;MF;Uruguay;2;1;108;2;0;0;0
+771;14;Lucas Torreira;MF;Uruguay;0;0;0;0;0;0;0
+772;20;Facundo Torres;MF;Uruguay;0;0;0;0;0;0;0
+773;25;Manuel Ugarte;MF;Uruguay;0;0;0;0;0;0;0
+774;9;Luis Suarez;FW;Uruguay;3;2;146;0;1;1;0
+775;21;Edinson Cavani;FW;Uruguay;3;1;124;0;0;1;0
+776;18;Maxi Gomez;FW;Uruguay;2;0;30;0;0;0;0
+777;11;Darwin Nunez;FW;Uruguay;3;3;240;0;0;1;0
+778;8;Facundo Pellistri;FW;Uruguay;3;2;181;0;0;0;0
+779;24;Agustin Canobbio;FW;Uruguay;1;0;11;0;0;0;0
+780;1;Matt Turner;GK;USA;4;4;360;0;0;0;0
+781;12;Ethan Horvath;GK;USA;0;0;0;0;0;0;0
+782;25;Sean Johnson;GK;USA;0;0;0;0;0;0;0
+783;20;Cameron Carter-Vickers;DF;USA;1;1;90;0;0;0;0
+784;2;Sergi o Dest;DF;USA;4;4;305;0;1;1;0
+785;15;Aaron Long;DF;USA;0;0;0;0;0;0;0
+786;18;Shaq Moore;DF;USA;2;0;22;0;0;0;0
+787;13;Tim Ream;DF;USA;4;4;360;0;0;1;0
+788;5;Antonee Robinson;DF;USA;4;4;359;0;0;0;0
+789;26;Joe Scally;DF;USA;0;0;0;0;0;0;0
+790;22;DeAndre Yedlin;DF;USA;2;0;33;0;0;0;0
+791;3;Walker Zimmerman;DF;USA;4;3;279;0;0;0;0
+792;11;Brenden Aaronson;MF;USA;4;0;108;0;0;0;0
+793;23;Kellyn Acosta;MF;USA;2;0;43;0;0;1;0
+794;4;Tyler Adams;MF;USA;4;4;360;0;0;1;0
+795;14;Luca de la Torre;MF;USA;0;0;0;0;0;0;0
+796;8;Weston McKennie;MF;USA;4;4;271;0;0;1;0
+797;6;Yunus Musah;MF;USA;4;4;343;0;0;0;0
+798;17;Cristian Roldan;MF;USA;0;0;0;0;0;0;0
+799;24;Josh Sargent;FW;USA;3;2;157;0;0;0;0
+800;9;Jes s Ferreira;FW;USA;1;1;45;0;0;0;0
+801;16;Jordan Morris;FW;USA;2;0;4;0;0;0;0
+802;10;Christian Pulisic;FW;USA;4;4;315;1;2;0;0
+803;7;Gio Reyna;FW;USA;2;0;53;0;0;0;0
+804;21;Tim Weah;FW;USA;4;4;316;1;0;0;0
+805;19;Haji Wright;FW;USA;4;1;137;1;0;0;0
+806;12;Danny Ward;GK;Wales;2;1;94;0;0;0;0
+807;1;Wayne Hennessey;GK;Wales;2;2;175;0;0;0;1
+808;21;Adam Davies;GK;Wales;0;0;0;0;0;0;0
+809;4;Ben Davies;DF;Wales;3;3;238;0;0;0;0
+810;24;Ben Cabango;DF;Wales;0;0;0;0;0;0;0
+811;6;Joe Rodon;DF;Wales;3;3;270;0;0;1;0
+812;5;Chris Mepham;DF;Wales;3;3;270;0;0;1;0
+813;15;Ethan Ampadu;DF;Wales;3;3;255;0;0;0;0
+814;2;Chris Gunter;DF;Wales;0;0;0;0;0;0;0
+815;3;Neco Williams;DF;Wales;3;3;204;0;0;0;0
+816;14;Connor Roberts;DF;Wales;3;2;200;0;0;0;0
+817;17;Tom Lockyer;DF;Wales;0;0;0;0;0;0;0
+818;22;Sorba Thomas;MF;Wales;1;0;1;0;0;0;0
+819;7;Joe Allen;MF;Wales;2;1;94;0;0;0;0
+820;26;Matthew Smith;MF;Wales;0;0;0;0;0;0;0
+821;23;Dylan Levitt;MF;Wales;0;0;0;0;0;0;0
+822;8;Harry Wilson;MF;Wales;3;2;160;0;0;0;0
+823;16;Joe Morrell;MF;Wales;2;0;33;0;0;0;0
+824;18;Jonny Williams;MF;Wales;0;0;0;0;0;0;0
+825;10;Aaron Ramsey;MF;Wales;3;3;266;0;0;1;0
+826;25;Rubin Colwill;FW;Wales;1;0;10;0;0;0;0
+827;11;Gareth Bale;FW;Wales;3;3;225;1;0;1;0
+828;13;Kieffer Moore;FW;Wales;3;2;225;0;0;0;0
+829;19;Mark Harris;FW;Wales;0;0;0;0;0;0;0
+830;9;Brennan Johnson;FW;Wales;3;0;91;0;0;0;0
+831;20;Dan James;FW;Wales;3;2;154;0;0;1;0
