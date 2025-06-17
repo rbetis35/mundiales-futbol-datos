@@ -1,9 +1,13 @@
 stadium_id,stadium_name,city,capacity
-1,Al Bayt Stadium,Al Khor,68895
-2,Khalifa International Stadium,Doha,45857
-3,Al Thumama Stadium,Doha,44400
-4,Lusail Stadium,Lusail,88966
-5,Education City Stadium,Al Rayyan,45350
-6,Stadium 974,Doha,44950
-7,Al Janoub Stadium,Al Wakrah,40000
-8,Ahmad bin Ali Stadium,Al Rayyan,44740
+1,"Estádio do Maracanã",Rio de Janeiro,74738
+2,"Arena de São Paulo (Arena Corinthians)",São Paulo,61766
+3,"Estádio Nacional Mané Garrincha",Brasília,69432
+4,"Arena Fonte Nova",Salvador,51700
+5,"Arena Pernambuco",Recife,46700
+6,"Arena Castelão",Fortaleza,60348
+7,"Estádio Mineirão",Belo Horizonte,62160
+8,"Arena da Amazônia",Manaus,44190
+9,"Arena Pantanal",Cuiabá,41900
+10,"Arena da Baixada",Curitiba,42634
+11,"Estádio Beira-Rio",Porto Alegre,48000
+12,"Arena das Dunas",Natal,42000
