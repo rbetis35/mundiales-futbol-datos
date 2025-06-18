@@ -1,11 +1,77 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,James Rodríguez,Colombia,6,2,399
+2,Thomas Müller,Germany,5,3,682
+3,Neymar,Brazil,4,1,457
+4,Lionel Messi,Argentina,4,1,693
+5,Robin van Persie,Netherlands,4,1,548
+6,Arjen Robben,Netherlands,3,1,690
+7,André Schürrle,Germany,3,0,236
+8,Enner Valencia,Ecuador,3,0,270
+9,Karim Benzema,France,3,2,477
+10,Xherdan Shaqiri,Switzerland,3,0,390
+11,Abdelmoumene Djabou,Algeria,2,1,211
+12,Islam Slimani,Algeria,2,0,273
+13,Tim Cahill,Australia,2,0,270
+14,Clint Dempsey,United States,2,0,390
+15,Memphis Depay,Netherlands,2,1,161
+16,Jackson Martínez,Colombia,2,0,153
+17,Miroslav Klose,Germany,2,0,247
+18,David Luiz,Brazil,2,0,630
+19,Mats Hummels,Germany,2,0,570
+20,Alexis Sánchez,Chile,2,1,390
+21,Bryan Ruiz,Costa Rica,2,0,480
+22,Wilfried Bony,Ivory Coast,2,0,270
+23,Gervinho,Ivory Coast,2,0,270
+24,Asamoah Gyan,Ghana,2,0,270
+25,Ahmed Musa,Nigeria,2,0,270
+26,Oscar,Brazil,2,2,614
+27,Sofiane Feghouli,Algeria,1,1,360
+28,Mesut Özil,Germany,1,1,630
+29,Mario Götze,Germany,1,0,555
+30,Gonzalo Higuaín,Argentina,1,0,684
+31,Angel Di María,Argentina,1,1,573
+32,André Ayew,Ghana,2,0,270
+33,John Brooks,United States,1,0,90
+34,Julian Green,United States,1,0,15
+35,Daley Blind,Netherlands,1,2,630
+36,Stefan de Vrij,Netherlands,1,0,630
+37,Leroy Fer,Netherlands,1,0,9
+38,Klaas-Jan Huntelaar,Netherlands,1,1,76
+39,Georginio Wijnaldum,Netherlands,1,0,203
+40,Wesley Sneijder,Netherlands,1,0,656
+41,Giovani dos Santos,Mexico,1,1,390
+42,Oribe Peralta,Mexico,1,0,315
+43,Rafael Márquez,Mexico,1,0,360
+44,Andrés Guardado,Mexico,1,0,510
+45,Paul Pogba,France,1,0,434
+46,Mathieu Valbuena,France,1,1,334
+47,Blaise Matuidi,France,1,0,443
+48,Olivier Giroud,France,1,1,215
+49,Sami Khedira,Germany,1,1,540
+50,Keisuke Honda,Japan,1,0,270
+51,Shinji Okazaki,Japan,1,0,285
+52,Mario Mandzukic,Croatia,2,0,270
+53,Ivan Perisic,Croatia,2,1,270
+54,Ivica Olic,Croatia,1,1,270
+55,Charles Aranguiz,Chile,1,1,390
+56,Jean Beausejour,Chile,1,0,116
+57,Eduardo Vargas,Chile,1,0,390
+58,Pablo Armero,Colombia,1,0,450
+59,Juan Quintero,Colombia,1,0,149
+60,Sokratis Papastathopoulos,Greece,1,0,390
+61,Andreas Samaris,Greece,1,0,45
+62,Joel Campbell,Costa Rica,1,1,480
+63,Oscar Duarte,Costa Rica,1,0,480
+64,Marcos Urena,Costa Rica,1,0,124
+65,Edinson Cavani,Uruguay,1,0,450
+66,Diego Godin,Uruguay,1,0,450
+67,Wayne Rooney,England,1,1,270
+68,Daniel Sturridge,England,1,0,151
+69,Mario Balotelli,Italy,1,0,270
+70,Claudio Marchisio,Italy,1,0,358
+71,Yaya Toure,Ivory Coast,1,0,270
+72,Didier Drogba,Ivory Coast,1,0,44
+73,Abdelmoumene Djabou,Algeria,2,1,211
+74,Sofiane Feghouli,Algeria,1,1,360
+75,Islam Slimani,Algeria,2,0,273
+76,Hal Robson-Kanu,Wales,1,0,90
