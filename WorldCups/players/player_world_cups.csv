@@ -363,15 +363,21 @@ player_id,world_cup_year,team,club,country_club
 285,2018,England,Manchester City,England
 285,2022,England,Chelsea,England
 286,2022,England,Newcastle United,England
+287,2018,France,Tottenham,England
 287,2022,France,Tottenham,England
+288,2018,France,PSG,France
 288,2022,France,West Ham United,England
+289,2018,France,Marseille,France
 289,2022,France,Rennes,France
+290,2018,France,Stuttgart,Germany
 290,2022,France,Bayern Munich,Germany
 291,2022,France,Barcelona,Spain
-292,2022,France,Man Utd,England
+292,2018,France,Real Madrid,Spain
+292,2022,France,Manchester United,England
 293,2022,France,PSG,France
 294,2022,France,Arsenal,England
 295,2022,France,AC Milan,Italy
+296,2018,France,Atletico Madrid,Spain
 296,2022,France,Bayern Munich,Germany
 297,2022,France,Liverpool,England
 298,2022,France,Bayern Munich,Germany
@@ -383,17 +389,27 @@ player_id,world_cup_year,team,club,country_club
 304,2022,France,Real Madrid,Spain
 305,2022,France,Monaco,France
 306,2022,France,Bayern Munich,Germany
+307,2018,France,PSG,France
 307,2022,France,PSG,France
+308,2018,France,Chelsea,England
 308,2022,France,AC Milan,Italy
+309,2018,France,Atletico Madrid,Spain
 309,2022,France,Atletico Madrid,Spain
+310,2018,France,Barcelona,Spain
 310,2022,France,Barcelona,Spain
 311,2022,France,Eintracht Frankfurt,Germany
 312,2022,France,Borussia Monchengladbach,Germany
+313,2018,Germany,Bayern Munich,Germany
 313,2022,Germany,Bayern Munich,Germany
+314,2018,Germany,Barcelona,Spain
 314,2022,Germany,Barcelona,Spain
+315,2018,Germany,Eintracht Frankfurt,Germany
 315,2022,Germany,Eintracht Frankfurt,Germany
+316,2018,Germany,Chelsea,England
 316,2022,Germany,Real Madrid,Spain
+317,2018,Germany,Borussia Moenchengladbach,Germany
 317,2022,Germany,Freiburg,Germany
+318,2018,Germany,Bayern Munich,Germany
 318,2022,Germany,Borussia Dortmund,Germany
 319,2022,Germany,West Ham,England
 320,2022,Germany,RB Leipzig,Germany
@@ -401,14 +417,19 @@ player_id,world_cup_year,team,club,country_club
 322,2022,Germany,Freiburg,Germany
 323,2022,Germany,Borussia Dortmund,Germany
 324,2022,Germany,Southampton,England
+325,2018,Germany,Bayern Munich,Germany
 325,2022,Germany,Bayern Munich,Germany
 326,2022,Germany,Eintracht Frankfurt,Germany
+327,2018,Germany,Manchester City,England
 327,2022,Germany,Manchester City,England
+328,2018,Germany,Schalke 04,Germany
 328,2022,Germany,Bayern Munich,Germany
+329,2018,Germany,Bayer Leverkusen,Germany
 329,2022,Germany,Borussia Dortmund,Germany
 330,2022,Germany,Chelsea,England
 331,2022,Germany,Bayern Munich,Germany
 332,2022,Germany,Borussia Monchengladbach,Germany
+333,2018,Germany,Bayern Munich,Germany
 333,2022,Germany,Bayern Munich,Germany
 334,2022,Germany,Bayern Munich,Germany
 335,2022,Germany,Bayern Munich,Germany
@@ -441,49 +462,69 @@ player_id,world_cup_year,team,club,country_club
 362,2022,Ghana,Bristol City,England
 363,2022,Ghana,Crystal Palace,England
 364,2022,Ghana,Rennes,France
+365,2018,Iran,Persepolis,Iran
 365,2022,Iran,Persepolis,Iran
 366,2022,Iran,Ponferradina,Spain
 367,2022,Iran,Esteghlal,Iran
 368,2022,Iran,Sepahan,Iran
+369,2018,Iran,Olympiakos,Greece
 369,2022,Iran,AEK Athens,Greece
-370,2022,Iran,Al Ahli,Qatar
+370,2022,Iran,Al-Ahli,Qatar
+371,2018,Iran,Al Saad,Qatar
 371,2022,Iran,Persepolis,Iran
+372,2018,Iran,Oostende,Belgium
 372,2022,Iran,Sepahan,Iran
+373,2018,Iran,Akhmat Grozny,Russia
 373,2022,Iran,AEK Athens,Greece
 374,2022,Iran,Al-Ahli,Qatar
 375,2022,Iran,Dinamo Zagreb,Croatia
+376,2018,Iran,Esteghlal,Iran
 376,2022,Iran,Kayserispor,Turkey
 377,2022,Iran,Esteghlal,Iran
+378,2018,Iran,Persepolis,Iran
 378,2022,Iran,Persepolis,Iran
+379,2018,Iran,AZ,Netherlands
 379,2022,Iran,Feyenoord,Netherlands
+380,2018,Iran,Amkar Perm,Russia
 380,2022,Iran,Vejle,Denmark
+381,2018,Iran,Saipa,Iran
 381,2022,Iran,Persepolis,Iran
+382,2018,Iran,Esteghlal,Iran
 382,2022,Iran,Esteghlal,Iran
+383,2018,Iran,Ostersund,Sweden
 383,2022,Iran,Brentford,England
 384,2022,Iran,Charleroi,Belgium
 385,2022,Iran,Shabab Al-Ahli,United Arab Emirates
 386,2022,Iran,Kayserispor,Turkey
+387,2018,Iran,Olympiakos,Greece
 387,2022,Iran,Omonia,Cyprus
+388,2022,Iran,Rubin Kazan,Russia
 388,2022,Iran,Bayer Leverkusen,Germany
+389,2018,Iran,Al-Gharafa,Qatar
 389,2022,Iran,Porto,Portugal
+390,2018,Japan,Metz,France
 390,2022,Japan,Strasbourg,France
 391,2022,Japan,Shimizu S-Pulse,Japan
 392,2022,Japan,Sint-Truiden,Belgium
 393,2022,Japan,Kawasaki Frontale,Japan
 394,2022,Japan,Kawasaki Frontale,Japan
 395,2022,Japan,Borussia Monchengladbach,Germany
+396,2018,Japan,Galatasaray,Turkey
 396,2022,Japan,Tokyo,Japan
 397,2022,Japan,Arsenal,England
+398,2018,Japan,Marseille,France
 398,2022,Japan,Urawa Red Diamonds,Japan
-399,2022,Japan,Schalke,Germany
+399,2018,Japan,Southampton,England
+399,2022,Japan,Schalke 04,Germany
 400,2022,Japan,Stuttgart,Germany
 401,2022,Japan,Stuttgart,Germany
+402,2018,Japan,Getafe,Spain
 402,2022,Japan,Leganes,Spain
 403,2022,Japan,Freiburg,Germany
 404,2022,Japan,Brighton,England
 405,2022,Japan,Monaco,France
 406,2022,Japan,Real Sociedad,Spain
-407,2022,Japan,Sporting,Portugal
+407,2022,Japan,Sporting CP,Portugal
 408,2022,Japan,Reims,France
 409,2022,Japan,Eintracht Frankfurt,Germany
 410,2022,Japan,Fortuna Dusseldorf,Germany
@@ -492,131 +533,168 @@ player_id,world_cup_year,team,club,country_club
 413,2022,Japan,Shonan Bellmare,Japan
 414,2022,Japan,Cercle Brugge,Belgium
 415,2022,Japan,Celtic,Scotland
-416,2022,Mexico ,America,Mexico
-417,2022,Mexico ,Juarez,Mexico
-418,2022,Mexico ,Leon,Mexico
-419,2022,Mexico ,Monterrey,Mexico
-420,2022,Mexico ,Monterrey,Mexico
-421,2022,Mexico ,America,Mexico
-422,2022,Mexico ,Monterrey,Mexico
-423,2022,Mexico ,Ajax,Netherlands
-424,2022,Mexico ,Genk,Belgium
-425,2022,Mexico ,Pachuca,Mexico
-426,2022,Mexico ,Cremonese,Italy
-427,2022,Mexico ,Real Betis,Spain
-428,2022,Mexico ,Houston Dynamo,USA
-429,2022,Mexico ,Ajax,Netherlands
-430,2022,Mexico ,AEK Athens,Greece
-431,2022,Mexico ,Cruz Azul,Mexico
-432,2022,Mexico ,PSV,Netherlands
-433,2022,Mexico ,Cruz Azul,Mexico
-434,2022,Mexico ,Guadalajara,Mexico
-435,2022,Mexico ,Monterrey,Mexico
-436,2022,Mexico ,Guadalajara,Mexico
-437,2022,Mexico ,Pachuca,Mexico
-438,2022,Mexico ,Wolves,England
-439,2022,Mexico ,Napoli,Italy
-440,2022,Mexico ,America,Mexico
-441,2022,Mexico ,Monterrey,Mexico
-442,2022,Morocco ,Sevilla,Spain
-443,2022,Morocco ,Al Wehda,Saudi Arabia
-444,2022,Morocco ,Wydad AC,Morocco
-445,2022,Morocco ,PSG,France
-446,2022,Morocco ,Bayern Munich,Germany
-447,2022,Morocco ,West Ham,England
-448,2022,Morocco ,Besiktas,Turkey
-449,2022,Morocco ,Brest,France
-450,2022,Morocco ,Wydad AC,Morocco
-451,2022,Morocco ,Qatar SC,Qatar
-452,2022,Morocco ,Valladolid,Spain
-453,2022,Morocco ,Fiorentina,Italy
-454,2022,Morocco ,Sampdoria,Italy
-455,2022,Morocco ,Standard Liege,Belgium
-456,2022,Morocco ,Angers,France
-457,2022,Morocco ,Genk,Belgium
-458,2022,Morocco ,Wydad AC,Morocco
-459,2022,Morocco ,Chelsea,England
-460,2022,Morocco ,Angers,France
-461,2022,Morocco ,Toulouse,France
-462,2022,Morocco ,Burnley,England
-463,2022,Morocco , Osasuna,Spain
-464,2022,Morocco ,QPR,England
-465,2022,Morocco ,Sevilla,Spain
-466,2022,Morocco ,Bari,Italy
-467,2022,Morocco ,Al-Ittihad,Saudi Arabia
-468,2022,Netherlands ,Feyenoord,Netherlands
-469,2022,Netherlands ,Ajax,Netherlands
-470,2022,Netherlands ,Heerenveen,Netherlands
-471,2022,Netherlands ,Ajax,Netherlands
-472,2022,Netherlands ,Internazionale,Italy
-473,2022,Netherlands ,Liverpool,England
-474,2022,Netherlands ,Bayern Munich,Germany
-475,2022,Netherlands ,Internazionale,Italy
-476,2022,Netherlands ,Manchester City,England
-477,2022,Netherlands ,Ajax,Netherlands
-478,2022,Netherlands ,Manchester United,England
-479,2022,Netherlands ,Bayer Leverkusen,Germany
-480,2022,Netherlands ,Barcelona,Spain
-481,2022,Netherlands ,Ajax,Netherlands
-482,2022,Netherlands ,Atalanta,Italy
-483,2022,Netherlands ,Atalanta,Italy
-484,2022,Netherlands ,Ajax,Netherlands
-485,2022,Netherlands ,PSV,Netherlands
-486,2022,Netherlands ,Ajax,Netherlands
-487,2022,Netherlands ,Barcelona,Spain
-488,2022,Netherlands ,PSV,Netherlands
-489,2022,Netherlands ,Ajax,Netherlands
-490,2022,Netherlands ,Antwerp,Belgium
-491,2022,Netherlands ,Besiktas,Turkey
-492,2022,Netherlands ,PSV,Netherlands
-493,2022,Netherlands ,Club Brugge,Belgium
-494,2022,Poland ,Juventus,Italy
-495,2022,Poland ,Copenhagen,Denmark
-496,2022,Poland ,Bologna,Italy
-497,2022,Poland ,Aston Villa,England
-498,2022,Poland ,Benevento,Italy
-499,2022,Poland ,Augsburg,Germany
-500,2022,Poland ,Legia Warsaw,Poland
-501,2022,Poland ,Spezia,Italy
-502,2022,Poland ,Clermont,France
-503,2022,Poland ,Sampdoria,Italy
-504,2022,Poland ,Aston Villa,England
-505,2022,Poland ,Roma,Italy
-506,2022,Poland ,Birmingham City,England
-507,2022,Poland ,Lens,France
-508,2022,Poland ,Pogon Szczecin,Poland
-509,2022,Poland ,Al-Shabab,Saudi Arabia
-510,2022,Poland ,Wolfsburg,Germany
-511,2022,Poland ,Lech Poznan,Poland
-512,2022,Poland ,AEK Athens,Greece
-513,2022,Poland ,Feyenoord,Netherlands
-514,2022,Poland ,Napoli,Italy
-515,2022,Poland ,Fiorentina,Italy
-516,2022,Poland ,Barcelona,Spain
-517,2022,Poland ,Juventus,Italy
-518,2022,Poland ,Salernitana,Italy
-519,2022,Poland ,Charlotte FC,USA
+416,2018,Mexico,Standard Liege,Belgium
+416,2022,Mexico,America,Mexico
+417,2018,Mexico,Toluca,Mexico
+417,2022,Mexico,Juarez,Mexico
+418,2022,Mexico,Leon,Mexico
+419,2018,Mexico,Real Sociedad,Spain
+419,2022,Mexico,Monterrey,Mexico
+420,2018,Mexico,UNAM,Mexico
+420,2022,Mexico,Monterrey,Mexico
+421,2022,Mexico,America,Mexico
+422,2022,Mexico,Monterrey,Mexico
+423,2022,Mexico,Ajax,Netherlands
+424,2022,Mexico,Genk,Belgium
+425,2022,Mexico,Pachuca,Mexico
+426,2022,Mexico,Cremonese,Italy
+427,2018,Mexico,Real Betis,Spain
+427,2022,Mexico,Real Betis,Spain
+428,2018,Mexico,Porto,Portugal
+428,2022,Mexico,Houston Dynamo,USA
+429,2018,Mexico,America,Mexico
+429,2022,Mexico,Ajax,Netherlands
+430,2022,Mexico,AEK Athens,Greece
+431,2022,Mexico,Cruz Azul,Mexico
+432,2018,Mexico,Pachuca,Mexico
+432,2022,Mexico,PSV,Netherlands
+433,2022,Mexico,Cruz Azul,Mexico
+434,2022,Mexico,Guadalajara,Mexico
+435,2022,Mexico,Monterrey,Mexico
+436,2022,Mexico,Guadalajara,Mexico
+437,2022,Mexico,Pachuca,Mexico
+438,2018,Mexico,Benfica,Portugal
+438,2022,Mexico,Wolverhampton,England
+439,2018,Mexico,PSV,Netherlands
+439,2022,Mexico,Napoli,Italy
+440,2022,Mexico,America,Mexico
+441,2022,Mexico,Monterrey,Mexico
+442,2018,Morocco,Girona,Spain
+442,2022,Morocco,Sevilla,Spain
+443,2018,Morocco,Numancia,Spain
+443,2022,Morocco,Al Wehda,Saudi Arabia
+444,2018,Morocco,IR Tanger,Morocco
+444,2022,Morocco,Wydad AC,Morocco
+445,2018,Morocco,Real Madrid,Spain
+445,2022,Morocco,PSG,France
+446,2022,Morocco,Bayern Munich,Germany
+447,2022,Morocco,West Ham,England
+448,2022,Morocco,Besiktas,Turkey
+449,2022,Morocco,Brest,France
+450,2022,Morocco,Wydad AC,Morocco
+451,2022,Morocco,Qatar SC,Qatar
+452,2022,Morocco,Valladolid,Spain
+453,2018,Morocco,Feyenoord,Netherlands
+453,2022,Morocco,Fiorentina,Italy
+454,2022,Morocco,Sampdoria,Italy
+455,2022,Morocco,Standard Liege,Belgium
+456,2022,Morocco,Angers,France
+457,2022,Morocco,Genk,Belgium
+458,2022,Morocco,Wydad AC,Morocco
+459,2018,Morocco,Ajax,Netherlands
+459,2022,Morocco,Chelsea,England
+460,2022,Morocco,Angers,France
+461,2022,Morocco,Toulouse,France
+462,2022,Morocco,Burnley,England
+463,2022,Morocco,Osasuna,Spain
+464,2022,Morocco,QPR,England
+465,2018,Morocco,Malaga,Spain
+465,2022,Morocco,Sevilla,Spain
+466,2022,Morocco,Bari,Italy
+467,2022,Morocco,Al-Ittihad,Saudi Arabia
+468,2022,Netherlands,Feyenoord,Netherlands
+469,2022,Netherlands,Ajax,Netherlands
+470,2022,Netherlands,Heerenveen,Netherlands
+471,2022,Netherlands,Ajax,Netherlands
+472,2022,Netherlands,Internazionale,Italy
+473,2022,Netherlands,Liverpool,England
+474,2022,Netherlands,Bayern Munich,Germany
+475,2022,Netherlands,Internazionale,Italy
+476,2022,Netherlands,Manchester City,England
+477,2022,Netherlands,Ajax,Netherlands
+478,2022,Netherlands,Manchester United,England
+479,2022,Netherlands,Bayer Leverkusen,Germany
+480,2022,Netherlands,Barcelona,Spain
+481,2022,Netherlands,Ajax,Netherlands
+482,2022,Netherlands,Atalanta,Italy
+483,2022,Netherlands,Atalanta,Italy
+484,2022,Netherlands,Ajax,Netherlands
+485,2022,Netherlands,PSV,Netherlands
+486,2022,Netherlands,Ajax,Netherlands
+487,2022,Netherlands,Barcelona,Spain
+488,2022,Netherlands,PSV,Netherlands
+489,2022,Netherlands,Ajax,Netherlands
+490,2022,Netherlands,Antwerp,Belgium
+491,2022,Netherlands,Besiktas,Turkey
+492,2022,Netherlands,PSV,Netherlands
+493,2022,Netherlands,Club Brugge,Belgium
+494,2018,Poland,Juventus,Italy
+494,2022,Poland,Juventus,Italy
+495,2022,Poland,Copenhagen,Denmark
+496,2022,Poland,Bologna,Italy
+497,2018,Poland,Southampton,England
+497,2022,Poland,Aston Villa,England
+498,2022,Poland,Monaco,France
+498,2022,Poland,Benevento,Italy
+499,2022,Poland,Augsburg,Germany
+500,2018,Poland,Legia Warsaw,Poland
+500,2022,Poland,Legia Warsaw,Poland
+501,2022,Poland,Spezia,Italy
+502,2022,Poland,Clermont,France
+503,2018,Poland,Sampdoria,Italy
+503,2022,Poland,Sampdoria,Italy
+504,2022,Poland,Aston Villa,England
+505,2022,Poland,Roma,Italy
+506,2022,Poland,Birmingham City,England
+507,2022,Poland,Lens,France
+508,2018,Poland,Hull City,England
+508,2022,Poland,Pogon Szczecin,Poland
+509,2018,Poland,West Bromwich,England
+509,2022,Poland,Al-Shabab,Saudi Arabia
+510,2022,Poland,Wolfsburg,Germany
+511,2022,Poland,Lech Poznan,Poland
+512,2022,Poland,AEK Athens,Greece
+513,2022,Poland,Feyenoord,Netherlands
+514,2018,Poland,Napoli,Italy
+514,2022,Poland,Napoli,Italy
+515,2022,Poland,Fiorentina,Italy
+516,2018,Poland,Bayern Munich,Germany
+516,2022,Poland,Barcelona,Spain
+517,2018,Poland,Napoli,Italy
+517,2022,Poland,Juventus,Italy
+518,2022,Poland,Salernitana,Italy
+519,2022,Poland,Charlotte FC,USA
 520,2022,Portugal,Porto,Portugal
+521,2018,Portugal,Sporting CP,Portugal
 521,2022,Portugal,Roma,Italy
 522,2022,Portugal,Wolves,England
 523,2022,Portugal,Manchester United,England
 524,2022,Portugal,PSG,France
+525,2018,Portugal,Besiktas,Turkey
 525,2022,Portugal,Porto,Portugal
+526,2018,Portugal,Benfica,Portugal
 526,2022,Portugal,Manchester City,England
 527,2022,Portugal,Benfica,Portugal
 528,2022,Portugal,PSG,France
 529,2022,Portugal,Manchester City,England
+530,2018,Portugal,Borussia Dortmund,Germany
 530,2022,Portugal,Borussia Dortmund,Germany
 531,2022,Portugal,Fulham,England
-532,2022,Portugal,Wolves,England
+532,2022,Portugal,Wolverhampton,England
+533,2018,Portugal,Manchester City,England
 533,2022,Portugal,Manchester City,England
+534,2018,Portugal,Sporting CP,Portugal
 534,2022,Portugal,Manchester United,England
+535,2018,Portugal,West Ham,England
 535,2022,Portugal,Benfica,Portugal
-536,2022,Portugal,Wolves,England
+536,2022,Portugal,Wolverhampton,England
 537,2022,Portugal,Porto,Portugal
+538,2018,Portugal,Sporting CP,Portugal
 538,2022,Portugal,Real Betis,Spain
 539,2022,Portugal,PSG,France
+540,2018,Portugal,AC Milan,Italy
 540,2022,Portugal,RB Leipzig,Germany
+541,2018,Portugal,Real Madrid,Spain
 541,2022,Portugal,Manchester United,England
 542,2022,Portugal,Benfica,Portugal
 543,2022,Portugal,Atletico Madrid,Spain
@@ -648,11 +726,15 @@ player_id,world_cup_year,team,club,country_club
 569,2022,Qatar,Al-Gharafa,Qatar
 570,2022,Qatar,Al-Wakrah,Qatar
 571,2022,Qatar,Al-Rayyan,Qatar
+572,2018,Saudi Arabia,Al-Ahli,Saudi Arabia
 572,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
 573,2022,Saudi Arabia,Al-Ahli,Saudi Arabia
 574,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
+575,2018,Saudi Arabia,Al-Hilal,Saudi Arabia
 575,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+576,2018,Saudi Arabia,Al-Hilal,Saudi Arabia
 576,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+577,2018,Saudi Arabia,Al-Hilal,Saudi Arabia
 577,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
 578,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
 579,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
@@ -660,9 +742,13 @@ player_id,world_cup_year,team,club,country_club
 581,2022,Saudi Arabia,Al-Shabab,Saudi Arabia
 582,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
 583,2022,Saudi Arabia,Al-Shabab,Saudi Arabia
+584,2018,Saudi Arabia,Al-Hilal,Saudi Arabia
 584,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+585,2018,Saudi Arabia,Villarreal,Spain
 585,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+586,2018,Saudi Arabia,Al-Hilal,Saudi Arabia
 586,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
+587,2018,Saudi Arabia,Al-Hilal,Saudi Arabia
 587,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
 588,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
 589,2022,Saudi Arabia,Al-Nassr,Saudi Arabia
@@ -670,6 +756,7 @@ player_id,world_cup_year,team,club,country_club
 591,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
 592,2022,Saudi Arabia,Al-Ittihad,Saudi Arabia
 593,2022,Saudi Arabia,Abha,Saudi Arabia
+594,2018,Saudi Arabia,Al-Shabab,Saudi Arabia
 594,2022,Saudi Arabia,Al-Shabab,Saudi Arabia
 595,2022,Saudi Arabia,Al-Fateh,Saudi Arabia
 596,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
