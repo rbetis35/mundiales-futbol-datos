@@ -1,9 +1,13 @@
 player_id,world_cup_year,team,club,country_club
 1,2022,Argentina,Aston Villa,England
+2,2018,Argentina,River Plate,Argentina
 2,2022,Argentina,River Plate,Argentina
 3,2022,Argentina,Villarreal,Spain
+4,2018,Argentina,Manchester City,England
 4,2022,Argentina,Benfica,Portugal
+5,2018,Argentina,Sporting CP,Portugal
 5,2022,Argentina,Sevilla,Spain
+6,2018,Argentina,Ajax,Netherlands
 6,2022,Argentina,Lyon,France
 7,2022,Argentina,Real Betis,Spain
 8,2022,Argentina,Atletico Madrid,Spain
@@ -18,17 +22,23 @@ player_id,world_cup_year,team,club,country_club
 17,2022,Argentina,Brighton,England
 18,2022,Argentina,Benfica,Portugal
 19,2022,Argentina,Atlanta United,USA
+20,2018,Argentina,Barcelona,Spain
 20,2022,Argentina,PSG,France
 21,2022,Argentina,Internazionale,Italy
+22,2018,Argentina,Juventus,Italy
 22,2022,Argentina,Roma,Italy
 23,2022,Argentina,Internazionale,Italy
 24,2022,Argentina,Manchester City,England
+25,2018,Argentina,PSG,France
 25,2022,Argentina,Juventus,Italy
 26,2022,Argentina,Atletico Madrid,Spain
+27,2018,Australia,Brighton,England
 27,2022,Australia,Copenhagen,Denmark
+28,2018,Australia,Genk,Belgium
 28,2022,Australia,Central Coast Mariners,Australia
 29,2022,Australia,Sydney,Australia
 30,2022,Australia,Dundee United,Scotland
+31,2018,Australia,Yokohama Marinos,Japan
 31,2022,Australia,Columbus Crew,USA
 32,2022,Australia,Sunderland,England
 33,2022,Australia,Brescia,Italy
@@ -37,64 +47,93 @@ player_id,world_cup_year,team,club,country_club
 36,2022,Australia,OB,Denmark
 37,2022,Australia,Hearts,Scotland
 38,2022,Australia,Albirex Niigata,Japan
+39,2018,Australia,Huddersfield Town,England
 39,2022,Australia,Celtic,Scotland
+40,2018,Australia,Hull City,England
 40,2022,Australia,St Pauli,Germany
 41,2022,Australia,Hellas Verona,Italy
 42,2022,Australia,Middlesbrough,England
 43,2022,Australia,St Mirren,Scotland
 44,2022,Australia,Hearts,Scotland
+45,2018,Australia,Hertha Berlin,Germany
 45,2022,Australia,Melbourne City,Australia
 46,2022,Australia,Cadiz,Spain
+47,2018,Australia,Hibernian,Scotland
 47,2022,Australia,Melbourne City,Australia
 48,2022,Australia,Fagiano Okayama,Japan
 49,2022,Australia,Hibernian,Scotland
 50,2022,Australia,Adelaide United,Australia
 51,2022,Australia,Central Coast Mariners,Australia
 52,2022,Australia,Central Coast Mariners,Australia
+53,2018,Belgium,Chelsea,England
 53,2022,Belgium,Real Madrid,Spain
+54,2018,Belgium,Liverpool,England
 54,2022,Belgium,Club Brugge,Belgium
+55,2018,Belgium,Wolfsburg,Germany
 55,2022,Belgium,Wolfsburg,Germany
 56,2022,Belgium,Antwerp,Belgium
 57,2022,Belgium,Rennes,France
+58,2018,Belgium,Tottenham,England
 58,2022,Belgium,Anderlecht,Belgium
+59,2018,Belgium,Tottenham,England
 59,2022,Belgium,Anderlecht,Belgium
 60,2022,Belgium,Leicester City,England
-61,2022,Belgium,Leicester,England
+61,2022,Belgium,Leicester City,England
+62,2018,Belgium,PSG,France
 62,2022,Belgium,Borussia Dortmund,Germany
+63,2018,Belgium,Borussia Moenchengladbach,Germany
 63,2022,Belgium,Borussia Dortmund,Germany
+64,2018,Belgium,Manchester City,England
 64,2022,Belgium,Manchester City,England
+65,2018,Belgium,Dalian Yifang,China
 65,2022,Belgium,Atletico Madrid,Spain
+66,2018,Belgium,Anderlecht,Belgium
 66,2022,Belgium,Aston Villa,England
+67,2018,Belgium,Monaco,France
 67,2022,Belgium,Leicester City,England
 68,2022,Belgium,Club Brugge,Belgium
+69,2018,Belgium,Tianjin Quanjian,China
 69,2022,Belgium,Atletico Madrid,Spain
 70,2022,Belgium,AC Milan,Italy
 71,2022,Belgium,Everton,England
 72,2022,Belgium,Rennes,France
+73,2018,Belgium,Chelsea,England
 73,2022,Belgium,Real Madrid,Spain
+74,2018,Belgium,Napoli,Italy
 74,2022,Belgium,Galatasaray,Turkey
 75,2022,Belgium,Brighton,England
+76,2018,Belgium,Borussia Dortmund,Germany
 76,2022,Belgium,Fenerbahce,Turkey
 77,2022,Belgium,Lens,France
+78,2018,Belgium,Manchester United,England
 78,2022,Belgium,Internazionale,Italy
+79,2018,Brazil,Roma,Italy
 79,2022,Brazil,Liverpool,England
+80,2018,Brazil,Manchester City,England
 80,2022,Brazil,Manchester City,England
 81,2022,Brazil,Palmeiras,Brazil
 82,2022,Brazil,UNAM,Mexico
+83,2018,Brazil,PSG,France
 83,2022,Brazil,Chelsea,England
+84,2018,Brazil,PSG,France
 84,2022,Brazil,PSG,France
+85,2018,Brazil,Manchester City,England
 85,2022,Brazil,Juventus,Italy
 86,2022,Brazil,Juventus,Italy
 87,2022,Brazil,Real Madrid,Spain
 88,2022,Brazil,Sevilla,Spain
 89,2022,Brazil,Juventus,Italy
+90,2018,Brazil,Real Madrid,Spain
 90,2022,Brazil,Manchester United,England
 91,2022,Brazil,West Ham,England
 92,2022,Brazil,Liverpool,England
+93,2018,Brazil,Shaktar Donetsk,Ukraine
 93,2022,Brazil,Manchester United,England
 94,2022,Brazil,Flamengo,Brazil
 95,2022,Brazil,Newcastle United,England
+96,2018,Brazil,PSG,France
 96,2022,Brazil,PSG,France
+97,2022,Brazil,Manchester City,England
 97,2022,Brazil,Arsenal,England
 98,2022,Brazil,Tottenham,England
 99,2022,Brazil,Real Madrid,Spain
@@ -155,19 +194,27 @@ player_id,world_cup_year,team,club,country_club
 154,2022,Canada,Lille,France
 155,2022,Canada,Basel,Switzerland
 156,2022,Canada,Troyes,France
+157,2018,Costa Rica,Real Madrid,Spain
 157,2022,Costa Rica,PSG,France
 158,2022,Costa Rica,Herediano,Costa Rica
 159,2022,Costa Rica,Lugo,Spain
+160,2018,Costa Rica,Sunderland,England
 160,2022,Costa Rica,Real Salt Lake,USA
+161,2018,Costa Rica,Espanyol,Spain
 161,2022,Costa Rica,Al-Wehda,Saudi Arabia
+162,2018,Costa Rica,Vancouver Whitecaps,Canada
 162,2022,Costa Rica,Saprissa,Costa Rica
 163,2022,Costa Rica,Cincinnati,USA
 164,2022,Costa Rica,Herediano,Costa Rica
 165,2022,Costa Rica,Millonarios,Colombia
 166,2022,Costa Rica,San Carlos,Costa Rica
+167,2018,Costa Rica,Minnesota United,USA
 167,2022,Costa Rica,Konyaspor,Turkey
+168,2018,Costa Rica,Deportivo La Coruña,Spain
 168,2022,Costa Rica,Alajuelense,Costa Rica
+169,2018,Costa Rica,Sporting CP,Portugal
 169,2022,Costa Rica,Alajuelense,Costa Rica
+170,2018,Costa Rica,Lausanne Sport,Switzerland
 170,2022,Costa Rica,Herediano,Costa Rica
 171,2022,Costa Rica,Herediano,Costa Rica
 172,2022,Costa Rica,Sunderland,England
@@ -178,13 +225,18 @@ player_id,world_cup_year,team,club,country_club
 177,2022,Costa Rica,Herediano,Costa Rica
 178,2022,Costa Rica,Puntarenas,Costa Rica
 179,2022,Costa Rica,Saprissa,Costa Rica
+180,2018,Costa Rica,Real Betis,Spain
 180,2022,Costa Rica,Leon,Mexico
+181,2018,Costa Rica,Saprissa,Costa Rica
 181,2022,Costa Rica,Alajuelense,Costa Rica
 182,2022,Costa Rica,Herediano,Costa Rica
+183,2018,Croatia,Dinamo Zagreb,Croatia
 183,2022,Croatia,Dinamo Zagreb,Croatia
 184,2022,Croatia,Osijek,Croatia
 185,2022,Croatia,Atletico Madrid,Spain
+186,2018,Croatia,Besiktas,Turkey
 186,2022,Croatia,AEK Athens,Greece
+187,2018,Croatia,Liverpool,England
 187,2022,Croatia,Zenit,Russia
 188,2022,Croatia,Rangers,Scotland
 189,2022,Croatia,Celtic,Scotland
@@ -193,40 +245,55 @@ player_id,world_cup_year,team,club,country_club
 192,2022,Croatia,Bayern Munich,Germany
 193,2022,Croatia,Sassuolo,Italy
 194,2022,Croatia,Dinamo Zagreb,Croatia
+195,2018,Croatia,Real Madrid,Spain
 195,2022,Croatia,Real Madrid,Spain
+196,2018,Croatia,Real Madrid,Spain
 196,2022,Croatia,Chelsea,England
+197,2018,Croatia,Internazionale,Italy
 197,2022,Croatia,Internazionale,Italy
 198,2022,Croatia,Atalanta,Italy
 199,2022,Croatia,Torino,Italy
 200,2022,Croatia,Rennes,France
 201,2022,Croatia,Eintracht Frankfurt,Germany
 202,2022,Croatia,Red Bull Salzburg,Austria
+203,2018,Croatia,Internazionale,Italy
 203,2022,Croatia,Tottenham,England
+204,2018,Croatia,Hoffenheim,Germany
 204,2022,Croatia,Hoffenheim,Germany
 205,2022,Croatia,Dinamo Zagreb,Croatia
 206,2022,Croatia,Dinamo Zagreb,Croatia
 207,2022,Croatia,Osasuna,Spain
 208,2022,Croatia,Hajduk Split,Croatia
+209,2018,Denmark,Leicester City,England
 209,2022,Denmark,Nice,France
 210,2022,Denmark,Hertha Berlin,Germany
+211,2018,Denmark,Brondby,Denmark
 211,2022,Denmark,Union Berlin,Germany
+212,2018,Denmark,Sevilla,Spain
 212,2022,Denmark,AC Milan,Italy
+213,2018,Denmark,Chelsea,England
 213,2022,Denmark,Barcelona,Spain
+214,2018,Denmark,Udinese,Italy
 214,2022,Denmark,Trabzonspor,Turkey
 215,2022,Denmark,Brondby,Denmark
 216,2022,Denmark,Leeds United,England
 217,2022,Denmark,Atalanta,Italy
 218,2022,Denmark,Crystal Palace,England
+219,2018,Denmark,Werder Bremen,Germany
 219,2022,Denmark,Sevilla,Spain
 220,2022,Denmark,Galatasaray,Turkey
 221,2022,Denmark,Benfica,Portugal
+222,2018,Denmark,Tottenham,England
 222,2022,Denmark,Manchester United,England
 223,2022,Denmark,Brentford,England
 224,2022,Denmark,Tottenham,England
 225,2022,Denmark,Brentford,England
 226,2022,Denmark,Hoffenheim ,Germany
+227,2018,Denmark,Bordeaux,France
 227,2022,Denmark,Espanyol,Spain
+228,2018,Denmark,Atalanta,Italy
 228,2022,Denmark,Copenhagen,Denmark
+229,2018,Denmark,Ajax,Netherlands
 229,2022,Denmark,Sevilla,Spain
 230,2022,Denmark,Club Brugge,Belgium
 231,2022,Denmark,Brentford,England
@@ -259,30 +326,41 @@ player_id,world_cup_year,team,club,country_club
 258,2022,Ecuador ,Cruz Azul,Mexico
 259,2022,Ecuador ,Fenerbahce,Turkey
 260,2022,Ecuador ,Newell's Old Boys,Argentina
+261,2018,England,Everton,England
 261,2022,England,Everton,England
 262,2022,England,Newcastle United,England
 263,2022,England,Arsenal,England
+264,2018,England,Liverpool,England
 264,2022,England,Liverpool,England
 265,2022,England,Everton,England
+266,2018,England,Tottenham,England
 266,2022,England,Tottenham,England
+267,2018,England,Leicester City,England
 267,2022,England,Manchester United,England
 268,2022,England,Manchester United,England
+269,2018,England,Manchester City,England
 269,2022,England,Manchester City,England
+270,2018,England,Tottenham,England
 270,2022,England,Newcastle United,England
 271,2022,England,Manchester City,England
+272,2022,England,Manchester City,England
 272,2022,England,Arsenal,England
 273,2022,England,Borussia Dortmund,Germany
 274,2022,England,Chelsea,England
+275,2018,England,Liverpool,England
 275,2022,England,Liverpool,England
 276,2022,England,Chelsea,England
 277,2022,England,Manchester City,England
 278,2022,England,West Ham United,England
 279,2022,England,Manchester City,England
 280,2022,England,Manchester City,England
+281,2018,England,Tottenham,England
 281,2022,England,Tottenham,England
 282,2022,England,Leicester City,England
+283,2018,England,Manchester United,England
 283,2022,England,Manchester United,England
 284,2022,England,Arsenal,England
+285,2018,England,Manchester City,England
 285,2022,England,Chelsea,England
 286,2022,England,Newcastle United,England
 287,2022,France,Tottenham,England
