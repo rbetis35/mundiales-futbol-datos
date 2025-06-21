@@ -1,17 +1,33 @@
 team_id,team_name,group,coach
-1,Qatar,A,Félix Sánchez Bas
-2,Ecuador,A,Gustavo Alfaro
-3,Senegal,A,Aliou Cissé
-4,Netherlands,A,Louis van Gaal
-5,England,B,Gareth Southgate
-6,Iran,B,Carlos Queiroz
-7,USA,B,Gregg Berhalter
-8,Wales,B,Rob Page
-9,Argentina,C,Lionel Scaloni
-10,Saudi Arabia,C,Hervé Renard
-11,Mexico,C,Gerardo Martino
-12,Poland,C,Czesław Michniewicz
-13,France,D,Didier Deschamps
-14,Australia,D,Graham Arnold
-15,Denmark,D,Kasper Hjulmand
-16,Tunisia,D,Jalel Kadri
+1,South Africa,A,Carlos Alberto Parreira
+2,Mexico,A,Javier Aguirre
+3,Uruguay,A,Óscar Tabárez
+4,France,A,Raymond Domenech
+5,Argentina,B,Diego Maradona
+6,Nigeria,B,Lars Lagerbäck
+7,South Korea,B,Huh Jung-moo
+8,Greece,B,Otto Rehhagel
+9,England,C,Fabio Capello
+10,United States,C,Bob Bradley
+11,Algeria,C,Rabah Saâdane
+12,Slovenia,C,Matjaž Kek
+13,Germany,D,Joachim Löw
+14,Australia,D,Pim Verbeek
+15,Serbia,D,Radomir Antić
+16,Ghana,D,Milovan Rajevac
+17,Netherlands,E,Bert van Marwijk
+18,Denmark,E,Morten Olsen
+19,Japan,E,Takeshi Okada
+20,Cameroon,E,Paul Le Guen
+21,Italy,F,Marcello Lippi
+22,Paraguay,F,Gerardo Martino
+23,New Zealand,F,Ricki Herbert
+24,Slovakia,F,Vladimír Weiss
+25,Brazil,G,Carlos Dunga
+26,North Korea,G,Kim Jong-hun
+27,Ivory Coast,G,Sven-Göran Eriksson
+28,Portugal,G,Carlos Queiroz
+29,Spain,H,Vicente del Bosque
+30,Switzerland,H,Ottmar Hitzfeld
+31,Honduras,H,Reinaldo Rueda
+32,Chile,H,Marcelo Bielsa
