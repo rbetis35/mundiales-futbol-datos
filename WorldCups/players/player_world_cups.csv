@@ -762,17 +762,22 @@ player_id,world_cup_year,team,club,country_club
 596,2022,Saudi Arabia,Al-Hilal,Saudi Arabia
 597,2022,Saudi Arabia,Al-Ahli,Saudi Arabia
 598,2022,Senegal,Chelsea,England
+599,2018,Senegal,SPAL,Italy
 599,2022,Senegal,Rennes,France
 600,2022,Senegal,QPR,England
 601,2022,Senegal,Amiens,France
+602,2018,Senegal,Napoli,Italy
 602,2022,Senegal,Chelsea,England
 603,2022,Senegal,Olympiacos,Greece
+604,2018,Senegal,West Ham,England
 604,2022,Senegal,Nottingham Forest,England
 605,2022,Senegal,RB Leipzig,Germany
 606,2022,Senegal,AC Milan,Italy
 607,2022,Senegal,Monaco,France
+608,2018,Senegal,Bordeaux,France
 608,2022,Senegal,Real Betis,Spain
 609,2022,Senegal,Anderlecht,Belgium
+610,2018,Senegal,Everton,England
 610,2022,Senegal,Everton,England
 611,2022,Senegal,Marseille,France
 612,2022,Senegal,Tottenham Hotspur,England
@@ -788,96 +793,129 @@ player_id,world_cup_year,team,club,country_club
 622,2022,Senegal,Villarreal,Spain
 623,2022,Senegal,Alanyaspor,Turkey
 624,2022,Serbia,Sevilla,Spain
+625,2018,Serbia,Eibar,Spain
 625,2022,Serbia,Torino,Italy
+626,2018,Serbia,Maccabi Tel Aviv,Israel
 626,2022,Serbia,Mallorca,Spain
 627,2022,Serbia,Getafe,Spain
 628,2022,Serbia,Legia Warsaw,Poland
 629,2022,Serbia,Salzburg,Austria
+630,2018,Serbia,Werder Bremen,Germany
 630,2022,Serbia,Werder Bremen,Germany
 631,2022,Serbia,Red Star Belgrade,Serbia
 632,2022,Serbia,Almeria,Spain
+633,2018,Serbia,Fiorentina,Italy
 633,2022,Serbia,Fiorentina,Italy
 634,2022,Serbia,Sevilla,Spain
+635,2018,Serbia,Hamburger,Germany
 635,2022,Serbia,Juventus,Italy
 636,2022,Serbia,Getafe,Spain
+637,2018,Serbia,Lazio,Italy
 637,2022,Serbia,Lazio,Italy
 638,2022,Serbia,Torino,Italy
+639,2018,Serbia,Benfica,Portugal
 639,2022,Serbia,PAOK,Greece
-640,2022,Serbia,Braga,Portugal
+640,2022,Serbia,SC Braga,Portugal
 641,2022,Serbia,Verona,Italy
 642,2022,Serbia,Verona,Italy
+643,2018,Serbia,Cardiff City,Wales
 643,2022,Serbia,Porto,Portugal
+644,2018,Serbia,Eintracht Frankfurt,Germany
 644,2022,Serbia,Fiorentina,Italy
 645,2022,Serbia,Fulham,England
 646,2022,Serbia,Juventus,Italy
+647,2018,Serbia,Red Star,Serbia
 647,2022,Serbia,Torino,Italy
 648,2022,Serbia,Sampdoria,Italy
+649,2018,Serbia,Southampton,England
 649,2022,Serbia,Ajax,Netherlands
+650,2018,South Korea,Vissel Kobe,Japan
 650,2022,South Korea,Al Shabab,Saudi Arabia
 651,2022,South Korea,Ulsan Hyundai,South Korea
 652,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
 653,2022,South Korea,Napoli,Italy
 654,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
+655,2018,South Korea,Sangju Sangmu,South Korea
 655,2022,South Korea,Daegu FC,South Korea
 656,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
 657,2022,South Korea,FC Seoul,South Korea
+658,2018,South Korea,Guangzhou Evergrande,China
 658,2022,South Korea,Ulsan Hyundai,South Korea
 659,2022,South Korea,Ulsan Hyundai,South Korea
 660,2022,South Korea,Gamba Osaka,Japan
 661,2022,South Korea,Daejon Citizen,South Korea
+662,2018,South Korea,Vissel Kobe,Japan
 662,2022,South Korea,Al Sadd,Qatar
 663,2022,South Korea,FC Seoul,South Korea
 664,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
 665,2022,South Korea,Shandong Taishan,China
 666,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
 667,2022,South Korea,Gimcheon Sangmu,South Korea
+668,2018,South Korea,Jeonbuk Hyundai Motors,South Korea
 668,2022,South Korea,Mainz,Germany
 669,2022,South Korea,Olympiacos,Greece
 670,2022,South Korea,Mallorca,Spain
-671,2022,South Korea,Tottenham Hotspur,England
-672,2022,South Korea,Wolverhampton Wanderers,England
+671,2018,South Korea,Tottenham,England
+671,2022,South Korea,Tottenham,England
+672,2018,South Korea,Red Bull Salzburg,Austria
+672,2022,South Korea,Wolverhampton,England
 673,2022,South Korea,Freiburg,Germany
 674,2022,South Korea,Olympiacos,Greece
 675,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
 676,2022,Spain,Brighton,England
 677,2022,Spain,Brentford,England
 678,2022,Spain,Athletic Club,Spain
+679,2018,Spain,Chelsea,England
 679,2022,Spain,Chelsea,England
+680,2018,Spain,Barcelona,Spain
 680,2022,Spain,Barcelona,Spain
 681,2022,Spain,Valencia,Spain
 682,2022,Spain,Villarreal,Spain
 683,2022,Spain,Barcelona,Spain
 684,2022,Spain,Barcelona,Spain
+685,2018,Spain,Real Madrid,Spain
 685,2022,Spain,Real Madrid,Spain
 686,2022,Spain,Manchester City,England
+687,2018,Spain,Barcelona,Spain
 687,2022,Spain,Barcelona,Spain
 688,2022,Spain,Atletico Madrid,Spain
 689,2022,Spain,Barcelona,Spain
 690,2022,Spain,Manchester City,England
+691,2018,Spain,Atletico Madrid,Spain
 691,2022,Spain,Atletico Madrid,Spain
 692,2022,Spain,Barcelona,Spain
 693,2022,Spain,PSG,France
 694,2022,Spain,Atletico Madrid,Spain
 695,2022,Spain,Villarreal,Spain
 696,2022,Spain,Barcelona,Spain
+697,2018,Spain,Real Madrid,Spain
 697,2022,Spain,Real Madrid,Spain
 698,2022,Spain,PSG,France
 699,2022,Spain,RB Leipzig,Germany
 700,2022,Spain,Athletic Club,Spain
 701,2022,Spain,Barcelona,Spain
+702,2018,Switzerland,Borussia Monchengladbach,Germany
 702,2022,Switzerland,Borussia Monchengladbach,Germany
 703,2022,Switzerland,Montpellier,France
 704,2022,Switzerland,Borussia Dortmund,Germany
 705,2022,Switzerland,Red Bull Salzburg,Austria
 706,2022,Switzerland,Mainz,Germany
+707,2018,Switzerland,AC Milan,Italy
 707,2022,Switzerland,Torino,Italy
+708,2018,Switzerland,Deportivo La Coruña,Spain
 708,2022,Switzerland,Newcastle United,England
+709,2018,Switzerland,Borussia Dortmund,Germany
 709,2022,Switzerland,Manchester City,England
+710,2018,Switzerland,Borussia Monchengladbach,Germany
 710,2022,Switzerland,Borussia Monchengladbach,Germany
 711,2022,Switzerland,Valencia,Spain
+712,2018,Switzerland,Stoke City,England
 712,2022,Switzerland,Chicago Fire,USA
+713,2018,Switzerland,Arsenal,England
 713,2022,Switzerland,Arsenal,England
+714,2018,Switzerland,Atalanta,Italy
 714,2022,Switzerland,Nottingham Forest,England
+715,2018,Switzerland,Borussia Moenchengladbach,Germany
 715,2022,Switzerland,Chelsea,England
 716,2022,Switzerland,Eintracht Frankfurt,Germany
 717,2022,Switzerland,Lugano,Switzerland
@@ -886,12 +924,15 @@ player_id,world_cup_year,team,club,country_club
 720,2022,Switzerland,Bologna,Italy
 721,2022,Switzerland,Luzern,Switzerland
 722,2022,Switzerland,Young Boys,Switzerland
+723,2018,Switzerland,Benfica,Portugal
 723,2022,Switzerland,Galatasaray,Turkey
+724,2018,Switzerland,Schalke 04,Germany
 724,2022,Switzerland,Monaco,France
 725,2022,Switzerland,Augsburg,Germany
 726,2022,Switzerland,Young Boys,Switzerland
 727,2022,Switzerland,Red Bull Salzburg,Austria
 728,2022,Tunisia,CS Sfaxien,Tunisia
+729,2018,Tunisia,Chatearoux,France
 729,2022,Tunisia,Club Africain,Tunisia
 730,2022,Tunisia,Etoile du Sahel,Tunisia
 731,2022,Tunisia,US Monastir,Tunisia
@@ -899,14 +940,20 @@ player_id,world_cup_year,team,club,country_club
 733,2022,Tunisia,Atromitos,Greece
 734,2022,Tunisia,Kuwait SC,Kuwait
 735,2022,Tunisia,Lorient,France
+736,2018,Tunisia,Gent,Belgium
 736,2022,Tunisia,Salernitana,Italy
+737,2018,Tunisia,CS Sfaxien,Tunisia
 737,2022,Tunisia,Esperance de Tunis,Tunisia
 738,2022,Tunisia,Club Africain,Tunisia
+739,2018,Tunisia,Al Ahly,Egypt
 739,2022,Tunisia,Al Ahly,Egypt
 740,2022,Tunisia,Caen,France
+741,2018,Tunisia,Montpellier,France
 741,2022,Tunisia,FC Koln,Germany
 742,2022,Tunisia,Ferencvaros,Hungary
+743,2018,Tunisia,Al-Nassr,Saudi Arabia
 743,2022,Tunisia,Al-Duhail,Qatar
+744,2018,Tunisia,Esperance de Tunis,Tunisia
 744,2022,Tunisia,Esperance de Tunis,Tunisia
 745,2022,Tunisia,Birmingham City,England
 746,2022,Tunisia,Esperance de Tunis,Tunisia
@@ -915,30 +962,43 @@ player_id,world_cup_year,team,club,country_club
 749,2022,Tunisia,Kuwait SC,Kuwait
 750,2022,Tunisia,Brondby,Denmark
 751,2022,Tunisia,OB,Denmark
+752,2022,Tunisia,Rennes,France
 752,2022,Tunisia,Montpellier,France
 753,2022,Tunisia,Al-Arabi,Qatar
+754,2018,Uruguay,Galatasaray,Turkey
 754,2022,Uruguay,Galatasaray,Turkey
 755,2022,Uruguay,Nacional,Uruguay
 756,2022,Uruguay,Independiente,Argentina
 757,2022,Uruguay,Barcelona,Spain
+758,2018,Uruguay,Lazio,Italy
 758,2022,Uruguay,La Galaxy,USA
+759,2018,Uruguay,Sporting CP,Portugal
 759,2022,Uruguay,Sporting CP,Portugal
 760,2022,Uruguay,Atletico Madrid,Spain
+761,2018,Uruguay,Atletico Madrid,Spain
 761,2022,Uruguay,Velez Sarsfield,Argentina
 762,2022,Uruguay,Napoli,Italy
 763,2022,Uruguay,Nacional,Uruguay
 764,2022,Uruguay,Roma,Italy
+765,2018,Uruguay,Peñarol,Uruguay
 765,2022,Uruguay,Flamengo,Brazil
+766,2018,Uruguay,Internazionale,Italy
 766,2022,Uruguay,Lazio,Italy
 767,2022,Uruguay,River Plate,Argentina
-768,2022,Uruguay,Tottenham Hotspur,England
+768,2018,Uruguay,Juventus,Italy
+768,2022,Uruguay,Tottenham,England
 769,2022,Uruguay,Real Madrid,Spain
+770,2018,Uruguay,Cruzeiro,Brazil
 770,2022,Uruguay,Flamengo,Brazil
+771,2018,Uruguay,Sampdoria,Italy
 771,2022,Uruguay,Galatasaray,Turkey
-772,2022,Uruguay,Orlando City ,USA
+772,2022,Uruguay,Orlando City,USA
 773,2022,Uruguay,Sporting CP,Portugal
+774,2018,Uruguay,Barcelona,Spain
 774,2022,Uruguay,Nacional,Uruguay
+775,2018,Uruguay,PSG,France
 775,2022,Uruguay,Valencia,Spain
+776,2018,Uruguay,Celta de Vigo,Spain
 776,2022,Uruguay,Trabzonspor,Turkey
 777,2022,Uruguay,Liverpool,England
 778,2022,Uruguay,Manchester United,England
@@ -980,7 +1040,7 @@ player_id,world_cup_year,team,club,country_club
 814,2022,Wales,AFC Wimbledon,England
 815,2022,Wales,Nottingham Forest,England
 816,2022,Wales,Burnley,England
-817,2022,Wales,Luton Town ,England
+817,2022,Wales,Luton Town,England
 818,2022,Wales,Huddersfield Town,England
 819,2022,Wales,Swansea City,Wales
 820,2022,Wales,MK Dons,England
