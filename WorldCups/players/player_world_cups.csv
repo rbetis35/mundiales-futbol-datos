@@ -1055,3 +1055,515 @@ player_id,world_cup_year,team,club,country_club
 829,2022,Wales,Cardiff City,Wales
 830,2022,Wales,Nottingham Forest,England
 831,2022,Wales,Fulham,England
+
+832,2018,Argentina,UANL,Mexico
+833,2018,Argentina,Chelsea,England
+834,2018,Argentina,Sevilla,Spain
+835,2018,Argentina,Torino,Italy
+836,2018,Argentina,Roma,Italy
+837,2018,Argentina,Hebei China Fortune,China
+838,2018,Argentina,Manchester United,England
+839,2018,Argentina,AC Milan,Italy
+840,2018,Argentina,Sevilla,Spain
+841,2018,Argentina,Independiente,Argentina
+842,2018,Argentina,River Plate,Argentina
+843,2018,Argentina,PSG,France
+844,2018,Argentina,Boca Juniors,Argentina
+845,2018,Argentina,Juventus,Italy
+846,2018,Argentina,Benfica,Portugal
+847,2018,Argentina,Manchester City,England
+848,2018,Australia,Feyenoord,Netherlands
+849,2018,Australia,Millwall,England
+850,2018,Australia,Al Ahli,Saudi Arabia
+851,2018,Australia,Suwon Samsung Bluewings,South Korea
+852,2018,Australia,Bursaspor,Turkey
+853,2018,Australia,Western Sydney Wanderers,Australia
+854,2018,Australia,Grasshopper,Switzerland
+855,2018,Australia,Queens Park Rangers,England
+856,2018,Australia,Aston Villa,England
+857,2018,Australia,Celtic,Scotland
+858,2018,Australia,Millwall,England
+859,2018,Australia,Luzern,Switzerland
+860,2018,Australia,Bochum,Germany
+861,2018,Australia,Urawa Red Diamonds,Japan
+862,2018,Australia,Melbourne City,Australia
+863,2018,Australia,Newcastle Jets,Australia
+864,2018,Belgium,Barcelona,Spain
+865,2018,Belgium,Manchester City,England
+866,2018,Belgium,Celtic,Scotland
+867,2018,Belgium,Manchester United,England
+868,2018,Belgium,Tottenham,England
+869,2018,Belgium,West Bromwich Albion,England
+870,2018,Belgium,Real Sociedad,Spain
+871,2018,Brazil,Corinthians,Brazil
+872,2018,Brazil,Internazionale,Italy
+873,2018,Brazil,Grêmio,Brazil
+874,2018,Brazil,Atletico Madrid,Spain
+875,2018,Brazil,Real Madrid,Spain
+876,2018,Brazil,Corinthians,Brazil
+877,2018,Brazil,Beijing Sinobo Guoan,China
+878,2018,Brazil,Barcelona,Spain
+879,2018,Brazil,Barcelona,Spain
+880,2018,Brazil,Manchester City,England
+881,2018,Brazil,Chelsea,England
+882,2018,Brazil,Juventus,Italy
+883,2018,Brazil,Liverpool,England
+884,2018,Brazil,Shakhtar Donetsk,Ukraine
+885,2018,Colombia,Arsenal,England
+886,2018,Colombia,Deportivo Cali,Colombia
+887,2018,Colombia,Once Caldas,Colombia
+888,2018,Colombia,AC Milan,Italy
+889,2018,Colombia,Pachuca,Mexico
+890,2018,Colombia,PSV,Netherlands
+891,2018,Colombia,Barcelona,Spain
+892,2018,Colombia,Girona,Spain
+893,2018,Colombia,Olimpia,Paraguay
+894,2018,Colombia,Tottenham,England
+895,2018,Colombia,Boca Juniors,Argentina
+896,2018,Colombia,Espanyol,Spain
+897,2018,Colombia,Deportivo Cali,Colombia
+898,2018,Colombia,Bayern Munich,Germany
+899,2018,Colombia,Juventus,Italy
+900,2018,Colombia,América,Mexico
+901,2018,Colombia,Levante,Spain
+902,2018,Colombia,River Plate,Argentina
+903,2018,Colombia,Villarreal,Spain
+904,2018,Colombia,Monaco,France
+905,2018,Colombia,Sevilla,Spain
+906,2018,Colombia,Palmeiras,Brazil
+907,2018,Colombia,Brighton,England
+908,2018,Costa Rica,Alajuelense,Costa Rica
+909,2018,Costa Rica,Herediano,Costa Rica
+910,2018,Costa Rica,Aguilas Doradas,Colombia
+911,2018,Costa Rica,Bologna,Italy
+912,2018,Costa Rica,Norrkoping,Sweden
+913,2018,Costa Rica,Celtic,Scotland
+914,2018,Costa Rica,Alajuelense,Costa Rica
+915,2018,Costa Rica,Saprissa,Costa Rica
+916,2018,Costa Rica,Saprissa,Costa Rica
+917,2018,Costa Rica,New York City FC,USA
+918,2018,Costa Rica,Herediano,Costa Rica
+919,2018,Costa Rica,Portland Timbers,USA
+920,2018,Costa Rica,Los Angeles FC,USA
+921,2018,Croatia,Gent,Belgium
+922,2018,Croatia,Monaco,France
+923,2018,Croatia,Atletico Madrid,Spain
+924,2018,Croatia,Sampdoria,Italy
+925,2018,Croatia,Lokomotiv Moscow,Russia
+926,2018,Croatia,Bayer Leverkusen,Germany
+927,2018,Croatia,Red Bull Salzburg,Austria
+928,2018,Croatia,Dynamo Kyiv,Ukraine
+929,2018,Croatia,Barcelona,Spain
+930,2018,Croatia,Rijeka,Croatia
+931,2018,Croatia,Fiorentina,Italy
+932,2018,Croatia,AC Milan,Italy
+933,2018,Croatia,Juventus,Italy
+934,2018,Croatia,Eintracht Frankfurt,Germany
+935,2018,Croatia,Schalke 04,Germany
+936,2018,Denmark,Huddersfield Town,England
+937,2018,Denmark,Borussia Monchengladbach,Germany
+939,2018,Denmark,Ipswich Town,England
+940,2018,Denmark,Huddersfield Town,England
+941,2018,Denmark,Brentford,England
+942,2018,Denmark,Deportivo La Coruña,Spain
+943,2018,Denmark,Copenhagen,Denmark
+944,2018,Denmark,Bordeaux,France
+945,2018,Denmark,Ajax,Netherlands
+946,2018,Denmark,Feyenoord,Netherlands
+947,2018,Denmark,Copenhagen,Denmark
+948,2018,Denmark,RB Leipzig,Germany
+949,2018,Denmark,Celta de Vigo,Spain
+950,2018,Egypt,Al Taawoun,Saudi Arabia
+951,2018,Egypt,Al Ahly,Egypt
+952,2018,Egypt,Al Ahly,Egypt
+953,2018,Egypt,West Bromwich Albion,England
+954,2018,Egypt,Aston Villa,England
+955,2018,Egypt,West Bromwich Albion,England
+956,2018,Egypt,Al Ahly,Egypt
+957,2018,Egypt,Al Ahly,Egypt
+958,2018,Egypt,Al Fateh,Saudi Arabia
+959,2018,Egypt,Zamalek,Egypt
+960,2018,Egypt,Al Ahly,Egypt
+961,2018,Egypt,Los Angeles FC,USA
+962,2018,Egypt,Wigan Athletic,England
+963,2018,Egypt,Zamalek,Egypt
+964,2018,Egypt,Arsenal,England
+965,2018,Egypt,KuPS,Finlandia
+966,2018,Egypt,Kasimpasa,Turkey
+967,2018,Egypt,Al Ahly,Egypt
+968,2018,Egypt,Liverpool,England
+969,2018,Egypt,Al-Ittihad,Saudi Arabia
+970,2018,Egypt,Stoke City,England
+971,2018,Egypt,Al Raed,Saudi Arabia
+972,2018,Egypt,Atromitos,Greece
+973,2018,England,Stoke City,England
+974,2018,England,Burnley,England
+974,2018,England,Tottenham,England
+975,2018,England,Chelsea,England
+976,2018,England,Manchester United,England
+977,2018,England,Manchester City,England
+978,2018,England,Manchester United,England
+979,2018,England,Manchester United,England
+980,2018,England,Tottenham,England
+981,2018,England,Crystal Palace,England
+981,2018,England,Leicester City,England
+982,2018,England,Arsenal,England
+984,2018,France,PSG,France
+985,2018,France,Barcelona,Spain
+986,2018,France,Marseille,France
+987,2018,France,Monaco,France
+988,2018,France,Manchester City,England
+989,2018,France,Manchester United,England
+990,2018,France,Bayern Munich,Germany
+991,2018,France,Chelsea,England
+992,2018,France,Juventus,Italy
+993,2018,France,Sevilla,Spain
+994,2018,France,Monaco,France
+995,2018,France,Lyon,France
+996,2018,France,Marseille,France
+997,2018,Germany,Hertha BSC,Germany
+998,2018,Germany,1. FC Koln,Germany
+999,2018,Germany,Bayern Munich,Germany
+1000,2018,Germany,Bayern Munich,Germany
+1001,2018,Germany,Juventus,Italy
+1002,2018,Germany,PSG,France
+1003,2018,Germany,Real Madrid,Spain
+1004,2018,Germany,Arsenal,England
+1005,2018,Germany,Bayern Munich,Germany
+1006,2018,Germany,RB Leipzig,Germany
+1007,2018,Germany,Borussia Dortmund,Germany
+1008,2018,Germany,Stuttgart,Germany
+1009,2018,Iceland,Randers,Denmark
+1010,2018,Iceland,Roskilde,Denmark
+1011,2018,Iceland,Nordsjaelland,Denmark
+1012,2018,Iceland,Valur,Iceland
+1013,2018,Iceland,Rostov,Russia
+1014,2018,Iceland,Rostov,Russia
+1015,2018,Iceland,Aberdeen,Scotland
+1016,2018,Iceland,Levski Sofia,Bulgaria
+1017,2018,Iceland,Bristol City,England
+1018,2018,Iceland,Lokeren,Belgium
+1019,2018,Iceland,Valerenga,Norway
+1020,2018,Iceland,PSV,Netherlands
+1021,2018,Iceland,Burnley,England
+1022,2018,Iceland,Aston Villa,England
+1023,2018,Iceland,Everton,England
+1024,2018,Iceland,Karabukspor,Turkey
+1025,2018,Iceland,Cardiff City,Wales
+1026,2018,Iceland,Sandhausen,Germany
+1027,2018,Iceland,Udinese,Italy
+1028,2018,Iceland,Malmo,Sweden
+1029,2018,Iceland,Rostov,Russia
+1030,2018,Iceland,Augsburg,Germany
+1031,2018,Iceland,Reading,England
+1032,2018,Iran,Zob Ahan,Iran
+1033,2018,Iran,Marítimo,Portugal
+1034,2018,Iran,Padideh,Iran
+1035,2018,Iran,Esteghlal,Iran
+1036,2018,Iran,AEK Athens,Greece
+1037,2018,Iran,Esteghlal,Iran
+1038,2018,Iran,Nottingham Forest,England
+1039,2018,Iran,Heerenveen,Netherlands
+1040,2018,Japan,Gamba Osaka,Japan
+1041,2018,Japan,Kashiwa Reysol,Japan
+1042,2018,Japan,Kashima Antlers,Japan
+1043,2018,Japan,Kashima Antlers,Japan
+1044,2018,Japan,Urawa Red Diamonds,Japan
+1045,2018,Japan,Urawa Red Diamonds,Japan
+1046,2018,Japan,Hamburger SV,Germany
+1047,2018,Japan,Pachuca,Mexico
+1048,2018,Japan,Fortuna Dusseldorf,Germany
+1049,2018,Japan,Borussia Dortmund,Germany
+1050,2018,Japan,Fortuna Dusseldorf,Germany
+1051,2018,Japan,Eibar,Spain
+1052,2018,Japan,Cerezo Osaka,Japan
+1053,2018,Japan,Eintracht Frankfurt,Germany
+1054,2018,Japan,Kawasaki Frontale,Japan
+1055,2018,Japan,Leicester City,England
+1056,2018,Japan,Mainz 05,Germany
+1057,2018,Japan,1. FC Koln,Germany
+1058,2018,South Korea,Cerezo Osaka,Japan
+1059,2018,South Korea,Daegu FC,South Korea
+1060,2018,South Korea,Jeonbuk Hyundai Motors,South Korea
+1061,2018,South Korea,Sagan Tosu,Japan
+1062,2018,South Korea,Jeju United,South Korea
+1063,2018,South Korea,Seongnam FC,South Korea
+1064,2018,South Korea,Ulsan Hyundai,South Korea
+1065,2018,South Korea,Sangju Sangmu,South Korea
+1066,2018,South Korea,FC Tokyo,Japan
+1067,2018,South Korea,FC Seoul,South Korea
+1068,2018,South Korea,Asan Mugunghwa,South Korea
+1069,2018,South Korea,Hellas Verona,Italy
+1070,2018,South Korea,Augsburg,Germany
+1071,2018,South Korea,Swansea City,Wales
+1072,2018,South Korea,Incheon United,South Korea
+1073,2018,South Korea,Jeonbuk Hyundai Motors,South Korea
+1074,2018,Mexico,Cruz Azul,Mexico
+1075,2018,Mexico,UANL,Mexico
+1076,2018,Mexico,Eintracht Frankfurt,Germany
+1077,2018,Mexico,Atlas,Mexico
+1078,2018,Mexico,LA Galaxy,USA
+1079,2018,Mexico,Sevilla,Spain
+1080,2018,Mexico,LA Galaxy,USA
+1081,2018,Mexico,Porto,Portugal
+1082,2018,Mexico,UANL,Mexico
+1083,2018,Mexico,Eintracht Frankfurt,Germany
+1084,2018,Mexico,Los Angeles FC,USA
+1085,2018,Mexico,West Ham United,England
+1086,2018,Mexico,América,Mexico
+1087,2018,Morocco,Lille,France
+1088,2018,Morocco,Istanbul Basaksehir,Turkey
+1089,2018,Morocco,Juventus,Italy
+1090,2018,Morocco,Wolverhampton,England
+1091,2018,Morocco,Fenerbahce,Turkey
+1092,2018,Morocco,Feyenoord,Netherlands
+1093,2018,Morocco,Galatasaray,Turkey
+1094,2018,Morocco,Getafe,Spain
+1095,2018,Morocco,Al Jazira,United Arab Emirates
+1096,2018,Morocco,Caen,France
+1097,2018,Morocco,Leganes,Spain
+1098,2018,Morocco,Schalke 04,Germany
+1099,2018,Morocco,Standard Liege,Belgium
+1100,2018,Morocco,RS Berkane,Morocco
+1101,2018,Morocco,Yeni Malatyaspor,Turkey
+1102,2018,Morocco,FC St. Pauli,Germany
+1103,2018,Nigeria,Enyimba,Nigeria
+1104,2018,Nigeria,Chippa United,South Africa
+1105,2018,Nigeria,Deportivo La Coruña,Spain
+1106,2018,Nigeria,Amkar Perm,Russia
+1107,2018,Nigeria,Cercle Brugge,Belgium
+1108,2018,Nigeria,Bursaspor,Turkey
+1109,2018,Nigeria,Mainz 05,Germany
+1110,2018,Nigeria,Bursaspor,Turkey
+1111,2018,Nigeria,Nantes,France
+1112,2018,Nigeria,ADO Den Haag,Netherlands
+1113,2018,Nigeria,Kasimpasa,Turkey
+1114,2018,Nigeria,Leicester City,England
+1115,2018,Nigeria,Las Palmas,Spain
+1116,2018,Nigeria,Tianjin TEDA,China
+1117,2018,Nigeria,Torino,Italy
+1118,2018,Nigeria,Trabzonspor,Turkey
+1119,2018,Nigeria,Hapoel Be'er Sheva,Israel
+1120,2018,Nigeria,CSKA Moscow,Russia
+1121,2018,Nigeria,Changchun Yatai,China
+1122,2018,Nigeria,Chelsea,England
+1123,2018,Nigeria,Crotone,Italy
+1124,2018,Nigeria,Leicester City,England
+1125,2018,Nigeria,Arsenal,England
+1126,2018,Panama,Dinamo Bucuresti,Romania
+1127,2018,Panama,Chorrillo,Panama
+1128,2018,Panama,San Francisco,Panama
+1129,2018,Panama,New York Red Bulls,USA
+1130,2018,Panama,San Jose Earthquakes,USA
+1131,2018,Panama,New York Red Bulls,USA
+1132,2018,Panama,Seattle Sounders FC,USA
+1133,2018,Panama,Houston Dynamo,USA
+1134,2018,Panama,Dunajska Streda,Slovakia
+1135,2018,Panama,CD Olimpia,Honduras
+1136,2018,Panama,Municipal,Guatemala
+1137,2018,Panama,Atletico Bucaramanga,Colombia
+1138,2018,Panama,Tapachula,Mexico
+1139,2018,Panama,Universidad de Chile,Chile
+1140,2018,Panama,Plaza Amador,Panama
+1141,2018,Panama,Gent,Belgium
+1142,2018,Panama,San Jose Earthquakes,USA
+1143,2018,Panama,Gent,Belgium
+1144,2018,Panama,Municipal,Guatemala
+1145,2018,Panama,Huachipato,Chile
+1146,2018,Panama,Deportivo La Coruña,Spain
+1147,2018,Panama,Alajuelense,Costa Rica
+1148,2018,Panama,Sport Boys,Peru
+1149,2018,Peru,Veracruz,Mexico
+1150,2018,Peru,Deportivo Municipal,Peru
+1151,2018,Peru,UTC,Peru
+1152,2018,Peru,Atletico Junior,Colombia
+1153,2018,Peru,Universitario,Peru
+1154,2018,Peru,Puebla,Mexico
+1155,2018,Peru,Alianza Lima,Peru
+1156,2018,Peru,Flamengo,Brazil
+1157,2018,Peru,Veracruz,Mexico
+1158,2018,Peru,Lobos BUAP,Mexico
+1159,2018,Peru,Melgar,Peru
+1160,2018,Peru,Vitoria de Guimaraes,Portugal
+1161,2018,Peru,São Paulo,Brazil
+1162,2018,Peru,Feyenoord,Netherlands
+1163,2018,Peru,Portland Timbers,USA
+1164,2018,Peru,Veracruz,Mexico
+1165,2018,Peru,Orlando City SC,USA
+1166,2018,Peru,Lobos BUAP,Mexico
+1167,2018,Peru,Flamengo,Brazil
+1168,2018,Peru,Lokomotiv Moscow,Russia
+1169,2018,Peru,Morelia,Mexico
+1170,2018,Peru,Watford,England
+1171,2018,Peru,AaB,Denmark
+1172,2018,Poland,Ipswich Town,England
+1173,2018,Poland,Swansea City,Wales
+1174,2018,Poland,Legia Warsaw,Poland
+1175,2018,Poland,SPAL,Italy
+1176,2018,Poland,Borussia Dortmund,Germany
+1177,2018,Poland,Ludogorets Razgrad,Bulgaria
+1178,2018,Poland,Sampdoria,Italy
+1179,2018,Poland,Lokomotiv Moscow,Russia
+1180,2018,Poland,VfL Wolfsburg,Germany
+1181,2018,Poland,Lechia Gdansk,Poland
+1182,2018,Poland,Gornik Zabrze,Poland
+1183,2018,Poland,Anderlecht,Belgium
+1184,2018,Poland,Sampdoria,Italy
+1185,2018,Portugal,Lyon,France
+1186,2018,Portugal,Goztepe,Turkey
+1187,2018,Portugal,Rangers,Scotland
+1188,2018,Portugal,Dalian Yifang,China
+1189,2018,Portugal,Porto,Portugal
+1190,2018,Portugal,Napoli,Italy
+1191,2018,Portugal,Southampton,England
+1192,2018,Portugal,Lokomotiv Moscow,Russia
+1193,2018,Portugal,Monaco,France
+1194,2018,Portugal,Leicester City,England
+1195,2018,Portugal,Valencia,Spain
+1196,2018,Portugal,Sporting CP,Portugal
+1197,2018,Portugal,Besiktas,Turkey
+1198,2018,Russia,CSKA Moscow,Russia
+1199,2018,Russia,Zenit Saint Petersburg,Russia
+1200,2018,Russia,Club Brugge,Belgium
+1201,2018,Russia,CSKA Moscow,Russia
+1202,2018,Russia,Spartak Moscow,Russia
+1203,2018,Russia,CSKA Moscow,Russia
+1204,2018,Russia,Akhmat Grozny,Russia
+1205,2018,Russia,Rubin Kazan,Russia
+1206,2018,Russia,Rubin Kazan,Russia
+1207,2018,Russia,Zenit Saint Petersburg,Russia
+1208,2018,Russia,Villarreal,Spain
+1209,2018,Russia,Zenit Saint Petersburg,Russia
+1210,2018,Russia,Krasnodar,Russia
+1211,2018,Russia,CSKA Moscow,Russia
+1212,2018,Russia,Spartak Moscow,Russia
+1213,2018,Russia,Lokomotiv Moscow,Russia
+1214,2018,Russia,Lokomotiv Moscow,Russia
+1215,2018,Russia,CSKA Moscow,Russia
+1216,2018,Russia,Zenit Saint Petersburg,Russia
+1217,2018,Russia,Spartak Moscow,Russia
+1218,2018,Russia,Zenit Saint Petersburg,Russia
+1219,2018,Russia,Krasnodar,Russia
+1220,2018,Russia,Arsenal Tula,Russia
+1221,2018,Saudi Arabia,Al Hilal,Saudi Arabia
+1222,2018,Saudi Arabia,Al Ahli,Saudi Arabia
+1223,2018,Saudi Arabia,Al Ahli,Saudi Arabia
+1224,2018,Saudi Arabia,Al Hilal,Saudi Arabia
+1225,2018,Saudi Arabia,Al Nassr,Saudi Arabia
+1226,2018,Saudi Arabia,Al Ahli,Saudi Arabia
+1227,2018,Saudi Arabia,Leganes,Spain
+1228,2018,Saudi Arabia,Al Hilal,Saudi Arabia
+1229,2018,Saudi Arabia,Al Shabab,Saudi Arabia
+1230,2018,Saudi Arabia,Al Ahli,Saudi Arabia
+1231,2018,Saudi Arabia,Al Ahli,Saudi Arabia
+1232,2018,Saudi Arabia,Al Nassr,Saudi Arabia
+1233,2018,Saudi Arabia,Levante,Spain
+1234,2018,Saudi Arabia,Al Ahli,Saudi Arabia
+1235,2018,Senegal,Rennes,France
+1236,2018,Senegal,Horoya,Senegal
+1237,2018,Senegal,Caen,France
+1238,2018,Senegal,Anderlecht,Belgium
+1239,2018,Senegal,Alanyaspor,Turkey
+1240,2018,Senegal,Eupen,Belgium
+1241,2018,Senegal,Hannover 96,Germany
+1242,2018,Senegal,Birmingham City,England
+1243,2018,Senegal,Wolverhampton,England
+1244,2018,Senegal,Stoke City,England
+1245,2018,Senegal,Bursaspor,Turkey
+1246,2018,Senegal,Stoke City,England
+1247,2018,Senegal,Liverpool,England
+1248,2018,Senegal,Amiens,France
+1249,2018,Senegal,Rennes,France
+1250,2018,Senegal,Rennes,France
+1251,2018,Senegal,Torino,Italy
+1252,2018,Senegal,Monaco,France
+1253,2018,Serbia,Partizan,Serbia
+1254,2018,Serbia,Villarreal,Spain
+1255,2018,Serbia,Besiktas,Turkey
+1256,2018,Serbia,Anderlecht,Belgium
+1257,2018,Serbia,Zenit Saint Petersburg,Russia
+1258,2018,Serbia,Roma,Italy
+1259,2018,Serbia,Red Star Belgrade,Serbia
+1260,2018,Serbia,Crystal Palace,England
+1261,2018,Serbia,Manchester United,England
+1262,2018,Serbia,Torino,Italy
+1263,2018,Serbia,PAOK,Greece
+1264,2018,Serbia,Fulham,England
+1265,2018,Spain,Manchester United,England
+1266,2018,Spain,Athletic Bilbao,Spain
+1267,2018,Spain,Napoli,Italy
+1268,2018,Spain,Barcelona,Spain
+1269,2018,Spain,Real Madrid,Spain
+1270,2018,Spain,Real Sociedad,Spain
+1271,2018,Spain,Real Madrid,Spain
+1272,2018,Spain,Arsenal,England
+1273,2018,Spain,Barcelona,Spain
+1274,2018,Spain,Atletico Madrid,Spain
+1275,2018,Spain,Bayern Munich,Germany
+1276,2018,Spain,Real Madrid,Spain
+1277,2018,Spain,Valencia,Spain
+1278,2018,Spain,Real Madrid,Spain
+1279,2018,Spain,Celta de Vigo,Spain
+1280,2018,Spain,Atletico Madrid,Spain
+1281,2018,Spain,Manchester City,England
+1282,2018,Sweden,Copenhagen,Denmark
+1283,2018,Sweden,Guingamp,France
+1284,2018,Sweden,Swansea City,Wales
+1285,2018,Sweden,Celtic,Scotland
+1286,2018,Sweden,anchester United,England
+1287,2018,Sweden,Krasnodar,Russia
+1288,2018,Sweden,Swansea City,Wales
+1289,2018,Sweden,Werder Bremen,Germany
+1290,2018,Sweden,Bologna,Italy
+1291,2018,Sweden,Bologna,Italy
+1292,2018,Sweden,Leeds United,England
+1293,2018,Sweden,Hull City,England
+1294,2018,Sweden,Hamburger SV,Germany
+1295,2018,Sweden,RB Leipzig,Germany
+1296,2018,Sweden,Seattle Sounders FC,USA
+1297,2018,Sweden,Genoa,Italy
+1298,2018,Sweden,Krasnodar,Russia
+1299,2018,Sweden,Crotone,Italy
+1300,2018,Sweden,Toulouse,France
+1301,2018,Sweden,Al Ain,United Arab Emirates
+1302,2018,Sweden,Alaves,Spain
+1303,2018,Sweden,Toulouse,France
+1304,2018,Sweden,Waasland-Beveren,Belgium
+1305,2018,Switzerland,RB Leipzig,Germany
+1306,2018,Switzerland,Borussia Dortmund,Germany
+1307,2018,Switzerland,Juventus,Italy
+1308,2018,Switzerland,Toulouse,France
+1309,2018,Switzerland,Basel,Switzerland
+1310,2018,Switzerland,Antalyaspor,Turkey
+1311,2018,Switzerland,Udinese,Italy
+1312,2018,Switzerland,1899 Hoffenheim,Germany
+1313,2018,Switzerland,Bologna,Italy
+1314,2018,Switzerland,Eintracht Frankfurt,Germany
+1315,2018,Switzerland,Dinamo Zagreb,Croatia
+1316,2018,Switzerland,Borussia Monchengladbach,Germany
+1317,2018,Tunisia,Al Shabab,Saudi Arabia
+1318,2018,Tunisia,Al Batin,Saudi Arabia
+1319,2018,Tunisia,Kasimpasa,Turkey
+1320,2018,Tunisia,Leicester City,England
+1321,2018,Tunisia,Dijon,France
+1322,2018,Tunisia,Étoile du Sahel,Tunisia
+1323,2018,Tunisia,Zamalek,Egypt
+1324,2018,Tunisia,Espérance de Tunis,Tunisia
+1325,2018,Tunisia,Al Ahli,Saudi Arabia
+1326,2018,Tunisia,Troyes,France
+1327,2018,Tunisia,Al-Ettifaq,Saudi Arabia
+1328,2018,Tunisia,Club Africain,Tunisia
+1329,2018,Tunisia,Nice,France
+1330,2018,Tunisia,Club Africain,Tunisia
+1331,2018,Tunisia,Dijon,France
+1332,2018,Uruguay,Independiente,Argentina
+1333,2018,Uruguay,Vasco da Gama,Brazil
+1334,2018,Uruguay,Atletico Madrid,Spain
+1335,2018,Uruguay,Independiente,Argentina
+1336,2018,Uruguay,Porto,Portugal
+1337,2018,Uruguay,Monterrey,Mexico
+1338,2018,Uruguay,Peñarol,Uruguay
+1339,2018,Uruguay,Boca Juniors,Argentina
+1340,2018,Uruguay,Genoa,Italy
+1341,2018,Uruguay,Girona,Spain
+1342,2018,Uruguay,Monterrey,Mexico
