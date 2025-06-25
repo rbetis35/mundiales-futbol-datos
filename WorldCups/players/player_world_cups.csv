@@ -22,6 +22,7 @@ player_id,world_cup_year,team,club,country_club
 17,2022,Argentina,Brighton,England
 18,2022,Argentina,Benfica,Portugal
 19,2022,Argentina,Atlanta United,USA
+20,2014,Argentina,Barcelona,Spain
 20,2018,Argentina,Barcelona,Spain
 20,2022,Argentina,PSG,France
 21,2022,Argentina,Internazionale,Italy
@@ -29,9 +30,11 @@ player_id,world_cup_year,team,club,country_club
 22,2022,Argentina,Roma,Italy
 23,2022,Argentina,Internazionale,Italy
 24,2022,Argentina,Manchester City,England
+25,2014,Argentina,Real Madrid,Spain
 25,2018,Argentina,PSG,France
 25,2022,Argentina,Juventus,Italy
 26,2022,Argentina,Atletico Madrid,Spain
+27,2014,Australia,Club Brugge,Belgium
 27,2018,Australia,Brighton,England
 27,2022,Australia,Copenhagen,Denmark
 28,2018,Australia,Genk,Belgium
@@ -40,6 +43,7 @@ player_id,world_cup_year,team,club,country_club
 30,2022,Australia,Dundee United,Scotland
 31,2018,Australia,Yokohama Marinos,Japan
 31,2022,Australia,Columbus Crew,USA
+32,2014,Australia,Preston North End,England
 32,2022,Australia,Sunderland,England
 33,2022,Australia,Brescia,Italy
 34,2022,Australia,Stoke City,England
@@ -56,6 +60,7 @@ player_id,world_cup_year,team,club,country_club
 43,2022,Australia,St Mirren,Scotland
 44,2022,Australia,Hearts,Scotland
 45,2018,Australia,Hertha Berlin,Germany
+45,2014,Australia,FSV Frankfurt,Germany
 45,2022,Australia,Melbourne City,Australia
 46,2022,Australia,Cadiz,Spain
 47,2018,Australia,Hibernian,Scotland
@@ -65,16 +70,20 @@ player_id,world_cup_year,team,club,country_club
 50,2022,Australia,Adelaide United,Australia
 51,2022,Australia,Central Coast Mariners,Australia
 52,2022,Australia,Central Coast Mariners,Australia
+53,2014,Belgium,Atletico Madrid,Spain
 53,2018,Belgium,Chelsea,England
 53,2022,Belgium,Real Madrid,Spain
+54,2014,Belgium,Liverpool,England
 54,2018,Belgium,Liverpool,England
 54,2022,Belgium,Club Brugge,Belgium
 55,2018,Belgium,Wolfsburg,Germany
 55,2022,Belgium,Wolfsburg,Germany
+56,2014,Belgium,Atletico Madrid,Spain
 56,2022,Belgium,Antwerp,Belgium
 57,2022,Belgium,Rennes,France
 58,2018,Belgium,Tottenham,England
 58,2022,Belgium,Anderlecht,Belgium
+59,2014,Belgium,Tottenham,England
 59,2018,Belgium,Tottenham,England
 59,2022,Belgium,Anderlecht,Belgium
 60,2022,Belgium,Leicester City,England
@@ -83,6 +92,7 @@ player_id,world_cup_year,team,club,country_club
 62,2022,Belgium,Borussia Dortmund,Germany
 63,2018,Belgium,Borussia Moenchengladbach,Germany
 63,2022,Belgium,Borussia Dortmund,Germany
+64,2014,Belgium,VfL Wolfsburg,Germany
 64,2018,Belgium,Manchester City,England
 64,2022,Belgium,Manchester City,England
 65,2018,Belgium,Dalian Yifang,China
@@ -92,19 +102,23 @@ player_id,world_cup_year,team,club,country_club
 67,2018,Belgium,Monaco,France
 67,2022,Belgium,Leicester City,England
 68,2022,Belgium,Club Brugge,Belgium
+69,2014,Belgium,Zenit Saint Petersburg,Russia
 69,2018,Belgium,Tianjin Quanjian,China
 69,2022,Belgium,Atletico Madrid,Spain
 70,2022,Belgium,AC Milan,Italy
 71,2022,Belgium,Everton,England
 72,2022,Belgium,Rennes,France
+73,2014,Belgium,Chelsea,England
 73,2018,Belgium,Chelsea,England
 73,2022,Belgium,Real Madrid,Spain
+74,2014,Belgium,Napoli,Italy
 74,2018,Belgium,Napoli,Italy
 74,2022,Belgium,Galatasaray,Turkey
 75,2022,Belgium,Brighton,England
 76,2018,Belgium,Borussia Dortmund,Germany
 76,2022,Belgium,Fenerbahce,Turkey
 77,2022,Belgium,Lens,France
+78,2014,Belgium,Everton,England
 78,2018,Belgium,Manchester United,England
 78,2022,Belgium,Internazionale,Italy
 79,2018,Brazil,Roma,Italy
@@ -113,10 +127,12 @@ player_id,world_cup_year,team,club,country_club
 80,2022,Brazil,Manchester City,England
 81,2022,Brazil,Palmeiras,Brazil
 82,2022,Brazil,UNAM,Mexico
+83,2014,Brazil,PSG,France
 83,2018,Brazil,PSG,France
 83,2022,Brazil,Chelsea,England
 84,2018,Brazil,PSG,France
 84,2022,Brazil,PSG,France
+85,2014,Brazil,Barcelona,Spain
 85,2018,Brazil,Manchester City,England
 85,2022,Brazil,Juventus,Italy
 86,2022,Brazil,Juventus,Italy
@@ -127,10 +143,12 @@ player_id,world_cup_year,team,club,country_club
 90,2022,Brazil,Manchester United,England
 91,2022,Brazil,West Ham,England
 92,2022,Brazil,Liverpool,England
+93,2014,Brazil,Fluminense,Brazil
 93,2018,Brazil,Shaktar Donetsk,Ukraine
 93,2022,Brazil,Manchester United,England
 94,2022,Brazil,Flamengo,Brazil
 95,2022,Brazil,Newcastle United,England
+96,2014,Brazil,Barcelona,Spain
 96,2018,Brazil,PSG,France
 96,2022,Brazil,PSG,France
 97,2022,Brazil,Manchester City,England
@@ -164,11 +182,13 @@ player_id,world_cup_year,team,club,country_club
 124,2022,Cameroon,Brentford,England
 125,2022,Cameroon,Besiktas,Turkey
 126,2022,Cameroon,Young Boys,Switzerland
+127,2014,Cameroon,Lorient,France
 127,2022,Cameroon,Al-Nassr,Saudi Arabia
 128,2022,Cameroon,Lyon,France
+129,2014,Cameroon,Mainz 05,Germany
 129,2022,Cameroon,Bayern Munich,Germany
 130,2022,Cameroon,Coton Sport de Garoua,Cameroon
-131,2022,Canada,CF Montreal ,Canada
+131,2022,Canada,CF Montreal,Canada
 132,2022,Canada,Red Star Belgrade,Serbia
 133,2022,Canada,Minnesota United,USA
 134,2022,Canada,Celtic,Scotland
@@ -194,12 +214,14 @@ player_id,world_cup_year,team,club,country_club
 154,2022,Canada,Lille,France
 155,2022,Canada,Basel,Switzerland
 156,2022,Canada,Troyes,France
+157,2014,Costa Rica,Levante,Spain
 157,2018,Costa Rica,Real Madrid,Spain
 157,2022,Costa Rica,PSG,France
 158,2022,Costa Rica,Herediano,Costa Rica
 159,2022,Costa Rica,Lugo,Spain
 160,2018,Costa Rica,Sunderland,England
 160,2022,Costa Rica,Real Salt Lake,USA
+161,2014,Costa Rica,Club Brugge,Belgium
 161,2018,Costa Rica,Espanyol,Spain
 161,2022,Costa Rica,Al-Wehda,Saudi Arabia
 162,2018,Costa Rica,Vancouver Whitecaps,Canada
@@ -210,10 +232,13 @@ player_id,world_cup_year,team,club,country_club
 166,2022,Costa Rica,San Carlos,Costa Rica
 167,2018,Costa Rica,Minnesota United,USA
 167,2022,Costa Rica,Konyaspor,Turkey
+168,2014,Costa Rica,AIK,Sweden
 168,2018,Costa Rica,Deportivo La Coruña,Spain
 168,2022,Costa Rica,Alajuelense,Costa Rica
+169,2014,Costa Rica,PSV,Netherlands
 169,2018,Costa Rica,Sporting CP,Portugal
 169,2022,Costa Rica,Alajuelense,Costa Rica
+170,2014,Costa Rica,Saprissa,Costa Rica
 170,2018,Costa Rica,Lausanne Sport,Switzerland
 170,2022,Costa Rica,Herediano,Costa Rica
 171,2022,Costa Rica,Herediano,Costa Rica
@@ -225,6 +250,7 @@ player_id,world_cup_year,team,club,country_club
 177,2022,Costa Rica,Herediano,Costa Rica
 178,2022,Costa Rica,Puntarenas,Costa Rica
 179,2022,Costa Rica,Saprissa,Costa Rica
+180,2014,Costa Rica,Olympiacos,Greece
 180,2018,Costa Rica,Real Betis,Spain
 180,2022,Costa Rica,Leon,Mexico
 181,2018,Costa Rica,Saprissa,Costa Rica
@@ -234,8 +260,10 @@ player_id,world_cup_year,team,club,country_club
 183,2022,Croatia,Dinamo Zagreb,Croatia
 184,2022,Croatia,Osijek,Croatia
 185,2022,Croatia,Atletico Madrid,Spain
+186,2014,Croatia,Dynamo Kyiv,Ukraine
 186,2018,Croatia,Besiktas,Turkey
 186,2022,Croatia,AEK Athens,Greece
+187,2014,Croatia,Southampton,England
 187,2018,Croatia,Liverpool,England
 187,2022,Croatia,Zenit Saint Petersburg,Russia
 188,2022,Croatia,Rangers,Scotland
@@ -245,10 +273,13 @@ player_id,world_cup_year,team,club,country_club
 192,2022,Croatia,Bayern Munich,Germany
 193,2022,Croatia,Sassuolo,Italy
 194,2022,Croatia,Dinamo Zagreb,Croatia
+195,2014,Croatia,Real Madrid,Spain
 195,2018,Croatia,Real Madrid,Spain
 195,2022,Croatia,Real Madrid,Spain
+196,2014,Croatia,Internazionale,Italy
 196,2018,Croatia,Real Madrid,Spain
 196,2022,Croatia,Chelsea,England
+197,2014,Croatia,Dinamo Zagreb,Croatia
 197,2018,Croatia,Internazionale,Italy
 197,2022,Croatia,Internazionale,Italy
 198,2022,Croatia,Atalanta,Italy
@@ -256,6 +287,7 @@ player_id,world_cup_year,team,club,country_club
 200,2022,Croatia,Rennes,France
 201,2022,Croatia,Eintracht Frankfurt,Germany
 202,2022,Croatia,Red Bull Salzburg,Austria
+203,2014,Croatia,VfL Wolfsburg,Germany
 203,2018,Croatia,Internazionale,Italy
 203,2022,Croatia,Tottenham,England
 204,2018,Croatia,Hoffenheim,Germany
@@ -313,6 +345,7 @@ player_id,world_cup_year,team,club,country_club
 245,2022,Ecuador ,Los Angeles FC,USA
 246,2022,Ecuador ,Troyes,France
 247,2022,Ecuador ,Los Angeles FC,USA
+248,2014,Ecuador, VfB Stuttgart,Germany
 248,2022,Ecuador ,Augsburg,Germany
 249,2022,Ecuador ,Leon,Mexico
 250,2022,Ecuador ,Brighton,England
@@ -324,6 +357,7 @@ player_id,world_cup_year,team,club,country_club
 256,2022,Ecuador ,Santos Laguna,Mexico
 257,2022,Ecuador ,Pachuca,Mexico
 258,2022,Ecuador ,Cruz Azul,Mexico
+259,2014,Ecuador, Pachuca,Mexico
 259,2022,Ecuador ,Fenerbahce,Turkey
 260,2022,Ecuador ,Newell's Old Boys,Argentina
 261,2018,England,Everton,England
@@ -337,6 +371,7 @@ player_id,world_cup_year,team,club,country_club
 266,2022,England,Tottenham,England
 267,2018,England,Leicester City,England
 267,2022,England,Manchester United,England
+268,2014,England,Southampton,England
 268,2022,England,Manchester United,England
 269,2018,England,Manchester City,England
 269,2022,England,Manchester City,England
@@ -347,6 +382,7 @@ player_id,world_cup_year,team,club,country_club
 272,2022,England,Arsenal,England
 273,2022,England,Borussia Dortmund,Germany
 274,2022,England,Chelsea,England
+275,2014,England,Liverpool,England
 275,2018,England,Liverpool,England
 275,2022,England,Liverpool,England
 276,2022,England,Chelsea,England
@@ -360,9 +396,11 @@ player_id,world_cup_year,team,club,country_club
 283,2018,England,Manchester United,England
 283,2022,England,Manchester United,England
 284,2022,England,Arsenal,England
+285,2014,England,Liverpool,England
 285,2018,England,Manchester City,England
 285,2022,England,Chelsea,England
 286,2022,England,Newcastle United,England
+287,2014,France,Tottenham,England
 287,2018,France,Tottenham,England
 287,2022,France,Tottenham,England
 288,2018,France,PSG,France
@@ -372,6 +410,7 @@ player_id,world_cup_year,team,club,country_club
 290,2018,France,Stuttgart,Germany
 290,2022,France,Bayern Munich,Germany
 291,2022,France,Barcelona,Spain
+292,2014,France,Real Madrid,Spain
 292,2018,France,Real Madrid,Spain
 292,2022,France,Manchester United,England
 293,2022,France,PSG,France
@@ -391,14 +430,17 @@ player_id,world_cup_year,team,club,country_club
 306,2022,France,Bayern Munich,Germany
 307,2018,France,PSG,France
 307,2022,France,PSG,France
+308,2014,France,Arsenal,England
 308,2018,France,Chelsea,England
 308,2022,France,AC Milan,Italy
+309,2014,France,Real Sociedad,Spain
 309,2018,France,Atletico Madrid,Spain
 309,2022,France,Atletico Madrid,Spain
 310,2018,France,Barcelona,Spain
 310,2022,France,Barcelona,Spain
 311,2022,France,Eintracht Frankfurt,Germany
 312,2022,France,Borussia Monchengladbach,Germany
+313,2014,Germany,Bayern Munich,Germany
 313,2018,Germany,Bayern Munich,Germany
 313,2022,Germany,Bayern Munich,Germany
 314,2018,Germany,Barcelona,Spain
@@ -407,6 +449,7 @@ player_id,world_cup_year,team,club,country_club
 315,2022,Germany,Eintracht Frankfurt,Germany
 316,2018,Germany,Chelsea,England
 316,2022,Germany,Real Madrid,Spain
+317,2014,Germany,Freiburg,Germany
 317,2018,Germany,Borussia Moenchengladbach,Germany
 317,2022,Germany,Freiburg,Germany
 318,2018,Germany,Bayern Munich,Germany
@@ -419,6 +462,7 @@ player_id,world_cup_year,team,club,country_club
 324,2022,Germany,Southampton,England
 325,2018,Germany,Bayern Munich,Germany
 325,2022,Germany,Bayern Munich,Germany
+326,2014,Germany,Bayern Munich,Germany
 326,2022,Germany,Eintracht Frankfurt,Germany
 327,2018,Germany,Manchester City,England
 327,2022,Germany,Manchester City,England
@@ -429,6 +473,7 @@ player_id,world_cup_year,team,club,country_club
 330,2022,Germany,Chelsea,England
 331,2022,Germany,Bayern Munich,Germany
 332,2022,Germany,Borussia Monchengladbach,Germany
+333,2014,Germany,Bayern Munich,Germany
 333,2018,Germany,Bayern Munich,Germany
 333,2022,Germany,Bayern Munich,Germany
 334,2022,Germany,Bayern Munich,Germany
@@ -448,6 +493,7 @@ player_id,world_cup_year,team,club,country_club
 348,2022,Ghana,Southampton,England
 349,2022,Ghana,Reading,England
 350,2022,Ghana,Auxerre,France
+351,2014,Ghana,Marseille,France
 351,2022,Ghana,Al-Sadd,Qatar
 352,2022,Ghana,Arsenal,England
 353,2022,Ghana,Gent,Belgium
@@ -460,6 +506,7 @@ player_id,world_cup_year,team,club,country_club
 360,2022,Ghana,Red Star Belgrade,Serbia
 361,2022,Ghana,Athletic Club,Spain
 362,2022,Ghana,Bristol City,England
+363,2014,Ghana,Sochaux,France
 363,2022,Ghana,Crystal Palace,England
 364,2022,Ghana,Rennes,France
 365,2018,Iran,Persepolis,Iran
@@ -467,6 +514,7 @@ player_id,world_cup_year,team,club,country_club
 366,2022,Iran,Ponferradina,Spain
 367,2022,Iran,Esteghlal,Iran
 368,2022,Iran,Sepahan,Iran
+369,2014,Iran,Sepahan,Iran
 369,2018,Iran,Olympiakos,Greece
 369,2022,Iran,AEK Athens,Greece
 370,2022,Iran,Al-Ahli,Qatar
@@ -483,6 +531,7 @@ player_id,world_cup_year,team,club,country_club
 377,2022,Iran,Esteghlal,Iran
 378,2018,Iran,Persepolis,Iran
 378,2022,Iran,Persepolis,Iran
+379,2014,Iran,NEC,Netherlands
 379,2018,Iran,AZ,Netherlands
 379,2022,Iran,Feyenoord,Netherlands
 380,2018,Iran,Amkar Perm,Russia
@@ -496,24 +545,30 @@ player_id,world_cup_year,team,club,country_club
 384,2022,Iran,Charleroi,Belgium
 385,2022,Iran,Shabab Al-Ahli,United Arab Emirates
 386,2022,Iran,Kayserispor,Turkey
+387,2014,Iran,Tractor Sazi,Iran
 387,2018,Iran,Olympiakos,Greece
 387,2022,Iran,Omonia,Cyprus
 388,2022,Iran,Rubin Kazan,Russia
 388,2022,Iran,Bayer Leverkusen,Germany
 389,2018,Iran,Al-Gharafa,Qatar
 389,2022,Iran,Porto,Portugal
+390,2014,Japan,Standard Liege,Belgium
 390,2018,Japan,Metz,France
 390,2022,Japan,Strasbourg,France
+391,2014,Japan,FC Tokyo,Japan
 391,2022,Japan,Shimizu S-Pulse,Japan
 392,2022,Japan,Sint-Truiden,Belgium
 393,2022,Japan,Kawasaki Frontale,Japan
 394,2022,Japan,Kawasaki Frontale,Japan
 395,2022,Japan,Borussia Monchengladbach,Germany
+396,2014,Japan,Internazionale,Italy
 396,2018,Japan,Galatasaray,Turkey
 396,2022,Japan,Tokyo,Japan
 397,2022,Japan,Arsenal,England
+398,2014,Japan,Hannover 96,Germany
 398,2018,Japan,Marseille,France
 398,2022,Japan,Urawa Red Diamonds,Japan
+399,2014,Japan,Southampton,England
 399,2018,Japan,Southampton,England
 399,2022,Japan,Schalke 04,Germany
 400,2022,Japan,Stuttgart,Germany
@@ -533,11 +588,14 @@ player_id,world_cup_year,team,club,country_club
 413,2022,Japan,Shonan Bellmare,Japan
 414,2022,Japan,Cercle Brugge,Belgium
 415,2022,Japan,Celtic,Scotland
+416,2014,Mexico,Ajaccio,France
 416,2018,Mexico,Standard Liege,Belgium
 416,2022,Mexico,America,Mexico
+417,2014,Mexico,Toluca,Mexico
 417,2018,Mexico,Toluca,Mexico
 417,2022,Mexico,Juarez,Mexico
 418,2022,Mexico,Leon,Mexico
+419,2014,Mexico,Espanyol,Spain
 419,2018,Mexico,Real Sociedad,Spain
 419,2022,Mexico,Monterrey,Mexico
 420,2018,Mexico,UNAM,Mexico
@@ -548,8 +606,10 @@ player_id,world_cup_year,team,club,country_club
 424,2022,Mexico,Genk,Belgium
 425,2022,Mexico,Pachuca,Mexico
 426,2022,Mexico,Cremonese,Italy
+427,2014,Mexico,Bayer Leverkusen,Germany
 427,2018,Mexico,Real Betis,Spain
 427,2022,Mexico,Real Betis,Spain
+428,2014,Mexico,Porto,Portugal
 428,2018,Mexico,Porto,Portugal
 428,2022,Mexico,Houston Dynamo,USA
 429,2018,Mexico,America,Mexico
@@ -563,6 +623,7 @@ player_id,world_cup_year,team,club,country_club
 435,2022,Mexico,Monterrey,Mexico
 436,2022,Mexico,Guadalajara,Mexico
 437,2022,Mexico,Pachuca,Mexico
+438,2014,Mexico,America,Mexico
 438,2018,Mexico,Benfica,Portugal
 438,2022,Mexico,Wolverhampton,England
 439,2018,Mexico,PSV,Netherlands
@@ -605,7 +666,9 @@ player_id,world_cup_year,team,club,country_club
 468,2022,Netherlands,Feyenoord,Netherlands
 469,2022,Netherlands,Ajax,Netherlands
 470,2022,Netherlands,Heerenveen,Netherlands
+471,2014,Netherlands,Ajax,Netherlands
 471,2022,Netherlands,Ajax,Netherlands
+472,2014,Netherlands,Feyenoord,Netherlands
 472,2022,Netherlands,Internazionale,Italy
 473,2022,Netherlands,Liverpool,England
 474,2022,Netherlands,Bayern Munich,Germany
@@ -621,6 +684,7 @@ player_id,world_cup_year,team,club,country_club
 484,2022,Netherlands,Ajax,Netherlands
 485,2022,Netherlands,PSV,Netherlands
 486,2022,Netherlands,Ajax,Netherlands
+487,2014,Netherlands,PSV,Netherlands
 487,2022,Netherlands,Barcelona,Spain
 488,2022,Netherlands,PSV,Netherlands
 489,2022,Netherlands,Ajax,Netherlands
@@ -670,6 +734,7 @@ player_id,world_cup_year,team,club,country_club
 522,2022,Portugal,Wolverhampton,England
 523,2022,Portugal,Manchester United,England
 524,2022,Portugal,PSG,France
+525,2014,Portugal,Real Madrid,Spain
 525,2018,Portugal,Besiktas,Turkey
 525,2022,Portugal,Porto,Portugal
 526,2018,Portugal,Benfica,Portugal
@@ -689,11 +754,13 @@ player_id,world_cup_year,team,club,country_club
 535,2022,Portugal,Benfica,Portugal
 536,2022,Portugal,Wolverhampton,England
 537,2022,Portugal,Porto,Portugal
+538,2014,Portugal,Sporting CP,Portugal
 538,2018,Portugal,Sporting CP,Portugal
 538,2022,Portugal,Real Betis,Spain
 539,2022,Portugal,PSG,France
 540,2018,Portugal,AC Milan,Italy
 540,2022,Portugal,RB Leipzig,Germany
+541,2014,Portugal,Real Madrid,Spain
 541,2018,Portugal,Real Madrid,Spain
 541,2022,Portugal,Manchester United,England
 542,2022,Portugal,Benfica,Portugal
@@ -829,6 +896,7 @@ player_id,world_cup_year,team,club,country_club
 648,2022,Serbia,Sampdoria,Italy
 649,2018,Serbia,Southampton,England
 649,2022,Serbia,Ajax,Netherlands
+650,2014,South Korea,Ulsan Hyundai,South Korea
 650,2018,South Korea,Vissel Kobe,Japan
 650,2022,South Korea,Al Shabab,Saudi Arabia
 651,2022,South Korea,Ulsan Hyundai,South Korea
@@ -839,6 +907,7 @@ player_id,world_cup_year,team,club,country_club
 655,2022,South Korea,Daegu FC,South Korea
 656,2022,South Korea,Jeonbuk Hyundai Motors,South Korea
 657,2022,South Korea,FC Seoul,South Korea
+658,2014,South Korea,Guangzhou Evergrande,China
 658,2018,South Korea,Guangzhou Evergrande,China
 658,2022,South Korea,Ulsan Hyundai,South Korea
 659,2022,South Korea,Ulsan Hyundai,South Korea
@@ -855,6 +924,7 @@ player_id,world_cup_year,team,club,country_club
 668,2022,South Korea,Mainz,Germany
 669,2022,South Korea,Olympiacos,Greece
 670,2022,South Korea,Mallorca,Spain
+671,2014,South Korea,Bayer Leverkusen,Germany
 671,2018,South Korea,Tottenham,England
 671,2022,South Korea,Tottenham,England
 672,2018,South Korea,Red Bull Salzburg,Austria
@@ -865,8 +935,10 @@ player_id,world_cup_year,team,club,country_club
 676,2022,Spain,Brighton,England
 677,2022,Spain,Brentford,England
 678,2022,Spain,Athletic Club,Spain
+679,2014,Spain,Chelsea,England
 679,2018,Spain,Chelsea,England
 679,2022,Spain,Chelsea,England
+680,2014,Spain,Barcelona,Spain
 680,2018,Spain,Barcelona,Spain
 680,2022,Spain,Barcelona,Spain
 681,2022,Spain,Valencia,Spain
@@ -876,11 +948,13 @@ player_id,world_cup_year,team,club,country_club
 685,2018,Spain,Real Madrid,Spain
 685,2022,Spain,Real Madrid,Spain
 686,2022,Spain,Manchester City,England
+687,2014,Spain,Barcelona,Spain
 687,2018,Spain,Barcelona,Spain
 687,2022,Spain,Barcelona,Spain
 688,2022,Spain,Atletico Madrid,Spain
 689,2022,Spain,Barcelona,Spain
 690,2022,Spain,Manchester City,England
+691,2014,Spain,Atletico Madrid,Spain
 691,2018,Spain,Atletico Madrid,Spain
 691,2022,Spain,Atletico Madrid,Spain
 692,2022,Spain,Barcelona,Spain
@@ -894,14 +968,17 @@ player_id,world_cup_year,team,club,country_club
 699,2022,Spain,RB Leipzig,Germany
 700,2022,Spain,Athletic Club,Spain
 701,2022,Spain,Barcelona,Spain
+702,2014,Switzerland,Basel,Switzerland
 702,2018,Switzerland,Borussia Monchengladbach,Germany
 702,2022,Switzerland,Borussia Monchengladbach,Germany
 703,2022,Switzerland,Montpellier,France
 704,2022,Switzerland,Borussia Dortmund,Germany
 705,2022,Switzerland,Red Bull Salzburg,Austria
 706,2022,Switzerland,Mainz,Germany
+707,2014,Switzerland,VfL Wolfsburg,Germany
 707,2018,Switzerland,AC Milan,Italy
 707,2022,Switzerland,Torino,Italy
+708,2014,Switzerland,Basel,Switzerland
 708,2018,Switzerland,Deportivo La Coruña,Spain
 708,2022,Switzerland,Newcastle United,England
 709,2018,Switzerland,Borussia Dortmund,Germany
@@ -909,8 +986,10 @@ player_id,world_cup_year,team,club,country_club
 710,2018,Switzerland,Borussia Monchengladbach,Germany
 710,2022,Switzerland,Borussia Monchengladbach,Germany
 711,2022,Switzerland,Valencia,Spain
+712,2014,Switzerland,Bayern Munich,Germany
 712,2018,Switzerland,Stoke City,England
 712,2022,Switzerland,Chicago Fire,USA
+713,2014,Switzerland,Borussia Monchengladbach,Germany
 713,2018,Switzerland,Arsenal,England
 713,2022,Switzerland,Arsenal,England
 714,2018,Switzerland,Atalanta,Italy
@@ -924,6 +1003,7 @@ player_id,world_cup_year,team,club,country_club
 720,2022,Switzerland,Bologna,Italy
 721,2022,Switzerland,Luzern,Switzerland
 722,2022,Switzerland,Young Boys,Switzerland
+723,2014,Switzerland,Real Sociedad,Spain
 723,2018,Switzerland,Benfica,Portugal
 723,2022,Switzerland,Galatasaray,Turkey
 724,2018,Switzerland,Schalke 04,Germany
@@ -965,16 +1045,21 @@ player_id,world_cup_year,team,club,country_club
 752,2022,Tunisia,Rennes,France
 752,2022,Tunisia,Montpellier,France
 753,2022,Tunisia,Al-Arabi,Qatar
+754,2014,Uruguay,Galatasaray,Turkey
 754,2018,Uruguay,Galatasaray,Turkey
 754,2022,Uruguay,Galatasaray,Turkey
 755,2022,Uruguay,Nacional,Uruguay
 756,2022,Uruguay,Independiente,Argentina
 757,2022,Uruguay,Barcelona,Spain
+758,2014,Uruguay,Juventus,Italy
 758,2018,Uruguay,Lazio,Italy
 758,2022,Uruguay,La Galaxy,USA
+759,2014,Uruguay,Nacional,Uruguay
 759,2018,Uruguay,Sporting CP,Portugal
 759,2022,Uruguay,Sporting CP,Portugal
+760,2014,Uruguay,Atletico Madrid,Spain
 760,2022,Uruguay,Atletico Madrid,Spain
+761,2014,Uruguay,Atletico Madrid,Spain
 761,2018,Uruguay,Atletico Madrid,Spain
 761,2022,Uruguay,Velez Sarsfield,Argentina
 762,2022,Uruguay,Napoli,Italy
@@ -994,8 +1079,10 @@ player_id,world_cup_year,team,club,country_club
 771,2022,Uruguay,Galatasaray,Turkey
 772,2022,Uruguay,Orlando City,USA
 773,2022,Uruguay,Sporting CP,Portugal
+774,2014,Uruguay,Liverpool,England
 774,2018,Uruguay,Barcelona,Spain
 774,2022,Uruguay,Nacional,Uruguay
+775,2014,Uruguay,PSG,France
 775,2018,Uruguay,PSG,France
 775,2022,Uruguay,Valencia,Spain
 776,2018,Uruguay,Celta de Vigo,Spain
@@ -1013,6 +1100,7 @@ player_id,world_cup_year,team,club,country_club
 787,2022,USA,Fulham,England
 788,2022,USA,Fulham,England
 789,2022,USA,Borussia Monchengladbach,Germany
+790,2014,USA,Seattle Sounders FC,USA
 790,2022,USA,Inter Miami,USA
 791,2022,USA,Nashville SC,USA
 792,2022,USA,Leeds United,England
@@ -1055,45 +1143,60 @@ player_id,world_cup_year,team,club,country_club
 829,2022,Wales,Cardiff City,Wales
 830,2022,Wales,Nottingham Forest,England
 831,2022,Wales,Fulham,England
-
 832,2018,Argentina,UANL,Mexico
 833,2018,Argentina,Chelsea,England
 834,2018,Argentina,Sevilla,Spain
 835,2018,Argentina,Torino,Italy
 836,2018,Argentina,Roma,Italy
+837,2014,Argentina,Barcelona,Spain
 837,2018,Argentina,Hebei China Fortune,China
+838,2014,Argentina,Sporting CP,Portugal
 838,2018,Argentina,Manchester United,England
+839,2014,Argentina,Lazio,Italy
 839,2018,Argentina,AC Milan,Italy
 840,2018,Argentina,Sevilla,Spain
 841,2018,Argentina,Independiente,Argentina
+842,2014,Argentina,Benfica,Portugal
 842,2018,Argentina,River Plate,Argentina
 843,2018,Argentina,PSG,France
 844,2018,Argentina,Boca Juniors,Argentina
+845,2014,Argentina,Napoli,Italy
 845,2018,Argentina,Juventus,Italy
 846,2018,Argentina,Benfica,Portugal
+847,2014,Argentina,Manchester City,England
 847,2018,Argentina,Manchester City,England
 848,2018,Australia,Feyenoord,Netherlands
 849,2018,Australia,Millwall,England
+850,2014,Australia,Melbourne Victory,Australia
 850,2018,Australia,Al Ahli,Saudi Arabia
 851,2018,Australia,Suwon Samsung Bluewings,South Korea
 852,2018,Australia,Bursaspor,Turkey
 853,2018,Australia,Western Sydney Wanderers,Australia
 854,2018,Australia,Grasshopper,Switzerland
+855,2014,Australia,Swindon Town,England
 855,2018,Australia,Queens Park Rangers,England
+856,2014,Australia,Crystal Palace,England
 856,2018,Australia,Aston Villa,England
 857,2018,Australia,Celtic,Scotland
+858,2014,Australia,New York Red Bulls,USA
 858,2018,Australia,Millwall,England
 859,2018,Australia,Luzern,Switzerland
 860,2018,Australia,Bochum,Germany
 861,2018,Australia,Urawa Red Diamonds,Japan
 862,2018,Australia,Melbourne City,Australia
 863,2018,Australia,Newcastle Jets,Australia
+864,2014,Belgium,Arsenal,England
 864,2018,Belgium,Barcelona,Spain
+865,2014,Belgium,Manchester City,England
 865,2018,Belgium,Manchester City,England
 866,2018,Belgium,Celtic,Scotland
+867,2014,Belgium,Manchester United,England
 867,2018,Belgium,Manchester United,England
+868,2014,Belgium,Tottenham,England
 868,2018,Belgium,Tottenham,England
+869,2014,Belgium,Tottenham,England
 869,2018,Belgium,West Bromwich Albion,England
+870,2014,Belgium,Manchester United,England
 870,2018,Belgium,Real Sociedad,Spain
 871,2018,Brazil,Corinthians,Brazil
 872,2018,Brazil,Internazionale,Italy
@@ -1103,65 +1206,92 @@ player_id,world_cup_year,team,club,country_club
 876,2018,Brazil,Corinthians,Brazil
 877,2018,Brazil,Beijing Sinobo Guoan,China
 878,2018,Brazil,Barcelona,Spain
+879,2014,Brazil,Tottenham,England
 879,2018,Brazil,Barcelona,Spain
+880,2014,Brazil,Manchester City,England
 880,2018,Brazil,Manchester City,England
+881,2014,Brazil,Chelsea,England
 881,2018,Brazil,Chelsea,England
 882,2018,Brazil,Juventus,Italy
 883,2018,Brazil,Liverpool,England
 884,2018,Brazil,Shakhtar Donetsk,Ukraine
+885,2014,Colombia,Nice,France
 885,2018,Colombia,Arsenal,England
+886,2014,Colombia,Santa Fe,Colombia
 886,2018,Colombia,Deportivo Cali,Colombia
 887,2018,Colombia,Once Caldas,Colombia
+888,2014,Colombia,AC Milan,Italy
 888,2018,Colombia,AC Milan,Italy
 889,2018,Colombia,Pachuca,Mexico
+890,2014,Colombia,PSV,Netherlands
 890,2018,Colombia,PSV,Netherlands
 891,2018,Colombia,Barcelona,Spain
 892,2018,Colombia,Girona,Spain
 893,2018,Colombia,Olimpia,Paraguay
 894,2018,Colombia,Tottenham,England
 895,2018,Colombia,Boca Juniors,Argentina
+896,2014,Colombia,Elche,Spain
 896,2018,Colombia,Espanyol,Spain
+897,2014,Colombia,Toulouse,France
 897,2018,Colombia,Deportivo Cali,Colombia
+898,2014,Colombia,Monaco,France
 898,2018,Colombia,Bayern Munich,Germany
+899,2014,Colombia,Fiorentina,Italy
 899,2018,Colombia,Juventus,Italy
 900,2018,Colombia,América,Mexico
 901,2018,Colombia,Levante,Spain
+902,2014,Colombia,Porto,Portugal
 902,2018,Colombia,River Plate,Argentina
+903,2014,Colombia,Sevilla,Spain
 903,2018,Colombia,Villarreal,Spain
 904,2018,Colombia,Monaco,France
 905,2018,Colombia,Sevilla,Spain
 906,2018,Colombia,Palmeiras,Brazil
 907,2018,Colombia,Brighton,England
+908,2014,Costa Rica,Alajuelense,Costa Rica
 908,2018,Costa Rica,Alajuelense,Costa Rica
 909,2018,Costa Rica,Herediano,Costa Rica
+910,2014,Costa Rica,Alajuelense,Costa Rica
 910,2018,Costa Rica,Aguilas Doradas,Colombia
+911,2014,Costa Rica,Columbus Crew,USA
 911,2018,Costa Rica,Bologna,Italy
 912,2018,Costa Rica,Norrkoping,Sweden
+913,2014,Costa Rica,Rosenborg,Norway
 913,2018,Costa Rica,Celtic,Scotland
 914,2018,Costa Rica,Alajuelense,Costa Rica
+915,2014,Costa Rica,Copenhagen,Dinamarca
 915,2018,Costa Rica,Saprissa,Costa Rica
 916,2018,Costa Rica,Saprissa,Costa Rica
 917,2018,Costa Rica,New York City FC,USA
 918,2018,Costa Rica,Herediano,Costa Rica
 919,2018,Costa Rica,Portland Timbers,USA
+920,2014,Costa Rica,Kuban Krasnodar,Russia
 920,2018,Costa Rica,Los Angeles FC,USA
 921,2018,Croatia,Gent,Belgium
+922,2014,Croatia,Monaco,France
 922,2018,Croatia,Monaco,France
+923,2014,Croatia,Genoa,Italy
 923,2018,Croatia,Atletico Madrid,Spain
 924,2018,Croatia,Sampdoria,Italy
+925,2014,Croatia,Lokomotiv Moscow,Russia
 925,2018,Croatia,Lokomotiv Moscow,Russia
 926,2018,Croatia,Bayer Leverkusen,Germany
 927,2018,Croatia,Red Bull Salzburg,Austria
 928,2018,Croatia,Dynamo Kyiv,Ukraine
+929,2014,Croatia,Sevilla,Spain
 929,2018,Croatia,Barcelona,Spain
 930,2018,Croatia,Rijeka,Croatia
+931,2014,Croatia,Hamburger SV,Germany
 931,2018,Croatia,Fiorentina,Italy
 932,2018,Croatia,AC Milan,Italy
+933,2014,Croatia,Bayern Munich,Germany
 933,2018,Croatia,Juventus,Italy
+934,2014,Croatia,Fiorentina,Italy
 934,2018,Croatia,Eintracht Frankfurt,Germany
 935,2018,Croatia,Schalke 04,Germany
 936,2018,Denmark,Huddersfield Town,England
 937,2018,Denmark,Borussia Monchengladbach,Germany
+938,2014,Algeria,CS Constantine,Algeria
 939,2018,Denmark,Ipswich Town,England
 940,2018,Denmark,Huddersfield Town,England
 941,2018,Denmark,Brentford,England
@@ -1199,7 +1329,9 @@ player_id,world_cup_year,team,club,country_club
 973,2018,England,Stoke City,England
 974,2018,England,Burnley,England
 974,2018,England,Tottenham,England
+975,2014,England,Chelsea,England
 975,2018,England,Chelsea,England
+976,2014,England,Manchester United,England
 976,2018,England,Manchester United,England
 977,2018,England,Manchester City,England
 978,2018,England,Manchester United,England
@@ -1208,14 +1340,17 @@ player_id,world_cup_year,team,club,country_club
 981,2018,England,Crystal Palace,England
 981,2018,England,Leicester City,England
 982,2018,England,Arsenal,England
+983,2014,England,Manchester United,England
 984,2018,France,PSG,France
 985,2018,France,Barcelona,Spain
 986,2018,France,Marseille,France
 987,2018,France,Monaco,France
 988,2018,France,Manchester City,England
+989,2014,France,Juventus,Italy
 989,2018,France,Manchester United,England
 990,2018,France,Bayern Munich,Germany
 991,2018,France,Chelsea,England
+992,2014,France,PSG,France
 992,2018,France,Juventus,Italy
 993,2018,France,Sevilla,Spain
 994,2018,France,Monaco,France
@@ -1223,11 +1358,17 @@ player_id,world_cup_year,team,club,country_club
 996,2018,France,Marseille,France
 997,2018,Germany,Hertha BSC,Germany
 998,2018,Germany,1. FC Koln,Germany
+999,2014,Germany,Borussia Dortmund,Germany
 999,2018,Germany,Bayern Munich,Germany
+1000,2014,Germany,Bayern Munich,Germany
 1000,2018,Germany,Bayern Munich,Germany
+1001,2014,Germany,Real Madrid,Spain
 1001,2018,Germany,Juventus,Italy
+1002,2014,Germany,Schalke 04,Germany
 1002,2018,Germany,PSG,France
+1003,2014,Germany,Bayern Munich,Germany
 1003,2018,Germany,Real Madrid,Spain
+1004,2014,Germany,Arsenal,England
 1004,2018,Germany,Arsenal,England
 1005,2018,Germany,Bayern Munich,Germany
 1006,2018,Germany,RB Leipzig,Germany
@@ -1259,10 +1400,14 @@ player_id,world_cup_year,team,club,country_club
 1032,2018,Iran,Zob Ahan,Iran
 1033,2018,Iran,Marítimo,Portugal
 1034,2018,Iran,Padideh,Iran
+1035,2014,Iran,Umm Salal,Qatar
 1035,2018,Iran,Esteghlal,Iran
+1036,2014,Iran,Las Palmas,Spain
 1036,2018,Iran,AEK Athens,Greece
 1037,2018,Iran,Esteghlal,Iran
+1038,2014,Iran,Fulham,England
 1038,2018,Iran,Nottingham Forest,England
+1039,2014,Iran,Charlton Athletic,England
 1039,2018,Iran,Heerenveen,Netherlands
 1040,2018,Japan,Gamba Osaka,Japan
 1041,2018,Japan,Kashiwa Reysol,Japan
@@ -1270,46 +1415,66 @@ player_id,world_cup_year,team,club,country_club
 1043,2018,Japan,Kashima Antlers,Japan
 1044,2018,Japan,Urawa Red Diamonds,Japan
 1045,2018,Japan,Urawa Red Diamonds,Japan
+1046,2014,Japan,VfB Stuttgart,Germany
 1046,2018,Japan,Hamburger SV,Germany
+1047,2014,Japan,AC Milan,Italy
 1047,2018,Japan,Pachuca,Mexico
 1048,2018,Japan,Fortuna Dusseldorf,Germany
+1049,2014,Japan,Manchester United,England
 1049,2018,Japan,Borussia Dortmund,Germany
 1050,2018,Japan,Fortuna Dusseldorf,Germany
 1051,2018,Japan,Eibar,Spain
+1052,2014,Japan,Cerezo Osaka,Japan
 1052,2018,Japan,Cerezo Osaka,Japan
+1053,2014,Japan,1. FC Nürnberg,Germany
 1053,2018,Japan,Eintracht Frankfurt,Germany
 1054,2018,Japan,Kawasaki Frontale,Japan
+1055,2014,Japan,Mainz 05,Germany
 1055,2018,Japan,Leicester City,England
 1056,2018,Japan,Mainz 05,Germany
+1057,2014,Japan,1860 Munich,Germany
 1057,2018,Japan,1. FC Koln,Germany
 1058,2018,South Korea,Cerezo Osaka,Japan
 1059,2018,South Korea,Daegu FC,South Korea
+1060,2014,South Korea,Ulsan Hyundai,South Korea
 1060,2018,South Korea,Jeonbuk Hyundai Motors,South Korea
 1061,2018,South Korea,Sagan Tosu,Japan
 1062,2018,South Korea,Jeju United,South Korea
 1063,2018,South Korea,Seongnam FC,South Korea
+1064,2014,South Korea,Mainz 05,Germany
 1064,2018,South Korea,Ulsan Hyundai,South Korea
 1065,2018,South Korea,Sangju Sangmu,South Korea
 1066,2018,South Korea,FC Tokyo,Japan
 1067,2018,South Korea,FC Seoul,South Korea
 1068,2018,South Korea,Asan Mugunghwa,South Korea
 1069,2018,South Korea,Hellas Verona,Italy
+1070,2014,South Korea,Mainz 05,Germany
 1070,2018,South Korea,Augsburg,Germany
+1071,2014,South Korea,Sunderland,England
 1071,2018,South Korea,Swansea City,Wales
 1072,2018,South Korea,Incheon United,South Korea
+1073,2014,South Korea,Ulsan Hyundai,South Korea
 1073,2018,South Korea,Jeonbuk Hyundai Motors,South Korea
+1074,2014,Mexico,Cruz Azul,Mexico
 1074,2018,Mexico,Cruz Azul,Mexico
 1075,2018,Mexico,UANL,Mexico
 1076,2018,Mexico,Eintracht Frankfurt,Germany
+1077,2014,Mexico,Leon,Mexico
 1077,2018,Mexico,Atlas,Mexico
 1078,2018,Mexico,LA Galaxy,USA
+1079,2014,Mexico,America,Mexico
 1079,2018,Mexico,Sevilla,Spain
+1080,2014,Mexico,Villarreal,Spain
 1080,2018,Mexico,LA Galaxy,USA
 1081,2018,Mexico,Porto,Portugal
+1082,2014,Mexico,Villarreal,Spain
 1082,2018,Mexico,UANL,Mexico
+1083,2014,Mexico,Cruz Azul,Mexico
 1083,2018,Mexico,Eintracht Frankfurt,Germany
 1084,2018,Mexico,Los Angeles FC,USA
-1085,2018,Mexico,West Ham United,England
+1085,2014,Mexico,Manchester United,England
+1085,2018,Mexico,West Ham,England
+1086,2014,Mexico,Santos Laguna,Mexico
 1086,2018,Mexico,América,Mexico
 1087,2018,Morocco,Lille,France
 1088,2018,Morocco,Istanbul Basaksehir,Turkey
@@ -1337,15 +1502,19 @@ player_id,world_cup_year,team,club,country_club
 1110,2018,Nigeria,Bursaspor,Turkey
 1111,2018,Nigeria,Nantes,France
 1112,2018,Nigeria,ADO Den Haag,Netherlands
+1113,2014,Nigeria,Middlesbrough,England
 1113,2018,Nigeria,Kasimpasa,Turkey
 1114,2018,Nigeria,Leicester City,England
 1115,2018,Nigeria,Las Palmas,Spain
 1116,2018,Nigeria,Tianjin TEDA,China
 1117,2018,Nigeria,Torino,Italy
+1118,2014,Nigeria,Lazio,Italy
 1118,2018,Nigeria,Trabzonspor,Turkey
 1119,2018,Nigeria,Hapoel Be'er Sheva,Israel
+1120,2014,Nigeria,CSKA Moscow,Russia
 1120,2018,Nigeria,CSKA Moscow,Russia
 1121,2018,Nigeria,Changchun Yatai,China
+1122,2014,Nigeria,Liverpool,England
 1122,2018,Nigeria,Chelsea,England
 1123,2018,Nigeria,Crotone,Italy
 1124,2018,Nigeria,Leicester City,England
@@ -1410,13 +1579,16 @@ player_id,world_cup_year,team,club,country_club
 1183,2018,Poland,Anderlecht,Belgium
 1184,2018,Poland,Sampdoria,Italy
 1185,2018,Portugal,Lyon,France
+1186,2014,Portugal,Sevilla,Spain
 1186,2018,Portugal,Goztepe,Turkey
+1187,2014,Portugal,Fenerbahce,Turkey
 1187,2018,Portugal,Rangers,Scotland
 1188,2018,Portugal,Dalian Yifang,China
 1189,2018,Portugal,Porto,Portugal
 1190,2018,Portugal,Napoli,Italy
 1191,2018,Portugal,Southampton,England
 1192,2018,Portugal,Lokomotiv Moscow,Russia
+1193,2014,Portugal,Monaco,France
 1193,2018,Portugal,Monaco,France
 1194,2018,Portugal,Leicester City,England
 1195,2018,Portugal,Valencia,Spain
@@ -1427,20 +1599,26 @@ player_id,world_cup_year,team,club,country_club
 1200,2018,Russia,Club Brugge,Belgium
 1201,2018,Russia,CSKA Moscow,Russia
 1202,2018,Russia,Spartak Moscow,Russia
+1203,2014,Russia,CSKA Moscow,Russia
 1203,2018,Russia,CSKA Moscow,Russia
+1204,2014,Russia,Terek Grozny,Russia
 1204,2018,Russia,Akhmat Grozny,Russia
 1205,2018,Russia,Rubin Kazan,Russia
+1206,2014,Russia,Dynamo Moscow,Russia
 1206,2018,Russia,Rubin Kazan,Russia
 1207,2018,Russia,Zenit Saint Petersburg,Russia
 1208,2018,Russia,Villarreal,Spain
 1209,2018,Russia,Zenit Saint Petersburg,Russia
 1210,2018,Russia,Krasnodar,Russia
+1211,2014,Russia,CSKA Moscow,Russia
 1211,2018,Russia,CSKA Moscow,Russia
 1212,2018,Russia,Spartak Moscow,Russia
 1213,2018,Russia,Lokomotiv Moscow,Russia
 1214,2018,Russia,Lokomotiv Moscow,Russia
 1215,2018,Russia,CSKA Moscow,Russia
+1216,2014,Russia,Dynamo Moscow,Russia
 1216,2018,Russia,Zenit Saint Petersburg,Russia
+1217,2014,Russia,Lokomotiv Moscow,Russia
 1217,2018,Russia,Spartak Moscow,Russia
 1218,2018,Russia,Zenit Saint Petersburg,Russia
 1219,2018,Russia,Krasnodar,Russia
@@ -1489,14 +1667,19 @@ player_id,world_cup_year,team,club,country_club
 1262,2018,Serbia,Torino,Italy
 1263,2018,Serbia,PAOK,Greece
 1264,2018,Serbia,Fulham,England
+1265,2014,Spain,Manchester United,England
 1265,2018,Spain,Manchester United,England
 1266,2018,Spain,Athletic Bilbao,Spain
+1267,2014,Spain,Napoli,Italy
 1267,2018,Spain,Napoli,Italy
+1268,2014,Spain,Barcelona,Spain
 1268,2018,Spain,Barcelona,Spain
 1269,2018,Spain,Real Madrid,Spain
 1270,2018,Spain,Real Sociedad,Spain
+1271,2014,Spain,Real Madrid,Spain
 1271,2018,Spain,Real Madrid,Spain
 1272,2018,Spain,Arsenal,England
+1273,2014,Spain,Barcelona,Spain
 1273,2018,Spain,Barcelona,Spain
 1274,2018,Spain,Atletico Madrid,Spain
 1275,2018,Spain,Bayern Munich,Germany
@@ -1504,7 +1687,9 @@ player_id,world_cup_year,team,club,country_club
 1277,2018,Spain,Valencia,Spain
 1278,2018,Spain,Real Madrid,Spain
 1279,2018,Spain,Celta de Vigo,Spain
+1280,2014,Spain,Atletico Madrid,Spain
 1280,2018,Spain,Atletico Madrid,Spain
+1281,2014,Spain,Manchester City,England
 1281,2018,Spain,Manchester City,England
 1282,2018,Sweden,Copenhagen,Denmark
 1283,2018,Sweden,Guingamp,France
@@ -1530,16 +1715,25 @@ player_id,world_cup_year,team,club,country_club
 1303,2018,Sweden,Toulouse,France
 1304,2018,Sweden,Waasland-Beveren,Belgium
 1305,2018,Switzerland,RB Leipzig,Germany
+1306,2014,Switzerland,Grasshopper,Switzerland
 1306,2018,Switzerland,Borussia Dortmund,Germany
+1307,2014,Switzerland,Juventus,Italy
 1307,2018,Switzerland,Juventus,Italy
 1308,2018,Switzerland,Toulouse,France
+1309,2014,Switzerland,Grasshopper,Switzerland
 1309,2018,Switzerland,Basel,Switzerland
+1310,2014,Switzerland,Hamburger SV,Germany
 1310,2018,Switzerland,Antalyaspor,Turkey
+1311,2014,Switzerland,Napoli,Italy
 1311,2018,Switzerland,Udinese,Italy
 1312,2018,Switzerland,1899 Hoffenheim,Germany
+1313,2014,Switzerland,Napoli,Italy
 1313,2018,Switzerland,Bologna,Italy
+1314,2014,Switzerland,SC Freiburg,Germany
 1314,2018,Switzerland,Eintracht Frankfurt,Germany
+1315,2014,Switzerland,Zurich,Switzerland
 1315,2018,Switzerland,Dinamo Zagreb,Croatia
+1316,2014,Switzerland,1. FC Nürnberg,Germany
 1316,2018,Switzerland,Borussia Monchengladbach,Germany
 1317,2018,Tunisia,Al Shabab,Saudi Arabia
 1318,2018,Tunisia,Al Batin,Saudi Arabia
@@ -1558,12 +1752,552 @@ player_id,world_cup_year,team,club,country_club
 1331,2018,Tunisia,Dijon,France
 1332,2018,Uruguay,Independiente,Argentina
 1333,2018,Uruguay,Vasco da Gama,Brazil
-1334,2018,Uruguay,Atletico Madrid,Spain
+1334,2014,Spain,Barcelona,Spain
 1335,2018,Uruguay,Independiente,Argentina
+1336,2014,Uruguay,Benfica,Portugal
 1336,2018,Uruguay,Porto,Portugal
 1337,2018,Uruguay,Monterrey,Mexico
+1338,2014,Uruguay,Atletico Madrid,Spain
 1338,2018,Uruguay,Peñarol,Uruguay
 1339,2018,Uruguay,Boca Juniors,Argentina
 1340,2018,Uruguay,Genoa,Italy
+1341,2014,Uruguay,Espanyol,Spain
 1341,2018,Uruguay,Girona,Spain
 1342,2018,Uruguay,Monterrey,Mexico
+1343,2014,Algeria, USM Alger,Algeria
+1344,2014,Algeria, CSKA Sofia,Bulgaria
+1345,2014,Algeria, Lekhwiya,Qatar
+1346,2014,Algeria, Napoli,Italy
+1347,2014,Algeria, Watford,England
+1348,2014,Algeria, Academica de Coimbra,Portugal
+1349,2014,Algeria, Livorno,Italy
+1350,2014,Algeria, Valenciennes,France
+1351,2014,Algeria, Mallorca,Spain
+1352,2014,Algeria, Reims,France
+1353,2014,Algeria, Udinese,Italy
+1354,2014,Algeria, Getafe,Spain
+1355,2014,Algeria, Valencia,Spain
+1356,2014,Algeria,Granada,Spain
+1357,2014,Algeria, Tottenham,England
+1358,2014,Algeria, Club Africain,Tunisia
+1359,2014,Algeria, Internazionale,Italy
+1360,2014,Algeria, Leicester City,England
+1361,2014,Algeria, Ajaccio,France
+1362,2014,Algeria, Porto,Portugal
+1363,2014,Algeria, Sporting CP,Portugal
+1364,2014,Algeria, Dinamo Zagreb,Croatia
+1365,2014,Argentina, Monaco,France
+1366,2014,Argentina, Boca Juniors,Argentina
+1367,2014,Argentina, Catania,Italy
+1368,2014,Argentina, Benfica,Portugal
+1369,2014,Argentina, Internazionale,Italy
+1370,2014,Argentina, Manchester City,England
+1371,2014,Argentina, Manchester City,England
+1372,2014,Argentina, Napoli,Italy
+1373,2014,Argentina, Monterrey,Mexico
+1374,2014,Argentina, Boca Juniors,Argentina
+1375,2014,Argentina, Newell's Old Boys,Argentina
+1376,2014,Argentina, Celta de Vigo,Spain
+1377,2014,Argentina, Internazionale,Italy
+1378,2014,Argentina, Internazionale,Italy
+1379,2014,Argentina, PSG,France
+1380,2014,Australia, Borussia Dortmund,Germany
+1381,2014,Australia, Adelaide United,Australia
+1382,2014,Australia, Brisbane Roar,Australia
+1383,2014,Australia, Heracles Almelo,Netherlands
+1384,2014,Australia, Western Sydney Wanderers,Australia
+1385,2014,Australia, Shandong Luneng Taishan,China
+1386,2014,Australia, Jeonbuk Hyundai Motors,South Korea
+1387,2014,Australia, Fortuna Düsseldorf,Germany
+1388,2014,Australia, Utrecht,Netherlands
+1389,2014,Australia, Luzern,Switzerland
+1390,2014,Australia, Melbourne Victory,Australia
+1391,2014,Australia, Austria Wien,Austria
+1392,2014,Australia, Brisbane Roar,Australia
+1393,2014,Australia, Sion,Switzerland
+1394,2014,Australia, Al-Gharafa,Qatar
+1395,2014,Australia, Newcastle Jets,Australia
+1396,2014,Belgium, Zulte Waregem,Belgium
+1397,2014,Belgium, Bayern Munich,Germany
+1398,2014,Belgium, Zenit Saint Petersburg,Russia
+1399,2014,Belgium, Anderlecht,Belgium
+1400,2014,Belgium, Standard Liege,Belgium
+1401,2014,Belgium, Everton,England
+1402,2014,Belgium, Porto,Portugal
+1403,2014,Belgium, Lille,France
+1404,2014,Bosnia and Herzegovina, Stoke City,England
+1405,2014,Bosnia and Herzegovina, VfR Aalen,Germany
+1406,2014,Bosnia and Herzegovina, Borac Banja Luka,Bosnia and Herzegovina
+1407,2014,Bosnia and Herzegovina, Hajduk Split,Croatia
+1408,2014,Bosnia and Herzegovina, Eintracht Braunschweig,Germany
+1409,2014,Bosnia and Herzegovina, Bayer Leverkusen,Germany
+1410,2014,Bosnia and Herzegovina, Schalke 04,Germany
+1411,2014,Bosnia and Herzegovina, Elazigspor,Turkey
+1412,2014,Bosnia and Herzegovina, Ferencvaros,Hungary
+1413,2014,Bosnia and Herzegovina, SC Freiburg,Germany
+1414,2014,Bosnia and Herzegovina, Zorya Luhansk,Ukraine
+1415,2014,Bosnia and Herzegovina, Roma,Italy
+1416,2014,Bosnia and Herzegovina, Guizhou Renhe,China
+1417,2014,Bosnia and Herzegovina, Hajduk Split,Croatia
+1418,2014,Bosnia and Herzegovina, Lazio,Italy
+1419,2014,Bosnia and Herzegovina, Kayseri Erciyesspor,Turkey
+1420,2014,Bosnia and Herzegovina, Gaziantepspor,Turkey
+1421,2014,Bosnia and Herzegovina, Galatasaray,Turkey
+1422,2014,Bosnia and Herzegovina, Sturm Graz,Austria
+1423,2014,Bosnia and Herzegovina, 1899 Hoffenheim,Germany
+1424,2014,Bosnia and Herzegovina, VfB Stuttgart,Germany
+1425,2014,Bosnia and Herzegovina, Manchester City,England
+1426,2014,Bosnia and Herzegovina, Istanbul Basaksehir,Turkey
+1427,2014,Brazil, Botafogo,Brazil
+1428,2014,Brazil, Toronto FC,Canada
+1429,2014,Brazil, Atletico Mineiro,Brazil
+1430,2014,Brazil, Chelsea,England
+1431,2014,Brazil, Real Madrid,Spain
+1432,2014,Brazil, Bayern Munich,Germany
+1433,2014,Brazil, PSG,France
+1434,2014,Brazil, Napoli,Italy
+1435,2014,Brazil, Roma,Italy
+1436,2014,Brazil, Chelsea,England
+1437,2014,Brazil, Chelsea,England
+1438,2014,Brazil, VfL Wolfsburg,Germany
+1439,2014,Brazil, Internazionale,Italy
+1440,2014,Brazil, Zenit Saint Petersburg,Russia
+1441,2014,Brazil, Shakhtar Donetsk,Ukraine
+1442,2014,Brazil, Atletico Mineiro,Brazil
+1443,2014,Cameroon, Coton Sport,Cameroon
+1444,2014,Cameroon, Konyaspor,Turkey
+1445,2014,Cameroon, Fethiyespor,Turkey
+1446,2014,Cameroon, Queens Park Rangers,England
+1447,2014,Cameroon, Marseille,France
+1448,2014,Cameroon, Coton Sport,Cameroon
+1449,2014,Cameroon, Besiktas,Turkey
+1450,2014,Cameroon, Lyon,France
+1451,2014,Cameroon, Galatasaray,Turkey
+1452,2014,Cameroon, Granada,Spain
+1453,2014,Cameroon, Barcelona,Spain
+1454,2014,Cameroon, Bordeaux,France
+1455,2014,Cameroon, Rennes,France
+1456,2014,Cameroon, Sevilla,Spain
+1457,2014,Cameroon, Antalyaspor,Turkey
+1458,2014,Cameroon, Lens,France
+1459,2014,Cameroon, Schalke 04,Germany
+1460,2014,Cameroon, Nancy,France
+1461,2014,Cameroon, Chelsea,England
+1462,2014,Cameroon, Fenerbahce,Turkey
+1463,2014,Cameroon, Zulte Waregem,Belgium
+1464,2014,Chile, Real Sociedad,Spain
+1465,2014,Chile, Universidad Catolica,Chile
+1466,2014,Chile, Universidad de Chile,Chile
+1467,2014,Chile, Santos,Brazil
+1468,2014,Chile, Malmo,Sweden
+1469,2014,Chile, Universidad de Chile,Chile
+1470,2014,Chile, Cardiff City,Wales
+1471,2014,Chile, Nottingham Forest,England
+1472,2014,Chile, Juventus,Italy
+1473,2014,Chile, Osasuna,Spain
+1474,2014,Chile, Atalanta,Italy
+1475,2014,Chile, Juventus,Italy
+1476,2014,Chile, Palmeiras,Brazil
+1477,2014,Chile, Celta de Vigo,Spain
+1478,2014,Chile, Wigan Athletic,England
+1479,2014,Chile, Twente,Netherlands
+1480,2014,Chile, Colo-Colo,Chile
+1481,2014,Chile, Internacional,Brazil
+1482,2014,Chile, Basel,Switzerland
+1483,2014,Chile, Barcelona,Spain
+1484,2014,Chile, Cagliari,Italy
+1485,2014,Chile, Valencia,Spain
+1486,2014,Chile, Colo-Colo,Chile
+1487,2014,Colombia, Deportivo Cali,Colombia
+1488,2014,Colombia, Atalanta,Italy
+1489,2014,Colombia, West Ham,England
+1490,2014,Colombia, River Plate,Argentina
+1491,2014,Colombia, Napoli,Italy
+1492,2014,Colombia, San Lorenzo,Argentina
+1493,2014,Colombia, River Plate,Argentina
+1494,2014,Colombia, Internazionale,Italy
+1495,2014,Colombia, Atletico Nacional,Colombia
+1496,2014,Colombia, River Plate,Argentina
+1497,2014,Colombia, Cagliari,Italy
+1498,2014,Colombia, Hertha BSC,Germany
+1499,2014,Colombia, Porto,Portugal
+1500,2014,Costa Rica, Herediano,Costa Rica
+1501,2014,Costa Rica, Saprissa,Costa Rica
+1502,2014,Costa Rica, Herediano,Costa Rica
+1503,2014,Costa Rica, Columbus Crew,USA
+1504,2014,Costa Rica, Mainz 05,Germany
+1505,2014,Costa Rica, New York Red Bulls,USA
+1506,2014,Costa Rica, Aalesund,Norway
+1507,2014,Costa Rica, Herediano,Costa Rica
+1508,2014,Costa Rica, Valerenga,Norway
+1509,2014,Costa Rica, Herediano,Costa Rica
+1510,2014,Costa Rica, Cartaginés,Costa Rica
+1511,2014,Croatia, Rostov,Russia
+1512,2014,Croatia, Lokomotiva,Croatia
+1513,2014,Croatia, Panathinaikos,Greece
+1514,2014,Croatia, Shakhtar Donetsk,Ukraine
+1515,2014,Croatia, Panathinaikos,Greece
+1516,2014,Croatia, Dynamo Kyiv,Ukraine
+1517,2014,Croatia, Getafe,Spain
+1518,2014,Croatia, Hull City,England
+1519,2014,Croatia, VfL Wolfsburg,Germany
+1520,2014,Croatia, Shakhtar Donetsk,Ukraine
+1521,2014,Ecuador, Barcelona SC,Ecuador
+1522,2014,Ecuador, El Nacional,Ecuador
+1523,2014,Ecuador, LDU Quito,Ecuador
+1524,2014,Ecuador, Emelec,Ecuador
+1525,2014,Ecuador, Flamengo,Brazil
+1526,2014,Ecuador, Barcelona SC,Ecuador
+1527,2014,Ecuador, Pachuca,Mexico
+1528,2014,Ecuador, Emelec,Ecuador
+1529,2014,Ecuador, Emelec,Ecuador
+1530,2014,Ecuador, Vitesse,Netherlands
+1531,2014,Ecuador, Dynamo Moscow,Russia
+1532,2014,Ecuador, Morelia,Mexico
+1533,2014,Ecuador, Santa Fe,Colombia
+1534,2014,Ecuador, Cruz Azul,Mexico
+1535,2014,Ecuador, Chivas USA,USA
+1536,2014,Ecuador, Atlante,Mexico
+1537,2014,Ecuador, Manchester United,England
+1538,2014,Ecuador, Barcelona SC,Ecuador
+1539,2014,Ecuador, Tijuana,Mexico
+1540,2014,Ecuador, Al Jazira,United Arab Emirates
+1541,2014,Ecuador, Tijuana,Mexico
+1542,2014,England, Manchester City,England
+1543,2014,England, West Bromwich Albion,England
+1544,2014,England, Celtic,Scotland
+1545,2014,England, Liverpool,England
+1546,2014,England, Everton,England
+1547,2014,England, Everton,England
+1548,2014,England, Manchester United,England
+1549,2014,England, Liverpool,England
+1550,2014,England, Arsenal,England
+1551,2014,England, Chelsea,England
+1552,2014,England, Arsenal,England
+1553,2014,England, Manchester City,England
+1554,2014,England, Southampton,England
+1555,2014,England, Everton,England
+1556,2014,England, Liverpool,England
+1557,2014,England, Manchester United,England
+1558,2014,England, Southampton,England
+1559,2014,France, Saint-Etienne,France
+1560,2014,France, Bastia,France
+1561,2014,France, Newcastle United,England
+1562,2014,France, Manchester United,England
+1563,2014,France, Liverpool,England
+1564,2014,France, Porto,Portugal
+1565,2014,France, Arsenal,England
+1566,2014,France, PSG,France
+1567,2014,France, Arsenal,England
+1568,2014,France, PSG,France
+1569,2014,France, Montpellier,France
+1570,2014,France, Marseille,France
+1571,2014,France, Lille,France
+1572,2014,France, Newcastle United,England
+1573,2014,France, Southampton,England
+1574,2014,France, Real Madrid,Spain
+1575,2014,France, Newcastle United,England
+1576,2014,Germany, Hannover 96,Germany
+1577,2014,Germany, Borussia Dortmund,Germany
+1578,2014,Germany, Borussia Dortmund,Germany
+1579,2014,Germany, Schalke 04,Germany
+1580,2014,Germany, Borussia Dortmund,Germany
+1581,2014,Germany, Bayern Munich,Germany
+1582,2014,Germany, Arsenal,England
+1583,2014,Germany, Sampdoria,Italy
+1584,2014,Germany, Bayern Munich,Germany
+1585,2014,Germany, Borussia Monchengladbach,Germany
+1586,2014,Germany, Chelsea,England
+1587,2014,Germany, Arsenal,England
+1588,2014,Germany, Lazio,Italy
+1589,2014,Ghana, Aduana Stars,Ghana
+1590,2014,Ghana, Stromsgodset,Norway
+1591,2014,Ghana, Orlando Pirates,South Africa
+1592,2014,Ghana, Platanias,Greece
+1593,2014,Ghana, Standard Liege,Belgium
+1594,2014,Ghana, Mamelodi Sundowns,South Africa
+1595,2014,Ghana, Evian,France
+1596,2014,Ghana, Rennes,France
+1597,2014,Ghana, Espérance de Tunis,Tunisia
+1598,2014,Ghana, AC Milan,Italy
+1599,2014,Ghana, Parma,Italy
+1600,2014,Ghana, Vitesse,Netherlands
+1601,2014,Ghana, Udinese,Italy
+1602,2014,Ghana, AC Milan,Italy
+1603,2014,Ghana, Middlesbrough,England
+1604,2014,Ghana, Kuban Krasnodar,Russia
+1605,2014,Ghana, Juventus,Italy
+1606,2014,Ghana, Rubin Kazan,Russia
+1607,2014,Ghana, Al Ain,United Arab Emirates
+1608,2014,Ghana, Schalke 04,Germany
+1609,2014,Ghana, Valenciennes,France
+1610,2014,Greece, Granada,Spain
+1611,2014,Greece, PAOK,Greece
+1612,2014,Greece, Panathinaikos,Greece
+1613,2014,Greece, PAOK,Greece
+1614,2014,Greece, Olympiacos,Greece
+1615,2014,Greece, Hellas Verona,Italy
+1616,2014,Greece, Levante,Spain
+1617,2014,Greece, Roma,Italy
+1618,2014,Greece, Borussia Dortmund,Germany
+1619,2014,Greece, Olympiacos,Greece
+1620,2014,Greece, Olympiacos,Greece
+1621,2014,Greece, Kayserispor,Turkey
+1622,2014,Greece, Bologna,Italy
+1623,2014,Greece, Fulham,England
+1624,2014,Greece, Bologna,Italy
+1625,2014,Greece, Genoa,Italy
+1626,2014,Greece, PAOK,Greece
+1627,2014,Greece, Olympiacos,Greece
+1628,2014,Greece, Torino,Italy
+1629,2014,Greece, Celtic,Scotland
+1630,2014,Greece, Fulham,England
+1631,2014,Greece, PAOK,Greece
+1632,2014,Greece, Konyaspor,Turkey
+1633,2014,Honduras, Real España,Honduras
+1634,2014,Honduras, CD Olimpia,Honduras
+1635,2014,Honduras, CD Olimpia,Honduras
+1636,2014,Honduras, Qingdao Jonoon,China
+1637,2014,Honduras, Hull City,England
+1638,2014,Honduras, Motagua,Honduras
+1639,2014,Honduras, San Jose Earthquakes,USA
+1640,2014,Honduras, Wigan Athletic,England
+1641,2014,Honduras, Celtic,Scotland
+1642,2014,Honduras, CD Olimpia,Honduras
+1643,2014,Honduras, Stoke City,England
+1644,2014,Honduras, Real España,Honduras
+1645,2014,Honduras, Real España,Honduras
+1646,2014,Honduras, Houston Dynamo,USA
+1647,2014,Honduras, Wigan Athletic,England
+1648,2014,Honduras, Anderlecht,Belgium
+1649,2014,Honduras, CD Olimpia,Honduras
+1650,2014,Honduras, Motagua,Honduras
+1651,2014,Honduras, Chivas USA,USA
+1652,2014,Honduras, Alajuelense,Costa Rica
+1653,2014,Honduras, New England Revolution,USA
+1654,2014,Honduras, Real España,Honduras
+1655,2014,Honduras, CD Real Sociedad,Honduras
+1656,2014,Iran, Sepahan,Iran
+1657,2014,Iran, Sporting Covilha,Portugal
+1658,2014,Iran, Eintracht Braunschweig,Germany
+1659,2014,Iran, Esteghlal,Iran
+1660,2014,Iran, Persepolis,Iran
+1661,2014,Iran, Esteghlal,Iran
+1662,2014,Iran, Persepolis,Iran
+1663,2014,Iran, Persepolis,Iran
+1664,2014,Iran, Naft Tehran,Iran
+1665,2014,Iran, Esteghlal,Iran
+1666,2014,Iran, Vancouver Whitecaps FC,Canada
+1667,2014,Iran, Persepolis,Iran
+1668,2014,Iran, Al-Kuwait,Kuwait
+1669,2014,Iran, Zob Ahan,Iran
+1670,2014,Iran, Esteghlal,Iran
+1671,2014,Iran, Foolad,Iran
+1672,2014,Italy, Juventus,Italy
+1673,2014,Italy, PSG,France
+1674,2014,Italy, Genoa,Italy
+1675,2014,Italy, AC Milan,Italy
+1676,2014,Italy, Juventus,Italy
+1677,2014,Italy, Torino,Italy
+1678,2014,Italy, AC Milan,Italy
+1679,2014,Italy, Juventus,Italy
+1680,2014,Italy, Juventus,Italy
+1681,2014,Italy, Parma,Italy
+1682,2014,Italy, PSG,France
+1683,2014,Italy, Lazio,Italy
+1684,2014,Italy, Juventus,Italy
+1685,2014,Italy, Fiorentina,Italy
+1686,2014,Italy, Roma,Italy
+1687,2014,Italy, Parma,Italy
+1688,2014,Italy, Juventus,Italy
+1689,2014,Italy, PSG,France
+1690,2014,Italy, AC Milan,Italy
+1691,2014,Italy, Parma,Italy
+1692,2014,Italy, Torino,Italy
+1693,2014,Italy, Torino,Italy
+1694,2014,Italy, Napoli,Italy
+1695,2014,Ivory Coast, Lokeren,Belgium
+1696,2014,Ivory Coast, Sewe Sport,Ivory Coast
+1697,2014,Ivory Coast, Stabaek,Norway
+1698,2014,Ivory Coast, Caykur Rizespor,Turkey
+1699,2014,Ivory Coast, VfB Stuttgart,Germany
+1700,2014,Ivory Coast, Liverpool,England
+1701,2014,Ivory Coast, Trabzonspor,Turkey
+1702,2014,Ivory Coast, Toulouse,France
+1703,2014,Ivory Coast, Toulouse,France
+1704,2014,Ivory Coast, Eintracht Frankfurt,Germany
+1705,2014,Ivory Coast, Trabzonspor,Turkey
+1706,2014,Ivory Coast, Newcastle United,England
+1707,2014,Ivory Coast, Saint-Etienne,France
+1708,2014,Ivory Coast, Manchester City,England
+1709,2014,Ivory Coast, Basel,Switzerland
+1710,2014,Ivory Coast, Fortuna Düsseldorf,Germany
+1711,2014,Ivory Coast, Lille,France
+1712,2014,Ivory Coast, Roma,Italy
+1713,2014,Ivory Coast, Galatasaray,Turkey
+1714,2014,Ivory Coast, Swansea City,Wales
+1715,2014,Ivory Coast, Hannover 96,Germany
+1716,2014,Ivory Coast, Saint-Etienne,France
+1717,2014,Ivory Coast, Basel,Switzerland
+1718,2014,Japan, Urawa Red Diamonds,Japan
+1719,2014,Japan, Schalke 04,Germany
+1720,2014,Japan, FC Tokyo,Japan
+1721,2014,Japan, Gamba Osaka,Japan
+1722,2014,Japan, Jubilo Iwata,Japan
+1723,2014,Japan, Gamba Osaka,Japan
+1724,2014,Japan, 1. FC Nürnberg,Germany
+1725,2014,Japan, Sanfrecce Hiroshima,Japan
+1726,2014,Japan, Cerezo Osaka,Japan
+1727,2014,Japan, Kawasaki Frontale,Japan
+1728,2014,Japan, Yokohama F. Marinos,Japan
+1729,2014,Mexico,America,Mexico
+1730,2014,Mexico, UANL,Mexico
+1731,2014,Mexico, Porto,Portugal
+1732,2014,Mexico, Toluca,Mexico
+1733,2014,Mexico, América,Mexico
+1734,2014,Mexico, Toluca,Mexico
+1735,2014,Mexico, León,Mexico
+1736,2014,Mexico, León,Mexico
+1737,2014,Mexico, UANL,Mexico
+1738,2014,Netherlands, Ajax,Netherlands
+1739,2014,Netherlands, Swansea City,Wales
+1740,2014,Netherlands, Newcastle United,England
+1741,2014,Netherlands, Aston Villa,England
+1742,2014,Netherlands, Feyenoord,Netherlands
+1743,2014,Netherlands, Feyenoord,Netherlands
+1744,2014,Netherlands, FC Augsburg,Germany
+1745,2014,Netherlands, Ajax,Netherlands
+1746,2014,Netherlands, Feyenoord,Netherlands
+1747,2014,Netherlands, Fenerbahce,Turkey
+1748,2014,Netherlands, AC Milan,Italy
+1749,2014,Netherlands, Swansea City,Wales
+1750,2014,Netherlands, Galatasaray,Turkey
+1751,2014,Netherlands, Feyenoord,Netherlands
+1752,2014,Netherlands, Norwich City,England
+1753,2014,Netherlands, PSV,Netherlands
+1754,2014,Netherlands, Manchester United,England
+1755,2014,Netherlands, Bayern Munich,Germany
+1756,2014,Netherlands, Dynamo Kyiv,Ukraine
+1757,2014,Netherlands, Schalke 04,Germany
+1758,2014,Nigeria, Lille,France
+1759,2014,Nigeria, Hapoel Be'er Sheva,Israel
+1760,2014,Nigeria, Gombe United,Nigeria
+1761,2014,Nigeria, Norwich City,England
+1762,2014,Nigeria, Celtic,Scotland
+1763,2014,Nigeria, Warri Wolves,Nigeria
+1764,2014,Nigeria, Sunshine Stars,Nigeria
+1765,2014,Nigeria, Ashdod,Israel
+1766,2014,Nigeria, Caykur Rizespor,Turkey
+1767,2014,Nigeria, Enugu Rangers,Nigeria
+1768,2014,Nigeria, Waasland-Beveren,Belgium
+1769,2014,Nigeria, Chelsea,England
+1770,2014,Nigeria, Almería,Spain
+1771,2014,Nigeria, Volyn Lutsk,Ukraine
+1772,2014,Nigeria, Stoke City,England
+1773,2014,Nigeria, Fenerbahce,Turkey
+1774,2014,Nigeria, Heerenveen,Netherlands
+1775,2014,Nigeria, Cercle Brugge,Belgium
+1776,2014,Nigeria, Newcastle United,England
+1777,2014,Portugal, SC Braga,Portugal
+1778,2014,Portugal, Sporting CP,Portugal
+1779,2014,Portugal, Real Madrid,Spain
+1780,2014,Portugal, Valencia,Spain
+1781,2014,Portugal, Zenit Saint Petersburg,Russia
+1782,2014,Portugal, Benfica,Portugal
+1783,2014,Portugal, Valencia,Spain
+1784,2014,Portugal, Dynamo Kyiv,Ukraine
+1785,2014,Portugal, VfL Wolfsburg,Germany
+1786,2014,Portugal, SC Braga,Portugal
+1787,2014,Portugal, Fenerbahce,Turkey
+1788,2014,Portugal, Manchester United,England
+1789,2014,Portugal, Porto,Portugal
+1790,2014,Portugal, Benfica,Portugal
+1791,2014,Portugal, Besiktas,Turkey
+1792,2014,Portugal, SC Braga,Portugal
+1793,2014,Portugal, Lazio,Italy
+1794,2014,Russia, CSKA Moscow,Russia
+1795,2014,Russia, Zenit Saint Petersburg,Russia
+1796,2014,Russia, Rubin Kazan,Russia
+1797,2014,Russia, Dynamo Moscow,Russia
+1798,2014,Russia, CSKA Moscow,Russia
+1799,2014,Russia, CSKA Moscow,Russia
+1800,2014,Russia, Anzhi Makhachkala,Russia
+1801,2014,Russia, Spartak Moscow,Russia
+1802,2014,Russia, Dynamo Moscow,Russia
+1803,2014,Russia, Spartak Moscow,Russia
+1804,2014,Russia, Rubin Kazan,Russia
+1805,2014,Russia, Zenit Saint Petersburg,Russia
+1806,2014,Russia, Zenit Saint Petersburg,Russia
+1807,2014,Russia, Amkar Perm,Russia
+1808,2014,Russia, Dynamo Moscow,Russia
+1809,2014,Russia, Zenit Saint Petersburg,Russia
+1810,2014,Russia, Dynamo Moscow,Russia
+1811,2014,South Korea, Suwon Samsung Bluewings,South Korea
+1812,2014,South Korea, Busan IPark,South Korea
+1813,2014,South Korea, Kashiwa Reysol,Japan
+1814,2014,South Korea, Queens Park Rangers,England
+1815,2014,South Korea, Al Hilal,Saudi Arabia
+1816,2014,South Korea, Sanfrecce Hiroshima,Japan
+1817,2014,South Korea, FC Augsburg,Germany
+1818,2014,South Korea, Cardiff City,Wales
+1819,2014,South Korea, Beijing Guoan,China
+1820,2014,South Korea, Kashiwa Reysol,Japan
+1821,2014,South Korea, Guangzhou R&F,China
+1822,2014,South Korea, Bolton Wanderers,England
+1823,2014,South Korea, Watford,England
+1824,2014,South Korea, Sangju Sangmu,South Korea
+1825,2014,South Korea, FC Augsburg,Germany
+1826,2014,Spain, Real Madrid,Spain
+1827,2014,Spain, Napoli,Italy
+1828,2014,Spain, Atletico Madrid,Spain
+1829,2014,Spain,Bayern Munich,Germany
+1830,2014,Spain,Barcelona,Spain
+1831,2014,Spain,Barcelona,Spain
+1832,2014,Spain,Manchester United,England
+1833,2014,Spain,Real Madrid,Spain
+1834,2014,Spain,Arsenal,England
+1835,2014,Spain,Atletico Madrid,Spain
+1836,2014,Spain,Chelsea,England
+1837,2014,Switzerland, VfL Wolfsburg,Germany
+1838,2014,Switzerland, Sassuolo,Italy
+1839,2014,Switzerland, Valencia,Spain
+1840,2014,Switzerland, Young Boys,Switzerland
+1841,2014,Switzerland, Eintracht Frankfurt,Germany
+1842,2014,Switzerland, Napoli,Italy
+1843,2014,Switzerland, Basel,Switzerland
+1844,2014,Switzerland, SC Freiburg,Germany
+1845,2014,USA, Everton,England
+1846,2014,USA, Aston Villa,England
+1847,2014,USA, Real Salt Lake,USA
+1848,2014,USA, LA Galaxy,USA
+1849,2014,USA, Sporting Kansas City,USA
+1850,2014,USA, Hertha BSC,Germany
+1851,2014,USA, Puebla,Mexico
+1852,2014,USA, Stoke City,England
+1853,2014,USA, 1. FC Nürnberg,Germany
+1854,2014,USA, 1899 Hoffenheim,Germany
+1855,2014,USA, Toronto FC,Canada
+1856,2014,USA, Rosenborg,Norway
+1857,2014,USA, Nantes,France
+1858,2014,USA, Besiktas,Turkey
+1859,2014,USA, Houston Dynamo,USA
+1860,2014,USA, Real Salt Lake,USA
+1861,2014,USA, Bayern Munich,Germany
+1862,2014,USA, Sporting Kansas City,USA
+1863,2014,USA, Seattle Sounders FC,USA
+1864,2014,USA, AZ,Netherlands
+1865,2014,USA, Sunderland,England
+1866,2014,USA, San Jose Earthquakes,USA
+1867,2014,Uruguay, Libertad,Paraguay
+1868,2014,Uruguay, Vasco da Gama,Brazil
+1869,2014,Uruguay, West Bromwich Albion,England
+1870,2014,Uruguay, Porto,Portugal
+1871,2014,Uruguay, São Paulo,Brazil
+1872,2014,Uruguay, Parma,Italy
+1873,2014,Uruguay, Botafogo,Brazil
+1874,2014,Uruguay, Bologna,Italy
+1875,2014,Uruguay, Morelia,Mexico
+1876,2014,Uruguay, Southampton,England
+1877,2014,Uruguay, Lazio,Italy
+1878,2014,Uruguay, Palermo,Italy
+1879,2014,Uruguay, Cerezo Osaka,Japan
