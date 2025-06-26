@@ -1,25 +1,65 @@
-match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance
-1,2022-11-20,Qatar,Ecuador,0,2,Group Stage,Al Bayt Stadium,Al Khor,A,67372
-2,2022-11-21,England,Iran,6,2,Group Stage,Khalifa International Stadium,Doha,B,45334
-3,2022-11-21,Senegal,Netherlands,0,2,Group Stage,Al Thumama Stadium,Doha,A,41721
-4,2022-11-22,Argentina,Saudi Arabia,1,2,Group Stage,Lusail Stadium,Lusail,C,88012
-5,2022-11-22,Denmark,Tunisia,0,0,Group Stage,Education City Stadium,Al Rayyan,D,43418
-6,2022-11-22,Mexico,Poland,0,0,Group Stage,Stadium 974,Doha,C,39369
-7,2022-11-22,France,Australia,4,1,Group Stage,Al Janoub Stadium,Al Wakrah,D,35441
-8,2022-11-23,Morocco,Croatia,0,0,Group Stage,Al Bayt Stadium,Al Khor,F,67013
-9,2022-11-23,Germany,Japan,1,2,Group Stage,Khalifa International Stadium,Doha,E,42608
-10,2022-11-24,Spain,Costa Rica,7,0,Group Stage,Al Thumama Stadium,Doha,E,40013
-11,2022-11-24,Belgium,Canada,1,0,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,F,43984
-12,2022-11-25,Brazil,Serbia,2,0,Group Stage,Lusail Stadium,Lusail,G,88103
-13,2022-12-03,Argentina,Australia,2,1,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,R16,44623
-14,2022-12-04,France,Poland,3,1,Round of 16,Al Thumama Stadium,Doha,R16,44089
-15,2022-12-05,England,Senegal,3,0,Round of 16,Al Bayt Stadium,Al Khor,R16,65985
-16,2022-12-06,Netherlands,USA,3,1,Round of 16,Khalifa International Stadium,Doha,R16,44846
-17,2022-12-09,Argentina,Netherlands,2,2,Quarter-final,Lusail Stadium,Lusail,QF,88235
-18,2022-12-10,France,England,2,1,Quarter-final,Al Bayt Stadium,Al Khor,QF,68895
-19,2022-12-10,Morocco,Portugal,1,0,Quarter-final,Al Thumama Stadium,Doha,QF,44198
-20,2022-12-11,Croatia,Brazil,1,1,Quarter-final,Education City Stadium,Al Rayyan,QF,43893
-21,2022-12-13,Argentina,Croatia,3,0,Semi-final,Lusail Stadium,Lusail,SF,88966
-22,2022-12-14,France,Morocco,2,0,Semi-final,Al Bayt Stadium,Al Khor,SF,68294
-23,2022-12-17,Croatia,Morocco,2,1,Third Place,Khalifa International Stadium,Doha,3rd,44137
-24,2022-12-18,Argentina,France,3,3,Final,Lusail Stadium,Lusail,Final,88966
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,2006-06-09,Germany,Costa Rica,4,2,Group Stage,Allianz Arena,Munich,A,66000,
+2,2006-06-09,Poland,Ecuador,0,2,Group Stage,FIFA WM-Stadion Hamburg,Hamburg,A,50000,
+3,2006-06-10,England,Paraguay,1,0,Group Stage,Commerzbank-Arena,Frankfurt,B,48000,
+4,2006-06-10,Trinidad and Tobago,Sweden,0,0,Group Stage,Signal Iduna Park,Dortmund,B,65000,
+5,2006-06-10,Argentina,Ivory Coast,2,1,Group Stage,FIFA WM-Stadion Hamburg,Hamburg,C,50000,
+6,2006-06-11,Serbia and Montenegro,Netherlands,0,1,Group Stage,Zentralstadion,Leipzig,C,43000,
+7,2006-06-11,Mexico,Iran,3,1,Group Stage,Frankenstadion,Nuremberg,D,41000,
+8,2006-06-11,Angola,Portugal,0,1,Group Stage,RheinEnergieStadion,Cologne,D,40000,
+9,2006-06-12,Italy,Ghana,2,0,Group Stage,AWD-Arena,Hannover,E,43000,
+10,2006-06-12,United States,Czech Republic,0,3,Group Stage,Veltins-Arena,Gelsenkirchen,E,52000,
+11,2006-06-12,Australia,Japan,3,1,Group Stage,Fritz-Walter-Stadion,Kaiserslautern,F,46000,
+12,2006-06-13,Brazil,Croatia,1,0,Group Stage,Olympiastadion,Berlin,F,72000,
+13,2006-06-13,France,Switzerland,0,0,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart,G,52000,
+14,2006-06-13,South Korea,Togo,2,1,Group Stage,Commerzbank-Arena,Frankfurt,G,48000,
+15,2006-06-14,Spain,Ukraine,4,0,Group Stage,Zentralstadion,Leipzig,H,43000,
+16,2006-06-14,Tunisia,Saudi Arabia,2,2,Group Stage,Allianz Arena,Munich,H,66000,
+17,2006-06-14,Germany,Poland,1,0,Group Stage,Signal Iduna Park,Dortmund,A,65000,
+18,2006-06-15,Ecuador,Costa Rica,3,0,Group Stage,FIFA WM-Stadion Hamburg,Hamburg,A,50000,
+19,2006-06-15,England,Trinidad and Tobago,2,0,Group Stage,Fritz-Walter-Stadion,Kaiserslautern,B,46000,
+20,2006-06-15,Sweden,Paraguay,1,0,Group Stage,Olympiastadion,Berlin,B,72000,
+21,2006-06-16,Argentina,Serbia and Montenegro,6,0,Group Stage,Veltins-Arena,Gelsenkirchen,C,52000,
+22,2006-06-16,Netherlands,Ivory Coast,2,1,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart,C,52000,
+23,2006-06-16,Mexico,Angola,0,0,Group Stage,AWD-Arena,Hannover,D,43000,
+24,2006-06-17,Portugal,Iran,2,0,Group Stage,Commerzbank-Arena,Frankfurt,D,48000,
+25,2006-06-17,Italy,United States,1,1,Group Stage,Fritz-Walter-Stadion,Kaiserslautern,E,46000,
+26,2006-06-17,Czech Republic,Ghana,0,2,Group Stage,RheinEnergieStadion,Cologne,E,40000,
+27,2006-06-18,Brazil,Australia,2,0,Group Stage,Allianz Arena,Munich,F,66000,
+28,2006-06-18,Japan,Croatia,0,0,Group Stage,Frankenstadion,Nuremberg,F,41000,
+29,2006-06-18,France,South Korea,1,1,Group Stage,Zentralstadion,Leipzig,G,43000,
+30,2006-06-19,Togo,Switzerland,0,2,Group Stage,Signal Iduna Park,Dortmund,G,65000,
+31,2006-06-19,Spain,Tunisia,3,1,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart,H,52000,
+32,2006-06-19,Saudi Arabia,Ukraine,0,4,Group Stage,FIFA WM-Stadion Hamburg,Hamburg,H,50000,
+33,2006-06-20,Ecuador,Germany,0,3,Group Stage,Olympiastadion,Berlin,A,72000,
+34,2006-06-20,Costa Rica,Poland,1,2,Group Stage,AWD-Arena,Hannover,A,43000,
+35,2006-06-20,Sweden,England,2,2,Group Stage,RheinEnergieStadion,Cologne,B,40000,
+36,2006-06-20,Paraguay,Trinidad and Tobago,2,0,Group Stage,Fritz-Walter-Stadion,Kaiserslautern,B,46000,
+37,2006-06-21,Netherlands,Argentina,0,0,Group Stage,Commerzbank-Arena,Frankfurt,C,48000,
+38,2006-06-21,Ivory Coast,Serbia and Montenegro,3,2,Group Stage,Allianz Arena,Munich,C,66000,
+39,2006-06-21,Portugal,Mexico,2,1,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart,D,52000,
+40,2006-06-21,Iran,Angola,1,1,Group Stage,Zentralstadion,Leipzig,D,43000,
+41,2006-06-22,Czech Republic,Italy,0,2,Group Stage,FIFA WM-Stadion Hamburg,Hamburg,E,50000,
+42,2006-06-22,Ghana,United States,2,1,Group Stage,Frankenstadion,Nuremberg,E,41000,
+43,2006-06-22,Japan,Brazil,1,4,Group Stage,Signal Iduna Park,Dortmund,F,65000,
+44,2006-06-22,Croatia,Australia,2,2,Group Stage,Gottlieb-Daimler-Stadion,Stuttgart,F,52000,
+45,2006-06-23,Togo,France,0,2,Group Stage,RheinEnergieStadion,Cologne,G,40000,
+46,2006-06-23,Switzerland,South Korea,2,0,Group Stage,AWD-Arena,Hannover,G,43000,
+47,2006-06-23,Saudi Arabia,Spain,0,1,Group Stage,Fritz-Walter-Stadion,Kaiserslautern,H,46000,
+48,2006-06-23,Ukraine,Tunisia,1,0,Group Stage,Olympiastadion,Berlin,H,72000,
+49,2006-06-24,Germany,Sweden,2,0,Round of 16,Allianz Arena,Munich,R16,66000,
+50,2006-06-24,Argentina,Mexico,2,1,Round of 16,Zentralstadion,Leipzig,R16,43000,
+51,2006-06-25,England,Ecuador,1,0,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart,R16,52000,
+52,2006-06-25,Portugal,Netherlands,1,0,Round of 16,Frankenstadion,Nuremberg,R16,41000,
+53,2006-06-26,Italy,Australia,1,0,Round of 16,Fritz-Walter-Stadion,Kaiserslautern,R16,46000,
+54,2006-06-26,Switzerland,Ukraine,0,0,Round of 16,RheinEnergieStadion,Cologne,R16,40000,PSO: Switzerland 0 Ukraine 3
+55,2006-06-27,Brazil,Ghana,3,0,Round of 16,Signal Iduna Park,Dortmund,R16,65000,
+56,2006-06-27,Spain,France,1,3,Round of 16,AWD-Arena,Hannover,R16,43000,
+57,2006-06-30,Germany,Argentina,1,1,Quarter-final,Olympiastadion,Berlin,QF,72000,PSO: Germany 4 Argentina 2
+58,2006-06-30,Italy,Ukraine,3,0,Quarter-final,FIFA WM-Stadion Hamburg,Hamburg,QF,50000,
+59,2006-07-01,England,Portugal,0,0,Quarter-final,Veltins-Arena,Gelsenkirchen,QF,52000,PSO: England 1 Portugal 3
+60,2006-07-01,Brazil,France,0,1,Quarter-final,Commerzbank-Arena,Frankfurt,QF,48000,
+61,2006-07-04,Germany,Italy,0,2,Semi-final,Signal Iduna Park,Dortmund,SF,65000,
+62,2006-07-05,Portugal,France,0,1,Semi-final,Allianz Arena,Munich,SF,66000,
+63,2006-07-08,Germany,Portugal,3,1,Third Place Play-off,Gottlieb-Daimler-Stadion,Stuttgart,3rd,52000,
+64,2006-07-09,Italy,France,1,1,Final,Olympiastadion,Berlin,Final,69000,PSO: Italy 5 France 3
