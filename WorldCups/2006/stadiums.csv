@@ -1,9 +1,13 @@
 stadium_id,stadium_name,city,capacity
-1,Al Bayt Stadium,Al Khor,68895
-2,Khalifa International Stadium,Doha,45857
-3,Al Thumama Stadium,Doha,44400
-4,Lusail Stadium,Lusail,88966
-5,Education City Stadium,Al Rayyan,45350
-6,Stadium 974,Doha,44950
-7,Al Janoub Stadium,Al Wakrah,40000
-8,Ahmad bin Ali Stadium,Al Rayyan,44740
+1,Olympiastadion,Berlin,74475
+2,Allianz Arena,Munich,66000
+3,Signal Iduna Park,Dortmund,65829
+4,Veltins-Arena,Gelsenkirchen,61524
+5,Commerzbank-Arena,Frankfurt,48132
+6,Gottlieb-Daimler-Stadion,Stuttgart,54267
+7,AWD-Arena,Hannover,44652
+8,RheinEnergieStadion,Cologne,40590
+9,FIFA WM-Stadion Hamburg,Hamburg,51055
+10,Zentralstadion,Leipzig,44199
+11,Fritz-Walter-Stadion,Kaiserslautern,46232
+12,Frankenstadion,Nuremberg,41926
