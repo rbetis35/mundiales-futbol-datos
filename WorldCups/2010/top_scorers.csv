@@ -1,11 +1,97 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Thomas Müller,Germany,5,,469
+2,Wesley Sneijder,Netherlands,5,,651
+3,David Villa,Spain,5,,632
+4,Diego Forlan,Uruguay,5,,653
+5,Gonzalo Higuaín,Argentina,4,,339
+6,Miroslav Klose,Germany,4,,354
+7,Robert Vittek,Slovakia,4,,352
+8,Luís Fabiano,Brazil,3,,415
+9,Asamoah Gyan,Ghana,3,,500
+10,Landon Donovan,USA,3,,390
+11,Luis Suarez,Uruguay,3,,539
+12,Carlos Tevez,Argentina,2,,322
+13,Brett Holman,Australia,2,,137
+14,Elano,Brazil,2,,138
+15,Robinho,Brazil,2,,353
+16,Samuel Eto'o ,Cameroon,2,,270
+17,Lukas Podolski,Germany,2,,530
+18,Keisuke Honda,Japan,2,,390
+19,Javier Hernandez,Mexico,2,,172
+20,Arjen Robben,Netherlands,2,,386
+21,Kalu Uche,Nigeria,2,,196
+22,Tiago,Portugal,2,,299
+23,Lee Jung-soo,South Korea,2,,360
+24,Lee Chung-yong,South Korea,2,,359
+25,Andres Iniesta,Spain,2,,556
+26,Martin Demichelis,Argentina,1,,450
+27,Gabriel Heinze,Argentina,1,,360
+28,Martin Palermo,Argentina,1,,11
+29,Tim Cahill,Australia,1,,145
+30,Maicon,Brazil,1,,450
+31,Juan,Brazil,1,,450
+32,Jean Beausejour,Chile,1,,360
+33,Rodrigo Millar,Chile,1,,125
+34,Mark Gonzalez,Chile,1,,139
+35,Dennis Rommedahl,Denmark,1,,270
+36,Jon Dahl Tomasson ,Denmark,1,,175
+37,Nicklas Bendtner,Denmark,1,,241
+38,Matthew Upson,England,1,,180
+39,Steven Gerrard ,England,1,,360
+40,Jermain Defoe,England,1,,172
+41,Florent Malouda,France,1,,151
+42,Arne Friedrich,Germany,1,,630
+43,Marcell Jansen,Germany,1,,156
+44,Sami Khedira,Germany,1,,606
+45,Mesut Ozil,Germany,1,,583
+46,Cacau,Germany,1,,206
+47,Sulley Muntari,Ghana,1,,136
+48,Kevin-Prince Boateng,Ghana,1,,462
+49,Vasilis Torosidis,Greece,1,,234
+50,Dimitris Salpingidis,Greece,1,,122
+51,Daniele De Rossi,Italy,1,,270
+52,Vincenzo Iaquinta,Italy,1,,270
+53,Antonio Di Natale,Italy,1,,154
+54,Fabio Quagliarella,Italy,1,,45
+55,Romaric,Ivory Coast,1,,99
+56,Yaya Toure,Ivory Coast,1,,270
+57,Salomon Kalou,Ivory Coast,1,,159
+58,Didier Drogba ,Ivory Coast,1,,205
+59,Yasuhito Endo,Japan,1,,389
+60,Shinji Okazaki,Japan,1,,109
+61,Rafael Marquez,Mexico,1,,360
+62,Cuauhtemoc Blanco ,Mexico,1,,113
+63,Giovanni van Bronckhorst ,Netherlands,1,,644
+64,Dirk Kuyt,Netherlands,1,,585
+65,Robin van Persie,Netherlands,1,,594
+66,Klaas-Jan Huntelaar,Netherlands,1,,52
+67,Winston Reid,New Zealand,1,,270
+68,Shane Smeltz,New Zealand,1,,270
+69,Yakubu,Nigeria,1,,249
+70,Ji Yun-nam,North Korea,1,,270
+71,Antolin Alcaraz,Paraguay,1,,390
+72,Enrique Vera,Paraguay,1,,414
+73,Cristian Riveros,Paraguay,1,,480
+74,Simao,Portugal,1,,217
+75,Raul Meireles,Portugal,1,,326
+76,Cristiano Ronaldo ,Portugal,1,,360
+77,Liedson,Portugal,1,,123
+78,Hugo Almeida,Portugal,1,,133
+79,Milan Jovanovic,Serbia,1,,243
+80,Marko Pantelic,Serbia,1,,114
+81,Kamil Kopunek,Slovakia,1,,24
+82,Robert Koren ,Slovenia,1,,270
+83,Zlatan Ljubijankic,Slovenia,1,,172
+84,Valter Birsa,Slovenia,1,,259
+85,Bongani Khumalo,South Africa,1,,270
+86,Siphiwe Tshabalala,South Africa,1,,270
+87,Katlego Mphela,South Africa,1,,270
+88,Park Ji-sung ,South Korea,1,,360
+89,Park Chu-young,South Korea,1,,345
+90,Carles Puyol,Spain,1,,653
+91,Gelson Fernandes,Switzerland,1,,211
+92,Michael Bradley,USA,1,,390
+93,Clint Dempsey,USA,1,,390
+94,Maxi Pereira,Uruguay,1,,660
+95,Alvaro Pereira,Uruguay,1,,406
+96,Edinson Cavani,Uruguay,1,,520
