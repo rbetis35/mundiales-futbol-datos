@@ -2301,3 +2301,525 @@ player_id,world_cup_year,team,club,country_club
 1877,2014,Uruguay, Lazio,Italy
 1878,2014,Uruguay, Palermo,Italy
 1879,2014,Uruguay, Cerezo Osaka,Japan
+1880,2010,Algeria, ASO Chlef,Algeria
+1881,2010,Algeria, ES Sétif,Algeria
+1882,2010,Algeria, Rangers,Scotland
+1883,2010,Algeria, Portsmouth,England
+1884,2010,Algeria, VfL Bochum,Germany
+1885,2010,Algeria, Eintracht Frankfurt,Germany
+1886,2010,Algeria, ES Sétif,Algeria
+1887,2010,Algeria, Lorient,France
+1888,2010,Algeria, Sochaux,France
+1889,2010,Algeria, VfL Wolfsburg,Germany
+1890,2010,Algeria, Wolverhampton,England
+1891,2010,Algeria, Valenciennes,France
+1892,2010,Algeria, Nantes,France
+1893,2010,Algeria, Siena,Italy
+1894,2010,Algeria, Istres,France
+1895,2010,Algeria, AEK Athens,Greece
+1896,2010,Algeria, Borussia Monchengladbach,Germany
+1897,2010,Argentina, Colón,Argentina
+1898,2010,Argentina, Estudiantes,Argentina
+1899,2010,Argentina, Roma,Italy
+1900,2010,Argentina, Marseille,France
+1901,2010,Argentina, Colón,Argentina
+1902,2010,Argentina, Internazionale,Italy
+1903,2010,Argentina, Fiorentina,Italy
+1904,2010,Argentina, Estudiantes,Argentina
+1905,2010,Argentina, Newcastle United,England
+1906,2010,Argentina, Palermo,Italy
+1907,2010,Argentina, Manchester City,England
+1908,2010,Argentina, Boca Juniors,Argentina
+1909,2010,Argentina, Internazionale,Italy
+1910,2010,Australia, Fulham,England
+1911,2010,Australia, Reading,England
+1912,2010,Australia, Galatasaray,Turkey
+1913,2010,Australia, Rangers,Scotland
+1914,2010,Australia, Al Jazira,United Arab Emirates
+1915,2010,Australia, Dynamo Moscow,Russia
+1916,2010,Australia, Basel,Switzerland
+1917,2010,Australia, Twente,Netherlands
+1918,2010,Australia, Gold Coast United,Australia
+1919,2010,Australia, Blackburn Rovers,England
+1920,2010,Australia, Blackburn Rovers,England
+1921,2010,Australia, Antalyaspor,Turkey
+1922,2010,Australia, Sassuolo,Italy
+1923,2010,Australia, Hull City,England
+1924,2010,Australia, Nagoya Grampus,Japan
+1925,2010,Australia, Galatasaray,Turkey
+1926,2010,Australia, AZ,Netherlands
+1927,2010,Australia, Roeselare,Belgium
+1928,2010,Brazil, Tottenham,England
+1929,2010,Brazil, Roma,Italy
+1930,2010,Brazil, Internazionale,Italy
+1931,2010,Brazil, Roma,Italy
+1932,2010,Brazil, Lyon,France
+1933,2010,Brazil, Benfica,Portugal
+1934,2010,Brazil, Cruzeiro,Brazil
+1935,2010,Brazil, Juventus,Italy
+1936,2010,Brazil, Galatasaray,Turkey
+1937,2010,Brazil, Panathinaikos,Greece
+1938,2010,Brazil, Real Madrid,Spain
+1939,2010,Brazil, VfL Wolfsburg,Germany
+1940,2010,Brazil, Roma,Italy
+1941,2010,Brazil, Flamengo,Brazil
+1942,2010,Brazil, Sevilla,Spain
+1943,2010,Brazil, Santos,Brazil
+1944,2010,Brazil, Villarreal,Spain
+1945,2010,Brazil, VfL Wolfsburg,Germany
+1946,2010,Cameroon, Espanyol,Spain
+1947,2010,Cameroon, Kayserispor,Turkey
+1948,2010,Cameroon, Valenciennes,France
+1949,2010,Cameroon, Trabzonspor,Turkey
+1950,2010,Cameroon, Tottenham,England
+1951,2010,Cameroon, Ankaragucu,Turkey
+1952,2010,Cameroon, Valenciennes,France
+1953,2010,Cameroon, Marseille,France
+1954,2010,Cameroon, Real Betis,Spain
+1955,2010,Cameroon, 1. FC Kaiserslautern,Germany
+1956,2010,Cameroon, SC Freiburg,Germany
+1957,2010,Chile, Universidad de Chile,Chile
+1958,2010,Chile, Unión Española,Chile
+1959,2010,Chile, Universidad Católica,Chile
+1960,2010,Chile, Universidad Católica,Chile
+1961,2010,Chile, PAOK,Greece
+1962,2010,Chile, Flamengo,Brazil
+1963,2010,Chile, Universidad de Chile,Chile
+1964,2010,Chile, Sporting CP,Portugal
+1965,2010,Chile, Colo-Colo,Chile
+1966,2010,Chile, Besiktas,Turkey
+1967,2010,Chile, Zaragoza,Spain
+1968,2010,Chile, CSKA Moscow,Russia
+1969,2010,Denmark, Stoke City,England
+1970,2010,Denmark, Brondby,Denmark
+1971,2010,Denmark, Copenhagen,Denmark
+1972,2010,Denmark, Liverpool,England
+1973,2010,Denmark, Blackburn Rovers,England
+1974,2010,Denmark, Fiorentina,Italy
+1975,2010,Denmark, AZ,Netherlands
+1976,2010,Denmark, Malaga,Spain
+1977,2010,Denmark, Juventus,Italy
+1978,2010,Denmark, Werder Bremen,Germany
+1979,2010,Denmark, Copenhagen,Denmark
+1980,2010,Denmark, AGF,Denmark
+1981,2010,Denmark, VfL Wolfsburg,Germany
+1982,2010,Denmark, AGF,Denmark
+1983,2010,Denmark, Ajax,Netherlands
+1984,2010,Denmark, Groningen,Netherlands
+1985,2010,Denmark, Feyenoord,Netherlands
+1986,2010,Denmark, Arsenal,England
+1987,2010,Denmark, Randers,Denmark
+1988,2010,Denmark, MSV Duisburg,Germany
+1989,2010,England, Portsmouth,England
+1990,2010,England, West Ham,England
+1991,2010,England, Chelsea,England
+1992,2010,England, Tottenham,England
+1993,2010,England, Chelsea,England
+1994,2010,England, Aston Villa,England
+1995,2010,England, West Ham,England
+1996,2010,England, Liverpool,England
+1997,2010,England, Tottenham,England
+1998,2010,England, Tottenham,England
+1999,2010,England, Chelsea,England
+2000,2010,England, Manchester City,England
+2001,2010,England, Manchester City,England
+2002,2010,England, Manchester United,England
+2003,2010,England, Tottenham,England
+2004,2010,England, Tottenham,England
+2005,2010,England, Aston Villa,England
+2006,2010,France, Bordeaux,France
+2007,2010,France, Barcelona,Spain
+2008,2010,France, Lyon,France
+2009,2010,France, Arsenal,England
+2010,2010,France, Bordeaux,France
+2011,2010,France, Sevilla,Spain
+2012,2010,France, Bayern Munich,Germany
+2013,2010,France, Bordeaux,France
+2014,2010,France, Lyon,France
+2015,2010,France, Chelsea,England
+2016,2010,France, Bordeaux,France
+2017,2010,France, Arsenal,England
+2018,2010,France, Panathinaikos,Greece
+2019,2010,France, Lyon,France
+2020,2010,France, Toulouse,France
+2021,2010,France, Barcelona,Spain
+2022,2010,France, Chelsea,England
+2023,2010,Germany, Werder Bremen,Germany
+2024,2010,Germany, Bayern Munich,Germany
+2025,2010,Germany, Hertha BSC,Germany
+2026,2010,Germany, Hamburger SV,Germany
+2027,2010,Germany, VfB Stuttgart,Germany
+2028,2010,Germany, Bayern Munich,Germany
+2029,2010,Germany, Hamburger SV,Germany
+2030,2010,Germany, Hamburger SV,Germany
+2031,2010,Germany, Werder Bremen,Germany
+2032,2010,Germany, Bayer Leverkusen,Germany
+2033,2010,Germany, VfB Stuttgart,Germany
+2034,2010,Ghana, Liberty Professionals,Ghana
+2035,2010,Ghana, Heart of Lions,Ghana
+2036,2010,Ghana, Wigan Athletic,England
+2037,2010,Ghana, Bayer Leverkusen,Germany
+2038,2010,Ghana, Fulham,England
+2039,2010,Ghana, Sunderland,England
+2040,2010,Ghana, 1899 Hoffenheim,Germany
+2041,2010,Ghana, Zamalek,Egypt
+2042,2010,Ghana, Bechem Chelsea,Ghana
+2043,2010,Ghana, Rosenborg,Norway
+2044,2010,Ghana, Getafe,Spain
+2045,2010,Ghana, Bologna,Italy
+2046,2010,Ghana, Al Sadd,Qatar
+2047,2010,Ghana, 1899 Hoffenheim,Germany
+2048,2010,Ghana, NAC,Netherlands
+2049,2010,Ghana, AC Milan,Italy
+2050,2010,Greece, PAOK,Greece
+2051,2010,Greece, Panathinaikos,Greece
+2052,2010,Greece, Aris,Greece
+2053,2010,Greece, Panathinaikos,Greece
+2054,2010,Greece, Omonia,Cyprus
+2055,2010,Greece, Panathinaikos,Greece
+2056,2010,Greece, Olympiacos,Greece
+2057,2010,Greece, Liverpool,England
+2058,2010,Greece, PAOK,Greece
+2059,2010,Greece, Panathinaikos,Greece
+2060,2010,Greece, Aris,Greece
+2061,2010,Greece, 1. FC Nürnberg,Germany
+2062,2010,Greece, FCSB,Romania
+2063,2010,Honduras, Motagua,Honduras
+2064,2010,Honduras,CD Olimpia,Honduras
+2065,2010,Honduras, Hangzhou Greentown,China
+2066,2010,Honduras, Motagua,Honduras
+2067,2010,Honduras, Wigan Athletic,England
+2068,2010,Honduras,CD Olimpia,Honduras
+2069,2010,Honduras, Bari,Italy
+2070,2010,Honduras,CD Olimpia,Honduras
+2071,2010,Honduras, Motagua,Honduras
+2072,2010,Honduras, Real España,Honduras
+2073,2010,Honduras, Genoa,Italy
+2074,2010,Honduras, Motagua,Honduras
+2075,2010,Honduras, Marathón,Honduras
+2076,2010,Italy, Cagliari,Italy
+2077,2010,Italy, Napoli,Italy
+2078,2010,Italy, Napoli,Italy
+2079,2010,Italy, Genoa,Italy
+2080,2010,Italy, Juventus,Italy
+2081,2010,Italy, Genoa,Italy
+2082,2010,Italy, AC Milan,Italy
+2083,2010,Italy, Udinese,Italy
+2084,2010,Italy, AC Milan,Italy
+2085,2010,Italy, Juventus,Italy
+2086,2010,Italy, Sampdoria,Italy
+2087,2010,Italy, Fiorentina,Italy
+2088,2010,Italy, Juventus,Italy
+2089,2010,Italy, Udinese,Italy
+2090,2010,Italy, Fiorentina,Italy
+2091,2010,Italy, Napoli,Italy
+2092,2010,Italy, Sampdoria,Italy
+2093,2010,Ivory Coast, Maccabi Netanya,Israel
+2094,2010,Ivory Coast, ASEC Mimosas,Ivory Coast
+2095,2010,Ivory Coast, Valenciennes,France
+2096,2010,Ivory Coast, Wigan Athletic,England
+2097,2010,Ivory Coast, Valenciennes,France
+2098,2010,Ivory Coast, Hamburger SV,Germany
+2099,2010,Ivory Coast, Arsenal,England
+2100,2010,Ivory Coast, Monaco,France
+2101,2010,Ivory Coast, Sevilla,Spain
+2102,2010,Ivory Coast, Interna?ional Arges,Romania
+2103,2010,Ivory Coast, Galatasaray,Turkey
+2104,2010,Ivory Coast, Young Boys,Switzerland
+2105,2010,Ivory Coast, Portsmouth,England
+2106,2010,Japan, Nagoya Grampus,Japan
+2107,2010,Japan, Jubilo Iwata,Japan
+2108,2010,Japan, Jubilo Iwata,Japan
+2109,2010,Japan, Nagoya Grampus,Japan
+2110,2010,Japan, Kashima Antlers,Japan
+2111,2010,Japan, Yokohama F. Marinos,Japan
+2112,2010,Japan, Urawa Red Diamonds,Japan
+2113,2010,Japan, Yokohama F. Marinos,Japan
+2114,2010,Japan, Kawasaki Frontale,Japan
+2115,2010,Japan, Kawasaki Frontale,Japan
+2116,2010,Japan, Grenoble,France
+2117,2010,Japan, Nagoya Grampus,Japan
+2118,2010,Japan, Albirex Niigata,Japan
+2119,2010,Japan, Catania,Italy
+2120,2010,Mexico, Chiapas,Mexico
+2121,2010,Mexico, Guadalajara,Mexico
+2122,2010,Mexico, PSV,Netherlands
+2123,2010,Mexico, VfB Stuttgart,Germany
+2124,2010,Mexico, UNAM,Mexico
+2125,2010,Mexico, Guadalajara,Mexico
+2126,2010,Mexico, Atlas,Mexico
+2127,2010,Mexico, Cruz Azul,Mexico
+2128,2010,Mexico, UNAM,Mexico
+2129,2010,Mexico, UNAM,Mexico
+2130,2010,Mexico, Guadalajara,Mexico
+2131,2010,Mexico, West Ham,England
+2132,2010,Mexico, Veracruz,Mexico
+2133,2010,Mexico, Guadalajara,Mexico
+2134,2010,Netherlands, Ajax,Netherlands
+2135,2010,Netherlands, Twente,Netherlands
+2136,2010,Netherlands, Ajax,Netherlands
+2137,2010,Netherlands, Everton,England
+2138,2010,Netherlands, Hamburger SV,Germany
+2139,2010,Netherlands, Feyenoord,Netherlands
+2140,2010,Netherlands, VfB Stuttgart,Germany
+2141,2010,Netherlands, PSV,Netherlands
+2142,2010,Netherlands, Celtic,Scotland
+2143,2010,Netherlands, Bayern Munich,Germany
+2144,2010,Netherlands, Ajax,Netherlands
+2145,2010,Netherlands, AZ,Netherlands
+2146,2010,Netherlands, PSV,Netherlands
+2147,2010,Netherlands, Real Madrid,Spain
+2148,2010,Netherlands, Hamburger SV,Germany
+2149,2010,Netherlands, Liverpool,England
+2150,2010,New Zealand, Wellington Phoenix,New Zealand
+2151,2010,New Zealand, Melbourne Victory,Australia
+2152,2010,New Zealand, Team Wellington,New Zealand
+2153,2010,New Zealand, Wellington Phoenix,New Zealand
+2154,2010,New Zealand, Wellington Phoenix,New Zealand
+2155,2010,New Zealand, Midtjylland,Denmark
+2156,2010,New Zealand, Auckland City,New Zealand
+2157,2010,New Zealand, Blackburn Rovers,England
+2158,2010,New Zealand, New York Red Bulls,United States
+2159,2010,New Zealand, Ipswich Town,England
+2160,2010,New Zealand, Chivas USA,United States
+2161,2010,New Zealand, Wellington Phoenix,New Zealand
+2162,2010,New Zealand, Wellington Phoenix,New Zealand
+2163,2010,New Zealand, Team Wellington,New Zealand
+2164,2010,New Zealand, Motherwell[8],Scotland
+2165,2010,New Zealand, Canterbury United,New Zealand
+2166,2010,New Zealand, Wellington Phoenix,New Zealand
+2167,2010,New Zealand, FC Tampa Bay,United States
+2168,2010,New Zealand, Newcastle Jets,Australia
+2169,2010,New Zealand, Gold Coast United,Australia
+2170,2010,New Zealand, Middlesbrough,England
+2171,2010,New Zealand, Plymouth Argyle,England
+2172,2010,New Zealand, West Bromwich Albion,England
+2173,2010,Nigeria, Bnei Yehuda,Israel
+2174,2010,Nigeria, Marseille,France
+2175,2010,Nigeria, Red Bull Salzburg,Austria
+2176,2010,Nigeria, Bolton Wanderers,England
+2177,2010,Nigeria, CSKA Moscow,Russia
+2178,2010,Nigeria, Sparta Rotterdam,Netherlands
+2179,2010,Nigeria, Dynamo Kyiv,Ukraine
+2180,2010,Nigeria, Alania Vladikavkaz,Russia
+2181,2010,Nigeria, Monaco,France
+2182,2010,Nigeria, Fulham,England
+2183,2010,Nigeria, Portsmouth,England
+2184,2010,Nigeria, Portsmouth,England
+2185,2010,Nigeria, Everton,England
+2186,2010,Nigeria, VfL Wolfsburg,Germany
+2187,2010,Nigeria, Sochaux,France
+2188,2010,Nigeria, Almería,Spain
+2189,2010,Nigeria, Malaga,Spain
+2190,2010,Nigeria, 1899 Hoffenheim,Germany
+2191,2010,North Korea, Pyongyang City,North Korea
+2192,2010,North Korea, Amrokgang,North Korea
+2193,2010,North Korea, Amrokgang,North Korea
+2194,2010,North Korea, Amrokgang,North Korea
+2195,2010,North Korea, Sobaeksu,North Korea
+2196,2010,North Korea, April 25,North Korea
+2197,2010,North Korea, April 25,North Korea
+2198,2010,North Korea, Amrokgang,North Korea
+2199,2010,North Korea, Amrokgang,North Korea
+2200,2010,North Korea, April 25,North Korea
+2201,2010,North Korea, Kyonggongop,North Korea
+2202,2010,North Korea, Sobaeksu,North Korea
+2203,2010,North Korea, April 25,North Korea
+2204,2010,North Korea, April 25,North Korea
+2205,2010,North Korea, Pyongyang City,North Korea
+2206,2010,North Korea, Omiya Ardija,Japan
+2207,2010,North Korea, Pyongyang City,North Korea
+2208,2010,North Korea, Rimyongsu,North Korea
+2209,2010,North Korea, April 25,North Korea
+2210,2010,North Korea, Rimyongsu,North Korea
+2211,2010,North Korea, Kawasaki Frontale,Japan
+2212,2010,North Korea, Rostov,Russia
+2213,2010,North Korea, April 25,North Korea
+2214,2010,Paraguay, Valladolid,Spain
+2215,2010,Paraguay, Cerro Porteño,Paraguay
+2216,2010,Paraguay, Independiente Medellín,Colombia
+2217,2010,Paraguay, UNAM,Mexico
+2218,2010,Paraguay, Boca Juniors,Argentina
+2219,2010,Paraguay, León,Mexico
+2220,2010,Paraguay, Atlético Mineiro,Brazil
+2221,2010,Paraguay, Olimpia,Paraguay
+2222,2010,Paraguay, Sunderland,England
+2223,2010,Paraguay, San Lorenzo,Argentina
+2224,2010,Paraguay, Club Brugge,Belgium
+2225,2010,Paraguay, Atalanta,Italy
+2226,2010,Paraguay, VfL Wolfsburg,Germany
+2227,2010,Paraguay, LDU Quito,Ecuador
+2228,2010,Paraguay, Libertad,Paraguay
+2229,2010,Paraguay, Cruz Azul,Mexico
+2230,2010,Paraguay, Argentinos Juniors,Argentina
+2231,2010,Paraguay, Benfica,Portugal
+2232,2010,Paraguay, Manchester City,England
+2233,2010,Paraguay, Pachuca,Mexico
+2234,2010,Paraguay, Borussia Dortmund,Germany
+2235,2010,Paraguay, Borussia Dortmund,Germany
+2236,2010,Paraguay, Libertad,Paraguay
+2237,2010,Portugal, Iraklis,Greece
+2238,2010,Portugal, Chelsea,England
+2239,2010,Portugal, Porto,Portugal
+2240,2010,Portugal, Chelsea,England
+2241,2010,Portugal, Valencia,Spain
+2242,2010,Portugal, Malaga,Spain
+2243,2010,Portugal, Sporting CP,Portugal
+2244,2010,Portugal, Zenit Saint Petersburg,Russia
+2245,2010,Portugal, Atletico Madrid,Spain
+2246,2010,Portugal, Atletico Madrid,Spain
+2247,2010,Portugal, Chelsea,England
+2248,2010,Portugal, Sporting CP,Portugal
+2249,2010,Serbia, Zaglebie Lubin,Poland
+2250,2010,Serbia, Uniao de Leiria,Portugal
+2251,2010,Serbia, 1860 Munich,Germany
+2251,2010,Serbia, Manchester United,England
+2252,2010,Serbia, Udinese,Italy
+2253,2010,Serbia, Zaragoza,Spain
+2254,2010,Serbia, Borussia Dortmund,Germany
+2255,2010,Serbia, Hertha BSC,Germany
+2256,2010,Serbia, 1. FC Koln,Germany
+2257,2010,Serbia, Internazionale,Italy
+2258,2010,Serbia, Wolverhampton,England
+2259,2010,Serbia, Standard Liege,Belgium
+2260,2010,Serbia, CSKA Moscow,Russia
+2261,2010,Serbia, Dynamo Kyiv,Ukraine
+2262,2010,Serbia, Partizan,Serbia
+2263,2010,Serbia, VfB Stuttgart,Germany
+2264,2010,Serbia, Zenit Saint Petersburg,Russia
+2265,2010,Serbia, Ajax,Netherlands
+2266,2010,Serbia, Valencia,Spain
+2267,2010,Slovakia, Legia Warsaw,Poland
+2268,2010,Slovakia, Dundee United,Scotland
+2269,2010,Slovakia, Vaslui,Romania
+2270,2010,Slovakia, VfL Wolfsburg,Germany
+2271,2010,Slovakia, Liverpool,England
+2272,2010,Slovakia, West Bromwich Albion,England
+2273,2010,Slovakia, Mainz 05,Germany
+2274,2010,Slovakia, Hannover 96,Germany
+2275,2010,Slovakia, Slovan Bratislava,Slovakia
+2276,2010,Slovakia, Cesena,Italy
+2277,2010,Slovakia, Skoda Xanthi,Greece
+2278,2010,Slovakia, Bolton Wanderers,England
+2279,2010,Slovakia, Timi?oara,Romania
+2280,2010,Slovakia, VfL Bochum,Germany
+2281,2010,Slovakia, Ankaragucu,Turkey
+2282,2010,Slovakia, Twente,Netherlands
+2283,2010,Slovakia, Napoli,Italy
+2284,2010,Slovakia, Sparta Prague,Czech Republic
+2285,2010,Slovakia, Spartak Trnava,Slovakia
+2286,2010,Slovakia, Ankaragucu,Turkey
+2287,2010,Slovakia, Besiktas,Turkey
+2288,2010,Slovakia, Saturn Moscow Oblast,Russia
+2289,2010,Slovakia, 1. FC Kaiserslautern,Germany
+2290,2010,Slovenia, Udinese,Italy
+2291,2010,Slovenia, Mantova,Italy
+2292,2010,Slovenia, Sparta Rotterdam,Netherlands
+2293,2010,Slovenia, 1. FC Koln,Germany
+2294,2010,Slovenia, Maribor,Slovenia
+2295,2010,Slovenia, Gent,Belgium
+2296,2010,Slovenia, Grenoble,France
+2297,2010,Slovenia, Lokomotiv Moscow,Russia
+2298,2010,Slovenia, Chievo,Italy
+2299,2010,Slovenia, Maribor,Slovenia
+2300,2010,Slovenia, TuS Koblenz,Germany
+2301,2010,Slovenia, West Bromwich Albion,England
+2302,2010,Slovenia, Internazionale,Italy
+2303,2010,Slovenia, Wis?a Kraków,Poland
+2304,2010,Slovenia, Larissa,Greece
+2305,2010,Slovenia, Maccabi Tel Aviv,Israel
+2306,2010,Slovenia, Vitesse,Netherlands
+2307,2010,Slovenia, Nacional,Portugal
+2308,2010,Slovenia, Gent,Belgium
+2309,2010,Slovenia, Auxerre,France
+2310,2010,Slovenia, 1. FC Koln,Germany
+2311,2010,Slovenia, VfL Bochum,Germany
+2312,2010,Slovenia, Groningen,Netherlands
+2313,2010,South Africa, Orlando Pirates,South Africa
+2314,2010,South Africa, Kaizer Chiefs,South Africa
+2315,2010,South Africa, Maritzburg United,South Africa
+2316,2010,South Africa, Mamelodi Sundowns,South Africa
+2317,2010,South Africa, Maccabi Haifa,Israel
+2318,2010,South Africa, Portsmouth,England
+2319,2010,South Africa, Genk,Belgium
+2320,2010,South Africa, Mamelodi Sundowns,South Africa
+2321,2010,South Africa, Orlando Pirates,South Africa
+2322,2010,South Africa, Supersport United,South Africa
+2323,2010,South Africa, Golden Arrows,South Africa
+2324,2010,South Africa, Rubin Kazan,Russia
+2325,2010,South Africa, Ajax Cape Town,South Africa
+2326,2010,South Africa, Kaizer Chiefs,South Africa
+2327,2010,South Africa, Everton,England
+2328,2010,South Africa, Orlando Pirates,South Africa
+2329,2010,South Africa, Kaizer Chiefs,South Africa
+2330,2010,South Africa, Fulham,England
+2331,2010,South Africa, Mamelodi Sundowns,South Africa
+2332,2010,South Africa, Golden Arrows,South Africa
+2333,2010,South Africa, Mamelodi Sundowns,South Africa
+2334,2010,South Africa, Twente,Netherlands
+2335,2010,South Africa, Moroka Swallows,South Africa
+2336,2010,South Korea, Suwon Samsung Bluewings,South Korea
+2337,2010,South Korea, Ulsan Hyundai,South Korea
+2338,2010,South Korea, Ulsan Hyundai,South Korea
+2339,2010,South Korea, Pohang Steelers,South Korea
+2340,2010,South Korea, Jeju United,South Korea
+2341,2010,South Korea, Al Hilal,Saudi Arabia
+2342,2010,South Korea, Kashima Antlers,Japan
+2343,2010,South Korea, Ulsan Hyundai,South Korea
+2344,2010,South Korea, SC Freiburg,Germany
+2345,2010,South Korea, Suwon Samsung Bluewings,South Korea
+2346,2010,South Korea, Tom Tomsk,Russia
+2347,2010,South Korea, Manchester United,England
+2348,2010,South Korea, Gwangju Sangmu,South Korea
+2349,2010,South Korea, Pohang Steelers,South Korea
+2350,2010,South Korea, Dalian Shide,China
+2351,2010,South Korea, FC Seoul,South Korea
+2352,2010,South Korea, Suwon Samsung Bluewings,South Korea
+2353,2010,South Korea, Jeonbuk Hyundai Motors,South Korea
+2354,2010,Spain, Valencia,Spain
+2355,2010,Spain, Barcelona,Spain
+2356,2010,Spain, Villarreal,Spain
+2357,2010,Spain, Real Madrid,Spain
+2358,2010,Spain, Sevilla,Spain
+2359,2010,Spain, Athletic Bilbao,Spain
+2360,2010,Switzerland, Young Boys,Switzerland
+2361,2010,Switzerland, Zürich,Switzerland
+2362,2010,Switzerland, Zürich,Switzerland
+2363,2010,Switzerland, Auxerre,France
+2364,2010,Switzerland, Hannover 96,Germany
+2365,2010,Switzerland, Basel,Switzerland
+2366,2010,Switzerland, Sampdoria,Italy
+2367,2010,Switzerland, Luzern,Switzerland
+2368,2010,Switzerland, Eintracht Frankfurt,Germany
+2369,2010,Switzerland, Basel,Switzerland
+2370,2010,Switzerland, Twente,Netherlands
+2371,2010,Switzerland, 1. FC Nürnberg,Germany
+2372,2010,Switzerland, Bayer Leverkusen,Germany
+2373,2010,USA, Wolverhampton,England
+2374,2010,USA, West Ham,England
+2375,2010,USA, Rennes,France
+2376,2010,USA, AC Milan,Italy
+2377,2010,USA, Hannover 96,Germany
+2378,2010,USA, Chivas USA,United States
+2379,2010,USA, Watford,England
+2380,2010,USA, Start,Norway
+2381,2010,USA, LA Galaxy,United States
+2382,2010,USA, Bolton Wanderers,England
+2383,2010,USA, Eintracht Frankfurt,Germany
+2384,2010,USA, Pachuca,Mexico
+2385,2010,USA, Rangers,Scotland
+2386,2010,USA, AGF,Denmark
+2387,2010,USA, Puebla,Mexico
+2388,2010,USA, LA Galaxy,United States
+2389,2010,USA, Real Salt Lake,United States
+2390,2010,Uruguay, Deportivo Cali,Colombia
+2391,2010,Uruguay, Universidad de Chile,Chile
+2392,2010,Uruguay, Colo-Colo,Chile
+2393,2010,Uruguay, AIK,Sweden
+2394,2010,Uruguay, Levadiakos,Greece
+2395,2010,Uruguay, Universidad de Chile,Chile
+2396,2010,Uruguay, Botafogo,Brazil
+2397,2010,Uruguay, Banfield,Argentina
+2398,2010,France, Arsenal,England
+2399,2010,Serbia, Vojvodina,Serbia
+2400,2010,Spain, Barcelona,Spain
