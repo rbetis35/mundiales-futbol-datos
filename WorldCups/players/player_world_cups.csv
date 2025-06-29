@@ -567,6 +567,7 @@ player_id,world_cup_year,team,club,country_club
 388,2022,Iran,Bayer Leverkusen,Germany
 389,2018,Iran,Al-Gharafa,Qatar
 389,2022,Iran,Porto,Portugal
+390,2010,Japan,Kawasaki Frontale,Japan
 390,2014,Japan,Standard Liege,Belgium
 390,2018,Japan,Metz,France
 390,2022,Japan,Strasbourg,France
@@ -576,9 +577,10 @@ player_id,world_cup_year,team,club,country_club
 393,2022,Japan,Kawasaki Frontale,Japan
 394,2022,Japan,Kawasaki Frontale,Japan
 395,2022,Japan,Borussia Monchengladbach,Germany
+396,2010,Japan,FC Tokyo,Japan
 396,2014,Japan,Internazionale,Italy
 396,2018,Japan,Galatasaray,Turkey
-396,2022,Japan,Tokyo,Japan
+396,2022,Japan,FC Tokyo,Japan
 397,2022,Japan,Arsenal,England
 398,2014,Japan,Hannover 96,Germany
 398,2018,Japan,Marseille,France
@@ -1443,6 +1445,7 @@ player_id,world_cup_year,team,club,country_club
 1045,2018,Japan,Urawa Red Diamonds,Japan
 1046,2014,Japan,VfB Stuttgart,Germany
 1046,2018,Japan,Hamburger SV,Germany
+1047,2010,Japan,CSKA Moscow,Russia
 1047,2014,Japan,AC Milan,Italy
 1047,2018,Japan,Pachuca,Mexico
 1048,2018,Japan,Fortuna Dusseldorf,Germany
@@ -1452,9 +1455,11 @@ player_id,world_cup_year,team,club,country_club
 1051,2018,Japan,Eibar,Spain
 1052,2014,Japan,Cerezo Osaka,Japan
 1052,2018,Japan,Cerezo Osaka,Japan
+1053,2010,Japan,VfL Wolfsburg,Germany
 1053,2014,Japan,1. FC Nürnberg,Germany
 1053,2018,Japan,Eintracht Frankfurt,Germany
 1054,2018,Japan,Kawasaki Frontale,Japan
+1055,2010,Japan,Shimizu S-Pulse,Japan
 1055,2014,Japan,Mainz 05,Germany
 1055,2018,Japan,Leicester City,England
 1056,2018,Japan,Mainz 05,Germany
@@ -2092,6 +2097,7 @@ player_id,world_cup_year,team,club,country_club
 1592,2014,Ghana, Platanias,Greece
 1593,2014,Ghana, Standard Liege,Belgium
 1594,2014,Ghana, Mamelodi Sundowns,South Africa
+1595,2010,Ghana, Granada,Spain
 1595,2014,Ghana, Evian,France
 1596,2014,Ghana, Rennes,France
 1597,2014,Ghana, Espérance de Tunis,Tunisia
@@ -2099,12 +2105,16 @@ player_id,world_cup_year,team,club,country_club
 1599,2014,Ghana, Parma,Italy
 1600,2014,Ghana, Vitesse,Netherlands
 1601,2014,Ghana, Udinese,Italy
+1602,2010,Ghana, Internazionale,Italy
 1602,2014,Ghana, AC Milan,Italy
 1603,2014,Ghana, Middlesbrough,England
 1604,2014,Ghana, Kuban Krasnodar,Russia
+1605,2010,Ghana, Udinese,Italy
 1605,2014,Ghana, Juventus,Italy
 1606,2014,Ghana, Rubin Kazan,Russia
+1607,2010,Ghana, Rennes,France
 1607,2014,Ghana, Al Ain,United Arab Emirates
+1608,2010,Ghana, Portsmouth,England
 1608,2014,Ghana, Schalke 04,Germany
 1609,2014,Ghana, Valenciennes,France
 1610,2014,Greece, Granada,Spain
@@ -2112,43 +2122,63 @@ player_id,world_cup_year,team,club,country_club
 1612,2014,Greece, Panathinaikos,Greece
 1613,2014,Greece, PAOK,Greece
 1614,2014,Greece, Olympiacos,Greece
+1615,2010,Greece, Bologna,Italy
 1615,2014,Greece, Hellas Verona,Italy
+1616,2010,Greece, Panathinaikos,Greece
 1616,2014,Greece, Levante,Spain
+1617,2010,Greece, Olynpiacos,Greece
 1617,2014,Greece, Roma,Italy
+1618,2010,Greece, Genoa,Italy
 1618,2014,Greece, Borussia Dortmund,Germany
 1619,2014,Greece, Olympiacos,Greece
 1620,2014,Greece, Olympiacos,Greece
+1621,2010,Greece, Siena,Italy
 1621,2014,Greece, Kayserispor,Turkey
 1622,2014,Greece, Bologna,Italy
+1623,2010,Greece, Panathinaikos,Greece
 1623,2014,Greece, Fulham,England
 1624,2014,Greece, Bologna,Italy
 1625,2014,Greece, Genoa,Italy
+1626,2010,Greece, Panathinaikos,Greece
 1626,2014,Greece, PAOK,Greece
 1627,2014,Greece, Olympiacos,Greece
 1628,2014,Greece, Torino,Italy
+1629,2010,Greece, Celtic,Scotland
 1629,2014,Greece, Celtic,Scotland
 1630,2014,Greece, Fulham,England
+1631,2010,Greece, Panathinaikos,Greece
 1631,2014,Greece, PAOK,Greece
+1632,2010,Greece, Hertha BSC,Germany
 1632,2014,Greece, Konyaspor,Turkey
 1633,2014,Honduras, Real España,Honduras
+1634,2010,Honduras, CD Olimpia,Honduras
 1634,2014,Honduras, CD Olimpia,Honduras
+1635,2010,Honduras, CD Olimpia,Honduras
 1635,2014,Honduras, CD Olimpia,Honduras
+1636,2010,Honduras, Platense,Honduras
 1636,2014,Honduras, Qingdao Jonoon,China
+1637,2010,Honduras, Wigan Athletic,England
 1637,2014,Honduras, Hull City,England
 1638,2014,Honduras, Motagua,Honduras
+1639,2010,Honduras, Anderlecht,Belgium
 1639,2014,Honduras, San Jose Earthquakes,USA
 1640,2014,Honduras, Wigan Athletic,England
+1641,2014,Honduras, Motagua,Honduras
 1641,2014,Honduras, Celtic,Scotland
 1642,2014,Honduras, CD Olimpia,Honduras
+1643,2010,Honduras, Tottenham,England
 1643,2014,Honduras, Stoke City,England
 1644,2014,Honduras, Real España,Honduras
 1645,2014,Honduras, Real España,Honduras
+1646,2010,Honduras, CD Olimpia,Honduras
 1646,2014,Honduras, Houston Dynamo,USA
+1647,2010,Honduras, Kansas City Wizards,USA
 1647,2014,Honduras, Wigan Athletic,England
 1648,2014,Honduras, Anderlecht,Belgium
 1649,2014,Honduras, CD Olimpia,Honduras
 1650,2014,Honduras, Motagua,Honduras
 1651,2014,Honduras, Chivas USA,USA
+1652,2010,Honduras, Hangzhou Greentown,China
 1652,2014,Honduras, Alajuelense,Costa Rica
 1653,2014,Honduras, New England Revolution,USA
 1654,2014,Honduras, Real España,Honduras
@@ -2169,22 +2199,28 @@ player_id,world_cup_year,team,club,country_club
 1669,2014,Iran, Zob Ahan,Iran
 1670,2014,Iran, Esteghlal,Iran
 1671,2014,Iran, Foolad,Iran
+1672,2010,Italy, Juventus,Italy
 1672,2014,Italy, Juventus,Italy
 1673,2014,Italy, PSG,France
 1674,2014,Italy, Genoa,Italy
 1675,2014,Italy, AC Milan,Italy
+1676,2010,Italy, Juventus,Italy
 1676,2014,Italy, Juventus,Italy
 1677,2014,Italy, Torino,Italy
 1678,2014,Italy, AC Milan,Italy
 1679,2014,Italy, Juventus,Italy
+1680,2014,Italy, Bari,Italy
 1680,2014,Italy, Juventus,Italy
 1681,2014,Italy, Parma,Italy
 1682,2014,Italy, PSG,France
 1683,2014,Italy, Lazio,Italy
+1684,2010,Italy, Juventus,Italy
 1684,2014,Italy, Juventus,Italy
 1685,2014,Italy, Fiorentina,Italy
+1686,2010,Italy, Roma,Italy
 1686,2014,Italy, Roma,Italy
 1687,2014,Italy, Parma,Italy
+1688,2010,Italy, AC Milan,Italy
 1688,2014,Italy, Juventus,Italy
 1689,2014,Italy, PSG,France
 1690,2014,Italy, AC Milan,Italy
@@ -2192,38 +2228,52 @@ player_id,world_cup_year,team,club,country_club
 1692,2014,Italy, Torino,Italy
 1693,2014,Italy, Torino,Italy
 1694,2014,Italy, Napoli,Italy
+1695,2010,Ivory Coast, Lokeren,Belgium
 1695,2014,Ivory Coast, Lokeren,Belgium
 1696,2014,Ivory Coast, Sewe Sport,Ivory Coast
 1697,2014,Ivory Coast, Stabaek,Norway
 1698,2014,Ivory Coast, Caykur Rizespor,Turkey
+1699,2010,Ivory Coast, VfB Stuttgart,Germany
 1699,2014,Ivory Coast, VfB Stuttgart,Germany
+1700,2010,Ivory Coast, Manchester City,England
 1700,2014,Ivory Coast, Liverpool,England
+1701,2010,Ivory Coast, Sevilla,Spain
 1701,2014,Ivory Coast, Trabzonspor,Turkey
 1702,2014,Ivory Coast, Toulouse,France
 1703,2014,Ivory Coast, Toulouse,France
 1704,2014,Ivory Coast, Eintracht Frankfurt,Germany
+1705,2010,Ivory Coast, Hibernian,Scotland
 1705,2014,Ivory Coast, Trabzonspor,Turkey
+1706,2010,Ivory Coast, Twente,Netherlands
 1706,2014,Ivory Coast, Newcastle United,England
 1707,2014,Ivory Coast, Saint-Etienne,France
+1708,2010,Ivory Coast, Barcelona,Spain
 1708,2014,Ivory Coast, Manchester City,England
 1709,2014,Ivory Coast, Basel,Switzerland
 1710,2014,Ivory Coast, Fortuna Düsseldorf,Germany
+1711,2010,Ivory Coast, Chelsea,England
 1711,2014,Ivory Coast, Lille,France
+1712,2010,Ivory Coast, Lille,France
 1712,2014,Ivory Coast, Roma,Italy
+1713,2010,Ivory Coast, Chelsea,England
 1713,2014,Ivory Coast, Galatasaray,Turkey
 1714,2014,Ivory Coast, Swansea City,Wales
 1715,2014,Ivory Coast, Hannover 96,Germany
 1716,2014,Ivory Coast, Saint-Etienne,France
 1717,2014,Ivory Coast, Basel,Switzerland
 1718,2014,Japan, Urawa Red Diamonds,Japan
+1719,2010,Japan, Kashima Antlers,Japan
 1719,2014,Japan, Schalke 04,Germany
 1720,2014,Japan, FC Tokyo,Japan
+1721,2010,Japan, FC Tokyo,Japan
 1721,2014,Japan, Gamba Osaka,Japan
 1722,2014,Japan, Jubilo Iwata,Japan
+1723,2010,Japan, Gamba Osaka,Japan
 1723,2014,Japan, Gamba Osaka,Japan
 1724,2014,Japan, 1. FC Nürnberg,Germany
 1725,2014,Japan, Sanfrecce Hiroshima,Japan
 1726,2014,Japan, Cerezo Osaka,Japan
+1727,2010,Japan, Vissel Kobe,Japan
 1727,2014,Japan, Kawasaki Frontale,Japan
 1728,2014,Japan, Yokohama F. Marinos,Japan
 1729,2014,Mexico,America,Mexico
