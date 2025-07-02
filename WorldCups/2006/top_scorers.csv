@@ -1,11 +1,106 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Miroslav Klose,Germany,5,,582
+2,Hernán Crespo,Argentina,3,,305
+3,Ronaldo,Brazil,3,,409
+4,Zinedine Zidane ,France,3,,558
+5,Thierry Henry,France,3,,632
+6,Lukas Podolski,Germany,3,,633
+7,Fernando Torres,Spain,3,,291
+8,David Villa,Spain,3,,208
+9,Maxi Rodríguez,Argentina,2,,494
+10,Tim Cahill,Australia,2,,273
+11,Adriano,Brazil,2,,265
+12,Paulo Wanchope,Costa Rica,2,,270
+13,Tomás Rosicky,Czech Republic,2,,265
+14,Agustín Delgado,Ecuador,2,,262
+15,Carlos Tenorio,Ecuador,2,,180
+16,Steven Gerrard,England,2,,411
+17,Patrick Vieira,France,2,,585
+18,Bastian Schweinsteiger,Germany,2,,526
+19,Marco Materazzi,Italy,2,,363
+20,Luca Toni,Italy,2,,479
+21,Aruna Dindane,Ivory Coast,2,,155
+22,Omar Bravo,Mexico,2,,270
+23,Bartosz Bosacki,Poland,2,,180
+24,Maniche,Portugal,2,,565
+25,Nikola Zigic,Serbia & Montenegro,2,,111
+26,Alexander Frei,Switzerland,2,,382
+27,Andriy Shevchenko ,Ukraine,2,,472
+28,Flávio,Angola,1,,40
+29,Roberto Ayala,Argentina,1,,510
+30,Esteban Cambiasso,Argentina,1,,378
+31,Javier Saviola,Argentina,1,,215
+32,Carlos Tevez,Argentina,1,,288
+33,Lionel Messi,Argentina,1,,122
+34,Craig Moore,Australia,1,,308
+35,Harry Kewell,Australia,1,,215
+36,John Aloisi,Australia,1,,76
+37,Gilberto,Brazil,1,,90
+38,Kaká,Brazil,1,,410
+39,Ze Roberto,Brazil,1,,380
+40,Juninho Pernambucano,Brazil,1,,182
+41,Fred,Brazil,1,,3
+42,Rónald Gómez,Costa Rica,1,,260
+43,Darijo Srna,Croatia,1,,266
+44,Niko Kovac ,Croatia,1,,220
+45,Jan Koller,Czech Republic,1,,44
+46,Iván Kaviedes,Ecuador,1,,180
+47,David Beckham ,England,1,,407
+48,Joe Cole,England,1,,386
+49,Peter Crouch,England,1,,323
+50,Franck Ribéry,France,1,,512
+51,Philipp Lahm,Germany,1,,690
+52,Torsten Frings,Germany,1,,539
+53,Oliver Neuville,Germany,1,,145
+54,Stephen Appiah ,Ghana,1,,360
+55,Sulley Muntari,Ghana,1,,270
+56,Haminu Draman,Ghana,1,,169
+57,Asamoah Gyan,Ghana,1,,262
+58,Sohrab Bakhtiarizadeh,Iran,1,,93
+59,Yahya Golmohammadi,Iran,1,,177
+60,Fabio Grosso,Italy,1,,600
+61,Gianluca Zambrotta,Italy,1,,600
+62,Andrea Pirlo,Italy,1,,667
+63,Alessandro Del Piero,Italy,1,,172
+64,Francesco Totti,Italy,1,,465
+65,Alberto Gilardino,Italy,1,,304
+66,Vincenzo Iaquinta,Italy,1,,192
+67,Filippo Inzaghi,Italy,1,,31
+68,Bonaventure Kalou,Ivory Coast,1,,72
+69,Didier Drogba ,Ivory Coast,1,,180
+70,Bakari Kone,Ivory Coast,1,,121
+71,Shunsuke Nakamura,Japan,1,,270
+72,Keiji Tamada,Japan,1,,120
+73,Rafael Marquez ,Mexico,1,,390
+74,Sinha,Mexico,1,,188
+75,Francisco Fonseca,Mexico,1,,266
+76,Arjen Robben,Netherlands,1,,270
+77,Ruud van Nistelrooy,Netherlands,1,,195
+78,Robin van Persie,Netherlands,1,,336
+79,Nelson Cuevas,Paraguay,1,,48
+80,Deco,Portugal,1,,336
+81,Pauleta,Portugal,1,,430
+82,Simao,Portugal,1,,411
+83,Cristiano Ronaldo,Portugal,1,,482
+84,Nuno Gomes,Portugal,1,,44
+85,Yasser Al-Qahtani,Saudi Arabia,1,,171
+86,Sasa Ilic,Serbia & Montenegro,1,,90
+87,Park Ji-sung,South Korea,1,,270
+88,Ahn Jung-hwan,South Korea,1,,92
+89,Lee Chun-soo,South Korea,1,,251
+90,Juanito,Spain,1,,90
+91,Xabi Alonso,Spain,1,,234
+92,Raúl ,Spain,1,,179
+93,Freddie Ljungberg,Sweden,1,,360
+94,Henrik Larsson,Sweden,1,,360
+95,Marcus Allback,Sweden,1,,167
+96,Philippe Senderos,Switzerland,1,,232
+97,Tranquillo Barnetta,Switzerland,1,,390
+98,Mohamed Kader,Togo,1,,270
+99,Radhi Jaidi,Tunisia,1,,270
+100,Jawhar Mnari,Tunisia,1,,270
+101,Ziad Jaziri,Tunisia,1,,224
+102,Andriy Rusol,Ukraine,1,,316
+103,Maksym Kalynychenko,Ukraine,1,,328
+104,Serhii Rebrov,Ukraine,1,,178
+105,Clint Dempsey,USA,1,,151
