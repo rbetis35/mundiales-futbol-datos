@@ -344,34 +344,34 @@ player_id,world_cup_year,team,club,country_club
 232,2022,Denmark,Wolfsburg,Germany
 233,2022,Denmark,Eintracht Frankfurt,Germany
 234,2022,Denmark,RB Leipzig,Germany
-235,2022,Ecuador ,Aucas,Ecuador
-236,2022,Ecuador ,Independiente del Valle,Ecuador
-237,2022,Ecuador ,LDU Quito,Ecuador
-238,2022,Ecuador ,Santos Laguna,Mexico
-239,2022,Ecuador ,Bayer Leverkusen,Germany
-240,2022,Ecuador ,Sao Paulo,Brazil
-241,2022,Ecuador ,Antwerp,Belgium
-242,2022,Ecuador ,Brighton,England
-243,2022,Ecuador ,Seattle Sounders FC,USA
-244,2022,Ecuador ,Genk,Belgium
-245,2022,Ecuador ,Los Angeles FC,USA
-246,2022,Ecuador ,Troyes,France
-247,2022,Ecuador ,Los Angeles FC,USA
-248,2014,Ecuador, VfB Stuttgart,Germany
-248,2022,Ecuador ,Augsburg,Germany
-249,2022,Ecuador ,Leon,Mexico
-250,2022,Ecuador ,Brighton,England
-251,2022,Ecuador ,Real Valladolid,Spain
-252,2022,Ecuador ,Los Angeles FC,USA
-253,2022,Ecuador ,Talleres,Argentina
-254,2022,Ecuador ,Brighton,England
-255,2022,Ecuador ,Imbabura,Ecuador
-256,2022,Ecuador ,Santos Laguna,Mexico
-257,2022,Ecuador ,Pachuca,Mexico
-258,2022,Ecuador ,Cruz Azul,Mexico
-259,2014,Ecuador, Pachuca,Mexico
-259,2022,Ecuador ,Fenerbahce,Turkey
-260,2022,Ecuador ,Newell's Old Boys,Argentina
+235,2022,Ecuador,Aucas,Ecuador
+236,2022,Ecuador,Independiente del Valle,Ecuador
+237,2022,Ecuador,LDU Quito,Ecuador
+238,2022,Ecuador,Santos Laguna,Mexico
+239,2022,Ecuador,Bayer Leverkusen,Germany
+240,2022,Ecuador,Sao Paulo,Brazil
+241,2022,Ecuador,Antwerp,Belgium
+242,2022,Ecuador,Brighton,England
+243,2022,Ecuador,Seattle Sounders FC,USA
+244,2022,Ecuador,Genk,Belgium
+245,2022,Ecuador,Los Angeles FC,USA
+246,2022,Ecuador,Troyes,France
+247,2022,Ecuador,Los Angeles FC,USA
+248,2014,Ecuador,VfB Stuttgart,Germany
+248,2022,Ecuador,Augsburg,Germany
+249,2022,Ecuador,Leon,Mexico
+250,2022,Ecuador,Brighton,England
+251,2022,Ecuador,Real Valladolid,Spain
+252,2022,Ecuador,Los Angeles FC,USA
+253,2022,Ecuador,Talleres,Argentina
+254,2022,Ecuador,Brighton,England
+255,2022,Ecuador,Imbabura,Ecuador
+256,2022,Ecuador,Santos Laguna,Mexico
+257,2022,Ecuador,Pachuca,Mexico
+258,2022,Ecuador,Cruz Azul,Mexico
+259,2014,Ecuador,Pachuca,Mexico
+259,2022,Ecuador,Fenerbahce,Turkey
+260,2022,Ecuador,Newell's Old Boys,Argentina
 261,2018,England,Everton,England
 261,2022,England,Everton,England
 262,2022,England,Newcastle United,England
@@ -532,7 +532,7 @@ player_id,world_cup_year,team,club,country_club
 367,2022,Iran,Esteghlal,Iran
 368,2022,Iran,Sepahan,Iran
 369,2014,Iran,Sepahan,Iran
-369,2018,Iran,Olympiakos,Greece
+369,2018,Iran,Olympiacos,Greece
 369,2022,Iran,AEK Athens,Greece
 370,2022,Iran,Al-Ahli,Qatar
 371,2018,Iran,Al Saad,Qatar
@@ -563,7 +563,7 @@ player_id,world_cup_year,team,club,country_club
 385,2022,Iran,Shabab Al-Ahli,United Arab Emirates
 386,2022,Iran,Kayserispor,Turkey
 387,2014,Iran,Tractor Sazi,Iran
-387,2018,Iran,Olympiakos,Greece
+387,2018,Iran,Olympiacos,Greece
 387,2022,Iran,Omonia,Cyprus
 388,2022,Iran,Rubin Kazan,Russia
 388,2022,Iran,Bayer Leverkusen,Germany
@@ -1848,660 +1848,660 @@ player_id,world_cup_year,team,club,country_club
 1341,2014,Uruguay,Espanyol,Spain
 1341,2018,Uruguay,Girona,Spain
 1342,2018,Uruguay,Monterrey,Mexico
-1343,2014,Algeria, USM Alger,Algeria
-1344,2010,Algeria, Slavia Sofia,Bulgaria
-1344,2014,Algeria, CSKA Sofia,Bulgaria
-1345,2014,Algeria, Lekhwiya,Qatar
-1346,2014,Algeria, Napoli,Italy
-1347,2014,Algeria, Watford,England
-1348,2010,Algeria, Nacional Madeira,Portugal
-1348,2014,Algeria, Academica de Coimbra,Portugal
-1349,2010,Algeria, Lecce,Italy
-1349,2014,Algeria, Livorno,Italy
-1350,2010,Algeria, Ajaccio,France
-1350,2014,Algeria, Valenciennes,France
-1351,2014,Algeria, Mallorca,Spain
-1352,2014,Algeria, Reims,France
-1353,2010,Algeria, Portsmouth,England
-1353,2014,Algeria, Udinese,Italy
-1354,2010,Algeria, Racing de Santander,Spain
-1354,2014,Algeria, Getafe,Spain
-1355,2014,Algeria, Valencia,Spain
+1343,2014,Algeria,USM Alger,Algeria
+1344,2010,Algeria,Slavia Sofia,Bulgaria
+1344,2014,Algeria,CSKA Sofia,Bulgaria
+1345,2014,Algeria,Lekhwiya,Qatar
+1346,2014,Algeria,Napoli,Italy
+1347,2014,Algeria,Watford,England
+1348,2010,Algeria,Nacional Madeira,Portugal
+1348,2014,Algeria,Academica de Coimbra,Portugal
+1349,2010,Algeria,Lecce,Italy
+1349,2014,Algeria,Livorno,Italy
+1350,2010,Algeria,Ajaccio,France
+1350,2014,Algeria,Valenciennes,France
+1351,2014,Algeria,Mallorca,Spain
+1352,2014,Algeria,Reims,France
+1353,2010,Algeria,Portsmouth,England
+1353,2014,Algeria,Udinese,Italy
+1354,2010,Algeria,Racing de Santander,Spain
+1354,2014,Algeria,Getafe,Spain
+1355,2014,Algeria,Valencia,Spain
 1356,2014,Algeria,Granada,Spain
-1357,2014,Algeria, Tottenham,England
-1358,2014,Algeria, Club Africain,Tunisia
-1359,2014,Algeria, Internazionale,Italy
-1360,2014,Algeria, Leicester City,England
-1361,2014,Algeria, Ajaccio,France
-1362,2014,Algeria, Porto,Portugal
-1363,2014,Algeria, Sporting CP,Portugal
-1364,2014,Algeria, Dinamo Zagreb,Croatia
-1365,2010,Argentina, AZ,Netherlands
-1365,2014,Argentina, Monaco,France
-1366,2014,Argentina, Boca Juniors,Argentina
-1367,2010,Argentina, Catania,Italy
-1367,2014,Argentina, Catania,Italy
-1368,2014,Argentina, Benfica,Portugal
-1369,2014,Argentina, Internazionale,Italy
-1370,2014,Argentina, Manchester City,England
-1371,2010,Argentina, Bayern Munich,Germany
-1371,2014,Argentina, Manchester City,England
-1372,2014,Argentina, Napoli,Italy
-1373,2014,Argentina, Monterrey,Mexico
-1374,2014,Argentina, Boca Juniors,Argentina
-1375,2006,Argentina, Atletico Madrid,Spain
-1375,2010,Argentina, Liverpool,England
-1375,2014,Argentina, Newell's Old Boys,Argentina
-1376,2014,Argentina, Celta de Vigo,Spain
-1377,2014,Argentina, Internazionale,Italy
-1378,2006,Argentina, Boca Juniors,Argentina
-1378,2014,Argentina, Internazionale,Italy
-1379,2014,Argentina, PSG,France
-1380,2014,Australia, Borussia Dortmund,Germany
-1381,2010,Australia, Adelaide United,Australia
-1381,2014,Australia, Adelaide United,Australia
-1382,2014,Australia, Brisbane Roar,Australia
-1383,2014,Australia, Heracles Almelo,Netherlands
-1384,2014,Australia, Western Sydney Wanderers,Australia
-1385,2014,Australia, Shandong Luneng Taishan,China
-1386,2014,Australia, Jeonbuk Hyundai Motors,South Korea
-1387,2014,Australia, Fortuna Düsseldorf,Germany
-1388,2014,Australia, Utrecht,Netherlands
-1389,2014,Australia, Luzern,Switzerland
-1390,2014,Australia, Melbourne Victory,Australia
-1391,2014,Australia, Austria Wien,Austria
-1392,2014,Australia, Brisbane Roar,Australia
-1393,2010,Australia, MSV Duisburg,Germany
-1393,2014,Australia, Sion,Switzerland
-1394,2006,Australia, Parma,Italy
-1394,2010,Australia, Palermo,Italy
-1394,2014,Australia, Al-Gharafa,Qatar
-1395,2014,Australia, Newcastle Jets,Australia
-1396,2014,Belgium, Zulte Waregem,Belgium
-1397,2014,Belgium, Bayern Munich,Germany
-1398,2014,Belgium, Zenit Saint Petersburg,Russia
-1399,2014,Belgium, Anderlecht,Belgium
-1400,2014,Belgium, Standard Liege,Belgium
-1401,2014,Belgium, Everton,England
-1402,2014,Belgium, Porto,Portugal
-1403,2014,Belgium, Lille,France
-1404,2014,Bosnia and Herzegovina, Stoke City,England
-1405,2014,Bosnia and Herzegovina, VfR Aalen,Germany
-1406,2014,Bosnia and Herzegovina, Borac Banja Luka,Bosnia and Herzegovina
-1407,2014,Bosnia and Herzegovina, Hajduk Split,Croatia
-1408,2014,Bosnia and Herzegovina, Eintracht Braunschweig,Germany
-1409,2014,Bosnia and Herzegovina, Bayer Leverkusen,Germany
-1410,2014,Bosnia and Herzegovina, Schalke 04,Germany
-1411,2014,Bosnia and Herzegovina, Elazigspor,Turkey
-1412,2014,Bosnia and Herzegovina, Ferencvaros,Hungary
-1413,2014,Bosnia and Herzegovina, SC Freiburg,Germany
-1414,2014,Bosnia and Herzegovina, Zorya Luhansk,Ukraine
-1415,2014,Bosnia and Herzegovina, Roma,Italy
-1416,2014,Bosnia and Herzegovina, Guizhou Renhe,China
-1417,2014,Bosnia and Herzegovina, Hajduk Split,Croatia
-1418,2014,Bosnia and Herzegovina, Lazio,Italy
-1419,2014,Bosnia and Herzegovina, Kayseri Erciyesspor,Turkey
-1420,2014,Bosnia and Herzegovina, Gaziantepspor,Turkey
-1421,2014,Bosnia and Herzegovina, Galatasaray,Turkey
-1422,2014,Bosnia and Herzegovina, Sturm Graz,Austria
-1423,2014,Bosnia and Herzegovina, 1899 Hoffenheim,Germany
-1424,2014,Bosnia and Herzegovina, VfB Stuttgart,Germany
-1425,2014,Bosnia and Herzegovina, Manchester City,England
-1426,2014,Bosnia and Herzegovina, Istanbul Basaksehir,Turkey
-1427,2014,Brazil, Botafogo,Brazil
-1428,2006,Brazil, Internazionale,Italy
-1428,2010,Brazil, Internazionale,Italy
-1428,2014,Brazil, Toronto FC,Canada
-1429,2014,Brazil, Atletico Mineiro,Brazil
-1430,2014,Brazil, Chelsea,England
-1431,2014,Brazil, Real Madrid,Spain
-1432,2014,Brazil, Bayern Munich,Germany
-1433,2014,Brazil, PSG,France
-1434,2014,Brazil, Napoli,Italy
-1435,2010,Brazil, Internazionale,Italy
-1435,2014,Brazil, Roma,Italy
-1436,2014,Brazil, Chelsea,England
-1437,2010,Brazil, Benfica,Portugal
-1437,2014,Brazil, Chelsea,England
-1438,2014,Brazil, VfL Wolfsburg,Germany
-1439,2014,Brazil, Internazionale,Italy
-1440,2014,Brazil, Zenit Saint Petersburg,Russia
-1441,2014,Brazil, Shakhtar Donetsk,Ukraine
-1442,2014,Brazil, Atletico Mineiro,Brazil
-1443,2014,Cameroon, Coton Sport,Cameroon
-1444,2014,Cameroon, Konyaspor,Turkey
-1445,2014,Cameroon, Fethiyespor,Turkey
-1446,2010,Cameroon, Tottenham,England
-1446,2014,Cameroon, Queens Park Rangers,England
-1447,2014,Cameroon, Marseille,France
-1448,2014,Cameroon, Coton Sport,Cameroon
-1449,2014,Cameroon, Besiktas,Turkey
-1450,2014,Cameroon, Lyon,France
-1451,2010,Cameroon, Lille,France
-1451,2014,Cameroon, Galatasaray,Turkey
-1452,2014,Cameroon, Granada,Spain
-1453,2010,Cameroon, Arsenal,England
-1453,2014,Cameroon, Barcelona,Spain
-1454,2010,Cameroon, Celtic,Scotland
-1454,2014,Cameroon, Bordeaux,France
-1455,2010,Cameroon, Lyon,France
-1455,2014,Cameroon, Rennes,France
-1456,2014,Cameroon, Sevilla,Spain
-1457,2014,Cameroon, Antalyaspor,Turkey
-1458,2014,Cameroon, Lens,France
-1459,2010,Cameroon, Schalke 04,Germany
-1459,2014,Cameroon, Schalke 04,Germany
-1460,2014,Cameroon, Nancy,France
-1461,2010,Cameroon, Internazionale,Italy
-1461,2014,Cameroon, Chelsea,England
-1462,2010,Cameroon, Mallorca,Spain
-1462,2014,Cameroon, Fenerbahce,Turkey
-1463,2014,Cameroon, Zulte Waregem,Belgium
-1464,2010,Chile, Real Sociedad,Spain
-1464,2014,Chile, Real Sociedad,Spain
-1465,2014,Chile, Universidad Catolica,Chile
-1466,2014,Chile, Universidad de Chile,Chile
-1467,2014,Chile, Santos,Brazil
-1468,2014,Chile, Malmo,Sweden
-1469,2014,Chile, Universidad de Chile,Chile
-1470,2010,Chile, Boca Juniors,Argentina
-1470,2014,Chile, Cardiff City,Wales
-1471,2010,Chile, West Bromwich,England
-1471,2014,Chile, Nottingham Forest,England
-1472,2010,Chile, Udinese,Italy
-1472,2014,Chile, Juventus,Italy
-1473,2014,Chile, Osasuna,Spain
-1474,2010,Chile, Reggina,Italy
-1474,2014,Chile, Atalanta,Italy
-1475,2010,Chile, Bayer Leverkusen,Germany
-1475,2014,Chile, Juventus,Italy
-1476,2010,Chile, Al Ain,United Arab Emirates
-1476,2014,Chile, Palmeiras,Brazil
-1477,2010,Chile, Xerez,Spain
-1477,2014,Chile, Celta de Vigo,Spain
-1478,2010,Chile, America,Mexico
-1478,2014,Chile, Wigan Athletic,England
-1479,2014,Chile, Twente,Netherlands
-1480,2014,Chile, Colo-Colo,Chile
-1481,2014,Chile, Internacional,Brazil
-1482,2014,Chile, Basel,Switzerland
-1483,2014,Chile, Udinese,Italy
-1483,2014,Chile, Barcelona,Spain
-1484,2014,Chile, Cagliari,Italy
-1485,2014,Chile, Valencia,Spain
-1486,2010,Chile, Colo-Colo,Chile
-1486,2014,Chile, Colo-Colo,Chile
-1487,2014,Colombia, Deportivo Cali,Colombia
-1488,2014,Colombia, Atalanta,Italy
-1489,2014,Colombia, West Ham,England
-1490,2014,Colombia, River Plate,Argentina
-1491,2014,Colombia, Napoli,Italy
-1492,2014,Colombia, San Lorenzo,Argentina
-1493,2014,Colombia, River Plate,Argentina
-1494,2014,Colombia, Internazionale,Italy
-1495,2014,Colombia, Atletico Nacional,Colombia
-1496,2014,Colombia, River Plate,Argentina
-1497,2014,Colombia, Cagliari,Italy
-1498,2014,Colombia, Hertha BSC,Germany
-1499,2014,Colombia, Porto,Portugal
-1500,2014,Costa Rica, Herediano,Costa Rica
-1501,2006,Costa Rica, Brujas,Costa Rica
-1501,2014,Costa Rica, Saprissa,Costa Rica
-1502,2014,Costa Rica, Herediano,Costa Rica
-1503,2014,Costa Rica, Columbus Crew,USA
-1504,2014,Costa Rica, Mainz 05,Germany
-1505,2014,Costa Rica, New York Red Bulls,USA
-1506,2014,Costa Rica, Aalesund,Norway
-1507,2014,Costa Rica, Herediano,Costa Rica
-1508,2014,Costa Rica, Valerenga,Norway
-1509,2014,Costa Rica, Herediano,Costa Rica
-1510,2014,Costa Rica, Cartaginés,Costa Rica
-1511,2006,Croatia, Shakhtar Donetsk,Ukraine
-1511,2014,Croatia, Rostov,Russia
-1512,2014,Croatia, Lokomotiva,Croatia
-1513,2014,Croatia, Panathinaikos,Greece
-1514,2006,Croatia, Shakhtar Donetsk,Ukraine
-1514,2014,Croatia, Shakhtar Donetsk,Ukraine
-1515,2014,Croatia, Panathinaikos,Greece
-1516,2014,Croatia, Dynamo Kyiv,Ukraine
-1517,2014,Croatia, Getafe,Spain
-1518,2014,Croatia, Hull City,England
-1519,2006,Croatia, CSKA Moscow,Russia
-1519,2014,Croatia, VfL Wolfsburg,Germany
-1520,2014,Croatia, Shakhtar Donetsk,Ukraine
-1521,2014,Ecuador, Barcelona SC,Ecuador
-1522,2014,Ecuador, El Nacional,Ecuador
-1523,2014,Ecuador, LDU Quito,Ecuador
-1524,2006,Ecuador, El Nacional,Ecuador
-1524,2014,Ecuador, Emelec,Ecuador
-1525,2014,Ecuador, Flamengo,Brazil
-1526,2014,Ecuador, Barcelona SC,Ecuador
-1527,2014,Ecuador, Pachuca,Mexico
-1528,2014,Ecuador, Emelec,Ecuador
-1529,2014,Ecuador, Emelec,Ecuador
-1530,2014,Ecuador, Vitesse,Netherlands
-1531,2014,Ecuador, Dynamo Moscow,Russia
-1532,2014,Ecuador, Morelia,Mexico
-1533,2014,Ecuador, Santa Fe,Colombia
-1534,2014,Ecuador, Cruz Azul,Mexico
-1535,2014,Ecuador, Chivas USA,USA
-1536,2014,Ecuador, Atlante,Mexico
-1537,2006,Ecuador, Recreativo,Spain
-1537,2014,Ecuador, Manchester United,England
-1538,2006,Ecuador, Deportivo Quito,Ecuador
-1538,2014,Ecuador, Barcelona SC,Ecuador
-1539,2014,Ecuador, Tijuana,Mexico
-1540,2014,Ecuador, Al Jazira,United Arab Emirates
-1541,2014,Ecuador, Tijuana,Mexico
-1542,2010,England, Birmingham City,England
-1542,2014,England, Manchester City,England
-1543,2014,England, West Bromwich Albion,England
-1544,2014,England, Celtic,Scotland
-1545,2010,England, Liverpool,England
-1545,2014,England, Liverpool,England
-1546,2014,England, Everton,England
-1547,2014,England, Everton,England
-1548,2014,England, Manchester United,England
-1549,2006,England, Liverpool,England
-1549,2010,England, Liverpool,England
-1549,2014,England, Liverpool,England
-1550,2014,England, Arsenal,England
-1551,2006,England, Chelsea,England
-1551,2010,England, Chelsea,England
-1551,2014,England, Chelsea,England
-1552,2014,England, Arsenal,England
-1553,2010,England, Aston Villa,England
-1553,2014,England, Manchester City,England
-1554,2014,England, Southampton,England
-1555,2014,England, Everton,England
-1556,2014,England, Liverpool,England
-1557,2006,England, Manchester United,England
-1557,2010,England, Manchester United,England
-1557,2014,England, Manchester United,England
-1558,2014,England, Southampton,England
-1559,2014,France, Saint-Etienne,France
-1560,2006,France, Nantes,France
-1560,2014,France, Bastia,France
-1561,2014,France, Newcastle United,England
-1562,2010,France, Manchester United,England
-1562,2014,France, Manchester United,England
-1563,2014,France, Liverpool,England
-1564,2014,France, Porto,Portugal
-1565,2010,France, Arsenal,England
-1565,2014,France, Arsenal,England
-1566,2014,France, PSG,France
-1567,2014,France, Arsenal,England
-1568,2014,France, PSG,France
-1569,2014,France, Montpellier,France
-1570,2010,France, Marseille,France
-1570,2014,France, Marseille,France
-1571,2014,France, Lille,France
-1572,2014,France, Newcastle United,England
-1573,2014,France, Southampton,England
-1574,2014,France, Real Madrid,Spain
-1575,2014,France, Newcastle United,England
-1576,2014,Germany, Hannover 96,Germany
-1577,2014,Germany, Borussia Dortmund,Germany
-1578,2014,Germany, Borussia Dortmund,Germany
-1579,2014,Germany, Schalke 04,Germany
-1580,2014,Germany, Borussia Dortmund,Germany
-1581,2006,Germany, Bayern Munich,Germany
-1581,2010,Germany, Bayern Munich,Germany
-1581,2014,Germany, Bayern Munich,Germany
-1582,2006,Germany, Hannover 96,Germany
-1582,2010,Germany, Werder Bremen,Germany
-1582,2014,Germany, Arsenal,England
-1583,2014,Germany, Sampdoria,Italy
-1584,2006,Germany, Bayern Munich,Germany
-1584,2010,Germany, Bayern Munich,Germany
-1584,2014,Germany, Bayern Munich,Germany
-1585,2014,Germany, Borussia Monchengladbach,Germany
-1586,2014,Germany, Chelsea,England
-1587,2006,Germany, 1. FC Koln,Germany
-1587,2010,Germany, 1. FC Koln,Germany
-1587,2014,Germany, Arsenal,England
-1588,2006,Germany, Werder Bremen,Germany
-1588,2010,Germany, Bayern Munich,Germany
-1588,2014,Germany, Lazio,Italy
-1589,2014,Ghana, Aduana Stars,Ghana
-1590,2014,Ghana, Stromsgodset,Norway
-1591,2014,Ghana, Orlando Pirates,South Africa
-1592,2010,Ghana, Basel,Switzerland
-1592,2014,Ghana, Platanias,Greece
-1593,2014,Ghana, Standard Liege,Belgium
-1594,2014,Ghana, Mamelodi Sundowns,South Africa
-1595,2010,Ghana, Granada,Spain
-1595,2014,Ghana, Evian,France
-1596,2014,Ghana, Rennes,France
-1597,2014,Ghana, Espérance de Tunis,Tunisia
-1598,2006,Ghana, Chelsea,England
-1598,2014,Ghana, AC Milan,Italy
-1599,2014,Ghana, Parma,Italy
-1600,2014,Ghana, Vitesse,Netherlands
-1601,2014,Ghana, Udinese,Italy
-1602,2006,Ghana, Udinese,Italy
-1602,2010,Ghana, Internazionale,Italy
-1602,2014,Ghana, AC Milan,Italy
-1603,2014,Ghana, Middlesbrough,England
-1604,2014,Ghana, Kuban Krasnodar,Russia
-1605,2010,Ghana, Udinese,Italy
-1605,2014,Ghana, Juventus,Italy
-1606,2014,Ghana, Rubin Kazan,Russia
-1607,2006,Ghana, Udinese,Italy
-1607,2010,Ghana, Rennes,France
-1607,2014,Ghana, Al Ain,United Arab Emirates
-1608,2010,Ghana, Portsmouth,England
-1608,2014,Ghana, Schalke 04,Germany
-1609,2014,Ghana, Valenciennes,France
-1610,2014,Greece, Granada,Spain
-1611,2014,Greece, PAOK,Greece
-1612,2014,Greece, Panathinaikos,Greece
-1613,2014,Greece, PAOK,Greece
-1614,2014,Greece, Olympiacos,Greece
-1615,2010,Greece, Bologna,Italy
-1615,2014,Greece, Hellas Verona,Italy
-1616,2010,Greece, Panathinaikos,Greece
-1616,2014,Greece, Levante,Spain
-1617,2010,Greece, Olynpiacos,Greece
-1617,2014,Greece, Roma,Italy
-1618,2010,Greece, Genoa,Italy
-1618,2014,Greece, Borussia Dortmund,Germany
-1619,2014,Greece, Olympiacos,Greece
-1620,2014,Greece, Olympiacos,Greece
-1621,2010,Greece, Siena,Italy
-1621,2014,Greece, Kayserispor,Turkey
-1622,2014,Greece, Bologna,Italy
-1623,2010,Greece, Panathinaikos,Greece
-1623,2014,Greece, Fulham,England
-1624,2014,Greece, Bologna,Italy
-1625,2014,Greece, Genoa,Italy
-1626,2010,Greece, Panathinaikos,Greece
-1626,2014,Greece, PAOK,Greece
-1627,2014,Greece, Olympiacos,Greece
-1628,2014,Greece, Torino,Italy
-1629,2010,Greece, Celtic,Scotland
-1629,2014,Greece, Celtic,Scotland
-1630,2014,Greece, Fulham,England
-1631,2010,Greece, Panathinaikos,Greece
-1631,2014,Greece, PAOK,Greece
-1632,2010,Greece, Hertha BSC,Germany
-1632,2014,Greece, Konyaspor,Turkey
-1633,2014,Honduras, Real España,Honduras
-1634,2010,Honduras, CD Olimpia,Honduras
-1634,2014,Honduras, CD Olimpia,Honduras
-1635,2010,Honduras, CD Olimpia,Honduras
-1635,2014,Honduras, CD Olimpia,Honduras
-1636,2010,Honduras, Platense,Honduras
-1636,2014,Honduras, Qingdao Jonoon,China
-1637,2010,Honduras, Wigan Athletic,England
-1637,2014,Honduras, Hull City,England
-1638,2014,Honduras, Motagua,Honduras
-1639,2010,Honduras, Anderlecht,Belgium
-1639,2014,Honduras, San Jose Earthquakes,USA
-1640,2014,Honduras, Wigan Athletic,England
-1641,2014,Honduras, Motagua,Honduras
-1641,2014,Honduras, Celtic,Scotland
-1642,2014,Honduras, CD Olimpia,Honduras
-1643,2010,Honduras, Tottenham,England
-1643,2014,Honduras, Stoke City,England
-1644,2014,Honduras, Real España,Honduras
-1645,2014,Honduras, Real España,Honduras
-1646,2010,Honduras, CD Olimpia,Honduras
-1646,2014,Honduras, Houston Dynamo,USA
-1647,2010,Honduras, Kansas City Wizards,USA
-1647,2014,Honduras, Wigan Athletic,England
-1648,2014,Honduras, Anderlecht,Belgium
-1649,2014,Honduras, CD Olimpia,Honduras
-1650,2014,Honduras, Motagua,Honduras
-1651,2014,Honduras, Chivas USA,USA
-1652,2010,Honduras, Hangzhou Greentown,China
-1652,2014,Honduras, Alajuelense,Costa Rica
-1653,2014,Honduras, New England Revolution,USA
-1654,2014,Honduras, Real España,Honduras
-1655,2014,Honduras, CD Real Sociedad,Honduras
-1656,2014,Iran, Sepahan,Iran
-1657,2014,Iran, Sporting Covilha,Portugal
-1658,2014,Iran, Eintracht Braunschweig,Germany
-1659,2014,Iran, Esteghlal,Iran
-1660,2014,Iran, Persepolis,Iran
-1661,2006,Iran, Esteghlal,Iran
-1661,2014,Iran, Esteghlal,Iran
-1662,2014,Iran, Persepolis,Iran
-1663,2014,Iran, Persepolis,Iran
-1664,2014,Iran, Naft Tehran,Iran
-1665,2014,Iran, Esteghlal,Iran
-1666,2014,Iran, Vancouver Whitecaps FC,Canada
-1667,2014,Iran, Persepolis,Iran
-1668,2014,Iran, Al-Kuwait,Kuwait
-1669,2014,Iran, Zob Ahan,Iran
-1670,2006,Iran, Abu Moslem,Iran
-1670,2014,Iran, Esteghlal,Iran
-1671,2014,Iran, Foolad,Iran
-1672,2006,Italy, Juventus,Italy
-1672,2010,Italy, Juventus,Italy
-1672,2014,Italy, Juventus,Italy
-1673,2014,Italy, PSG,France
-1674,2014,Italy, Genoa,Italy
-1675,2014,Italy, AC Milan,Italy
-1676,2010,Italy, Juventus,Italy
-1676,2014,Italy, Juventus,Italy
-1677,2014,Italy, Torino,Italy
-1678,2014,Italy, AC Milan,Italy
-1679,2006,Italy, Palermo,Italy
-1679,2014,Italy, Juventus,Italy
-1680,2014,Italy, Bari,Italy
-1680,2014,Italy, Juventus,Italy
-1681,2014,Italy, Parma,Italy
-1682,2014,Italy, PSG,France
-1683,2014,Italy, Lazio,Italy
-1684,2010,Italy, Juventus,Italy
-1684,2014,Italy, Juventus,Italy
-1685,2014,Italy, Fiorentina,Italy
-1686,2006,Italy, Roma,Italy
-1686,2010,Italy, Roma,Italy
-1686,2014,Italy, Roma,Italy
-1687,2014,Italy, Parma,Italy
-1688,2006,Italy, AC Milan,Italy
-1688,2010,Italy, AC Milan,Italy
-1688,2014,Italy, Juventus,Italy
-1689,2014,Italy, PSG,France
-1690,2014,Italy, AC Milan,Italy
-1691,2014,Italy, Parma,Italy
-1692,2014,Italy, Torino,Italy
-1693,2014,Italy, Torino,Italy
-1694,2014,Italy, Napoli,Italy
-1695,2006,Ivory Coast, Beveren,Belgium
-1695,2010,Ivory Coast, Lokeren,Belgium
-1695,2014,Ivory Coast, Lokeren,Belgium
-1696,2014,Ivory Coast, Sewe Sport,Ivory Coast
-1697,2014,Ivory Coast, Stabaek,Norway
-1698,2014,Ivory Coast, Caykur Rizespor,Turkey
-1699,2006,Ivory Coast, Strasbourg,France
-1699,2010,Ivory Coast, VfB Stuttgart,Germany
-1699,2014,Ivory Coast, VfB Stuttgart,Germany
-1700,2006,Ivory Coast, Arsenal,England
-1700,2010,Ivory Coast, Manchester City,England
-1700,2014,Ivory Coast, Liverpool,England
-1701,2006,Ivory Coast, Saint-Etienne,France
-1701,2010,Ivory Coast, Sevilla,Spain
-1701,2014,Ivory Coast, Trabzonspor,Turkey
-1702,2014,Ivory Coast, Toulouse,France
-1703,2014,Ivory Coast, Toulouse,France
-1704,2014,Ivory Coast, Eintracht Frankfurt,Germany
-1705,2010,Ivory Coast, Hibernian,Scotland
-1705,2014,Ivory Coast, Trabzonspor,Turkey
-1706,2010,Ivory Coast, Twente,Netherlands
-1706,2014,Ivory Coast, Newcastle United,England
-1707,2014,Ivory Coast, Saint-Etienne,France
-1708,2006,Ivory Coast, Olympiacos,Greece
-1708,2010,Ivory Coast, Barcelona,Spain
-1708,2014,Ivory Coast, Manchester City,England
-1709,2014,Ivory Coast, Basel,Switzerland
-1710,2014,Ivory Coast, Fortuna Düsseldorf,Germany
-1711,2010,Ivory Coast, Chelsea,England
-1711,2014,Ivory Coast, Lille,France
-1712,2010,Ivory Coast, Lille,France
-1712,2014,Ivory Coast, Roma,Italy
-1713,2006,Ivory Coast, Chelsea,England
-1713,2010,Ivory Coast, Chelsea,England
-1713,2014,Ivory Coast, Galatasaray,Turkey
-1714,2014,Ivory Coast, Swansea City,Wales
-1715,2014,Ivory Coast, Hannover 96,Germany
-1716,2014,Ivory Coast, Saint-Etienne,France
-1717,2014,Ivory Coast, Basel,Switzerland
-1718,2014,Japan, Urawa Red Diamonds,Japan
-1719,2010,Japan, Kashima Antlers,Japan
-1719,2014,Japan, Schalke 04,Germany
-1720,2014,Japan, FC Tokyo,Japan
-1721,2010,Japan, FC Tokyo,Japan
-1721,2014,Japan, Gamba Osaka,Japan
-1722,2014,Japan, Jubilo Iwata,Japan
-1723,2006,Japan, Gamba Osaka,Japan
-1723,2010,Japan, Gamba Osaka,Japan
-1723,2014,Japan, Gamba Osaka,Japan
-1724,2014,Japan, 1. FC Nürnberg,Germany
-1725,2014,Japan, Sanfrecce Hiroshima,Japan
-1726,2014,Japan, Cerezo Osaka,Japan
-1727,2010,Japan, Vissel Kobe,Japan
-1727,2014,Japan, Kawasaki Frontale,Japan
-1728,2014,Japan, Yokohama F. Marinos,Japan
+1357,2014,Algeria,Tottenham,England
+1358,2014,Algeria,Club Africain,Tunisia
+1359,2014,Algeria,Internazionale,Italy
+1360,2014,Algeria,Leicester City,England
+1361,2014,Algeria,Ajaccio,France
+1362,2014,Algeria,Porto,Portugal
+1363,2014,Algeria,Sporting CP,Portugal
+1364,2014,Algeria,Dinamo Zagreb,Croatia
+1365,2010,Argentina,AZ,Netherlands
+1365,2014,Argentina,Monaco,France
+1366,2014,Argentina,Boca Juniors,Argentina
+1367,2010,Argentina,Catania,Italy
+1367,2014,Argentina,Catania,Italy
+1368,2014,Argentina,Benfica,Portugal
+1369,2014,Argentina,Internazionale,Italy
+1370,2014,Argentina,Manchester City,England
+1371,2010,Argentina,Bayern Munich,Germany
+1371,2014,Argentina,Manchester City,England
+1372,2014,Argentina,Napoli,Italy
+1373,2014,Argentina,Monterrey,Mexico
+1374,2014,Argentina,Boca Juniors,Argentina
+1375,2006,Argentina,Atletico Madrid,Spain
+1375,2010,Argentina,Liverpool,England
+1375,2014,Argentina,Newell's Old Boys,Argentina
+1376,2014,Argentina,Celta de Vigo,Spain
+1377,2014,Argentina,Internazionale,Italy
+1378,2006,Argentina,Boca Juniors,Argentina
+1378,2014,Argentina,Internazionale,Italy
+1379,2014,Argentina,PSG,France
+1380,2014,Australia,Borussia Dortmund,Germany
+1381,2010,Australia,Adelaide United,Australia
+1381,2014,Australia,Adelaide United,Australia
+1382,2014,Australia,Brisbane Roar,Australia
+1383,2014,Australia,Heracles Almelo,Netherlands
+1384,2014,Australia,Western Sydney Wanderers,Australia
+1385,2014,Australia,Shandong Luneng Taishan,China
+1386,2014,Australia,Jeonbuk Hyundai Motors,South Korea
+1387,2014,Australia,Fortuna Düsseldorf,Germany
+1388,2014,Australia,Utrecht,Netherlands
+1389,2014,Australia,Luzern,Switzerland
+1390,2014,Australia,Melbourne Victory,Australia
+1391,2014,Australia,Austria Wien,Austria
+1392,2014,Australia,Brisbane Roar,Australia
+1393,2010,Australia,MSV Duisburg,Germany
+1393,2014,Australia,Sion,Switzerland
+1394,2006,Australia,Parma,Italy
+1394,2010,Australia,Palermo,Italy
+1394,2014,Australia,Al-Gharafa,Qatar
+1395,2014,Australia,Newcastle Jets,Australia
+1396,2014,Belgium,Zulte Waregem,Belgium
+1397,2014,Belgium,Bayern Munich,Germany
+1398,2014,Belgium,Zenit Saint Petersburg,Russia
+1399,2014,Belgium,Anderlecht,Belgium
+1400,2014,Belgium,Standard Liege,Belgium
+1401,2014,Belgium,Everton,England
+1402,2014,Belgium,Porto,Portugal
+1403,2014,Belgium,Lille,France
+1404,2014,Bosnia and Herzegovina,Stoke City,England
+1405,2014,Bosnia and Herzegovina,VfR Aalen,Germany
+1406,2014,Bosnia and Herzegovina,Borac Banja Luka,Bosnia and Herzegovina
+1407,2014,Bosnia and Herzegovina,Hajduk Split,Croatia
+1408,2014,Bosnia and Herzegovina,Eintracht Braunschweig,Germany
+1409,2014,Bosnia and Herzegovina,Bayer Leverkusen,Germany
+1410,2014,Bosnia and Herzegovina,Schalke 04,Germany
+1411,2014,Bosnia and Herzegovina,Elazigspor,Turkey
+1412,2014,Bosnia and Herzegovina,Ferencvaros,Hungary
+1413,2014,Bosnia and Herzegovina,SC Freiburg,Germany
+1414,2014,Bosnia and Herzegovina,Zorya Luhansk,Ukraine
+1415,2014,Bosnia and Herzegovina,Roma,Italy
+1416,2014,Bosnia and Herzegovina,Guizhou Renhe,China
+1417,2014,Bosnia and Herzegovina,Hajduk Split,Croatia
+1418,2014,Bosnia and Herzegovina,Lazio,Italy
+1419,2014,Bosnia and Herzegovina,Kayseri Erciyesspor,Turkey
+1420,2014,Bosnia and Herzegovina,Gaziantepspor,Turkey
+1421,2014,Bosnia and Herzegovina,Galatasaray,Turkey
+1422,2014,Bosnia and Herzegovina,Sturm Graz,Austria
+1423,2014,Bosnia and Herzegovina,1899 Hoffenheim,Germany
+1424,2014,Bosnia and Herzegovina,VfB Stuttgart,Germany
+1425,2014,Bosnia and Herzegovina,Manchester City,England
+1426,2014,Bosnia and Herzegovina,Istanbul Basaksehir,Turkey
+1427,2014,Brazil,Botafogo,Brazil
+1428,2006,Brazil,Internazionale,Italy
+1428,2010,Brazil,Internazionale,Italy
+1428,2014,Brazil,Toronto FC,Canada
+1429,2014,Brazil,Atletico Mineiro,Brazil
+1430,2014,Brazil,Chelsea,England
+1431,2014,Brazil,Real Madrid,Spain
+1432,2014,Brazil,Bayern Munich,Germany
+1433,2014,Brazil,PSG,France
+1434,2014,Brazil,Napoli,Italy
+1435,2010,Brazil,Internazionale,Italy
+1435,2014,Brazil,Roma,Italy
+1436,2014,Brazil,Chelsea,England
+1437,2010,Brazil,Benfica,Portugal
+1437,2014,Brazil,Chelsea,England
+1438,2014,Brazil,VfL Wolfsburg,Germany
+1439,2014,Brazil,Internazionale,Italy
+1440,2014,Brazil,Zenit Saint Petersburg,Russia
+1441,2014,Brazil,Shakhtar Donetsk,Ukraine
+1442,2014,Brazil,Atletico Mineiro,Brazil
+1443,2014,Cameroon,Coton Sport,Cameroon
+1444,2014,Cameroon,Konyaspor,Turkey
+1445,2014,Cameroon,Fethiyespor,Turkey
+1446,2010,Cameroon,Tottenham,England
+1446,2014,Cameroon,Queens Park Rangers,England
+1447,2014,Cameroon,Marseille,France
+1448,2014,Cameroon,Coton Sport,Cameroon
+1449,2014,Cameroon,Besiktas,Turkey
+1450,2014,Cameroon,Lyon,France
+1451,2010,Cameroon,Lille,France
+1451,2014,Cameroon,Galatasaray,Turkey
+1452,2014,Cameroon,Granada,Spain
+1453,2010,Cameroon,Arsenal,England
+1453,2014,Cameroon,Barcelona,Spain
+1454,2010,Cameroon,Celtic,Scotland
+1454,2014,Cameroon,Bordeaux,France
+1455,2010,Cameroon,Lyon,France
+1455,2014,Cameroon,Rennes,France
+1456,2014,Cameroon,Sevilla,Spain
+1457,2014,Cameroon,Antalyaspor,Turkey
+1458,2014,Cameroon,Lens,France
+1459,2010,Cameroon,Schalke 04,Germany
+1459,2014,Cameroon,Schalke 04,Germany
+1460,2014,Cameroon,Nancy,France
+1461,2010,Cameroon,Internazionale,Italy
+1461,2014,Cameroon,Chelsea,England
+1462,2010,Cameroon,Mallorca,Spain
+1462,2014,Cameroon,Fenerbahce,Turkey
+1463,2014,Cameroon,Zulte Waregem,Belgium
+1464,2010,Chile,Real Sociedad,Spain
+1464,2014,Chile,Real Sociedad,Spain
+1465,2014,Chile,Universidad Catolica,Chile
+1466,2014,Chile,Universidad de Chile,Chile
+1467,2014,Chile,Santos,Brazil
+1468,2014,Chile,Malmo,Sweden
+1469,2014,Chile,Universidad de Chile,Chile
+1470,2010,Chile,Boca Juniors,Argentina
+1470,2014,Chile,Cardiff City,Wales
+1471,2010,Chile,West Bromwich,England
+1471,2014,Chile,Nottingham Forest,England
+1472,2010,Chile,Udinese,Italy
+1472,2014,Chile,Juventus,Italy
+1473,2014,Chile,Osasuna,Spain
+1474,2010,Chile,Reggina,Italy
+1474,2014,Chile,Atalanta,Italy
+1475,2010,Chile,Bayer Leverkusen,Germany
+1475,2014,Chile,Juventus,Italy
+1476,2010,Chile,Al Ain,United Arab Emirates
+1476,2014,Chile,Palmeiras,Brazil
+1477,2010,Chile,Xerez,Spain
+1477,2014,Chile,Celta de Vigo,Spain
+1478,2010,Chile,America,Mexico
+1478,2014,Chile,Wigan Athletic,England
+1479,2014,Chile,Twente,Netherlands
+1480,2014,Chile,Colo-Colo,Chile
+1481,2014,Chile,Internacional,Brazil
+1482,2014,Chile,Basel,Switzerland
+1483,2014,Chile,Udinese,Italy
+1483,2014,Chile,Barcelona,Spain
+1484,2014,Chile,Cagliari,Italy
+1485,2014,Chile,Valencia,Spain
+1486,2010,Chile,Colo-Colo,Chile
+1486,2014,Chile,Colo-Colo,Chile
+1487,2014,Colombia,Deportivo Cali,Colombia
+1488,2014,Colombia,Atalanta,Italy
+1489,2014,Colombia,West Ham,England
+1490,2014,Colombia,River Plate,Argentina
+1491,2014,Colombia,Napoli,Italy
+1492,2014,Colombia,San Lorenzo,Argentina
+1493,2014,Colombia,River Plate,Argentina
+1494,2014,Colombia,Internazionale,Italy
+1495,2014,Colombia,Atletico Nacional,Colombia
+1496,2014,Colombia,River Plate,Argentina
+1497,2014,Colombia,Cagliari,Italy
+1498,2014,Colombia,Hertha BSC,Germany
+1499,2014,Colombia,Porto,Portugal
+1500,2014,Costa Rica,Herediano,Costa Rica
+1501,2006,Costa Rica,Brujas,Costa Rica
+1501,2014,Costa Rica,Saprissa,Costa Rica
+1502,2014,Costa Rica,Herediano,Costa Rica
+1503,2014,Costa Rica,Columbus Crew,USA
+1504,2014,Costa Rica,Mainz 05,Germany
+1505,2014,Costa Rica,New York Red Bulls,USA
+1506,2014,Costa Rica,Aalesund,Norway
+1507,2014,Costa Rica,Herediano,Costa Rica
+1508,2014,Costa Rica,Valerenga,Norway
+1509,2014,Costa Rica,Herediano,Costa Rica
+1510,2014,Costa Rica,Cartaginés,Costa Rica
+1511,2006,Croatia,Shakhtar Donetsk,Ukraine
+1511,2014,Croatia,Rostov,Russia
+1512,2014,Croatia,Lokomotiva,Croatia
+1513,2014,Croatia,Panathinaikos,Greece
+1514,2006,Croatia,Shakhtar Donetsk,Ukraine
+1514,2014,Croatia,Shakhtar Donetsk,Ukraine
+1515,2014,Croatia,Panathinaikos,Greece
+1516,2014,Croatia,Dynamo Kyiv,Ukraine
+1517,2014,Croatia,Getafe,Spain
+1518,2014,Croatia,Hull City,England
+1519,2006,Croatia,CSKA Moscow,Russia
+1519,2014,Croatia,VfL Wolfsburg,Germany
+1520,2014,Croatia,Shakhtar Donetsk,Ukraine
+1521,2014,Ecuador,Barcelona SC,Ecuador
+1522,2014,Ecuador,El Nacional,Ecuador
+1523,2014,Ecuador,LDU Quito,Ecuador
+1524,2006,Ecuador,El Nacional,Ecuador
+1524,2014,Ecuador,Emelec,Ecuador
+1525,2014,Ecuador,Flamengo,Brazil
+1526,2014,Ecuador,Barcelona SC,Ecuador
+1527,2014,Ecuador,Pachuca,Mexico
+1528,2014,Ecuador,Emelec,Ecuador
+1529,2014,Ecuador,Emelec,Ecuador
+1530,2014,Ecuador,Vitesse,Netherlands
+1531,2014,Ecuador,Dynamo Moscow,Russia
+1532,2014,Ecuador,Morelia,Mexico
+1533,2014,Ecuador,Santa Fe,Colombia
+1534,2014,Ecuador,Cruz Azul,Mexico
+1535,2014,Ecuador,Chivas USA,USA
+1536,2014,Ecuador,Atlante,Mexico
+1537,2006,Ecuador,Recreativo,Spain
+1537,2014,Ecuador,Manchester United,England
+1538,2006,Ecuador,Deportivo Quito,Ecuador
+1538,2014,Ecuador,Barcelona SC,Ecuador
+1539,2014,Ecuador,Tijuana,Mexico
+1540,2014,Ecuador,Al Jazira,United Arab Emirates
+1541,2014,Ecuador,Tijuana,Mexico
+1542,2010,England,Birmingham City,England
+1542,2014,England,Manchester City,England
+1543,2014,England,West Bromwich Albion,England
+1544,2014,England,Celtic,Scotland
+1545,2010,England,Liverpool,England
+1545,2014,England,Liverpool,England
+1546,2014,England,Everton,England
+1547,2014,England,Everton,England
+1548,2014,England,Manchester United,England
+1549,2006,England,Liverpool,England
+1549,2010,England,Liverpool,England
+1549,2014,England,Liverpool,England
+1550,2014,England,Arsenal,England
+1551,2006,England,Chelsea,England
+1551,2010,England,Chelsea,England
+1551,2014,England,Chelsea,England
+1552,2014,England,Arsenal,England
+1553,2010,England,Aston Villa,England
+1553,2014,England,Manchester City,England
+1554,2014,England,Southampton,England
+1555,2014,England,Everton,England
+1556,2014,England,Liverpool,England
+1557,2006,England,Manchester United,England
+1557,2010,England,Manchester United,England
+1557,2014,England,Manchester United,England
+1558,2014,England,Southampton,England
+1559,2014,France,Saint-Etienne,France
+1560,2006,France,Nantes,France
+1560,2014,France,Bastia,France
+1561,2014,France,Newcastle United,England
+1562,2010,France,Manchester United,England
+1562,2014,France,Manchester United,England
+1563,2014,France,Liverpool,England
+1564,2014,France,Porto,Portugal
+1565,2010,France,Arsenal,England
+1565,2014,France,Arsenal,England
+1566,2014,France,PSG,France
+1567,2014,France,Arsenal,England
+1568,2014,France,PSG,France
+1569,2014,France,Montpellier,France
+1570,2010,France,Marseille,France
+1570,2014,France,Marseille,France
+1571,2014,France,Lille,France
+1572,2014,France,Newcastle United,England
+1573,2014,France,Southampton,England
+1574,2014,France,Real Madrid,Spain
+1575,2014,France,Newcastle United,England
+1576,2014,Germany,Hannover 96,Germany
+1577,2014,Germany,Borussia Dortmund,Germany
+1578,2014,Germany,Borussia Dortmund,Germany
+1579,2014,Germany,Schalke 04,Germany
+1580,2014,Germany,Borussia Dortmund,Germany
+1581,2006,Germany,Bayern Munich,Germany
+1581,2010,Germany,Bayern Munich,Germany
+1581,2014,Germany,Bayern Munich,Germany
+1582,2006,Germany,Hannover 96,Germany
+1582,2010,Germany,Werder Bremen,Germany
+1582,2014,Germany,Arsenal,England
+1583,2014,Germany,Sampdoria,Italy
+1584,2006,Germany,Bayern Munich,Germany
+1584,2010,Germany,Bayern Munich,Germany
+1584,2014,Germany,Bayern Munich,Germany
+1585,2014,Germany,Borussia Monchengladbach,Germany
+1586,2014,Germany,Chelsea,England
+1587,2006,Germany,1. FC Koln,Germany
+1587,2010,Germany,1. FC Koln,Germany
+1587,2014,Germany,Arsenal,England
+1588,2006,Germany,Werder Bremen,Germany
+1588,2010,Germany,Bayern Munich,Germany
+1588,2014,Germany,Lazio,Italy
+1589,2014,Ghana,Aduana Stars,Ghana
+1590,2014,Ghana,Stromsgodset,Norway
+1591,2014,Ghana,Orlando Pirates,South Africa
+1592,2010,Ghana,Basel,Switzerland
+1592,2014,Ghana,Platanias,Greece
+1593,2014,Ghana,Standard Liege,Belgium
+1594,2014,Ghana,Mamelodi Sundowns,South Africa
+1595,2010,Ghana,Granada,Spain
+1595,2014,Ghana,Evian,France
+1596,2014,Ghana,Rennes,France
+1597,2014,Ghana,Espérance de Tunis,Tunisia
+1598,2006,Ghana,Chelsea,England
+1598,2014,Ghana,AC Milan,Italy
+1599,2014,Ghana,Parma,Italy
+1600,2014,Ghana,Vitesse,Netherlands
+1601,2014,Ghana,Udinese,Italy
+1602,2006,Ghana,Udinese,Italy
+1602,2010,Ghana,Internazionale,Italy
+1602,2014,Ghana,AC Milan,Italy
+1603,2014,Ghana,Middlesbrough,England
+1604,2014,Ghana,Kuban Krasnodar,Russia
+1605,2010,Ghana,Udinese,Italy
+1605,2014,Ghana,Juventus,Italy
+1606,2014,Ghana,Rubin Kazan,Russia
+1607,2006,Ghana,Udinese,Italy
+1607,2010,Ghana,Rennes,France
+1607,2014,Ghana,Al Ain,United Arab Emirates
+1608,2010,Ghana,Portsmouth,England
+1608,2014,Ghana,Schalke 04,Germany
+1609,2014,Ghana,Valenciennes,France
+1610,2014,Greece,Granada,Spain
+1611,2014,Greece,PAOK,Greece
+1612,2014,Greece,Panathinaikos,Greece
+1613,2014,Greece,PAOK,Greece
+1614,2014,Greece,Olympiacos,Greece
+1615,2010,Greece,Bologna,Italy
+1615,2014,Greece,Hellas Verona,Italy
+1616,2010,Greece,Panathinaikos,Greece
+1616,2014,Greece,Levante,Spain
+1617,2010,Greece,Olympiacos,Greece
+1617,2014,Greece,Roma,Italy
+1618,2010,Greece,Genoa,Italy
+1618,2014,Greece,Borussia Dortmund,Germany
+1619,2014,Greece,Olympiacos,Greece
+1620,2014,Greece,Olympiacos,Greece
+1621,2010,Greece,Siena,Italy
+1621,2014,Greece,Kayserispor,Turkey
+1622,2014,Greece,Bologna,Italy
+1623,2010,Greece,Panathinaikos,Greece
+1623,2014,Greece,Fulham,England
+1624,2014,Greece,Bologna,Italy
+1625,2014,Greece,Genoa,Italy
+1626,2010,Greece,Panathinaikos,Greece
+1626,2014,Greece,PAOK,Greece
+1627,2014,Greece,Olympiacos,Greece
+1628,2014,Greece,Torino,Italy
+1629,2010,Greece,Celtic,Scotland
+1629,2014,Greece,Celtic,Scotland
+1630,2014,Greece,Fulham,England
+1631,2010,Greece,Panathinaikos,Greece
+1631,2014,Greece,PAOK,Greece
+1632,2010,Greece,Hertha BSC,Germany
+1632,2014,Greece,Konyaspor,Turkey
+1633,2014,Honduras,Real España,Honduras
+1634,2010,Honduras,CD Olimpia,Honduras
+1634,2014,Honduras,CD Olimpia,Honduras
+1635,2010,Honduras,CD Olimpia,Honduras
+1635,2014,Honduras,CD Olimpia,Honduras
+1636,2010,Honduras,Platense,Honduras
+1636,2014,Honduras,Qingdao Jonoon,China
+1637,2010,Honduras,Wigan Athletic,England
+1637,2014,Honduras,Hull City,England
+1638,2014,Honduras,Motagua,Honduras
+1639,2010,Honduras,Anderlecht,Belgium
+1639,2014,Honduras,San Jose Earthquakes,USA
+1640,2014,Honduras,Wigan Athletic,England
+1641,2014,Honduras,Motagua,Honduras
+1641,2014,Honduras,Celtic,Scotland
+1642,2014,Honduras,CD Olimpia,Honduras
+1643,2010,Honduras,Tottenham,England
+1643,2014,Honduras,Stoke City,England
+1644,2014,Honduras,Real España,Honduras
+1645,2014,Honduras,Real España,Honduras
+1646,2010,Honduras,CD Olimpia,Honduras
+1646,2014,Honduras,Houston Dynamo,USA
+1647,2010,Honduras,Kansas City Wizards,USA
+1647,2014,Honduras,Wigan Athletic,England
+1648,2014,Honduras,Anderlecht,Belgium
+1649,2014,Honduras,CD Olimpia,Honduras
+1650,2014,Honduras,Motagua,Honduras
+1651,2014,Honduras,Chivas USA,USA
+1652,2010,Honduras,Hangzhou Greentown,China
+1652,2014,Honduras,Alajuelense,Costa Rica
+1653,2014,Honduras,New England Revolution,USA
+1654,2014,Honduras,Real España,Honduras
+1655,2014,Honduras,CD Real Sociedad,Honduras
+1656,2014,Iran,Sepahan,Iran
+1657,2014,Iran,Sporting Covilha,Portugal
+1658,2014,Iran,Eintracht Braunschweig,Germany
+1659,2014,Iran,Esteghlal,Iran
+1660,2014,Iran,Persepolis,Iran
+1661,2006,Iran,Esteghlal,Iran
+1661,2014,Iran,Esteghlal,Iran
+1662,2014,Iran,Persepolis,Iran
+1663,2014,Iran,Persepolis,Iran
+1664,2014,Iran,Naft Tehran,Iran
+1665,2014,Iran,Esteghlal,Iran
+1666,2014,Iran,Vancouver Whitecaps FC,Canada
+1667,2014,Iran,Persepolis,Iran
+1668,2014,Iran,Al-Kuwait,Kuwait
+1669,2014,Iran,Zob Ahan,Iran
+1670,2006,Iran,Abu Moslem,Iran
+1670,2014,Iran,Esteghlal,Iran
+1671,2014,Iran,Foolad,Iran
+1672,2006,Italy,Juventus,Italy
+1672,2010,Italy,Juventus,Italy
+1672,2014,Italy,Juventus,Italy
+1673,2014,Italy,PSG,France
+1674,2014,Italy,Genoa,Italy
+1675,2014,Italy,AC Milan,Italy
+1676,2010,Italy,Juventus,Italy
+1676,2014,Italy,Juventus,Italy
+1677,2014,Italy,Torino,Italy
+1678,2014,Italy,AC Milan,Italy
+1679,2006,Italy,Palermo,Italy
+1679,2014,Italy,Juventus,Italy
+1680,2014,Italy,Bari,Italy
+1680,2014,Italy,Juventus,Italy
+1681,2014,Italy,Parma,Italy
+1682,2014,Italy,PSG,France
+1683,2014,Italy,Lazio,Italy
+1684,2010,Italy,Juventus,Italy
+1684,2014,Italy,Juventus,Italy
+1685,2014,Italy,Fiorentina,Italy
+1686,2006,Italy,Roma,Italy
+1686,2010,Italy,Roma,Italy
+1686,2014,Italy,Roma,Italy
+1687,2014,Italy,Parma,Italy
+1688,2006,Italy,AC Milan,Italy
+1688,2010,Italy,AC Milan,Italy
+1688,2014,Italy,Juventus,Italy
+1689,2014,Italy,PSG,France
+1690,2014,Italy,AC Milan,Italy
+1691,2014,Italy,Parma,Italy
+1692,2014,Italy,Torino,Italy
+1693,2014,Italy,Torino,Italy
+1694,2014,Italy,Napoli,Italy
+1695,2006,Ivory Coast,Beveren,Belgium
+1695,2010,Ivory Coast,Lokeren,Belgium
+1695,2014,Ivory Coast,Lokeren,Belgium
+1696,2014,Ivory Coast,Sewe Sport,Ivory Coast
+1697,2014,Ivory Coast,Stabaek,Norway
+1698,2014,Ivory Coast,Caykur Rizespor,Turkey
+1699,2006,Ivory Coast,Strasbourg,France
+1699,2010,Ivory Coast,VfB Stuttgart,Germany
+1699,2014,Ivory Coast,VfB Stuttgart,Germany
+1700,2006,Ivory Coast,Arsenal,England
+1700,2010,Ivory Coast,Manchester City,England
+1700,2014,Ivory Coast,Liverpool,England
+1701,2006,Ivory Coast,Saint-Etienne,France
+1701,2010,Ivory Coast,Sevilla,Spain
+1701,2014,Ivory Coast,Trabzonspor,Turkey
+1702,2014,Ivory Coast,Toulouse,France
+1703,2014,Ivory Coast,Toulouse,France
+1704,2014,Ivory Coast,Eintracht Frankfurt,Germany
+1705,2010,Ivory Coast,Hibernian,Scotland
+1705,2014,Ivory Coast,Trabzonspor,Turkey
+1706,2010,Ivory Coast,Twente,Netherlands
+1706,2014,Ivory Coast,Newcastle United,England
+1707,2014,Ivory Coast,Saint-Etienne,France
+1708,2006,Ivory Coast,Olympiacos,Greece
+1708,2010,Ivory Coast,Barcelona,Spain
+1708,2014,Ivory Coast,Manchester City,England
+1709,2014,Ivory Coast,Basel,Switzerland
+1710,2014,Ivory Coast,Fortuna Düsseldorf,Germany
+1711,2010,Ivory Coast,Chelsea,England
+1711,2014,Ivory Coast,Lille,France
+1712,2010,Ivory Coast,Lille,France
+1712,2014,Ivory Coast,Roma,Italy
+1713,2006,Ivory Coast,Chelsea,England
+1713,2010,Ivory Coast,Chelsea,England
+1713,2014,Ivory Coast,Galatasaray,Turkey
+1714,2014,Ivory Coast,Swansea City,Wales
+1715,2014,Ivory Coast,Hannover 96,Germany
+1716,2014,Ivory Coast,Saint-Etienne,France
+1717,2014,Ivory Coast,Basel,Switzerland
+1718,2014,Japan,Urawa Red Diamonds,Japan
+1719,2010,Japan,Kashima Antlers,Japan
+1719,2014,Japan,Schalke 04,Germany
+1720,2014,Japan,FC Tokyo,Japan
+1721,2010,Japan,FC Tokyo,Japan
+1721,2014,Japan,Gamba Osaka,Japan
+1722,2014,Japan,Jubilo Iwata,Japan
+1723,2006,Japan,Gamba Osaka,Japan
+1723,2010,Japan,Gamba Osaka,Japan
+1723,2014,Japan,Gamba Osaka,Japan
+1724,2014,Japan,1. FC Nürnberg,Germany
+1725,2014,Japan,Sanfrecce Hiroshima,Japan
+1726,2014,Japan,Cerezo Osaka,Japan
+1727,2010,Japan,Vissel Kobe,Japan
+1727,2014,Japan,Kawasaki Frontale,Japan
+1728,2014,Japan,Yokohama F. Marinos,Japan
 1729,2006,Mexico,Guadalajara,Mexico
 1729,2014,Mexico,America,Mexico
 1730,2006,Mexico,Guadalajara,Mexico
-1730,2010,Mexico, PSV,Netherlands
-1730,2014,Mexico, UANL,Mexico
-1731,2014,Mexico, Porto,Portugal
-1732,2014,Mexico, Toluca,Mexico
-1733,2014,Mexico, Pachuca,Mexico
-1733,2014,Mexico, America,Mexico
-1734,2014,Mexico, Toluca,Mexico
-1735,2014,Mexico, León,Mexico
-1736,2014,Mexico, León,Mexico
-1737,2014,Mexico, UANL,Mexico
-1738,2014,Netherlands, Ajax,Netherlands
-1739,2010,Netherlands, Utrecht,Netherlands
-1739,2014,Netherlands, Swansea City,Wales
-1740,2014,Netherlands, Newcastle United,England
-1741,2014,Netherlands, Aston Villa,England
-1742,2014,Netherlands, Feyenoord,Netherlands
-1743,2014,Netherlands, Feyenoord,Netherlands
-1744,2014,Netherlands, FC Augsburg,Germany
-1745,2014,Netherlands, Ajax,Netherlands
-1746,2014,Netherlands, Feyenoord,Netherlands
-1747,2006,Netherlands, Feyenoord,Netherlands
-1747,2010,Netherlands, Liverpool,England
-1747,2014,Netherlands, Fenerbahce,Turkey
-1748,2010,Netherlands, Manchester City,England
-1748,2014,Netherlands, AC Milan,Italy
-1749,2014,Netherlands, Swansea City,Wales
-1750,2006,Netherlands, Ajax,Netherlands
-1750,2010,Netherlands, Internazionale,Italy
-1750,2014,Netherlands, Galatasaray,Turkey
-1751,2014,Netherlands, Feyenoord,Netherlands
-1752,2014,Netherlands, Norwich City,England
-1753,2014,Netherlands, PSV,Netherlands
-1754,2006,Netherlands, Arsenal,England
-1754,2010,Netherlands, Arsenal,England
-1754,2014,Netherlands, Manchester United,England
-1755,2006,Netherlands, Chelsea,England
-1755,2010,Netherlands, Bayern Munich,Germany
-1755,2014,Netherlands, Bayern Munich,Germany
-1756,2014,Netherlands, Dynamo Kyiv,Ukraine
-1757,2010,Netherlands, AC Milan,Italy
-1757,2014,Netherlands, Schalke 04,Germany
-1758,2010,Nigeria, Hapoel Tel Aviv,Israel
-1758,2014,Nigeria, Lille,France
-1759,2010,Nigeria, Hapoel Petah Tikva,Israel
-1759,2014,Nigeria, Hapoel Be'er Sheva,Israel
-1760,2014,Nigeria, Gombe United,Nigeria
-1761,2010,Nigeria, Everton,England
-1761,2014,Nigeria, Norwich City,England
-1762,2014,Nigeria, Celtic,Scotland
-1763,2014,Nigeria, Warri Wolves,Nigeria
-1764,2014,Nigeria, Sunshine Stars,Nigeria
-1765,2014,Nigeria, Ashdod,Israel
-1766,2014,Nigeria, Caykur Rizespor,Turkey
-1767,2014,Nigeria, Enugu Rangers,Nigeria
-1768,2014,Nigeria, Waasland-Beveren,Belgium
-1769,2014,Nigeria, Chelsea,England
-1770,2014,Nigeria, Almería,Spain
-1771,2014,Nigeria, Volyn Lutsk,Ukraine
-1772,2010,Nigeria, Lokomotiv Moscow,Russia
-1772,2014,Nigeria, Stoke City,England
-1773,2014,Nigeria, Fenerbahce,Turkey
-1774,2014,Nigeria, Heerenveen,Netherlands
-1775,2014,Nigeria, Cercle Brugge,Belgium
-1776,2014,Nigeria, Newcastle United,England
-1777,2010,Portugal, SC Braga,Portugal
-1777,2014,Portugal, SC Braga,Portugal
-1778,2014,Portugal, Sporting CP,Portugal
-1779,2010,Portugal, Benfica,Portugal
-1779,2014,Portugal, Real Madrid,Spain
-1780,2006,Portugal, Porto,Portugal
-1780,2010,Portugal, Lille,France
-1780,2014,Portugal, Valencia,Spain
-1781,2014,Portugal, Zenit Saint Petersburg,Russia
-1782,2014,Portugal, Benfica,Portugal
-1783,2014,Portugal, Valencia,Spain
-1784,2010,Portugal, Sporting CP,Portugal
-1784,2014,Portugal, Dynamo Kyiv,Ukraine
-1785,2014,Portugal, VfL Wolfsburg,Germany
-1786,2014,Portugal, SC Braga,Portugal
-1787,2010,Portugal, Porto,Portugal
-1787,2014,Portugal, Fenerbahce,Turkey
-1788,2014,Portugal, Manchester United,England
-1789,2014,Portugal, Porto,Portugal
-1790,2010,Portugal, Benfica,Portugal
-1790,2014,Portugal, Benfica,Portugal
-1791,2010,Portugal, Werder Bremen,Germany
-1791,2014,Portugal, Besiktas,Turkey
-1792,2014,Portugal, SC Braga,Portugal
-1793,2006,Portugal, Porto,Portugal
-1793,2014,Portugal, Lazio,Italy
-1794,2014,Russia, CSKA Moscow,Russia
-1795,2014,Russia, Zenit Saint Petersburg,Russia
-1796,2014,Russia, Rubin Kazan,Russia
-1797,2014,Russia, Dynamo Moscow,Russia
-1798,2014,Russia, CSKA Moscow,Russia
-1799,2014,Russia, CSKA Moscow,Russia
-1800,2014,Russia, Anzhi Makhachkala,Russia
-1801,2014,Russia, Spartak Moscow,Russia
-1802,2014,Russia, Dynamo Moscow,Russia
-1803,2014,Russia, Spartak Moscow,Russia
-1804,2014,Russia, Rubin Kazan,Russia
-1805,2014,Russia, Zenit Saint Petersburg,Russia
-1806,2014,Russia, Zenit Saint Petersburg,Russia
-1807,2014,Russia, Amkar Perm,Russia
-1808,2014,Russia, Dynamo Moscow,Russia
-1809,2014,Russia, Zenit Saint Petersburg,Russia
-1810,2014,Russia, Dynamo Moscow,Russia
-1811,2010,South Korea, Seongnam Ilhwa Chunma,South Korea
-1811,2014,South Korea, Suwon Samsung Bluewings,South Korea
-1812,2014,South Korea, Busan IPark,South Korea
-1813,2014,South Korea, Kashiwa Reysol,Japan
-1814,2014,South Korea, Queens Park Rangers,England
-1815,2014,South Korea, Al Hilal,Saudi Arabia
-1816,2014,South Korea, Sanfrecce Hiroshima,Japan
-1817,2014,South Korea, FC Augsburg,Germany
-1818,2010,South Korea, Oita Trinita,Japan
-1818,2014,South Korea, Cardiff City,Wales
-1819,2014,South Korea, Beijing Guoan,China
-1820,2014,South Korea, Kashiwa Reysol,Japan
-1821,2014,South Korea, Guangzhou R&F,China
-1822,2010,South Korea, Bolton Wanderers,England
-1822,2014,South Korea, Bolton Wanderers,England
-1823,2006,South Korea, Seoul FC,South Korea
-1823,2010,South Korea, Monaco,France
-1823,2014,South Korea, Watford,England
-1824,2014,South Korea, Sangju Sangmu,South Korea
-1825,2014,South Korea, FC Augsburg,Germany
-1826,2006,Spain, Real Madrid,Spain
-1826,2010,Spain, Real Madrid,Spain
-1826,2014,Spain, Real Madrid,Spain
-1827,2006,Spain, Liverpool,England
-1827,2010,Spain, Real Madrid,Spain
-1827,2014,Spain, Napoli,Italy
-1828,2014,Spain, Atletico Madrid,Spain
+1730,2010,Mexico,PSV,Netherlands
+1730,2014,Mexico,UANL,Mexico
+1731,2014,Mexico,Porto,Portugal
+1732,2014,Mexico,Toluca,Mexico
+1733,2014,Mexico,Pachuca,Mexico
+1733,2014,Mexico,America,Mexico
+1734,2014,Mexico,Toluca,Mexico
+1735,2014,Mexico,León,Mexico
+1736,2014,Mexico,León,Mexico
+1737,2014,Mexico,UANL,Mexico
+1738,2014,Netherlands,Ajax,Netherlands
+1739,2010,Netherlands,Utrecht,Netherlands
+1739,2014,Netherlands,Swansea City,Wales
+1740,2014,Netherlands,Newcastle United,England
+1741,2014,Netherlands,Aston Villa,England
+1742,2014,Netherlands,Feyenoord,Netherlands
+1743,2014,Netherlands,Feyenoord,Netherlands
+1744,2014,Netherlands,FC Augsburg,Germany
+1745,2014,Netherlands,Ajax,Netherlands
+1746,2014,Netherlands,Feyenoord,Netherlands
+1747,2006,Netherlands,Feyenoord,Netherlands
+1747,2010,Netherlands,Liverpool,England
+1747,2014,Netherlands,Fenerbahce,Turkey
+1748,2010,Netherlands,Manchester City,England
+1748,2014,Netherlands,AC Milan,Italy
+1749,2014,Netherlands,Swansea City,Wales
+1750,2006,Netherlands,Ajax,Netherlands
+1750,2010,Netherlands,Internazionale,Italy
+1750,2014,Netherlands,Galatasaray,Turkey
+1751,2014,Netherlands,Feyenoord,Netherlands
+1752,2014,Netherlands,Norwich City,England
+1753,2014,Netherlands,PSV,Netherlands
+1754,2006,Netherlands,Arsenal,England
+1754,2010,Netherlands,Arsenal,England
+1754,2014,Netherlands,Manchester United,England
+1755,2006,Netherlands,Chelsea,England
+1755,2010,Netherlands,Bayern Munich,Germany
+1755,2014,Netherlands,Bayern Munich,Germany
+1756,2014,Netherlands,Dynamo Kyiv,Ukraine
+1757,2010,Netherlands,AC Milan,Italy
+1757,2014,Netherlands,Schalke 04,Germany
+1758,2010,Nigeria,Hapoel Tel Aviv,Israel
+1758,2014,Nigeria,Lille,France
+1759,2010,Nigeria,Hapoel Petah Tikva,Israel
+1759,2014,Nigeria,Hapoel Be'er Sheva,Israel
+1760,2014,Nigeria,Gombe United,Nigeria
+1761,2010,Nigeria,Everton,England
+1761,2014,Nigeria,Norwich City,England
+1762,2014,Nigeria,Celtic,Scotland
+1763,2014,Nigeria,Warri Wolves,Nigeria
+1764,2014,Nigeria,Sunshine Stars,Nigeria
+1765,2014,Nigeria,Ashdod,Israel
+1766,2014,Nigeria,Caykur Rizespor,Turkey
+1767,2014,Nigeria,Enugu Rangers,Nigeria
+1768,2014,Nigeria,Waasland-Beveren,Belgium
+1769,2014,Nigeria,Chelsea,England
+1770,2014,Nigeria,Almería,Spain
+1771,2014,Nigeria,Volyn Lutsk,Ukraine
+1772,2010,Nigeria,Lokomotiv Moscow,Russia
+1772,2014,Nigeria,Stoke City,England
+1773,2014,Nigeria,Fenerbahce,Turkey
+1774,2014,Nigeria,Heerenveen,Netherlands
+1775,2014,Nigeria,Cercle Brugge,Belgium
+1776,2014,Nigeria,Newcastle United,England
+1777,2010,Portugal,SC Braga,Portugal
+1777,2014,Portugal,SC Braga,Portugal
+1778,2014,Portugal,Sporting CP,Portugal
+1779,2010,Portugal,Benfica,Portugal
+1779,2014,Portugal,Real Madrid,Spain
+1780,2006,Portugal,Porto,Portugal
+1780,2010,Portugal,Lille,France
+1780,2014,Portugal,Valencia,Spain
+1781,2014,Portugal,Zenit Saint Petersburg,Russia
+1782,2014,Portugal,Benfica,Portugal
+1783,2014,Portugal,Valencia,Spain
+1784,2010,Portugal,Sporting CP,Portugal
+1784,2014,Portugal,Dynamo Kyiv,Ukraine
+1785,2014,Portugal,VfL Wolfsburg,Germany
+1786,2014,Portugal,SC Braga,Portugal
+1787,2010,Portugal,Porto,Portugal
+1787,2014,Portugal,Fenerbahce,Turkey
+1788,2014,Portugal,Manchester United,England
+1789,2014,Portugal,Porto,Portugal
+1790,2010,Portugal,Benfica,Portugal
+1790,2014,Portugal,Benfica,Portugal
+1791,2010,Portugal,Werder Bremen,Germany
+1791,2014,Portugal,Besiktas,Turkey
+1792,2014,Portugal,SC Braga,Portugal
+1793,2006,Portugal,Porto,Portugal
+1793,2014,Portugal,Lazio,Italy
+1794,2014,Russia,CSKA Moscow,Russia
+1795,2014,Russia,Zenit Saint Petersburg,Russia
+1796,2014,Russia,Rubin Kazan,Russia
+1797,2014,Russia,Dynamo Moscow,Russia
+1798,2014,Russia,CSKA Moscow,Russia
+1799,2014,Russia,CSKA Moscow,Russia
+1800,2014,Russia,Anzhi Makhachkala,Russia
+1801,2014,Russia,Spartak Moscow,Russia
+1802,2014,Russia,Dynamo Moscow,Russia
+1803,2014,Russia,Spartak Moscow,Russia
+1804,2014,Russia,Rubin Kazan,Russia
+1805,2014,Russia,Zenit Saint Petersburg,Russia
+1806,2014,Russia,Zenit Saint Petersburg,Russia
+1807,2014,Russia,Amkar Perm,Russia
+1808,2014,Russia,Dynamo Moscow,Russia
+1809,2014,Russia,Zenit Saint Petersburg,Russia
+1810,2014,Russia,Dynamo Moscow,Russia
+1811,2010,South Korea,Seongnam Ilhwa Chunma,South Korea
+1811,2014,South Korea,Suwon Samsung Bluewings,South Korea
+1812,2014,South Korea,Busan IPark,South Korea
+1813,2014,South Korea,Kashiwa Reysol,Japan
+1814,2014,South Korea,Queens Park Rangers,England
+1815,2014,South Korea,Al Hilal,Saudi Arabia
+1816,2014,South Korea,Sanfrecce Hiroshima,Japan
+1817,2014,South Korea,FC Augsburg,Germany
+1818,2010,South Korea,Oita Trinita,Japan
+1818,2014,South Korea,Cardiff City,Wales
+1819,2014,South Korea,Beijing Guoan,China
+1820,2014,South Korea,Kashiwa Reysol,Japan
+1821,2014,South Korea,Guangzhou R&F,China
+1822,2010,South Korea,Bolton Wanderers,England
+1822,2014,South Korea,Bolton Wanderers,England
+1823,2006,South Korea,Seoul FC,South Korea
+1823,2010,South Korea,Monaco,France
+1823,2014,South Korea,Watford,England
+1824,2014,South Korea,Sangju Sangmu,South Korea
+1825,2014,South Korea,FC Augsburg,Germany
+1826,2006,Spain,Real Madrid,Spain
+1826,2010,Spain,Real Madrid,Spain
+1826,2014,Spain,Real Madrid,Spain
+1827,2006,Spain,Liverpool,England
+1827,2010,Spain,Real Madrid,Spain
+1827,2014,Spain,Napoli,Italy
+1828,2014,Spain,Atletico Madrid,Spain
 1829,2010,Spain,Athletic Bilbao,Spain
 1829,2014,Spain,Bayern Munich,Germany
 1830,2006,Spain,Barcelona,Spain
@@ -2522,1253 +2522,1253 @@ player_id,world_cup_year,team,club,country_club
 1836,2006,Spain,Atletico Madrid,Spain
 1836,2010,Spain,Liverpool,England
 1836,2014,Spain,Chelsea,England
-1837,2006,Switzerland, Nacional Madeira,Portugal
-1837,2010,Switzerland, VfL Wolfsburg,Germany
-1837,2014,Switzerland, VfL Wolfsburg,Germany
-1838,2010,Switzerland, Sampdoria,Italy
-1838,2014,Switzerland, Sassuolo,Italy
-1839,2006,Switzerland, Arsenal,England
-1839,2010,Switzerland, Everton,England
-1839,2014,Switzerland, Valencia,Spain
-1840,2010,Switzerland, Hertha BSC,Germany
-1840,2014,Switzerland, Young Boys,Switzerland
-1841,2006,Switzerland, Bayer Leverkusen,Germany
-1841,2010,Switzerland, Bayer Leverkusen,Germany
-1841,2014,Switzerland, Eintracht Frankfurt,Germany
-1842,2010,Switzerland, Udinese,Italy
-1842,2014,Switzerland, Napoli,Italy
-1843,2014,Switzerland, Basel,Switzerland
-1844,2014,Switzerland, SC Freiburg,Germany
-1845,2006,USA, Manchester United,England
-1845,2010,USA, Everton,England
-1845,2014,USA, Everton,England
-1846,2010,USA, Aston Villa,England
-1846,2014,USA, Aston Villa,England
-1847,2014,USA, Real Salt Lake,USA
-1848,2014,USA, LA Galaxy,USA
-1849,2014,USA, Sporting Kansas City,USA
-1850,2014,USA, Hertha BSC,Germany
-1851,2006,USA, PSV,Netherlands
-1851,2010,USA, Rangers,Scotland
-1851,2014,USA, Puebla,Mexico
-1852,2014,USA, Stoke City,England
-1853,2014,USA, 1. FC Nürnberg,Germany
-1854,2014,USA, 1899 Hoffenheim,Germany
-1855,2010,USA, Borussia Moenchengladbach,Germany
-1855,2014,USA, Toronto FC,Canada
-1856,2014,USA, Rosenborg,Norway
-1857,2014,USA, Nantes,France
-1858,2014,USA, Besiktas,Turkey
-1859,2014,USA, Houston Dynamo,USA
-1860,2014,USA, Real Salt Lake,USA
-1861,2014,USA, Bayern Munich,Germany
-1862,2014,USA, Sporting Kansas City,USA
-1863,2006,USA, New England Revolution,USA
-1863,2010,USA, Fulham,England
-1863,2014,USA, Seattle Sounders FC,USA
-1864,2014,USA, AZ,Netherlands
-1865,2010,USA, Hull City,England
-1865,2014,USA, Sunderland,England
-1866,2014,USA, San Jose Earthquakes,USA
-1867,2014,Uruguay, Libertad,Paraguay
-1868,2010,Uruguay, Defensor Sporting,Uruguay
-1868,2014,Uruguay, Vasco da Gama,Brazil
-1869,2010,Uruguay, Fenerbahce,Turkey
-1869,2014,Uruguay, West Bromwich Albion,England
-1870,2010,Uruguay, Porto,Portugal
-1870,2014,Uruguay, Porto,Portugal
-1871,2010,Uruguay, Porto,Portugal
-1871,2014,Uruguay, São Paulo,Brazil
-1872,2010,Uruguay, Napoli,Italy
-1872,2014,Uruguay, Parma,Italy
-1873,2010,Uruguay, Ajax,Netherlands
-1873,2014,Uruguay, Botafogo,Brazil
-1874,2010,Uruguay, Monaco,France
-1874,2014,Uruguay, Bologna,Italy
-1875,2010,Uruguay, Peñarol,Uruguay
-1875,2014,Uruguay, Morelia,Mexico
-1876,2014,Uruguay, Southampton,England
-1877,2014,Uruguay, Lazio,Italy
-1878,2014,Uruguay, Palermo,Italy
-1879,2010,Uruguay, Atletico Madrid,Spain
-1879,2014,Uruguay, Cerezo Osaka,Japan
-1880,2010,Algeria, ASO Chlef,Algeria
-1881,2010,Algeria, ES Sétif,Algeria
-1882,2010,Algeria, Rangers,Scotland
-1883,2010,Algeria, Portsmouth,England
-1884,2010,Algeria, VfL Bochum,Germany
-1885,2010,Algeria, Eintracht Frankfurt,Germany
-1886,2010,Algeria, ES Sétif,Algeria
-1887,2010,Algeria, Lorient,France
-1888,2010,Algeria, Sochaux,France
-1889,2010,Algeria, VfL Wolfsburg,Germany
-1890,2010,Algeria, Wolverhampton,England
-1891,2010,Algeria, Valenciennes,France
-1892,2010,Algeria, Nantes,France
-1893,2010,Algeria, Siena,Italy
-1894,2010,Algeria, Istres,France
-1895,2010,Algeria, AEK Athens,Greece
-1896,2010,Algeria, Borussia Monchengladbach,Germany
-1897,2010,Argentina, Colón,Argentina
-1898,2010,Argentina, Estudiantes,Argentina
-1899,2006,Argentina, Internazionale,Italy
-1899,2010,Argentina, Roma,Italy
-1900,2010,Argentina, Marseille,France
-1901,2010,Argentina, Colón,Argentina
-1902,2010,Argentina, Internazionale,Italy
-1903,2010,Argentina, Fiorentina,Italy
-1904,2010,Argentina, Estudiantes,Argentina
-1905,2010,Argentina, Newcastle United,England
-1906,2010,Argentina, Palermo,Italy
-1907,2006,Argentina, Corinthians,Brazil
-1907,2010,Argentina, Manchester City,England
-1908,2010,Argentina, Boca Juniors,Argentina
-1909,2010,Argentina, Internazionale,Italy
-1910,2006,Australia, Middlesbrough,England
-1910,2010,Australia, Fulham,England
-1911,2010,Australia, Reading,England
-1912,2006,Australia, Blackburn Rovers,England
-1912,2010,Australia, Galatasaray,Turkey
-1913,2006,Australia, Newcastle United,England
-1913,2010,Australia, Rangers,Scotland
-1914,2006,Australia, Central Coast Mariners,Australia
-1914,2010,Australia, Al Jazira,United Arab Emirates
-1915,2006,Australia, Bristol City,England
-1915,2010,Australia, Dynamo Moscow,Russia
-1916,2006,Australia, Basel,Switzerland
-1916,2010,Australia, Basel,Switzerland
-1917,2010,Australia, Twente,Netherlands
-1918,2006,Australia, PSV,Netherlands
-1918,2010,Australia, Gold Coast United,Australia
-1919,2006,Australia, Blackburn Rovers,England
-1919,2010,Australia, Blackburn Rovers,England
-1920,2006,Australia, Parma,Italy
-1920,2010,Australia, Blackburn Rovers,England
-1921,2010,Australia, Antalyaspor,Turkey
-1922,2010,Australia, Sassuolo,Italy
-1923,2010,Australia, Hull City,England
-1924,2006,Australia, Dynamo Dresden,Germany
-1924,2010,Australia, Nagoya Grampus,Japan
-1925,2006,Australia, Liverpool,England
-1925,2010,Australia, Galatasaray,Turkey
-1926,2010,Australia, AZ,Netherlands
-1927,2010,Australia, Roeselare,Belgium
-1928,2010,Brazil, Tottenham,England
-1929,2010,Brazil, Roma,Italy
-1930,2010,Brazil, Internazionale,Italy
-1931,2006,Brazil, Bayer Leverkusen,Germany
-1931,2010,Brazil, Roma,Italy
-1932,2010,Brazil, Lyon,France
-1933,2006,Brazil, Benfica,Portugal
-1933,2010,Brazil, Benfica,Portugal
-1934,2006,Brazil, Hertha BSC,Germany
-1934,2010,Brazil, Cruzeiro,Brazil
-1935,2010,Brazil, Juventus,Italy
-1936,2010,Brazil, Galatasaray,Turkey
-1937,2006,Brazil, Arsenal,England
-1937,2010,Brazil, Panathinaikos,Greece
-1938,2006,Brazil, AC Milan,Italy
-1938,2010,Brazil, Real Madrid,Spain
-1939,2010,Brazil, VfL Wolfsburg,Germany
-1940,2010,Brazil, Roma,Italy
-1941,2010,Brazil, Flamengo,Brazil
-1942,2010,Brazil, Sevilla,Spain
-1943,2006,Brazil, Real Madrid,Spain
-1943,2010,Brazil, Santos,Brazil
-1944,2010,Brazil, Villarreal,Spain
-1945,2010,Brazil, VfL Wolfsburg,Germany
-1946,2010,Cameroon, Espanyol,Spain
-1947,2010,Cameroon, Kayserispor,Turkey
-1948,2010,Cameroon, Valenciennes,France
-1949,2010,Cameroon, Trabzonspor,Turkey
-1950,2010,Cameroon, Tottenham,England
-1951,2010,Cameroon, Ankaragucu,Turkey
-1952,2010,Cameroon, Valenciennes,France
-1953,2010,Cameroon, Marseille,France
-1954,2010,Cameroon, Real Betis,Spain
-1955,2010,Cameroon, 1. FC Kaiserslautern,Germany
-1956,2010,Cameroon, SC Freiburg,Germany
-1957,2010,Chile, Universidad de Chile,Chile
-1958,2010,Chile, Unión Española,Chile
-1959,2010,Chile, Universidad Católica,Chile
-1960,2010,Chile, Universidad Católica,Chile
-1961,2010,Chile, PAOK,Greece
-1962,2010,Chile, Flamengo,Brazil
-1963,2010,Chile, Universidad de Chile,Chile
-1964,2010,Chile, Sporting CP,Portugal
-1965,2010,Chile, Colo-Colo,Chile
-1966,2010,Chile, Besiktas,Turkey
-1967,2010,Chile, Zaragoza,Spain
-1968,2010,Chile, CSKA Moscow,Russia
-1969,2010,Denmark, Stoke City,England
-1970,2010,Denmark, Brondby,Denmark
-1971,2010,Denmark, Copenhagen,Denmark
-1972,2010,Denmark, Liverpool,England
-1973,2010,Denmark, Blackburn Rovers,England
-1974,2010,Denmark, Fiorentina,Italy
-1975,2010,Denmark, AZ,Netherlands
-1976,2010,Denmark, Malaga,Spain
-1977,2010,Denmark, Juventus,Italy
-1978,2010,Denmark, Werder Bremen,Germany
-1979,2010,Denmark, Copenhagen,Denmark
-1980,2010,Denmark, AGF,Denmark
-1981,2010,Denmark, VfL Wolfsburg,Germany
-1982,2010,Denmark, AGF,Denmark
-1983,2010,Denmark, Ajax,Netherlands
-1984,2010,Denmark, Groningen,Netherlands
-1985,2010,Denmark, Feyenoord,Netherlands
-1986,2010,Denmark, Arsenal,England
-1987,2010,Denmark, Randers,Denmark
-1988,2010,Denmark, MSV Duisburg,Germany
-1989,2006,England, Manchester City,England
-1989,2010,England, Portsmouth,England
-1990,2010,England, West Ham,England
-1991,2006,England, Arsenal,England
-1991,2010,England, Chelsea,England
-1992,2010,England, Tottenham,England
-1993,2006,England, Chelsea,England
-1993,2010,England, Chelsea,England
-1994,2010,England, Aston Villa,England
-1995,2010,England, West Ham,England
-1996,2006,England, Liverpool,England
-1996,2010,England, Liverpool,England
-1997,2010,England, Tottenham,England
-1998,2006,England, Tottenham,England
-1998,2010,England, Tottenham,England
-1999,2006,England, Chelsea,England
-1999,2010,England, Chelsea,England
-2000,2010,England, Manchester City,England
-2001,2010,England, Manchester City,England
-2002,2006,England, Tottenham,England
-2002,2010,England, Manchester United,England
-2003,2006,England, Liverpool,England
-2003,2010,England, Tottenham,England
-2004,2010,England, Tottenham,England
-2005,2010,England, Aston Villa,England
-2006,2010,France, Bordeaux,France
-2007,2006,France, Lyon,France
-2007,2010,France, Barcelona,Spain
-2008,2010,France, Lyon,France
-2009,2006,France, Chelsea,England
-2009,2010,France, Arsenal,England
-2010,2010,France, Bordeaux,France
-2011,2010,France, Sevilla,Spain
-2012,2006,France, Marseille,France
-2012,2010,France, Bayern Munich,Germany
-2013,2010,France, Bordeaux,France
-2014,2010,France, Lyon,France
-2015,2006,France, Lyon,France
-2015,2010,France, Chelsea,England
-2016,2006,France, Lyon,France
-2016,2010,France, Bordeaux,France
-2017,2010,France, Arsenal,England
-2018,2010,France, Panathinaikos,Greece
-2019,2006,France, Lyon,France
-2019,2010,France, Lyon,France
-2020,2010,France, Toulouse,France
-2021,2006,France, Arsenal,England
-2021,2010,France, Barcelona,Spain
-2022,2010,France, Chelsea,England
-2023,2010,Germany, Werder Bremen,Germany
-2024,2010,Germany, Bayern Munich,Germany
-2025,2006,Germany, Hertha BSC,Germany
-2025,2010,Germany, Hertha BSC,Germany
-2026,2010,Germany, Hamburger SV,Germany
-2027,2010,Germany, VfB Stuttgart,Germany
-2028,2010,Germany, Bayern Munich,Germany
-2029,2006,Germany, Borussia Moenchengladbach,Germany
-2029,2010,Germany, Hamburger SV,Germany
-2030,2010,Germany, Hamburger SV,Germany
-2031,2010,Germany, Werder Bremen,Germany
-2032,2010,Germany, Bayer Leverkusen,Germany
-2033,2010,Germany, VfB Stuttgart,Germany
-2034,2010,Ghana, Liberty Professionals,Ghana
-2035,2010,Ghana, Heart of Lions,Ghana
-2036,2010,Ghana, Wigan Athletic,England
-2037,2006,Ghana, VfB Wolfsburg,Germany
-2037,2010,Ghana, Bayer Leverkusen,Germany
-2038,2006,Ghana, Hapoel Tel Aviv,Israel
-2038,2010,Ghana, Fulham,England
-2039,2006,Ghana, Rennes,France
-2039,2010,Ghana, Sunderland,England
-2040,2010,Ghana, 1899 Hoffenheim,Germany
-2041,2010,Ghana, Zamalek,Egypt
-2042,2010,Ghana, Bechem Chelsea,Ghana
-2043,2010,Ghana, Rosenborg,Norway
-2044,2006,Ghana, AIK,Sweden
-2044,2010,Ghana, Getafe,Spain
-2045,2006,Ghana, Fenerbahce,Turkey
-2045,2010,Ghana, Bologna,Italy
-2046,2010,Ghana, Al Sadd,Qatar
-2047,2010,Ghana, 1899 Hoffenheim,Germany
-2048,2006,Ghana, Borussia Dortmund,Germany
-2048,2010,Ghana, NAC,Netherlands
-2049,2010,Ghana, AC Milan,Italy
-2050,2010,Greece, PAOK,Greece
-2051,2010,Greece, Panathinaikos,Greece
-2052,2010,Greece, Aris,Greece
-2053,2010,Greece, Panathinaikos,Greece
-2054,2010,Greece, Omonia,Cyprus
-2055,2010,Greece, Panathinaikos,Greece
-2056,2010,Greece, Olympiacos,Greece
-2057,2010,Greece, Liverpool,England
-2058,2010,Greece, PAOK,Greece
-2059,2010,Greece, Panathinaikos,Greece
-2060,2010,Greece, Aris,Greece
-2061,2010,Greece, 1. FC Nürnberg,Germany
-2062,2010,Greece, FCSB,Romania
-2063,2010,Honduras, Motagua,Honduras
+1837,2006,Switzerland,Nacional Madeira,Portugal
+1837,2010,Switzerland,VfL Wolfsburg,Germany
+1837,2014,Switzerland,VfL Wolfsburg,Germany
+1838,2010,Switzerland,Sampdoria,Italy
+1838,2014,Switzerland,Sassuolo,Italy
+1839,2006,Switzerland,Arsenal,England
+1839,2010,Switzerland,Everton,England
+1839,2014,Switzerland,Valencia,Spain
+1840,2010,Switzerland,Hertha BSC,Germany
+1840,2014,Switzerland,Young Boys,Switzerland
+1841,2006,Switzerland,Bayer Leverkusen,Germany
+1841,2010,Switzerland,Bayer Leverkusen,Germany
+1841,2014,Switzerland,Eintracht Frankfurt,Germany
+1842,2010,Switzerland,Udinese,Italy
+1842,2014,Switzerland,Napoli,Italy
+1843,2014,Switzerland,Basel,Switzerland
+1844,2014,Switzerland,SC Freiburg,Germany
+1845,2006,USA,Manchester United,England
+1845,2010,USA,Everton,England
+1845,2014,USA,Everton,England
+1846,2010,USA,Aston Villa,England
+1846,2014,USA,Aston Villa,England
+1847,2014,USA,Real Salt Lake,USA
+1848,2014,USA,LA Galaxy,USA
+1849,2014,USA,Sporting Kansas City,USA
+1850,2014,USA,Hertha BSC,Germany
+1851,2006,USA,PSV,Netherlands
+1851,2010,USA,Rangers,Scotland
+1851,2014,USA,Puebla,Mexico
+1852,2014,USA,Stoke City,England
+1853,2014,USA,1. FC Nürnberg,Germany
+1854,2014,USA,1899 Hoffenheim,Germany
+1855,2010,USA,Borussia Moenchengladbach,Germany
+1855,2014,USA,Toronto FC,Canada
+1856,2014,USA,Rosenborg,Norway
+1857,2014,USA,Nantes,France
+1858,2014,USA,Besiktas,Turkey
+1859,2014,USA,Houston Dynamo,USA
+1860,2014,USA,Real Salt Lake,USA
+1861,2014,USA,Bayern Munich,Germany
+1862,2014,USA,Sporting Kansas City,USA
+1863,2006,USA,New England Revolution,USA
+1863,2010,USA,Fulham,England
+1863,2014,USA,Seattle Sounders FC,USA
+1864,2014,USA,AZ,Netherlands
+1865,2010,USA,Hull City,England
+1865,2014,USA,Sunderland,England
+1866,2014,USA,San Jose Earthquakes,USA
+1867,2014,Uruguay,Libertad,Paraguay
+1868,2010,Uruguay,Defensor Sporting,Uruguay
+1868,2014,Uruguay,Vasco da Gama,Brazil
+1869,2010,Uruguay,Fenerbahce,Turkey
+1869,2014,Uruguay,West Bromwich Albion,England
+1870,2010,Uruguay,Porto,Portugal
+1870,2014,Uruguay,Porto,Portugal
+1871,2010,Uruguay,Porto,Portugal
+1871,2014,Uruguay,São Paulo,Brazil
+1872,2010,Uruguay,Napoli,Italy
+1872,2014,Uruguay,Parma,Italy
+1873,2010,Uruguay,Ajax,Netherlands
+1873,2014,Uruguay,Botafogo,Brazil
+1874,2010,Uruguay,Monaco,France
+1874,2014,Uruguay,Bologna,Italy
+1875,2010,Uruguay,Peñarol,Uruguay
+1875,2014,Uruguay,Morelia,Mexico
+1876,2014,Uruguay,Southampton,England
+1877,2014,Uruguay,Lazio,Italy
+1878,2014,Uruguay,Palermo,Italy
+1879,2010,Uruguay,Atletico Madrid,Spain
+1879,2014,Uruguay,Cerezo Osaka,Japan
+1880,2010,Algeria,ASO Chlef,Algeria
+1881,2010,Algeria,ES Sétif,Algeria
+1882,2010,Algeria,Rangers,Scotland
+1883,2010,Algeria,Portsmouth,England
+1884,2010,Algeria,VfL Bochum,Germany
+1885,2010,Algeria,Eintracht Frankfurt,Germany
+1886,2010,Algeria,ES Sétif,Algeria
+1887,2010,Algeria,Lorient,France
+1888,2010,Algeria,Sochaux,France
+1889,2010,Algeria,VfL Wolfsburg,Germany
+1890,2010,Algeria,Wolverhampton,England
+1891,2010,Algeria,Valenciennes,France
+1892,2010,Algeria,Nantes,France
+1893,2010,Algeria,Siena,Italy
+1894,2010,Algeria,Istres,France
+1895,2010,Algeria,AEK Athens,Greece
+1896,2010,Algeria,Borussia Monchengladbach,Germany
+1897,2010,Argentina,Colon,Argentina
+1898,2010,Argentina,Estudiantes,Argentina
+1899,2006,Argentina,Internazionale,Italy
+1899,2010,Argentina,Roma,Italy
+1900,2010,Argentina,Marseille,France
+1901,2010,Argentina,Colón,Argentina
+1902,2010,Argentina,Internazionale,Italy
+1903,2010,Argentina,Fiorentina,Italy
+1904,2010,Argentina,Estudiantes,Argentina
+1905,2010,Argentina,Newcastle United,England
+1906,2010,Argentina,Palermo,Italy
+1907,2006,Argentina,Corinthians,Brazil
+1907,2010,Argentina,Manchester City,England
+1908,2010,Argentina,Boca Juniors,Argentina
+1909,2010,Argentina,Internazionale,Italy
+1910,2006,Australia,Middlesbrough,England
+1910,2010,Australia,Fulham,England
+1911,2010,Australia,Reading,England
+1912,2006,Australia,Blackburn Rovers,England
+1912,2010,Australia,Galatasaray,Turkey
+1913,2006,Australia,Newcastle United,England
+1913,2010,Australia,Rangers,Scotland
+1914,2006,Australia,Central Coast Mariners,Australia
+1914,2010,Australia,Al Jazira,United Arab Emirates
+1915,2006,Australia,Bristol City,England
+1915,2010,Australia,Dynamo Moscow,Russia
+1916,2006,Australia,Basel,Switzerland
+1916,2010,Australia,Basel,Switzerland
+1917,2010,Australia,Twente,Netherlands
+1918,2006,Australia,PSV,Netherlands
+1918,2010,Australia,Gold Coast United,Australia
+1919,2006,Australia,Blackburn Rovers,England
+1919,2010,Australia,Blackburn Rovers,England
+1920,2006,Australia,Parma,Italy
+1920,2010,Australia,Blackburn Rovers,England
+1921,2010,Australia,Antalyaspor,Turkey
+1922,2010,Australia,Sassuolo,Italy
+1923,2010,Australia,Hull City,England
+1924,2006,Australia,Dynamo Dresden,Germany
+1924,2010,Australia,Nagoya Grampus,Japan
+1925,2006,Australia,Liverpool,England
+1925,2010,Australia,Galatasaray,Turkey
+1926,2010,Australia,AZ,Netherlands
+1927,2010,Australia,Roeselare,Belgium
+1928,2010,Brazil,Tottenham,England
+1929,2010,Brazil,Roma,Italy
+1930,2010,Brazil,Internazionale,Italy
+1931,2006,Brazil,Bayer Leverkusen,Germany
+1931,2010,Brazil,Roma,Italy
+1932,2010,Brazil,Lyon,France
+1933,2006,Brazil,Benfica,Portugal
+1933,2010,Brazil,Benfica,Portugal
+1934,2006,Brazil,Hertha BSC,Germany
+1934,2010,Brazil,Cruzeiro,Brazil
+1935,2010,Brazil,Juventus,Italy
+1936,2010,Brazil,Galatasaray,Turkey
+1937,2006,Brazil,Arsenal,England
+1937,2010,Brazil,Panathinaikos,Greece
+1938,2006,Brazil,AC Milan,Italy
+1938,2010,Brazil,Real Madrid,Spain
+1939,2010,Brazil,VfL Wolfsburg,Germany
+1940,2010,Brazil,Roma,Italy
+1941,2010,Brazil,Flamengo,Brazil
+1942,2010,Brazil,Sevilla,Spain
+1943,2006,Brazil,Real Madrid,Spain
+1943,2010,Brazil,Santos,Brazil
+1944,2010,Brazil,Villarreal,Spain
+1945,2010,Brazil,VfL Wolfsburg,Germany
+1946,2010,Cameroon,Espanyol,Spain
+1947,2010,Cameroon,Kayserispor,Turkey
+1948,2010,Cameroon,Valenciennes,France
+1949,2010,Cameroon,Trabzonspor,Turkey
+1950,2010,Cameroon,Tottenham,England
+1951,2010,Cameroon,Ankaragucu,Turkey
+1952,2010,Cameroon,Valenciennes,France
+1953,2010,Cameroon,Marseille,France
+1954,2010,Cameroon,Real Betis,Spain
+1955,2010,Cameroon,1. FC Kaiserslautern,Germany
+1956,2010,Cameroon,SC Freiburg,Germany
+1957,2010,Chile,Universidad de Chile,Chile
+1958,2010,Chile,Unión Española,Chile
+1959,2010,Chile,Universidad Católica,Chile
+1960,2010,Chile,Universidad Católica,Chile
+1961,2010,Chile,PAOK,Greece
+1962,2010,Chile,Flamengo,Brazil
+1963,2010,Chile,Universidad de Chile,Chile
+1964,2010,Chile,Sporting CP,Portugal
+1965,2010,Chile,Colo-Colo,Chile
+1966,2010,Chile,Besiktas,Turkey
+1967,2010,Chile,Zaragoza,Spain
+1968,2010,Chile,CSKA Moscow,Russia
+1969,2010,Denmark,Stoke City,England
+1970,2010,Denmark,Brondby,Denmark
+1971,2010,Denmark,Copenhagen,Denmark
+1972,2010,Denmark,Liverpool,England
+1973,2010,Denmark,Blackburn Rovers,England
+1974,2010,Denmark,Fiorentina,Italy
+1975,2010,Denmark,AZ,Netherlands
+1976,2010,Denmark,Malaga,Spain
+1977,2010,Denmark,Juventus,Italy
+1978,2010,Denmark,Werder Bremen,Germany
+1979,2010,Denmark,Copenhagen,Denmark
+1980,2010,Denmark,AGF,Denmark
+1981,2010,Denmark,VfL Wolfsburg,Germany
+1982,2010,Denmark,AGF,Denmark
+1983,2010,Denmark,Ajax,Netherlands
+1984,2010,Denmark,Groningen,Netherlands
+1985,2010,Denmark,Feyenoord,Netherlands
+1986,2010,Denmark,Arsenal,England
+1987,2010,Denmark,Randers,Denmark
+1988,2010,Denmark,MSV Duisburg,Germany
+1989,2006,England,Manchester City,England
+1989,2010,England,Portsmouth,England
+1990,2010,England,West Ham,England
+1991,2006,England,Arsenal,England
+1991,2010,England,Chelsea,England
+1992,2010,England,Tottenham,England
+1993,2006,England,Chelsea,England
+1993,2010,England,Chelsea,England
+1994,2010,England,Aston Villa,England
+1995,2010,England,West Ham,England
+1996,2006,England,Liverpool,England
+1996,2010,England,Liverpool,England
+1997,2010,England,Tottenham,England
+1998,2006,England,Tottenham,England
+1998,2010,England,Tottenham,England
+1999,2006,England,Chelsea,England
+1999,2010,England,Chelsea,England
+2000,2010,England,Manchester City,England
+2001,2010,England,Manchester City,England
+2002,2006,England,Tottenham,England
+2002,2010,England,Manchester United,England
+2003,2006,England,Liverpool,England
+2003,2010,England,Tottenham,England
+2004,2010,England,Tottenham,England
+2005,2010,England,Aston Villa,England
+2006,2010,France,Bordeaux,France
+2007,2006,France,Lyon,France
+2007,2010,France,Barcelona,Spain
+2008,2010,France,Lyon,France
+2009,2006,France,Chelsea,England
+2009,2010,France,Arsenal,England
+2010,2010,France,Bordeaux,France
+2011,2010,France,Sevilla,Spain
+2012,2006,France,Marseille,France
+2012,2010,France,Bayern Munich,Germany
+2013,2010,France,Bordeaux,France
+2014,2010,France,Lyon,France
+2015,2006,France,Lyon,France
+2015,2010,France,Chelsea,England
+2016,2006,France,Lyon,France
+2016,2010,France,Bordeaux,France
+2017,2010,France,Arsenal,England
+2018,2010,France,Panathinaikos,Greece
+2019,2006,France,Lyon,France
+2019,2010,France,Lyon,France
+2020,2010,France,Toulouse,France
+2021,2006,France,Arsenal,England
+2021,2010,France,Barcelona,Spain
+2022,2010,France,Chelsea,England
+2023,2010,Germany,Werder Bremen,Germany
+2024,2010,Germany,Bayern Munich,Germany
+2025,2006,Germany,Hertha BSC,Germany
+2025,2010,Germany,Hertha BSC,Germany
+2026,2010,Germany,Hamburger SV,Germany
+2027,2010,Germany,VfB Stuttgart,Germany
+2028,2010,Germany,Bayern Munich,Germany
+2029,2006,Germany,Borussia Moenchengladbach,Germany
+2029,2010,Germany,Hamburger SV,Germany
+2030,2010,Germany,Hamburger SV,Germany
+2031,2010,Germany,Werder Bremen,Germany
+2032,2010,Germany,Bayer Leverkusen,Germany
+2033,2010,Germany,VfB Stuttgart,Germany
+2034,2010,Ghana,Liberty Professionals,Ghana
+2035,2010,Ghana,Heart of Lions,Ghana
+2036,2010,Ghana,Wigan Athletic,England
+2037,2006,Ghana,VfB Wolfsburg,Germany
+2037,2010,Ghana,Bayer Leverkusen,Germany
+2038,2006,Ghana,Hapoel Tel Aviv,Israel
+2038,2010,Ghana,Fulham,England
+2039,2006,Ghana,Rennes,France
+2039,2010,Ghana,Sunderland,England
+2040,2010,Ghana,1899 Hoffenheim,Germany
+2041,2010,Ghana,Zamalek,Egypt
+2042,2010,Ghana,Bechem Chelsea,Ghana
+2043,2010,Ghana,Rosenborg,Norway
+2044,2006,Ghana,AIK,Sweden
+2044,2010,Ghana,Getafe,Spain
+2045,2006,Ghana,Fenerbahce,Turkey
+2045,2010,Ghana,Bologna,Italy
+2046,2010,Ghana,Al Sadd,Qatar
+2047,2010,Ghana,1899 Hoffenheim,Germany
+2048,2006,Ghana,Borussia Dortmund,Germany
+2048,2010,Ghana,NAC,Netherlands
+2049,2010,Ghana,AC Milan,Italy
+2050,2010,Greece,PAOK,Greece
+2051,2010,Greece,Panathinaikos,Greece
+2052,2010,Greece,Aris,Greece
+2053,2010,Greece,Panathinaikos,Greece
+2054,2010,Greece,Omonia,Cyprus
+2055,2010,Greece,Panathinaikos,Greece
+2056,2010,Greece,Olympiacos,Greece
+2057,2010,Greece,Liverpool,England
+2058,2010,Greece,PAOK,Greece
+2059,2010,Greece,Panathinaikos,Greece
+2060,2010,Greece,Aris,Greece
+2061,2010,Greece,1. FC Nürnberg,Germany
+2062,2010,Greece,FCSB,Romania
+2063,2010,Honduras,Motagua,Honduras
 2064,2010,Honduras,CD Olimpia,Honduras
-2065,2010,Honduras, Hangzhou Greentown,China
-2066,2010,Honduras, Motagua,Honduras
-2067,2010,Honduras, Wigan Athletic,England
+2065,2010,Honduras,Hangzhou Greentown,China
+2066,2010,Honduras,Motagua,Honduras
+2067,2010,Honduras,Wigan Athletic,England
 2068,2010,Honduras,CD Olimpia,Honduras
-2069,2010,Honduras, Bari,Italy
+2069,2010,Honduras,Bari,Italy
 2070,2010,Honduras,CD Olimpia,Honduras
-2071,2010,Honduras, Motagua,Honduras
-2072,2010,Honduras, Real España,Honduras
-2073,2010,Honduras, Genoa,Italy
-2074,2010,Honduras, Motagua,Honduras
-2075,2010,Honduras, Marathón,Honduras
-2076,2010,Italy, Cagliari,Italy
-2077,2010,Italy, Napoli,Italy
-2078,2010,Italy, Napoli,Italy
-2079,2010,Italy, Genoa,Italy
-2080,2006,Italy, Juventus,Italy
-2080,2010,Italy, Juventus,Italy
-2081,2010,Italy, Genoa,Italy
-2082,2006,Italy, Juventus,Italy
-2082,2010,Italy, AC Milan,Italy
-2083,2010,Italy, Udinese,Italy
-2084,2006,Italy, AC Milan,Italy
-2084,2010,Italy, AC Milan,Italy
-2085,2006,Italy, Juventus,Italy
-2085,2010,Italy, Juventus,Italy
-2086,2010,Italy, Sampdoria,Italy
-2087,2010,Italy, Fiorentina,Italy
-2088,2006,Italy, Udinese,Italy
-2088,2010,Italy, Juventus,Italy
-2089,2010,Italy, Udinese,Italy
-2090,2006,Italy, AC Milan,Italy
-2090,2010,Italy, Fiorentina,Italy
-2091,2010,Italy, Napoli,Italy
-2092,2010,Italy, Sampdoria,Italy
-2093,2010,Ivory Coast, Maccabi Netanya,Israel
-2094,2010,Ivory Coast, ASEC Mimosas,Ivory Coast
-2095,2010,Ivory Coast, Valenciennes,France
-2096,2010,Ivory Coast, Wigan Athletic,England
-2097,2010,Ivory Coast, Valenciennes,France
-2098,2006,Ivory Coast, Hamburger SV,Germany
-2098,2010,Ivory Coast, Hamburger SV,Germany
-2099,2006,Ivory Coast, Arsenal,England
-2099,2010,Ivory Coast, Arsenal,England
-2100,2010,Ivory Coast, Monaco,France
-2101,2006,Ivory Coast, Le Mans,France
-2101,2010,Ivory Coast, Sevilla,Spain
-2102,2010,Ivory Coast, Internacional Arges,Romania
-2103,2006,Ivory Coast, Lille,France
-2103,2010,Ivory Coast, Galatasaray,Turkey
-2104,2010,Ivory Coast, Young Boys,Switzerland
-2105,2006,Ivory Coast, Lens,France
-2105,2010,Ivory Coast, Portsmouth,England
-2106,2006,Japan, Nagoya Grampus,Japan
-2106,2010,Japan, Nagoya Grampus,Japan
-2107,2006,Japan, Jubilo Iwata,Japan
-2107,2010,Japan, Jubilo Iwata,Japan
-2108,2006,Japan, Sanfreece Hiroshima,Japan
-2108,2010,Japan, Jubilo Iwata,Japan
-2109,2010,Japan, Nagoya Grampus,Japan
-2110,2010,Japan, Kashima Antlers,Japan
-2111,2006,Japan, Yokohama F. Marinos,Japan
-2111,2010,Japan, Yokohama F. Marinos,Japan
-2112,2010,Japan, Urawa Red Diamonds,Japan
-2113,2006,Japan, Celtic,Scotland
-2113,2010,Japan, Yokohama F. Marinos,Japan
-2114,2010,Japan, Kawasaki Frontale,Japan
-2115,2006,Japan, West Bromwich,England
-2115,2010,Japan, Kawasaki Frontale,Japan
-2116,2010,Japan, Grenoble,France
-2117,2006,Japan, Nagoya Grampus,Japan
-2117,2010,Japan, Nagoya Grampus,Japan
-2118,2010,Japan, Albirex Niigata,Japan
-2119,2010,Japan, Catania,Italy
-2120,2010,Mexico, Chiapas,Mexico
-2121,2010,Mexico, Guadalajara,Mexico
-2122,2010,Mexico, PSV,Netherlands
-2123,2006,Mexico, Cruz Azul,Mexico
-2123,2010,Mexico, VfB Stuttgart,Germany
-2124,2010,Mexico, UNAM,Mexico
-2125,2010,Mexico, Guadalajara,Mexico
-2126,2010,Mexico, Atlas,Mexico
-2127,2006,Mexico, Cruz Azul,Mexico
-2127,2010,Mexico, Cruz Azul,Mexico
-2128,2010,Mexico, UNAM,Mexico
-2129,2010,Mexico, UNAM,Mexico
-2130,2010,Mexico, Guadalajara,Mexico
-2131,2006,Mexico, Villarreal,Spain
-2131,2010,Mexico, West Ham,England
-2132,2010,Mexico, Veracruz,Mexico
-2133,2010,Mexico, Guadalajara,Mexico
-2134,2006,Netherlands, Ajax,Netherlands
-2134,2010,Netherlands, Ajax,Netherlands
-2135,2010,Netherlands, Twente,Netherlands
-2136,2010,Netherlands, Ajax,Netherlands
-2137,2006,Netherlands, Ajax,Netherlands
-2137,2010,Netherlands, Everton,England
-2138,2006,Netherlands, AZ,Netherlands
-2138,2010,Netherlands, Hamburger SV,Germany
-2139,2006,Netherlands, Barcelona,Spain
-2139,2010,Netherlands, Feyenoord,Netherlands
-2140,2006,Netherlands, Hamburger SV,Germany
-2140,2010,Netherlands, VfB Stuttgart,Germany
-2141,2006,Netherlands, PSV,Netherlands
-2141,2010,Netherlands, PSV,Netherlands
-2142,2010,Netherlands, Celtic,Scotland
-2143,2006,Netherlands, Barcelona,Spain
-2143,2010,Netherlands, Bayern Munich,Germany
-2144,2010,Netherlands, Ajax,Netherlands
-2145,2010,Netherlands, AZ,Netherlands
-2146,2010,Netherlands, PSV,Netherlands
-2147,2006,Netherlands, Hamburger SV,Germany
-2147,2010,Netherlands, Real Madrid,Spain
-2148,2010,Netherlands, Hamburger SV,Germany
-2149,2006,Netherlands, Ajax,Netherlands
-2149,2010,Netherlands, Liverpool,England
-2150,2010,New Zealand, Wellington Phoenix,New Zealand
-2151,2010,New Zealand, Melbourne Victory,Australia
-2152,2010,New Zealand, Team Wellington,New Zealand
-2153,2010,New Zealand, Wellington Phoenix,New Zealand
-2154,2010,New Zealand, Wellington Phoenix,New Zealand
-2155,2010,New Zealand, Midtjylland,Denmark
-2156,2010,New Zealand, Auckland City,New Zealand
-2157,2010,New Zealand, Blackburn Rovers,England
-2158,2010,New Zealand, New York Red Bulls,USA
-2159,2010,New Zealand, Ipswich Town,England
-2160,2010,New Zealand, Chivas USA,USA
-2161,2010,New Zealand, Wellington Phoenix,New Zealand
-2162,2010,New Zealand, Wellington Phoenix,New Zealand
-2163,2010,New Zealand, Team Wellington,New Zealand
-2164,2010,New Zealand, Motherwell,Scotland
-2165,2010,New Zealand, Canterbury United,New Zealand
-2166,2010,New Zealand, Wellington Phoenix,New Zealand
-2167,2010,New Zealand, FC Tampa Bay,USA
-2168,2010,New Zealand, Newcastle Jets,Australia
-2169,2010,New Zealand, Gold Coast United,Australia
-2170,2010,New Zealand, Middlesbrough,England
-2171,2010,New Zealand, Plymouth Argyle,England
-2172,2010,New Zealand, West Bromwich Albion,England
-2173,2010,Nigeria, Bnei Yehuda,Israel
-2174,2010,Nigeria, Marseille,France
-2175,2010,Nigeria, Red Bull Salzburg,Austria
-2176,2010,Nigeria, Bolton Wanderers,England
-2177,2010,Nigeria, CSKA Moscow,Russia
-2178,2010,Nigeria, Sparta Rotterdam,Netherlands
-2179,2010,Nigeria, Dynamo Kyiv,Ukraine
-2180,2010,Nigeria, Alania Vladikavkaz,Russia
-2181,2010,Nigeria, Monaco,France
-2182,2010,Nigeria, Fulham,England
-2183,2010,Nigeria, Portsmouth,England
-2184,2010,Nigeria, Portsmouth,England
-2185,2010,Nigeria, Everton,England
-2186,2010,Nigeria, VfL Wolfsburg,Germany
-2187,2010,Nigeria, Sochaux,France
-2188,2010,Nigeria, Almería,Spain
-2189,2010,Nigeria, Malaga,Spain
-2190,2010,Nigeria, 1899 Hoffenheim,Germany
-2191,2010,North Korea, Pyongyang City,North Korea
-2192,2010,North Korea, Amrokgang,North Korea
-2193,2010,North Korea, Amrokgang,North Korea
-2194,2010,North Korea, Amrokgang,North Korea
-2195,2010,North Korea, Sobaeksu,North Korea
-2196,2010,North Korea, April 25,North Korea
-2197,2010,North Korea, April 25,North Korea
-2198,2010,North Korea, Amrokgang,North Korea
-2199,2010,North Korea, Amrokgang,North Korea
-2200,2010,North Korea, April 25,North Korea
-2201,2010,North Korea, Kyonggongop,North Korea
-2202,2010,North Korea, Sobaeksu,North Korea
-2203,2010,North Korea, April 25,North Korea
-2204,2010,North Korea, April 25,North Korea
-2205,2010,North Korea, Pyongyang City,North Korea
-2206,2010,North Korea, Omiya Ardija,Japan
-2207,2010,North Korea, Pyongyang City,North Korea
-2208,2010,North Korea, Rimyongsu,North Korea
-2209,2010,North Korea, April 25,North Korea
-2210,2010,North Korea, Rimyongsu,North Korea
-2211,2010,North Korea, Kawasaki Frontale,Japan
-2212,2010,North Korea, Rostov,Russia
-2213,2010,North Korea, April 25,North Korea
-2214,2006,Paraguay, Newell's Old Boys,Argentina
-2214,2010,Paraguay, Valladolid,Spain
-2215,2010,Paraguay, Cerro Porteño,Paraguay
-2216,2006,Paraguay, Libertad,Paraguay
-2216,2010,Paraguay, Independiente Medellín,Colombia
-2217,2010,Paraguay, UNAM,Mexico
-2218,2010,Paraguay, Boca Juniors,Argentina
-2219,2010,Paraguay, León,Mexico
-2220,2006,Paraguay, River Plate,Argentina
-2220,2010,Paraguay, Atlético Mineiro,Brazil
-2221,2006,Paraguay, Libertad,Paraguay
-2221,2010,Paraguay, Olimpia,Paraguay
-2222,2006,Paraguay, Toluca,Mexico
-2222,2010,Paraguay, Sunderland,England
-2223,2010,Paraguay, San Lorenzo,Argentina
-2224,2010,Paraguay, Club Brugge,Belgium
-2225,2006,Paraguay, NEC,Netherlands
-2225,2010,Paraguay, Atalanta,Italy
-2226,2010,Paraguay, VfL Wolfsburg,Germany
-2227,2010,Paraguay, LDU Quito,Ecuador
-2228,2010,Paraguay, Libertad,Paraguay
-2229,2006,Paraguay, Libertad,Paraguay
-2229,2010,Paraguay, Cruz Azul,Mexico
-2230,2010,Paraguay, Argentinos Juniors,Argentina
-2231,2010,Paraguay, Benfica,Portugal
-2232,2006,Paraguay, Bayern Munich,Germany
-2232,2010,Paraguay, Manchester City,England
-2233,2010,Paraguay, Pachuca,Mexico
-2234,2010,Paraguay, Borussia Dortmund,Germany
-2235,2010,Paraguay, Borussia Dortmund,Germany
-2236,2010,Paraguay, Libertad,Paraguay
-2237,2010,Portugal, Iraklis,Greece
-2238,2006,Portugal, Chelsea,England
-2238,2010,Portugal, Chelsea,England
-2239,2010,Portugal, Porto,Portugal
-2240,2006,Portugal, Chelsea,England
-2240,2010,Portugal, Chelsea,England
-2241,2006,Portugal, Valencia,Spain
-2241,2010,Portugal, Valencia,Spain
-2242,2010,Portugal, Malaga,Spain
-2243,2010,Portugal, Sporting CP,Portugal
-2244,2010,Portugal, Zenit Saint Petersburg,Russia
-2245,2006,Portugal, Benfica,Portugal
-2245,2010,Portugal, Atletico Madrid,Spain
-2246,2006,Portugal, Lyon,France
-2246,2010,Portugal, Atletico Madrid,Spain
-2247,2006,Portugal, Barcelona,Spain
-2247,2010,Portugal, Chelsea,England
-2248,2010,Portugal, Sporting CP,Portugal
-2249,2010,Serbia, Zaglebie Lubin,Poland
-2250,2010,Serbia, Uniao de Leiria,Portugal
-2251,2006,Serbia & Montenegro, Manchester United,England
-2251,2010,Serbia, 1860 Munich,Germany
-2251,2010,Serbia, Manchester United,England
-2252,2010,Serbia, Udinese,Italy
-2253,2010,Serbia, Zaragoza,Spain
-2254,2010,Serbia, Borussia Dortmund,Germany
-2255,2010,Serbia, Hertha BSC,Germany
-2256,2010,Serbia, 1. FC Koln,Germany
-2257,2006,Serbia & Montenegro, Internazionale,Italy
-2257,2010,Serbia, Internazionale,Italy
-2258,2010,Serbia, Wolverhampton,England
-2259,2010,Serbia, Standard Liege,Belgium
-2260,2010,Serbia, CSKA Moscow,Russia
-2261,2010,Serbia, Dynamo Kyiv,Ukraine
-2262,2010,Serbia, Partizan,Serbia
-2263,2010,Serbia, VfB Stuttgart,Germany
-2264,2010,Serbia, Zenit Saint Petersburg,Russia
-2265,2010,Serbia, Ajax,Netherlands
-2266,2006,Serbia & Montenegro, Red Star Belgrade,Serbia
-2266,2010,Serbia, Valencia,Spain
-2267,2010,Slovakia, Legia Warsaw,Poland
-2268,2010,Slovakia, Dundee United,Scotland
-2269,2010,Slovakia, Vaslui,Romania
-2270,2010,Slovakia, VfL Wolfsburg,Germany
-2271,2010,Slovakia, Liverpool,England
-2272,2010,Slovakia, West Bromwich Albion,England
-2273,2010,Slovakia, Mainz 05,Germany
-2274,2010,Slovakia, Hannover 96,Germany
-2275,2010,Slovakia, Slovan Bratislava,Slovakia
-2276,2010,Slovakia, Cesena,Italy
-2277,2010,Slovakia, Skoda Xanthi,Greece
-2278,2010,Slovakia, Bolton Wanderers,England
-2279,2010,Slovakia, Timi?oara,Romania
-2280,2010,Slovakia, VfL Bochum,Germany
-2281,2010,Slovakia, Ankaragucu,Turkey
-2282,2010,Slovakia, Twente,Netherlands
-2283,2010,Slovakia, Napoli,Italy
-2284,2010,Slovakia, Sparta Prague,Czech Republic
-2285,2010,Slovakia, Spartak Trnava,Slovakia
-2286,2010,Slovakia, Ankaragucu,Turkey
-2287,2010,Slovakia, Besiktas,Turkey
-2288,2010,Slovakia, Saturn Moscow Oblast,Russia
-2289,2010,Slovakia, 1. FC Kaiserslautern,Germany
-2290,2010,Slovenia, Udinese,Italy
-2291,2010,Slovenia, Mantova,Italy
-2292,2010,Slovenia, Sparta Rotterdam,Netherlands
-2293,2010,Slovenia, 1. FC Koln,Germany
-2294,2010,Slovenia, Maribor,Slovenia
-2295,2010,Slovenia, Gent,Belgium
-2296,2010,Slovenia, Grenoble,France
-2297,2010,Slovenia, Lokomotiv Moscow,Russia
-2298,2010,Slovenia, Chievo,Italy
-2299,2010,Slovenia, Maribor,Slovenia
-2300,2010,Slovenia, TuS Koblenz,Germany
-2301,2010,Slovenia, West Bromwich Albion,England
-2302,2010,Slovenia, Internazionale,Italy
-2303,2010,Slovenia, Wis?a Kraków,Poland
-2304,2010,Slovenia, Larissa,Greece
-2305,2010,Slovenia, Maccabi Tel Aviv,Israel
-2306,2010,Slovenia, Vitesse,Netherlands
-2307,2010,Slovenia, Nacional,Portugal
-2308,2010,Slovenia, Gent,Belgium
-2309,2010,Slovenia, Auxerre,France
-2310,2010,Slovenia, 1. FC Koln,Germany
-2311,2010,Slovenia, VfL Bochum,Germany
-2312,2010,Slovenia, Groningen,Netherlands
-2313,2010,South Africa, Orlando Pirates,South Africa
-2314,2010,South Africa, Kaizer Chiefs,South Africa
-2315,2010,South Africa, Maritzburg United,South Africa
-2316,2010,South Africa, Mamelodi Sundowns,South Africa
-2317,2010,South Africa, Maccabi Haifa,Israel
-2318,2010,South Africa, Portsmouth,England
-2319,2010,South Africa, Genk,Belgium
-2320,2010,South Africa, Mamelodi Sundowns,South Africa
-2321,2010,South Africa, Orlando Pirates,South Africa
-2322,2010,South Africa, Supersport United,South Africa
-2323,2010,South Africa, Golden Arrows,South Africa
-2324,2010,South Africa, Rubin Kazan,Russia
-2325,2010,South Africa, Ajax Cape Town,South Africa
-2326,2010,South Africa, Kaizer Chiefs,South Africa
-2327,2010,South Africa, Everton,England
-2328,2010,South Africa, Orlando Pirates,South Africa
-2329,2010,South Africa, Kaizer Chiefs,South Africa
-2330,2010,South Africa, Fulham,England
-2331,2010,South Africa, Mamelodi Sundowns,South Africa
-2332,2010,South Africa, Golden Arrows,South Africa
-2333,2010,South Africa, Mamelodi Sundowns,South Africa
-2334,2010,South Africa, Twente,Netherlands
-2335,2010,South Africa, Moroka Swallows,South Africa
-2336,2006,South Korea, Suwon Samsung Bluewings,South Korea
-2336,2010,South Korea, Suwon Samsung Bluewings,South Korea
-2337,2006,South Korea, Jeonnam Dragons,South Korea
-2337,2010,South Korea, Ulsan Hyundai,South Korea
-2338,2010,South Korea, Ulsan Hyundai,South Korea
-2339,2010,South Korea, Pohang Steelers,South Korea
-2340,2010,South Korea, Jeju United,South Korea
-2341,2006,South Korea, Tottenham,England
-2341,2010,South Korea, Al Hilal,Saudi Arabia
-2342,2010,South Korea, Kashima Antlers,Japan
-2343,2006,South Korea, FC Seoul,South Korea
-2343,2010,South Korea, Ulsan Hyundai,South Korea
-2344,2010,South Korea, SC Freiburg,Germany
-2345,2010,South Korea, Suwon Samsung Bluewings,South Korea
-2346,2006,South Korea, Suwon Samsung Bluewings,South Korea
-2346,2010,South Korea, Tom Tomsk,Russia
-2347,2006,South Korea, Manchester United,England
-2347,2010,South Korea, Manchester United,England
-2348,2010,South Korea, Gwangju Sangmu,South Korea
-2349,2010,South Korea, Pohang Steelers,South Korea
-2350,2006,South Korea, MSV Duisburg,Germany
-2350,2010,South Korea, Dalian Shide,China
-2351,2010,South Korea, FC Seoul,South Korea
-2352,2010,South Korea, Suwon Samsung Bluewings,South Korea
-2353,2010,South Korea, Jeonbuk Hyundai Motors,South Korea
-2354,2006,Spain, Valencia,Spain
-2354,2010,Spain, Valencia,Spain
-2355,2006,Spain, Barcelona,Spain
-2355,2010,Spain, Barcelona,Spain
-2356,2010,Spain, Villarreal,Spain
-2357,2010,Spain, Real Madrid,Spain
-2358,2010,Spain, Sevilla,Spain
-2359,2010,Spain, Athletic Bilbao,Spain
-2360,2010,Switzerland, Young Boys,Switzerland
-2361,2010,Switzerland, Zurich,Switzerland
-2362,2006,Switzerland, VfB Stuttgart,Germany
-2362,2010,Switzerland, Zurich,Switzerland
-2363,2006,Switzerland, Auxerre,France
-2363,2010,Switzerland, Auxerre,France
-2364,2010,Switzerland, Hannover 96,Germany
-2365,2010,Switzerland, Basel,Switzerland
-2366,2010,Switzerland, Sampdoria,Italy
-2367,2006,Switzerland, Young Boys,Switzerland
-2367,2010,Switzerland, Luzern,Switzerland
-2368,2010,Switzerland, Eintracht Frankfurt,Germany
-2369,2006,Switzerland, Rennes,France
-2369,2010,Switzerland, Basel,Switzerland
-2370,2010,Switzerland, Twente,Netherlands
-2371,2010,Switzerland, 1. FC Nürnberg,Germany
-2372,2010,Switzerland, Bayer Leverkusen,Germany
-2373,2006,USA, Reading,England
-2373,2010,USA, Wolverhampton,England
-2374,2010,USA, West Ham,England
-2375,2006,USA, Fulham,England
-2375,2010,USA, Rennes,France
-2376,2006,USA, Standard Liege,Belgium
-2376,2010,USA, AC Milan,Italy
-2377,2006,USA, Hannover 96,Germany
-2377,2010,USA, Hannover 96,Germany
-2378,2010,USA, Chivas USA,USA
-2379,2010,USA, Watford,England
-2380,2010,USA, Start,Norway
-2381,2006,USA, LA Galaxy,USA
-2381,2010,USA, LA Galaxy,USA
-2382,2010,USA, Bolton Wanderers,England
-2383,2010,USA, Eintracht Frankfurt,Germany
-2384,2010,USA, Pachuca,Mexico
-2385,2010,USA, Rangers,Scotland
-2386,2010,USA, AGF,Denmark
-2387,2010,USA, Puebla,Mexico
-2388,2010,USA, LA Galaxy,USA
-2389,2010,USA, Real Salt Lake,USA
-2390,2010,Uruguay, Deportivo Cali,Colombia
-2391,2010,Uruguay, Universidad de Chile,Chile
-2392,2010,Uruguay, Colo-Colo,Chile
-2393,2010,Uruguay, AIK,Sweden
-2394,2010,Uruguay, Levadiakos,Greece
-2395,2010,Uruguay, Universidad de Chile,Chile
-2396,2010,Uruguay, Botafogo,Brazil
-2397,2010,Uruguay, Banfield,Argentina
-2398,2010,France, Arsenal,England
-2399,2010,Serbia, Vojvodina,Serbia
-2400,2010,Spain, Barcelona,Spain
-2401,2006,Angola, Moreirense,Portugal
-2402,2006,Angola, Petro Atletico,Angola
-2403,2006,Angola, Interclube,Angola
-2404,2006,Angola, Barreirense,Portugal
-2405,2006,Angola, ASA,Angola
-2406,2006,Angola, Petro Atletico,Angola
-2407,2006,Angola, Barreirense,Portugal
-2408,2006,Angola, Leeds United,England
-2409,2006,Angola, Primeiro Agosto,Angola
-2410,2006,Angola, Petro Atletico,Angola
-2411,2006,Angola, Portimonense,Portugal
-2412,2006,Angola, Interclube,Angola
-2413,2006,Angola, Varzim,Portugal
-2414,2006,Angola, Al-Salmiya,Kuwait
-2415,2006,Angola, Paços de Ferreira,Portugal
-2416,2006,Angola, Varzim,Portugal
-2417,2006,Angola, Petro Atletico,Angola
-2418,2006,Angola, Benfica,Portugal
-2419,2006,Angola, Al-Wakrah,Qatar
-2420,2006,Angola, Gil Vicente,Portugal
-2421,2006,Angola, Al Ahly,Egypt
-2422,2006,Angola, ASA,Angola
-2423,2006,Angola, Clermont,France
-2424,2006,Argentina, Boca Juniors,Argentina
-2425,2006,Argentina, Atletico Madrid,Spain
-2426,2006,Argentina, Independiente,Argentina
-2427,2006,Argentina, Valencia,Spain
-2428,2006,Argentina, Villarreal,Spain
-2429,2006,Argentina, Deportivo La Coruña,Spain
-2430,2006,Argentina, Manchester United,England
-2431,2006,Argentina, Deportivo La Coruña,Spain
-2432,2006,Argentina, Real Zaragoza,Spain
-2433,2006,Argentina, Roma,Italy
-2434,2006,Argentina, Internazionale,Italy
-2435,2006,Argentina, Villarreal,Spain
-2436,2006,Argentina, Valencia,Spain
-2437,2006,Argentina, Porto,Portugal
-2438,2006,Argentina, Barcelona,Spain
-2439,2006,Argentina, Chelsea,England
-2440,2006,Argentina, Internazionale,Italy
-2441,2006,Australia, Hammarby,Sweden
+2071,2010,Honduras,Motagua,Honduras
+2072,2010,Honduras,Real España,Honduras
+2073,2010,Honduras,Genoa,Italy
+2074,2010,Honduras,Motagua,Honduras
+2075,2010,Honduras,Marathón,Honduras
+2076,2010,Italy,Cagliari,Italy
+2077,2010,Italy,Napoli,Italy
+2078,2010,Italy,Napoli,Italy
+2079,2010,Italy,Genoa,Italy
+2080,2006,Italy,Juventus,Italy
+2080,2010,Italy,Juventus,Italy
+2081,2010,Italy,Genoa,Italy
+2082,2006,Italy,Juventus,Italy
+2082,2010,Italy,AC Milan,Italy
+2083,2010,Italy,Udinese,Italy
+2084,2006,Italy,AC Milan,Italy
+2084,2010,Italy,AC Milan,Italy
+2085,2006,Italy,Juventus,Italy
+2085,2010,Italy,Juventus,Italy
+2086,2010,Italy,Sampdoria,Italy
+2087,2010,Italy,Fiorentina,Italy
+2088,2006,Italy,Udinese,Italy
+2088,2010,Italy,Juventus,Italy
+2089,2010,Italy,Udinese,Italy
+2090,2006,Italy,AC Milan,Italy
+2090,2010,Italy,Fiorentina,Italy
+2091,2010,Italy,Napoli,Italy
+2092,2010,Italy,Sampdoria,Italy
+2093,2010,Ivory Coast,Maccabi Netanya,Israel
+2094,2010,Ivory Coast,ASEC Mimosas,Ivory Coast
+2095,2010,Ivory Coast,Valenciennes,France
+2096,2010,Ivory Coast,Wigan Athletic,England
+2097,2010,Ivory Coast,Valenciennes,France
+2098,2006,Ivory Coast,Hamburger SV,Germany
+2098,2010,Ivory Coast,Hamburger SV,Germany
+2099,2006,Ivory Coast,Arsenal,England
+2099,2010,Ivory Coast,Arsenal,England
+2100,2010,Ivory Coast,Monaco,France
+2101,2006,Ivory Coast,Le Mans,France
+2101,2010,Ivory Coast,Sevilla,Spain
+2102,2010,Ivory Coast,Internacional Arges,Romania
+2103,2006,Ivory Coast,Lille,France
+2103,2010,Ivory Coast,Galatasaray,Turkey
+2104,2010,Ivory Coast,Young Boys,Switzerland
+2105,2006,Ivory Coast,Lens,France
+2105,2010,Ivory Coast,Portsmouth,England
+2106,2006,Japan,Nagoya Grampus,Japan
+2106,2010,Japan,Nagoya Grampus,Japan
+2107,2006,Japan,Jubilo Iwata,Japan
+2107,2010,Japan,Jubilo Iwata,Japan
+2108,2006,Japan,Sanfreece Hiroshima,Japan
+2108,2010,Japan,Jubilo Iwata,Japan
+2109,2010,Japan,Nagoya Grampus,Japan
+2110,2010,Japan,Kashima Antlers,Japan
+2111,2006,Japan,Yokohama F. Marinos,Japan
+2111,2010,Japan,Yokohama F. Marinos,Japan
+2112,2010,Japan,Urawa Red Diamonds,Japan
+2113,2006,Japan,Celtic,Scotland
+2113,2010,Japan,Yokohama F. Marinos,Japan
+2114,2010,Japan,Kawasaki Frontale,Japan
+2115,2006,Japan,West Bromwich,England
+2115,2010,Japan,Kawasaki Frontale,Japan
+2116,2010,Japan,Grenoble,France
+2117,2006,Japan,Nagoya Grampus,Japan
+2117,2010,Japan,Nagoya Grampus,Japan
+2118,2010,Japan,Albirex Niigata,Japan
+2119,2010,Japan,Catania,Italy
+2120,2010,Mexico,Chiapas,Mexico
+2121,2010,Mexico,Guadalajara,Mexico
+2122,2010,Mexico,PSV,Netherlands
+2123,2006,Mexico,Cruz Azul,Mexico
+2123,2010,Mexico,VfB Stuttgart,Germany
+2124,2010,Mexico,UNAM,Mexico
+2125,2010,Mexico,Guadalajara,Mexico
+2126,2010,Mexico,Atlas,Mexico
+2127,2006,Mexico,Cruz Azul,Mexico
+2127,2010,Mexico,Cruz Azul,Mexico
+2128,2010,Mexico,UNAM,Mexico
+2129,2010,Mexico,UNAM,Mexico
+2130,2010,Mexico,Guadalajara,Mexico
+2131,2006,Mexico,Villarreal,Spain
+2131,2010,Mexico,West Ham,England
+2132,2010,Mexico,Veracruz,Mexico
+2133,2010,Mexico,Guadalajara,Mexico
+2134,2006,Netherlands,Ajax,Netherlands
+2134,2010,Netherlands,Ajax,Netherlands
+2135,2010,Netherlands,Twente,Netherlands
+2136,2010,Netherlands,Ajax,Netherlands
+2137,2006,Netherlands,Ajax,Netherlands
+2137,2010,Netherlands,Everton,England
+2138,2006,Netherlands,AZ,Netherlands
+2138,2010,Netherlands,Hamburger SV,Germany
+2139,2006,Netherlands,Barcelona,Spain
+2139,2010,Netherlands,Feyenoord,Netherlands
+2140,2006,Netherlands,Hamburger SV,Germany
+2140,2010,Netherlands,VfB Stuttgart,Germany
+2141,2006,Netherlands,PSV,Netherlands
+2141,2010,Netherlands,PSV,Netherlands
+2142,2010,Netherlands,Celtic,Scotland
+2143,2006,Netherlands,Barcelona,Spain
+2143,2010,Netherlands,Bayern Munich,Germany
+2144,2010,Netherlands,Ajax,Netherlands
+2145,2010,Netherlands,AZ,Netherlands
+2146,2010,Netherlands,PSV,Netherlands
+2147,2006,Netherlands,Hamburger SV,Germany
+2147,2010,Netherlands,Real Madrid,Spain
+2148,2010,Netherlands,Hamburger SV,Germany
+2149,2006,Netherlands,Ajax,Netherlands
+2149,2010,Netherlands,Liverpool,England
+2150,2010,New Zealand,Wellington Phoenix,New Zealand
+2151,2010,New Zealand,Melbourne Victory,Australia
+2152,2010,New Zealand,Team Wellington,New Zealand
+2153,2010,New Zealand,Wellington Phoenix,New Zealand
+2154,2010,New Zealand,Wellington Phoenix,New Zealand
+2155,2010,New Zealand,Midtjylland,Denmark
+2156,2010,New Zealand,Auckland City,New Zealand
+2157,2010,New Zealand,Blackburn Rovers,England
+2158,2010,New Zealand,New York Red Bulls,USA
+2159,2010,New Zealand,Ipswich Town,England
+2160,2010,New Zealand,Chivas USA,USA
+2161,2010,New Zealand,Wellington Phoenix,New Zealand
+2162,2010,New Zealand,Wellington Phoenix,New Zealand
+2163,2010,New Zealand,Team Wellington,New Zealand
+2164,2010,New Zealand,Motherwell,Scotland
+2165,2010,New Zealand,Canterbury United,New Zealand
+2166,2010,New Zealand,Wellington Phoenix,New Zealand
+2167,2010,New Zealand,FC Tampa Bay,USA
+2168,2010,New Zealand,Newcastle Jets,Australia
+2169,2010,New Zealand,Gold Coast United,Australia
+2170,2010,New Zealand,Middlesbrough,England
+2171,2010,New Zealand,Plymouth Argyle,England
+2172,2010,New Zealand,West Bromwich Albion,England
+2173,2010,Nigeria,Bnei Yehuda,Israel
+2174,2010,Nigeria,Marseille,France
+2175,2010,Nigeria,Red Bull Salzburg,Austria
+2176,2010,Nigeria,Bolton Wanderers,England
+2177,2010,Nigeria,CSKA Moscow,Russia
+2178,2010,Nigeria,Sparta Rotterdam,Netherlands
+2179,2010,Nigeria,Dynamo Kyiv,Ukraine
+2180,2010,Nigeria,Alania Vladikavkaz,Russia
+2181,2010,Nigeria,Monaco,France
+2182,2010,Nigeria,Fulham,England
+2183,2010,Nigeria,Portsmouth,England
+2184,2010,Nigeria,Portsmouth,England
+2185,2010,Nigeria,Everton,England
+2186,2010,Nigeria,VfL Wolfsburg,Germany
+2187,2010,Nigeria,Sochaux,France
+2188,2010,Nigeria,Almería,Spain
+2189,2010,Nigeria,Malaga,Spain
+2190,2010,Nigeria,1899 Hoffenheim,Germany
+2191,2010,North Korea,Pyongyang City,North Korea
+2192,2010,North Korea,Amrokgang,North Korea
+2193,2010,North Korea,Amrokgang,North Korea
+2194,2010,North Korea,Amrokgang,North Korea
+2195,2010,North Korea,Sobaeksu,North Korea
+2196,2010,North Korea,April 25,North Korea
+2197,2010,North Korea,April 25,North Korea
+2198,2010,North Korea,Amrokgang,North Korea
+2199,2010,North Korea,Amrokgang,North Korea
+2200,2010,North Korea,April 25,North Korea
+2201,2010,North Korea,Kyonggongop,North Korea
+2202,2010,North Korea,Sobaeksu,North Korea
+2203,2010,North Korea,April 25,North Korea
+2204,2010,North Korea,April 25,North Korea
+2205,2010,North Korea,Pyongyang City,North Korea
+2206,2010,North Korea,Omiya Ardija,Japan
+2207,2010,North Korea,Pyongyang City,North Korea
+2208,2010,North Korea,Rimyongsu,North Korea
+2209,2010,North Korea,April 25,North Korea
+2210,2010,North Korea,Rimyongsu,North Korea
+2211,2010,North Korea,Kawasaki Frontale,Japan
+2212,2010,North Korea,Rostov,Russia
+2213,2010,North Korea,April 25,North Korea
+2214,2006,Paraguay,Newell's Old Boys,Argentina
+2214,2010,Paraguay,Valladolid,Spain
+2215,2010,Paraguay,Cerro Porteño,Paraguay
+2216,2006,Paraguay,Libertad,Paraguay
+2216,2010,Paraguay,Independiente Medellín,Colombia
+2217,2010,Paraguay,UNAM,Mexico
+2218,2010,Paraguay,Boca Juniors,Argentina
+2219,2010,Paraguay,León,Mexico
+2220,2006,Paraguay,River Plate,Argentina
+2220,2010,Paraguay,Atlético Mineiro,Brazil
+2221,2006,Paraguay,Libertad,Paraguay
+2221,2010,Paraguay,Olimpia,Paraguay
+2222,2006,Paraguay,Toluca,Mexico
+2222,2010,Paraguay,Sunderland,England
+2223,2010,Paraguay,San Lorenzo,Argentina
+2224,2010,Paraguay,Club Brugge,Belgium
+2225,2006,Paraguay,NEC,Netherlands
+2225,2010,Paraguay,Atalanta,Italy
+2226,2010,Paraguay,VfL Wolfsburg,Germany
+2227,2010,Paraguay,LDU Quito,Ecuador
+2228,2010,Paraguay,Libertad,Paraguay
+2229,2006,Paraguay,Libertad,Paraguay
+2229,2010,Paraguay,Cruz Azul,Mexico
+2230,2010,Paraguay,Argentinos Juniors,Argentina
+2231,2010,Paraguay,Benfica,Portugal
+2232,2006,Paraguay,Bayern Munich,Germany
+2232,2010,Paraguay,Manchester City,England
+2233,2010,Paraguay,Pachuca,Mexico
+2234,2010,Paraguay,Borussia Dortmund,Germany
+2235,2010,Paraguay,Borussia Dortmund,Germany
+2236,2010,Paraguay,Libertad,Paraguay
+2237,2010,Portugal,Iraklis,Greece
+2238,2006,Portugal,Chelsea,England
+2238,2010,Portugal,Chelsea,England
+2239,2010,Portugal,Porto,Portugal
+2240,2006,Portugal,Chelsea,England
+2240,2010,Portugal,Chelsea,England
+2241,2006,Portugal,Valencia,Spain
+2241,2010,Portugal,Valencia,Spain
+2242,2010,Portugal,Malaga,Spain
+2243,2010,Portugal,Sporting CP,Portugal
+2244,2010,Portugal,Zenit Saint Petersburg,Russia
+2245,2006,Portugal,Benfica,Portugal
+2245,2010,Portugal,Atletico Madrid,Spain
+2246,2006,Portugal,Lyon,France
+2246,2010,Portugal,Atletico Madrid,Spain
+2247,2006,Portugal,Barcelona,Spain
+2247,2010,Portugal,Chelsea,England
+2248,2010,Portugal,Sporting CP,Portugal
+2249,2010,Serbia,Zaglebie Lubin,Poland
+2250,2010,Serbia,Uniao de Leiria,Portugal
+2251,2006,Serbia & Montenegro,Manchester United,England
+2251,2010,Serbia,1860 Munich,Germany
+2251,2010,Serbia,Manchester United,England
+2252,2010,Serbia,Udinese,Italy
+2253,2010,Serbia,Zaragoza,Spain
+2254,2010,Serbia,Borussia Dortmund,Germany
+2255,2010,Serbia,Hertha BSC,Germany
+2256,2010,Serbia,1. FC Koln,Germany
+2257,2006,Serbia & Montenegro,Internazionale,Italy
+2257,2010,Serbia,Internazionale,Italy
+2258,2010,Serbia,Wolverhampton,England
+2259,2010,Serbia,Standard Liege,Belgium
+2260,2010,Serbia,CSKA Moscow,Russia
+2261,2010,Serbia,Dynamo Kyiv,Ukraine
+2262,2010,Serbia,Partizan,Serbia
+2263,2010,Serbia,VfB Stuttgart,Germany
+2264,2010,Serbia,Zenit Saint Petersburg,Russia
+2265,2010,Serbia,Ajax,Netherlands
+2266,2006,Serbia & Montenegro,Red Star Belgrade,Serbia
+2266,2010,Serbia,Valencia,Spain
+2267,2010,Slovakia,Legia Warsaw,Poland
+2268,2010,Slovakia,Dundee United,Scotland
+2269,2010,Slovakia,Vaslui,Romania
+2270,2010,Slovakia,VfL Wolfsburg,Germany
+2271,2010,Slovakia,Liverpool,England
+2272,2010,Slovakia,West Bromwich Albion,England
+2273,2010,Slovakia,Mainz 05,Germany
+2274,2010,Slovakia,Hannover 96,Germany
+2275,2010,Slovakia,Slovan Bratislava,Slovakia
+2276,2010,Slovakia,Cesena,Italy
+2277,2010,Slovakia,Skoda Xanthi,Greece
+2278,2010,Slovakia,Bolton Wanderers,England
+2279,2010,Slovakia,Timisoara,Romania
+2280,2010,Slovakia,VfL Bochum,Germany
+2281,2010,Slovakia,Ankaragucu,Turkey
+2282,2010,Slovakia,Twente,Netherlands
+2283,2010,Slovakia,Napoli,Italy
+2284,2010,Slovakia,Sparta Prague,Czech Republic
+2285,2010,Slovakia,Spartak Trnava,Slovakia
+2286,2010,Slovakia,Ankaragucu,Turkey
+2287,2010,Slovakia,Besiktas,Turkey
+2288,2010,Slovakia,Saturn Moscow Oblast,Russia
+2289,2010,Slovakia,1. FC Kaiserslautern,Germany
+2290,2010,Slovenia,Udinese,Italy
+2291,2010,Slovenia,Mantova,Italy
+2292,2010,Slovenia,Sparta Rotterdam,Netherlands
+2293,2010,Slovenia,1. FC Koln,Germany
+2294,2010,Slovenia,Maribor,Slovenia
+2295,2010,Slovenia,Gent,Belgium
+2296,2010,Slovenia,Grenoble,France
+2297,2010,Slovenia,Lokomotiv Moscow,Russia
+2298,2010,Slovenia,Chievo,Italy
+2299,2010,Slovenia,Maribor,Slovenia
+2300,2010,Slovenia,TuS Koblenz,Germany
+2301,2010,Slovenia,West Bromwich Albion,England
+2302,2010,Slovenia,Internazionale,Italy
+2303,2010,Slovenia,Wisla Krakow,Poland
+2304,2010,Slovenia,Larissa,Greece
+2305,2010,Slovenia,Maccabi Tel Aviv,Israel
+2306,2010,Slovenia,Vitesse,Netherlands
+2307,2010,Slovenia,Nacional Madeira,Portugal
+2308,2010,Slovenia,Gent,Belgium
+2309,2010,Slovenia,Auxerre,France
+2310,2010,Slovenia,1. FC Koln,Germany
+2311,2010,Slovenia,VfL Bochum,Germany
+2312,2010,Slovenia,Groningen,Netherlands
+2313,2010,South Africa,Orlando Pirates,South Africa
+2314,2010,South Africa,Kaizer Chiefs,South Africa
+2315,2010,South Africa,Maritzburg United,South Africa
+2316,2010,South Africa,Mamelodi Sundowns,South Africa
+2317,2010,South Africa,Maccabi Haifa,Israel
+2318,2010,South Africa,Portsmouth,England
+2319,2010,South Africa,Genk,Belgium
+2320,2010,South Africa,Mamelodi Sundowns,South Africa
+2321,2010,South Africa,Orlando Pirates,South Africa
+2322,2010,South Africa,Supersport United,South Africa
+2323,2010,South Africa,Golden Arrows,South Africa
+2324,2010,South Africa,Rubin Kazan,Russia
+2325,2010,South Africa,Ajax Cape Town,South Africa
+2326,2010,South Africa,Kaizer Chiefs,South Africa
+2327,2010,South Africa,Everton,England
+2328,2010,South Africa,Orlando Pirates,South Africa
+2329,2010,South Africa,Kaizer Chiefs,South Africa
+2330,2010,South Africa,Fulham,England
+2331,2010,South Africa,Mamelodi Sundowns,South Africa
+2332,2010,South Africa,Golden Arrows,South Africa
+2333,2010,South Africa,Mamelodi Sundowns,South Africa
+2334,2010,South Africa,Twente,Netherlands
+2335,2010,South Africa,Moroka Swallows,South Africa
+2336,2006,South Korea,Suwon Samsung Bluewings,South Korea
+2336,2010,South Korea,Suwon Samsung Bluewings,South Korea
+2337,2006,South Korea,Jeonnam Dragons,South Korea
+2337,2010,South Korea,Ulsan Hyundai,South Korea
+2338,2010,South Korea,Ulsan Hyundai,South Korea
+2339,2010,South Korea,Pohang Steelers,South Korea
+2340,2010,South Korea,Jeju United,South Korea
+2341,2006,South Korea,Tottenham,England
+2341,2010,South Korea,Al Hilal,Saudi Arabia
+2342,2010,South Korea,Kashima Antlers,Japan
+2343,2006,South Korea,FC Seoul,South Korea
+2343,2010,South Korea,Ulsan Hyundai,South Korea
+2344,2010,South Korea,SC Freiburg,Germany
+2345,2010,South Korea,Suwon Samsung Bluewings,South Korea
+2346,2006,South Korea,Suwon Samsung Bluewings,South Korea
+2346,2010,South Korea,Tom Tomsk,Russia
+2347,2006,South Korea,Manchester United,England
+2347,2010,South Korea,Manchester United,England
+2348,2010,South Korea,Gwangju Sangmu,South Korea
+2349,2010,South Korea,Pohang Steelers,South Korea
+2350,2006,South Korea,MSV Duisburg,Germany
+2350,2010,South Korea,Dalian Shide,China
+2351,2010,South Korea,FC Seoul,South Korea
+2352,2010,South Korea,Suwon Samsung Bluewings,South Korea
+2353,2010,South Korea,Jeonbuk Hyundai Motors,South Korea
+2354,2006,Spain,Valencia,Spain
+2354,2010,Spain,Valencia,Spain
+2355,2006,Spain,Barcelona,Spain
+2355,2010,Spain,Barcelona,Spain
+2356,2010,Spain,Villarreal,Spain
+2357,2010,Spain,Real Madrid,Spain
+2358,2010,Spain,Sevilla,Spain
+2359,2010,Spain,Athletic Bilbao,Spain
+2360,2010,Switzerland,Young Boys,Switzerland
+2361,2010,Switzerland,Zurich,Switzerland
+2362,2006,Switzerland,VfB Stuttgart,Germany
+2362,2010,Switzerland,Zurich,Switzerland
+2363,2006,Switzerland,Auxerre,France
+2363,2010,Switzerland,Auxerre,France
+2364,2010,Switzerland,Hannover 96,Germany
+2365,2010,Switzerland,Basel,Switzerland
+2366,2010,Switzerland,Sampdoria,Italy
+2367,2006,Switzerland,Young Boys,Switzerland
+2367,2010,Switzerland,Luzern,Switzerland
+2368,2010,Switzerland,Eintracht Frankfurt,Germany
+2369,2006,Switzerland,Rennes,France
+2369,2010,Switzerland,Basel,Switzerland
+2370,2010,Switzerland,Twente,Netherlands
+2371,2010,Switzerland,1. FC Nürnberg,Germany
+2372,2010,Switzerland,Bayer Leverkusen,Germany
+2373,2006,USA,Reading,England
+2373,2010,USA,Wolverhampton,England
+2374,2010,USA,West Ham,England
+2375,2006,USA,Fulham,England
+2375,2010,USA,Rennes,France
+2376,2006,USA,Standard Liege,Belgium
+2376,2010,USA,AC Milan,Italy
+2377,2006,USA,Hannover 96,Germany
+2377,2010,USA,Hannover 96,Germany
+2378,2010,USA,Chivas USA,USA
+2379,2010,USA,Watford,England
+2380,2010,USA,Start,Norway
+2381,2006,USA,LA Galaxy,USA
+2381,2010,USA,LA Galaxy,USA
+2382,2010,USA,Bolton Wanderers,England
+2383,2010,USA,Eintracht Frankfurt,Germany
+2384,2010,USA,Pachuca,Mexico
+2385,2010,USA,Rangers,Scotland
+2386,2010,USA,AGF,Denmark
+2387,2010,USA,Puebla,Mexico
+2388,2010,USA,LA Galaxy,USA
+2389,2010,USA,Real Salt Lake,USA
+2390,2010,Uruguay,Deportivo Cali,Colombia
+2391,2010,Uruguay,Universidad de Chile,Chile
+2392,2010,Uruguay,Colo-Colo,Chile
+2393,2010,Uruguay,AIK,Sweden
+2394,2010,Uruguay,Levadiakos,Greece
+2395,2010,Uruguay,Universidad de Chile,Chile
+2396,2010,Uruguay,Botafogo,Brazil
+2397,2010,Uruguay,Banfield,Argentina
+2398,2010,France,Arsenal,England
+2399,2010,Serbia,Vojvodina,Serbia
+2400,2010,Spain,Barcelona,Spain
+2401,2006,Angola,Moreirense,Portugal
+2402,2006,Angola,Petro Atletico,Angola
+2403,2006,Angola,Interclube,Angola
+2404,2006,Angola,Barreirense,Portugal
+2405,2006,Angola,ASA,Angola
+2406,2006,Angola,Petro Atletico,Angola
+2407,2006,Angola,Barreirense,Portugal
+2408,2006,Angola,Leeds United,England
+2409,2006,Angola,Primeiro Agosto,Angola
+2410,2006,Angola,Petro Atletico,Angola
+2411,2006,Angola,Portimonense,Portugal
+2412,2006,Angola,Interclube,Angola
+2413,2006,Angola,Varzim,Portugal
+2414,2006,Angola,Al-Salmiya,Kuwait
+2415,2006,Angola,Paços de Ferreira,Portugal
+2416,2006,Angola,Varzim,Portugal
+2417,2006,Angola,Petro Atletico,Angola
+2418,2006,Angola,Benfica,Portugal
+2419,2006,Angola,Al-Wakrah,Qatar
+2420,2006,Angola,Gil Vicente,Portugal
+2421,2006,Angola,Al Ahly,Egypt
+2422,2006,Angola,ASA,Angola
+2423,2006,Angola,Clermont,France
+2424,2006,Argentina,Boca Juniors,Argentina
+2425,2006,Argentina,Atletico Madrid,Spain
+2426,2006,Argentina,Independiente,Argentina
+2427,2006,Argentina,Valencia,Spain
+2428,2006,Argentina,Villarreal,Spain
+2429,2006,Argentina,Deportivo La Coruña,Spain
+2430,2006,Argentina,Manchester United,England
+2431,2006,Argentina,Deportivo La Coruña,Spain
+2432,2006,Argentina,Real Zaragoza,Spain
+2433,2006,Argentina,Roma,Italy
+2434,2006,Argentina,Internazionale,Italy
+2435,2006,Argentina,Villarreal,Spain
+2436,2006,Argentina,Valencia,Spain
+2437,2006,Argentina,Porto,Portugal
+2438,2006,Argentina,Barcelona,Spain
+2439,2006,Argentina,Chelsea,England
+2440,2006,Argentina,Internazionale,Italy
+2441,2006,Australia,Hammarby,Sweden
 2442,2006,Australia,AC Milan,Italy
-2443,2006,Australia, Crystal Palace,England
-2444,2006,Australia, Birmingham City,England
-2445,2006,Australia, Wigan Athletic,England
-2446,2006,Australia, Basel,Switzerland
-2447,2006,Australia, Middlesbrough,England
-2448,2006,Australia, Alavés,Spain
-2449,2006,Australia, Melbourne Victory,Australia
+2443,2006,Australia,Crystal Palace,England
+2444,2006,Australia,Birmingham City,England
+2445,2006,Australia,Wigan Athletic,England
+2446,2006,Australia,Basel,Switzerland
+2447,2006,Australia,Middlesbrough,England
+2448,2006,Australia,Alaves,Spain
+2449,2006,Australia,Melbourne Victory,Australia
 2450,2006,Brazil,AC Milan,Italy
-2451,2006,Brazil, Sao Paulo,Brazil
+2451,2006,Brazil,Sao Paulo,Brazil
 2452,2006,Brazil,AC Milan,Italy
-2453,2006,Brazil, Bayern Munich,Germany
-2454,2006,Brazil, Real Madrid,Spain
-2455,2006,Brazil, Real Madrid,Spain
-2456,2006,Brazil, Lyon,France
-2457,2006,Brazil, Juventus,Italy
-2458,2006,Brazil, Barcelona,Spain
-2459,2006,Brazil, Bayern Munich,Germany
-2460,2006,Brazil, Sao Paulo,Brazil
-2461,2006,Brazil, Lyon,France
-2462,2006,Brazil, Corinthians,Brazil
-2463,2006,Brazil, Internazionale,Italy
-2464,2006,Brazil, Real Madrid,Spain
-2465,2006,Costa Rica, Herediano,Costa Rica
-2466,2006,Costa Rica, Saprissa,Costa Rica
-2467,2006,Costa Rica, Alajuelense,Costa Rica
-2468,2006,Costa Rica, Saprissa,Costa Rica
-2469,2006,Costa Rica, Alajuelense,Costa Rica
-2470,2006,Costa Rica, Brescia,Italy
-2471,2006,Costa Rica, Comunicaciones,Guatemala
-2472,2006,Costa Rica, Herediano,Costa Rica
-2473,2006,Costa Rica, Alajuelense,Costa Rica
-2474,2006,Costa Rica, Saprissa,Costa Rica
-2475,2006,Costa Rica, Alajuelense,Costa Rica
-2476,2006,Costa Rica, Cartaginés,Costa Rica
-2477,2006,Costa Rica, Saprissa,Costa Rica
-2478,2006,Costa Rica, Alajuelense,Costa Rica
-2479,2006,Costa Rica, Real Salt Lake,USA
-2480,2006,Costa Rica, Herediano,Costa Rica
-2481,2006,Costa Rica, Saprissa,Costa Rica
-2482,2006,Costa Rica, Puntarenas,Costa Rica
-2483,2006,Costa Rica, Saprissa,Costa Rica
-2484,2006,Costa Rica, Cartaginés,Costa Rica
-2485,2006,Croatia, Austria Wien,Austria
-2486,2006,Croatia, Club Brugge,Belgium
-2487,2006,Croatia, Hertha BSC,Germany
-2488,2006,Croatia, Juventus,Italy
-2489,2006,Croatia, Juventus,Italy
+2453,2006,Brazil,Bayern Munich,Germany
+2454,2006,Brazil,Real Madrid,Spain
+2455,2006,Brazil,Real Madrid,Spain
+2456,2006,Brazil,Lyon,France
+2457,2006,Brazil,Juventus,Italy
+2458,2006,Brazil,Barcelona,Spain
+2459,2006,Brazil,Bayern Munich,Germany
+2460,2006,Brazil,Sao Paulo,Brazil
+2461,2006,Brazil,Lyon,France
+2462,2006,Brazil,Corinthians,Brazil
+2463,2006,Brazil,Internazionale,Italy
+2464,2006,Brazil,Real Madrid,Spain
+2465,2006,Costa Rica,Herediano,Costa Rica
+2466,2006,Costa Rica,Saprissa,Costa Rica
+2467,2006,Costa Rica,Alajuelense,Costa Rica
+2468,2006,Costa Rica,Saprissa,Costa Rica
+2469,2006,Costa Rica,Alajuelense,Costa Rica
+2470,2006,Costa Rica,Brescia,Italy
+2471,2006,Costa Rica,Comunicaciones,Guatemala
+2472,2006,Costa Rica,Herediano,Costa Rica
+2473,2006,Costa Rica,Alajuelense,Costa Rica
+2474,2006,Costa Rica,Saprissa,Costa Rica
+2475,2006,Costa Rica,Alajuelense,Costa Rica
+2476,2006,Costa Rica,Cartaginés,Costa Rica
+2477,2006,Costa Rica,Saprissa,Costa Rica
+2478,2006,Costa Rica,Alajuelense,Costa Rica
+2479,2006,Costa Rica,Real Salt Lake,USA
+2480,2006,Costa Rica,Herediano,Costa Rica
+2481,2006,Costa Rica,Saprissa,Costa Rica
+2482,2006,Costa Rica,Puntarenas,Costa Rica
+2483,2006,Costa Rica,Saprissa,Costa Rica
+2484,2006,Costa Rica,Cartaginés,Costa Rica
+2485,2006,Croatia,Austria Wien,Austria
+2486,2006,Croatia,Club Brugge,Belgium
+2487,2006,Croatia,Hertha BSC,Germany
+2488,2006,Croatia,Juventus,Italy
+2489,2006,Croatia,Juventus,Italy
 2490,2006,Croatia,AC Milan,Italy
-2491,2006,Croatia, Bayer Leverkusen,Germany
-2492,2006,Croatia, Austria Wien,Austria
-2493,2006,Croatia, Galatasaray,Turkey
-2494,2006,Croatia, Panathinaikos,Greece
-2495,2006,Croatia, Werder Bremen,Germany
-2496,2006,Croatia, Hertha BSC,Germany
-2497,2006,Croatia, Club Brugge,Belgium
-2498,2006,Croatia, Dynamo Kyiv,Ukraine
-2499,2006,Croatia, Hajduk Split,Croatia
-2500,2006,Croatia, Rangers,Scotland
-2501,2006,Croatia, Werder Bremen,Germany
-2502,2006,Croatia, Club Brugge,Belgium
-2503,2006,Croatia, Dinamo Zagreb,Croatia
-2504,2006,Czech Republic, Chelsea,England
-2505,2006,Czech Republic, Sparta Prague,Cezch Republic
-2506,2006,Czech Republic, Saturn Ramenskoye,Russia
-2507,2006,Czech Republic, Ajax,Netherlands
-2508,2006,Czech Republic, Zenit Saint Petersburg,Russia
-2509,2006,Czech Republic, Spartak Moscow,Russia
+2491,2006,Croatia,Bayer Leverkusen,Germany
+2492,2006,Croatia,Austria Wien,Austria
+2493,2006,Croatia,Galatasaray,Turkey
+2494,2006,Croatia,Panathinaikos,Greece
+2495,2006,Croatia,Werder Bremen,Germany
+2496,2006,Croatia,Hertha BSC,Germany
+2497,2006,Croatia,Club Brugge,Belgium
+2498,2006,Croatia,Dynamo Kyiv,Ukraine
+2499,2006,Croatia,Hajduk Split,Croatia
+2500,2006,Croatia,Rangers,Scotland
+2501,2006,Croatia,Werder Bremen,Germany
+2502,2006,Croatia,Club Brugge,Belgium
+2503,2006,Croatia,Dinamo Zagreb,Croatia
+2504,2006,Czech Republic,Chelsea,England
+2505,2006,Czech Republic,Sparta Prague,Cezch Republic
+2506,2006,Czech Republic,Saturn Ramenskoye,Russia
+2507,2006,Czech Republic,Ajax,Netherlands
+2508,2006,Czech Republic,Zenit Saint Petersburg,Russia
+2509,2006,Czech Republic,Spartak Moscow,Russia
 2510,2006,Czech Republic,AC Milan,Italy
-2511,2006,Czech Republic, Spartak Moscow,Russia
-2512,2006,Czech Republic, Fiorentina,Italy
-2513,2006,Czech Republic, PSG,France
-2514,2006,Czech Republic, Ajax,Netherlands
-2515,2006,Czech Republic, Austria Wien,Austria
-2516,2006,Czech Republic, Dynamo ceské Bud?jovice,Cezch Republic
-2517,2006,Czech Republic, Borussia Dortmund,Germany
-2518,2006,Czech Republic, Juventus,Italy
-2519,2006,Czech Republic, Hamburger SV,Germany
-2520,2006,Czech Republic, 1. FC Nurnberg,Germany
-2521,2006,Czech Republic, Monaco,France
-2522,2006,Czech Republic, Borussia Dortmund,Germany
-2523,2006,Czech Republic, Red Bull Salzburg,Austria
-2524,2006,Czech Republic, Aston Villa,England
-2525,2006,Czech Republic, Hannover 96,Germany
-2526,2006,Czech Republic, Galatasaray,Turkey
-2527,2006,Ecuador, Deportivo Quito,Ecuador
-2528,2006,Ecuador, LDU Quito,Ecuador
-2529,2006,Ecuador, Aucas,Ecuador
-2530,2006,Ecuador, Al-Arabi,Qatar
-2531,2006,Ecuador, Aston Villa,England
-2532,2006,Ecuador, Olmedo,Ecuador
-2533,2006,Ecuador, LDU Quito,Ecuador
-2534,2006,Ecuador, LDU Quito,Ecuador
-2535,2006,Ecuador, LDU Quito,Ecuador
-2536,2006,Ecuador, LDU Quito,Ecuador
-2537,2006,Ecuador, El Nacional,Ecuador
-2538,2006,Ecuador, LDU Quito,Ecuador
-2539,2006,Ecuador, El Nacional,Ecuador
-2540,2006,Ecuador, Deportivo Quito,Ecuador
-2541,2006,Ecuador, Barcelona SC,Ecuador
-2542,2006,Ecuador, El Nacional,Ecuador
-2543,2006,Ecuador, Argentinos Juniors,Argentina
-2544,2006,Ecuador, LDU Quito,Ecuador
-2545,2006,Ecuador, Al Sadd,Qatar
-2546,2006,Ecuador, El Nacional,Ecuador
-2547,2006,England, Tottenham,England
-2548,2006,England, Liverpool,England
-2549,2006,England, Manchester United,England
-2550,2006,England, Manchester United,England
-2551,2006,England, Arsenal,England
-2552,2006,England, Chelsea,England
-2553,2006,England, Real Madrid,Spain
-2554,2006,England, Bayern Munich,Germany
-2555,2006,England, Tottenham,England
-2556,2006,England, Middlesbrough,England
-2557,2006,England, Newcastle United,England
-2558,2006,England, Arsenal,England
-2559,2006,France, Marseille,France
-2560,2006,France, Lyon,France
-2561,2006,France, Newcastle United,England
-2562,2006,France, Manchester United,England
-2563,2006,France, Juventus,Italy
-2564,2006,France, Monaco,France
-2565,2006,France, Bayern Munich,Germany
-2566,2006,France, Wigan Athletic,England
-2567,2006,France, Juventus,Italy
-2568,2006,France, Chelsea,England
-2569,2006,France, PSG,France
-2570,2006,France, Real Madrid,Spain
-2571,2006,France, Lyon,France
-2572,2006,France, Manchester United,England
-2573,2006,France, Juventus,Italy
-2574,2006,Germany, Arsenal,England
-2575,2006,Germany, Bayern Munich,Germany
-2576,2006,Germany, VfB Stuttgart,Germany
-2577,2006,Germany, Chelsea,England
-2578,2006,Germany, Bayer Leverkusen,Germany
-2579,2006,Germany, Borussia Dortmund,Germany
-2580,2006,Germany, Borussia Dortmund,Germany
-2581,2006,Germany, Werder Bremen,Germany
-2582,2006,Germany, Bayern Munich,Germany
-2583,2006,Germany, VfB Stuttgart,Germany
-2584,2006,Germany, Werder Bremen,Germany
-2585,2006,Germany, Bayer Leverkusen,Germany
-2586,2006,Germany, Borussia Dortmund,Germany
-2587,2006,Germany, VfL Wolfsburg,Germany
-2588,2006,Germany, Borussia Monchengladbach,Germany
-2589,2006,Germany, Schalke 04,Germany
-2590,2006,Ghana, Ashdod,Israel
-2591,2006,Ghana, Ashanti Gold,Ghana
-2592,2006,Ghana, Ankaraspor,Turkey
-2593,2006,Ghana, Roma,Italy
-2594,2006,Ghana, Hapoel Kfar Saba,Israel
-2595,2006,Ghana, Asante Kotoko,Ghana
-2596,2006,Ghana, King Faisal Babes,Ghana
-2597,2006,Ghana, Hearts of Oak,Ghana
-2598,2006,Ghana, PSV,Netherlands
-2599,2006,Ghana, Randers,Denmark
-2600,2006,Ghana, Red Star Belgrade,Serbia
-2601,2006,Ghana, St. Gallen,Switzerland
-2602,2006,Ghana, Copenhagen,Denmark
-2603,2006,Ghana, Mainz 05,Germany
-2604,2006,Iran, Foolad,Iran
-2605,2006,Iran, Pas,Iran
-2606,2006,Iran, Esteghlal,Iran
-2607,2006,Iran, Saba Battery,Iran
-2608,2006,Iran, Saba Battery,Iran
-2609,2006,Iran, Messina,Italy
-2610,2006,Iran, Foolad,Iran
-2611,2006,Iran, Pas,Iran
-2612,2006,Iran, Hamburger SV,Germany
-2613,2006,Iran, Al-Sharjah,United Arab Emirates
-2614,2006,Iran, 1. FC Kaiserslautern,Germany
-2615,2006,Iran, Bayern Munich,Germany
-2616,2006,Iran, VfL Bochum,Germany
-2617,2006,Iran, Persepolis,Iran
-2618,2006,Iran, Hannover 96,Germany
-2619,2006,Iran, Saba Battery,Iran
-2620,2006,Iran, Sepahan,Iran
-2621,2006,Iran, Pas,Iran
-2622,2006,Iran, Esteghlal,Iran
-2623,2006,Iran, Persepolis,Iran
-2624,2006,Italy, Lazio,Italy
-2625,2006,Italy, Livorno,Italy
-2626,2006,Italy, Palermo,Italy
-2627,2006,Italy, Palermo,Italy
+2511,2006,Czech Republic,Spartak Moscow,Russia
+2512,2006,Czech Republic,Fiorentina,Italy
+2513,2006,Czech Republic,PSG,France
+2514,2006,Czech Republic,Ajax,Netherlands
+2515,2006,Czech Republic,Austria Wien,Austria
+2516,2006,Czech Republic,Dynamo ceské Bud?jovice,Cezch Republic
+2517,2006,Czech Republic,Borussia Dortmund,Germany
+2518,2006,Czech Republic,Juventus,Italy
+2519,2006,Czech Republic,Hamburger SV,Germany
+2520,2006,Czech Republic,1. FC Nurnberg,Germany
+2521,2006,Czech Republic,Monaco,France
+2522,2006,Czech Republic,Borussia Dortmund,Germany
+2523,2006,Czech Republic,Red Bull Salzburg,Austria
+2524,2006,Czech Republic,Aston Villa,England
+2525,2006,Czech Republic,Hannover 96,Germany
+2526,2006,Czech Republic,Galatasaray,Turkey
+2527,2006,Ecuador,Deportivo Quito,Ecuador
+2528,2006,Ecuador,LDU Quito,Ecuador
+2529,2006,Ecuador,Aucas,Ecuador
+2530,2006,Ecuador,Al-Arabi,Qatar
+2531,2006,Ecuador,Aston Villa,England
+2532,2006,Ecuador,Olmedo,Ecuador
+2533,2006,Ecuador,LDU Quito,Ecuador
+2534,2006,Ecuador,LDU Quito,Ecuador
+2535,2006,Ecuador,LDU Quito,Ecuador
+2536,2006,Ecuador,LDU Quito,Ecuador
+2537,2006,Ecuador,El Nacional,Ecuador
+2538,2006,Ecuador,LDU Quito,Ecuador
+2539,2006,Ecuador,El Nacional,Ecuador
+2540,2006,Ecuador,Deportivo Quito,Ecuador
+2541,2006,Ecuador,Barcelona SC,Ecuador
+2542,2006,Ecuador,El Nacional,Ecuador
+2543,2006,Ecuador,Argentinos Juniors,Argentina
+2544,2006,Ecuador,LDU Quito,Ecuador
+2545,2006,Ecuador,Al Sadd,Qatar
+2546,2006,Ecuador,El Nacional,Ecuador
+2547,2006,England,Tottenham,England
+2548,2006,England,Liverpool,England
+2549,2006,England,Manchester United,England
+2550,2006,England,Manchester United,England
+2551,2006,England,Arsenal,England
+2552,2006,England,Chelsea,England
+2553,2006,England,Real Madrid,Spain
+2554,2006,England,Bayern Munich,Germany
+2555,2006,England,Tottenham,England
+2556,2006,England,Middlesbrough,England
+2557,2006,England,Newcastle United,England
+2558,2006,England,Arsenal,England
+2559,2006,France,Marseille,France
+2560,2006,France,Lyon,France
+2561,2006,France,Newcastle United,England
+2562,2006,France,Manchester United,England
+2563,2006,France,Juventus,Italy
+2564,2006,France,Monaco,France
+2565,2006,France,Bayern Munich,Germany
+2566,2006,France,Wigan Athletic,England
+2567,2006,France,Juventus,Italy
+2568,2006,France,Chelsea,England
+2569,2006,France,PSG,France
+2570,2006,France,Real Madrid,Spain
+2571,2006,France,Lyon,France
+2572,2006,France,Manchester United,England
+2573,2006,France,Juventus,Italy
+2574,2006,Germany,Arsenal,England
+2575,2006,Germany,Bayern Munich,Germany
+2576,2006,Germany,VfB Stuttgart,Germany
+2577,2006,Germany,Chelsea,England
+2578,2006,Germany,Bayer Leverkusen,Germany
+2579,2006,Germany,Borussia Dortmund,Germany
+2580,2006,Germany,Borussia Dortmund,Germany
+2581,2006,Germany,Werder Bremen,Germany
+2582,2006,Germany,Bayern Munich,Germany
+2583,2006,Germany,VfB Stuttgart,Germany
+2584,2006,Germany,Werder Bremen,Germany
+2585,2006,Germany,Bayer Leverkusen,Germany
+2586,2006,Germany,Borussia Dortmund,Germany
+2587,2006,Germany,VfL Wolfsburg,Germany
+2588,2006,Germany,Borussia Monchengladbach,Germany
+2589,2006,Germany,Schalke 04,Germany
+2590,2006,Ghana,Ashdod,Israel
+2591,2006,Ghana,Ashanti Gold,Ghana
+2592,2006,Ghana,Ankaraspor,Turkey
+2593,2006,Ghana,Roma,Italy
+2594,2006,Ghana,Hapoel Kfar Saba,Israel
+2595,2006,Ghana,Asante Kotoko,Ghana
+2596,2006,Ghana,King Faisal Babes,Ghana
+2597,2006,Ghana,Hearts of Oak,Ghana
+2598,2006,Ghana,PSV,Netherlands
+2599,2006,Ghana,Randers,Denmark
+2600,2006,Ghana,Red Star Belgrade,Serbia
+2601,2006,Ghana,St. Gallen,Switzerland
+2602,2006,Ghana,Copenhagen,Denmark
+2603,2006,Ghana,Mainz 05,Germany
+2604,2006,Iran,Foolad,Iran
+2605,2006,Iran,Pas,Iran
+2606,2006,Iran,Esteghlal,Iran
+2607,2006,Iran,Saba Battery,Iran
+2608,2006,Iran,Saba Battery,Iran
+2609,2006,Iran,Messina,Italy
+2610,2006,Iran,Foolad,Iran
+2611,2006,Iran,Pas,Iran
+2612,2006,Iran,Hamburger SV,Germany
+2613,2006,Iran,Al-Sharjah,United Arab Emirates
+2614,2006,Iran,1. FC Kaiserslautern,Germany
+2615,2006,Iran,Bayern Munich,Germany
+2616,2006,Iran,VfL Bochum,Germany
+2617,2006,Iran,Persepolis,Iran
+2618,2006,Iran,Hannover 96,Germany
+2619,2006,Iran,Saba Battery,Iran
+2620,2006,Iran,Sepahan,Iran
+2621,2006,Iran,Pas,Iran
+2622,2006,Iran,Esteghlal,Iran
+2623,2006,Iran,Persepolis,Iran
+2624,2006,Italy,Lazio,Italy
+2625,2006,Italy,Livorno,Italy
+2626,2006,Italy,Palermo,Italy
+2627,2006,Italy,Palermo,Italy
 2628,2006,Italy,AC Milan,Italy
-2629,2006,Italy, Lazio,Italy
-2630,2006,Italy, Internazionale,Italy
-2631,2006,Italy, Palermo,Italy
-2632,2006,Italy, Roma,Italy
-2633,2006,Italy, Juventus,Italy
-2634,2006,Italy, Fiorentina,Italy
-2635,2006,Italy, Roma,Italy
+2629,2006,Italy,Lazio,Italy
+2630,2006,Italy,Internazionale,Italy
+2631,2006,Italy,Palermo,Italy
+2632,2006,Italy,Roma,Italy
+2633,2006,Italy,Juventus,Italy
+2634,2006,Italy,Fiorentina,Italy
+2635,2006,Italy,Roma,Italy
 2636,2006,Italy,AC Milan,Italy
-2637,2006,Ivory Coast, Espérance de Tunis,Tunisia
-2638,2006,Ivory Coast, Montpellier,France
-2639,2006,Ivory Coast, Troyes,France
-2640,2006,Ivory Coast, Marseille,France
-2641,2006,Ivory Coast, Messina,Italy
-2642,2006,Ivory Coast, Créteil,France
-2643,2006,Ivory Coast, Auxerre,France
-2644,2006,Ivory Coast, Nantes,France
-2645,2006,Ivory Coast, PSG,France
-2646,2006,Ivory Coast, Young Boys,Switzerland
-2647,2006,Ivory Coast, PSV,Netherlands
-2648,2006,Ivory Coast, Nice,France
-2649,2006,Japan, FC Tokyo,Japan
-2650,2006,Japan, FC Tokyo,Japan
-2651,2006,Japan, Gamba Osaka,Japan
-2652,2006,Japan, Basel,Switzerland
-2653,2006,Japan, Urawa Red Diamonds,Japan
-2654,2006,Japan, Urawa Red Diamonds,Japan
-2655,2006,Japan, Gamba Osaka,Japan
-2656,2006,Japan, Fiorentina,Italy
-2657,2006,Japan, Kashima Antlers,Japan
-2658,2006,Japan, Júbilo Iwata,Japan
-2659,2006,Japan, Urawa Red Diamonds,Japan
-2660,2006,Japan, Hamburger SV,Germany
-2661,2006,Japan, JEF United,Japan
-2662,2006,Japan, Kashima Antlers,Japan
-2663,2006,Japan, Grenoble,France
-2664,2006,Mexico, Guadalajara,Mexico
-2665,2006,Mexico, Chivas USA,USA
-2666,2006,Mexico, Guadalajara,Mexico
-2667,2006,Mexico, America,Mexico
-2668,2006,Mexico, Monterrey,Mexico
-2669,2006,Mexico, Toluca,Mexico
-2670,2006,Mexico, America,Mexico
-2671,2006,Mexico, Guadalajara,Mexico
-2672,2006,Mexico, Atlas,Mexico
-2673,2006,Mexico, Monterrey,Mexico
-2674,2006,Mexico, Monterrey,Mexico
-2675,2006,Mexico, Bolton Wanderers,England
-2676,2006,Mexico, Cruz Azul,Mexico
-2677,2006,Mexico, Guadalajara,Mexico
-2678,2006,Netherlands, Manchester United,England
-2679,2006,Netherlands, AZ,Netherlands
-2680,2006,Netherlands, AZ,Netherlands
-2681,2006,Netherlands, Liverpool,England
-2682,2006,Netherlands, AZ,Netherlands
-2683,2006,Netherlands, AZ,Netherlands
-2684,2006,Netherlands, PSV,Netherlands
-2685,2006,Netherlands, Ajax,Netherlands
-2686,2006,Netherlands, Manchester United,England
-2687,2006,Netherlands, PSV,Netherlands
-2688,2006,Paraguay, Sportivo Luqueño,Paraguay
-2689,2006,Paraguay, Estudiantes,Argentina
-2690,2006,Paraguay, Real Zaragoza,Spain
-2691,2006,Paraguay, Palmeiras,Brazil
-2692,2006,Paraguay, Santos,Brazil
-2693,2006,Paraguay, Cruz Azul,Mexico
-2694,2006,Paraguay, Deportivo La Coruña,Spain
-2695,2006,Paraguay, Newell's Old Boys,Argentina
-2696,2006,Paraguay, Reggina,Italy
-2697,2006,Paraguay, Olimpia,Paraguay
-2698,2006,Paraguay, Bayern Munich,Germany
-2699,2006,Paraguay, Chiapas,Mexico
-2700,2006,Paraguay, Werder Bremen,Germany
-2701,2006,Paraguay, Genoa,Italy
-2702,2006,Paraguay, Pachuca,Mexico
-2703,2006,Poland, Celtic,Scotland
-2704,2006,Poland, West Bromwich Albion,England
-2705,2006,Poland, FC Moscow,Russia
-2706,2006,Poland, Metalist Kharkiv,Ukraine
-2707,2006,Poland, Wisla Kraków,Poland
-2708,2006,Poland, Al-Rayyan,Qatar
-2709,2006,Poland, Anderlecht,Belgium
-2710,2006,Poland, Shakhtar Donetsk,Ukraine
-2711,2006,Poland, Lech Poznan,Poland
-2712,2006,Poland, 1. FC Kaiserslautern,Germany
-2713,2006,Poland, Wisla Kraków,Poland
-2714,2006,Poland, Bayer Leverkusen,Germany
-2715,2006,Poland, Trabzonspor,Turkey
-2716,2006,Poland, Austria Wien,Austria
-2717,2006,Poland, Austria Wien,Austria
-2718,2006,Poland, Wisla Kraków,Poland
-2719,2006,Poland, Cracovia,Poland
-2720,2006,Poland, Celtic,Scotland
-2721,2006,Poland, Tottenham,England
-2722,2006,Poland, Borussia Dortmund,Germany
-2723,2006,Poland, Wisla Plock,Poland
-2724,2006,Poland, Wisla Kraków,Poland
-2725,2006,Portugal, Sporting CP,Portugal
-2726,2006,Portugal, Benfica,Portugal
-2727,2006,Portugal, SC Braga,Portugal
-2728,2006,Portugal, Valencia,Spain
-2729,2006,Portugal, VfB Stuttgart,Germany
-2730,2006,Portugal, Everton,England
-2731,2006,Portugal, Dynamo Moscow,Russia
-2732,2006,Portugal, Internazionale,Italy
-2733,2006,Portugal, Benfica,Portugal
-2734,2006,Portugal, Valencia,Spain
-2735,2006,Portugal, Dynamo Moscow,Russia
-2736,2006,Portugal, PSG,France
-2737,2006,Portugal, Fulham,England
-2738,2006,Portugal, Benfica,Portugal
-2739,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2740,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2741,2006,Saudi Arabia, Al Shabab,Saudi Arabia
-2742,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2743,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2744,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2745,2006,Saudi Arabia, Al-Ahli,Saudi Arabia
-2746,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2747,2006,Saudi Arabia, Al-Ahli,Saudi Arabia
-2748,2006,Saudi Arabia, Al Ettifaq,Saudi Arabia
-2749,2006,Saudi Arabia, Al-Ahli,Saudi Arabia
-2750,2006,Saudi Arabia, Al-Ahli,Saudi Arabia
-2751,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2752,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2753,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2754,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2755,2006,Saudi Arabia, Al-Ittihad,Saudi Arabia
-2756,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2757,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2758,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2759,2006,Saudi Arabia, Al Nassr,Saudi Arabia
-2760,2006,Saudi Arabia, Al Hilal,Saudi Arabia
-2761,2006,Saudi Arabia, Al-Ahli,Saudi Arabia
-2762,2006,Serbia & Montenegro, Ankaraspor,Turkey
-2763,2006,Serbia & Montenegro, CSKA Sofia,Bulgaria
-2764,2006,Serbia & Montenegro, Sevilla,Spain
-2765,2006,Serbia & Montenegro, Dynamo Kyiv,Ukraine
-2766,2006,Serbia & Montenegro, Red Star Belgrade,Serbia
-2767,2006,Serbia & Montenegro, Partizan,Serbia
-2768,2006,Serbia & Montenegro, Red Star Belgrade,Serbia
-2769,2006,Serbia & Montenegro, OFK Beograd,Serbia
-2770,2006,Serbia & Montenegro, Schalke 04,Germany
-2771,2006,Serbia & Montenegro, Basel,Switzerland
-2772,2006,Serbia & Montenegro, Shakhtar Donetsk,Ukraine
-2773,2006,Serbia & Montenegro, Portsmouth,England
-2774,2006,Serbia & Montenegro, Olympiacos,Greece
-2775,2006,Serbia & Montenegro, Partizan,Serbia
-2776,2006,Serbia & Montenegro, Shakhtar Donetsk,Ukraine
-2777,2006,Serbia & Montenegro, Galatasaray,Turkey
-2778,2006,Serbia & Montenegro, Atletico Madrid,Spain
-2779,2006,Serbia & Montenegro, Osasuna,Spain
-2780,2006,Serbia & Montenegro, PSG,France
-2781,2006,South Korea, Seongnam Ilhwa Chunma,South Korea
-2782,2006,South Korea, Seongnam Ilhwa Chunma,South Korea
-2783,2006,South Korea, Jeonbuk Hyundai Motors,South Korea
-2784,2006,South Korea, Júbilo Iwata,Japan
-2785,2006,South Korea, Seongnam Ilhwa Chunma,South Korea
-2786,2006,South Korea, Suwon Samsung Bluewings,South Korea
-2787,2006,South Korea, Suwon Samsung Bluewings,South Korea
-2788,2006,South Korea, Seongnam Ilhwa Chunma,South Korea
-2789,2006,South Korea, Trabzonspor,Turkey
-2790,2006,South Korea, FC Seoul,South Korea
-2791,2006,South Korea, Ulsan Hyundai Horangi,South Korea
-2792,2006,South Korea, Wolverhampton,England
-2793,2006,South Korea, Ulsan Hyundai Horangi,South Korea
-2794,2006,South Korea, Gwangju Sangmu Phoenix,South Korea
-2795,2006,South Korea, Shimizu S-Pulse,Japan
-2796,2006,Spain, Valencia,Spain
-2797,2006,Spain, Real Madrid,Spain
-2798,2006,Spain, Getafe,Spain
-2799,2006,Spain, Atletico Madrid,Spain
-2800,2006,Spain, Real Betis,Spain
-2801,2006,Spain, Atletico Madrid,Spain
-2802,2006,Spain, Valencia,Spain
-2803,2006,Spain, Arsenal,England
-2804,2006,Spain, Liverpool,England
-2805,2006,Spain, Villarreal,Spain
-2806,2006,Spain, Real Betis,Spain
-2807,2006,Spain, Real Madrid,Spain
-2808,2006,Sweden, Rennes,France
-2809,2006,Sweden, Viborg,Denmark
-2810,2006,Sweden, Fredrikstad,Norway
-2811,2006,Sweden, Panathinaikos,Greece
-2812,2006,Sweden, Aston Villa,England
-2813,2006,Sweden, Hacken,Sweden
-2814,2006,Sweden, Rennes,France
-2815,2006,Sweden, Heerenveen,Netherlands
-2816,2006,Sweden, Bayer Leverkusen,Germany
-2817,2006,Sweden, IFK Goteborg,Sweden
-2818,2006,Sweden, Copenhagen,Denmark
-2819,2006,Sweden, IFK Goteborg,Sweden
-2820,2006,Sweden, Elfsborg,Sweden
-2821,2006,Sweden, Arsenal,England
-2822,2006,Sweden, Rennes,France
-2823,2006,Sweden, Djurgarden,Sweden
-2824,2006,Sweden, Malmo,Sweden
-2825,2006,Sweden, Anderlecht,Belgium
-2826,2006,Sweden, Juventus,Italy
-2827,2006,Sweden, Barcelona,Spain
-2828,2006,Sweden, Brondby,Denmark
-2829,2006,Sweden, Copenhagen,Denmark
-2830,2006,Sweden, Ajax,Netherlands
-2831,2006,Switzerland, Basel,Switzerland
-2832,2006,Switzerland, Grasshopper,Switzerland
-2833,2006,Switzerland, Hamburger SV,Germany
-2834,2006,Switzerland, Eintracht Frankfurt,Germany
-2835,2006,Switzerland, Lyon,France
-2836,2006,Switzerland, Borussia Dortmund,Germany
-2837,2006,Switzerland, Zurich,Switzerland
+2637,2006,Ivory Coast,Esperance de Tunis,Tunisia
+2638,2006,Ivory Coast,Montpellier,France
+2639,2006,Ivory Coast,Troyes,France
+2640,2006,Ivory Coast,Marseille,France
+2641,2006,Ivory Coast,Messina,Italy
+2642,2006,Ivory Coast,Créteil,France
+2643,2006,Ivory Coast,Auxerre,France
+2644,2006,Ivory Coast,Nantes,France
+2645,2006,Ivory Coast,PSG,France
+2646,2006,Ivory Coast,Young Boys,Switzerland
+2647,2006,Ivory Coast,PSV,Netherlands
+2648,2006,Ivory Coast,Nice,France
+2649,2006,Japan,FC Tokyo,Japan
+2650,2006,Japan,FC Tokyo,Japan
+2651,2006,Japan,Gamba Osaka,Japan
+2652,2006,Japan,Basel,Switzerland
+2653,2006,Japan,Urawa Red Diamonds,Japan
+2654,2006,Japan,Urawa Red Diamonds,Japan
+2655,2006,Japan,Gamba Osaka,Japan
+2656,2006,Japan,Fiorentina,Italy
+2657,2006,Japan,Kashima Antlers,Japan
+2658,2006,Japan,Jubilo Iwata,Japan
+2659,2006,Japan,Urawa Red Diamonds,Japan
+2660,2006,Japan,Hamburger SV,Germany
+2661,2006,Japan,JEF United,Japan
+2662,2006,Japan,Kashima Antlers,Japan
+2663,2006,Japan,Grenoble,France
+2664,2006,Mexico,Guadalajara,Mexico
+2665,2006,Mexico,Chivas USA,USA
+2666,2006,Mexico,Guadalajara,Mexico
+2667,2006,Mexico,America,Mexico
+2668,2006,Mexico,Monterrey,Mexico
+2669,2006,Mexico,Toluca,Mexico
+2670,2006,Mexico,America,Mexico
+2671,2006,Mexico,Guadalajara,Mexico
+2672,2006,Mexico,Atlas,Mexico
+2673,2006,Mexico,Monterrey,Mexico
+2674,2006,Mexico,Monterrey,Mexico
+2675,2006,Mexico,Bolton Wanderers,England
+2676,2006,Mexico,Cruz Azul,Mexico
+2677,2006,Mexico,Guadalajara,Mexico
+2678,2006,Netherlands,Manchester United,England
+2679,2006,Netherlands,AZ,Netherlands
+2680,2006,Netherlands,AZ,Netherlands
+2681,2006,Netherlands,Liverpool,England
+2682,2006,Netherlands,AZ,Netherlands
+2683,2006,Netherlands,AZ,Netherlands
+2684,2006,Netherlands,PSV,Netherlands
+2685,2006,Netherlands,Ajax,Netherlands
+2686,2006,Netherlands,Manchester United,England
+2687,2006,Netherlands,PSV,Netherlands
+2688,2006,Paraguay,Sportivo Luqueño,Paraguay
+2689,2006,Paraguay,Estudiantes,Argentina
+2690,2006,Paraguay,Real Zaragoza,Spain
+2691,2006,Paraguay,Palmeiras,Brazil
+2692,2006,Paraguay,Santos,Brazil
+2693,2006,Paraguay,Cruz Azul,Mexico
+2694,2006,Paraguay,Deportivo La Coruña,Spain
+2695,2006,Paraguay,Newell's Old Boys,Argentina
+2696,2006,Paraguay,Reggina,Italy
+2697,2006,Paraguay,Olimpia,Paraguay
+2698,2006,Paraguay,Bayern Munich,Germany
+2699,2006,Paraguay,Chiapas,Mexico
+2700,2006,Paraguay,Werder Bremen,Germany
+2701,2006,Paraguay,Genoa,Italy
+2702,2006,Paraguay,Pachuca,Mexico
+2703,2006,Poland,Celtic,Scotland
+2704,2006,Poland,West Bromwich Albion,England
+2705,2006,Poland,FC Moscow,Russia
+2706,2006,Poland,Metalist Kharkiv,Ukraine
+2707,2006,Poland,Wisla Krakow,Poland
+2708,2006,Poland,Al-Rayyan,Qatar
+2709,2006,Poland,Anderlecht,Belgium
+2710,2006,Poland,Shakhtar Donetsk,Ukraine
+2711,2006,Poland,Lech Poznan,Poland
+2712,2006,Poland,1. FC Kaiserslautern,Germany
+2713,2006,Poland,Wisla Krakow,Poland
+2714,2006,Poland,Bayer Leverkusen,Germany
+2715,2006,Poland,Trabzonspor,Turkey
+2716,2006,Poland,Austria Wien,Austria
+2717,2006,Poland,Austria Wien,Austria
+2718,2006,Poland,Wisla Krakow,Poland
+2719,2006,Poland,Cracovia,Poland
+2720,2006,Poland,Celtic,Scotland
+2721,2006,Poland,Tottenham,England
+2722,2006,Poland,Borussia Dortmund,Germany
+2723,2006,Poland,Wisla Plock,Poland
+2724,2006,Poland,Wisla Krakow,Poland
+2725,2006,Portugal,Sporting CP,Portugal
+2726,2006,Portugal,Benfica,Portugal
+2727,2006,Portugal,SC Braga,Portugal
+2728,2006,Portugal,Valencia,Spain
+2729,2006,Portugal,VfB Stuttgart,Germany
+2730,2006,Portugal,Everton,England
+2731,2006,Portugal,Dynamo Moscow,Russia
+2732,2006,Portugal,Internazionale,Italy
+2733,2006,Portugal,Benfica,Portugal
+2734,2006,Portugal,Valencia,Spain
+2735,2006,Portugal,Dynamo Moscow,Russia
+2736,2006,Portugal,PSG,France
+2737,2006,Portugal,Fulham,England
+2738,2006,Portugal,Benfica,Portugal
+2739,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2740,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2741,2006,Saudi Arabia,Al Shabab,Saudi Arabia
+2742,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2743,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2744,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2745,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2746,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2747,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2748,2006,Saudi Arabia,Al Ettifaq,Saudi Arabia
+2749,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2750,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2751,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2752,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2753,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2754,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2755,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2756,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2757,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2758,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2759,2006,Saudi Arabia,Al Nassr,Saudi Arabia
+2760,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2761,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2762,2006,Serbia & Montenegro,Ankaraspor,Turkey
+2763,2006,Serbia & Montenegro,CSKA Sofia,Bulgaria
+2764,2006,Serbia & Montenegro,Sevilla,Spain
+2765,2006,Serbia & Montenegro,Dynamo Kyiv,Ukraine
+2766,2006,Serbia & Montenegro,Red Star Belgrade,Serbia
+2767,2006,Serbia & Montenegro,Partizan,Serbia
+2768,2006,Serbia & Montenegro,Red Star Belgrade,Serbia
+2769,2006,Serbia & Montenegro,OFK Beograd,Serbia
+2770,2006,Serbia & Montenegro,Schalke 04,Germany
+2771,2006,Serbia & Montenegro,Basel,Switzerland
+2772,2006,Serbia & Montenegro,Shakhtar Donetsk,Ukraine
+2773,2006,Serbia & Montenegro,Portsmouth,England
+2774,2006,Serbia & Montenegro,Olympiacos,Greece
+2775,2006,Serbia & Montenegro,Partizan,Serbia
+2776,2006,Serbia & Montenegro,Shakhtar Donetsk,Ukraine
+2777,2006,Serbia & Montenegro,Galatasaray,Turkey
+2778,2006,Serbia & Montenegro,Atletico Madrid,Spain
+2779,2006,Serbia & Montenegro,Osasuna,Spain
+2780,2006,Serbia & Montenegro,PSG,France
+2781,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2782,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2783,2006,South Korea,Jeonbuk Hyundai Motors,South Korea
+2784,2006,South Korea,Jubilo Iwata,Japan
+2785,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2786,2006,South Korea,Suwon Samsung Bluewings,South Korea
+2787,2006,South Korea,Suwon Samsung Bluewings,South Korea
+2788,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2789,2006,South Korea,Trabzonspor,Turkey
+2790,2006,South Korea,FC Seoul,South Korea
+2791,2006,South Korea,Ulsan Hyundai Horangi,South Korea
+2792,2006,South Korea,Wolverhampton,England
+2793,2006,South Korea,Ulsan Hyundai Horangi,South Korea
+2794,2006,South Korea,Gwangju Sangmu Phoenix,South Korea
+2795,2006,South Korea,Shimizu S-Pulse,Japan
+2796,2006,Spain,Valencia,Spain
+2797,2006,Spain,Real Madrid,Spain
+2798,2006,Spain,Getafe,Spain
+2799,2006,Spain,Atletico Madrid,Spain
+2800,2006,Spain,Real Betis,Spain
+2801,2006,Spain,Atletico Madrid,Spain
+2802,2006,Spain,Valencia,Spain
+2803,2006,Spain,Arsenal,England
+2804,2006,Spain,Liverpool,England
+2805,2006,Spain,Villarreal,Spain
+2806,2006,Spain,Real Betis,Spain
+2807,2006,Spain,Real Madrid,Spain
+2808,2006,Sweden,Rennes,France
+2809,2006,Sweden,Viborg,Denmark
+2810,2006,Sweden,Fredrikstad,Norway
+2811,2006,Sweden,Panathinaikos,Greece
+2812,2006,Sweden,Aston Villa,England
+2813,2006,Sweden,Hacken,Sweden
+2814,2006,Sweden,Rennes,France
+2815,2006,Sweden,Heerenveen,Netherlands
+2816,2006,Sweden,Bayer Leverkusen,Germany
+2817,2006,Sweden,IFK Goteborg,Sweden
+2818,2006,Sweden,Copenhagen,Denmark
+2819,2006,Sweden,IFK Goteborg,Sweden
+2820,2006,Sweden,Elfsborg,Sweden
+2821,2006,Sweden,Arsenal,England
+2822,2006,Sweden,Rennes,France
+2823,2006,Sweden,Djurgarden,Sweden
+2824,2006,Sweden,Malmo,Sweden
+2825,2006,Sweden,Anderlecht,Belgium
+2826,2006,Sweden,Juventus,Italy
+2827,2006,Sweden,Barcelona,Spain
+2828,2006,Sweden,Brondby,Denmark
+2829,2006,Sweden,Copenhagen,Denmark
+2830,2006,Sweden,Ajax,Netherlands
+2831,2006,Switzerland,Basel,Switzerland
+2832,2006,Switzerland,Grasshopper,Switzerland
+2833,2006,Switzerland,Hamburger SV,Germany
+2834,2006,Switzerland,Eintracht Frankfurt,Germany
+2835,2006,Switzerland,Lyon,France
+2836,2006,Switzerland,Borussia Dortmund,Germany
+2837,2006,Switzerland,Zurich,Switzerland
 2838,2006,Switzerland,AC Milan,Italy
-2839,2006,Switzerland, 1. FC Koln,Germany
-2840,2006,Switzerland, Basel,Switzerland
-2841,2006,Switzerland, Lille,France
-2842,2006,Switzerland, 1. FC Koln,Germany
-2843,2006,Switzerland, Sparta Prague,Cezch Republic
-2844,2006,Togo, Djoliba,Mali
-2845,2006,Togo, Metz,France
-2846,2006,Togo, Étoile Filante,Togo
-2847,2006,Togo, Mons,Belgium
-2848,2006,Togo, APOEL,Chipre
-2849,2006,Togo, Benevento,Italy
-2850,2006,Togo, Admira Wacker,Austria
-2851,2006,Togo, Poiré,France
-2852,2006,Togo, Ciudad de Murcia,Spain
-2853,2006,Togo, Bayer Leverkusen,Germany
-2854,2006,Togo, Young Boys,Switzerland
-2855,2006,Togo, Beveren,Belgium
-2856,2006,Togo, Valenciennes,France
-2857,2006,Togo, Metz,France
-2858,2006,Togo, Al-Siliyah,Qatar
-2859,2006,Togo, Louhans-Cuiseaux,France
-2860,2006,Togo, YF Juventus,Switzerland
-2861,2006,Togo, Al Hilal,Saudi Arabia
-2862,2006,Togo, Arsenal,England
-2863,2006,Togo, Brest,France
-2864,2006,Togo, Brest,France
-2865,2006,Togo, Guingamp,France
-2866,2006,Togo, Moulins,France
-2867,2006,Trinidad & Tobago, West Ham,England
-2868,2006,Trinidad & Tobago, Dundee,Scotland
-2869,2006,Trinidad & Tobago, Coventry City,England
-2870,2006,Trinidad & Tobago, Gillingham,England
-2871,2006,Trinidad & Tobago, New England Revolution,USA
-2872,2006,Trinidad & Tobago, Rangers,Scotland
-2873,2006,Trinidad & Tobago, Gillingham,England
-2874,2006,Trinidad & Tobago, Wrexham,Wales
-2875,2006,Trinidad & Tobago, San Juan Jabloteh,Trinidad & Tobago
-2876,2006,Trinidad & Tobago, Luton Town,England
-2877,2006,Trinidad & Tobago, W Connection,Trinidad & Tobago
-2878,2006,Trinidad & Tobago, Port Vale,England
-2879,2006,Trinidad & Tobago, San Juan Jabloteh,Trinidad & Tobago
-2880,2006,Trinidad & Tobago, Falkirk,Scotland
-2881,2006,Trinidad & Tobago, Waldhof Mannheim,Germany
-2882,2006,Trinidad & Tobago, Falkirk,Scotland
-2883,2006,Trinidad & Tobago, San Juan Jabloteh,Trinidad & Tobago
-2884,2006,Trinidad & Tobago, Dundee United,Scotland
-2885,2006,Trinidad & Tobago, LA Galaxy,USA
-2886,2006,Trinidad & Tobago, Coventry City,England
-2887,2006,Trinidad & Tobago, Southampton,England
-2888,2006,Trinidad & Tobago, Sydney FC,Australia
-2889,2006,Trinidad & Tobago, St. Johnstone,Scotland
-2890,2006,Tunisia, Club Africain,Tunisia
-2891,2006,Tunisia, Monastir,Tunisia
-2892,2006,Tunisia, Espérance de Tunis,Tunisia
-2893,2006,Tunisia, Rosenborg,Norway
-2894,2006,Tunisia, Strasbourg,France
-2895,2006,Tunisia, Saint-Étienne,France
-2896,2006,Tunisia, Ajax,Netherlands
-2897,2006,Tunisia, Bolton Wanderers,England
-2898,2006,Tunisia, Bordeaux,France
-2899,2006,Tunisia, Samsunspor,Turkey
-2900,2006,Tunisia, Feyenoord,Netherlands
-2901,2006,Tunisia, Birmingham City,England
-2902,2006,Tunisia, Étoile du Sahel,Tunisia
-2903,2006,Tunisia, Konyaspor,Turkey
-2904,2006,Tunisia, 1. FC Nurnberg,Germany
-2905,2006,Tunisia, Kayseri Erciyesspor,Turkey
-2906,2006,Tunisia, 1. FC Nurnberg,Germany
-2907,2006,Tunisia, Rangers,Scotland
-2908,2006,Tunisia, Gaziantepspor,Turkey
-2909,2006,Tunisia, Troyes,France
-2910,2006,Tunisia, Strasbourg,France
-2911,2006,Tunisia, Toulouse,France
-2912,2006,Tunisia, Bastia,France
-2913,2006,Ukraine, Dynamo Kyiv,Ukraine
-2914,2006,Ukraine, Vorskla Poltava,Ukraine
-2915,2006,Ukraine, Shakhtar Donetsk,Ukraine
-2916,2006,Ukraine, Dynamo Kyiv,Ukraine
-2917,2006,Ukraine, Kharkiv,Ukraine
-2918,2006,Ukraine, Dnipro Dnipropetrovsk,Ukraine
-2919,2006,Ukraine, Dnipro Dnipropetrovsk,Ukraine
-2920,2006,Ukraine, Shakhtar Donetsk,Ukraine
-2921,2006,Ukraine, Dynamo Kyiv,Ukraine
-2922,2006,Ukraine, Shakhtar Donetsk,Ukraine
-2923,2006,Ukraine, Shakhtar Donetsk,Ukraine
-2924,2006,Ukraine, Dnipro Dnipropetrovsk,Ukraine
-2925,2006,Ukraine, Dynamo Kyiv,Ukraine
-2926,2006,Ukraine, Krylya Sovetov Samara,Russia
-2927,2006,Ukraine, Dnipro Dnipropetrovsk,Ukraine
-2928,2006,Ukraine, Spartak Moscow,Russia
-2929,2006,Ukraine, Dynamo Kyiv,Ukraine
+2839,2006,Switzerland,1. FC Koln,Germany
+2840,2006,Switzerland,Basel,Switzerland
+2841,2006,Switzerland,Lille,France
+2842,2006,Switzerland,1. FC Koln,Germany
+2843,2006,Switzerland,Sparta Prague,Cezch Republic
+2844,2006,Togo,Djoliba,Mali
+2845,2006,Togo,Metz,France
+2846,2006,Togo,Étoile Filante,Togo
+2847,2006,Togo,Mons,Belgium
+2848,2006,Togo,APOEL,Chipre
+2849,2006,Togo,Benevento,Italy
+2850,2006,Togo,Admira Wacker,Austria
+2851,2006,Togo,Poiré,France
+2852,2006,Togo,Ciudad de Murcia,Spain
+2853,2006,Togo,Bayer Leverkusen,Germany
+2854,2006,Togo,Young Boys,Switzerland
+2855,2006,Togo,Beveren,Belgium
+2856,2006,Togo,Valenciennes,France
+2857,2006,Togo,Metz,France
+2858,2006,Togo,Al-Siliyah,Qatar
+2859,2006,Togo,Louhans-Cuiseaux,France
+2860,2006,Togo,YF Juventus,Switzerland
+2861,2006,Togo,Al Hilal,Saudi Arabia
+2862,2006,Togo,Arsenal,England
+2863,2006,Togo,Brest,France
+2864,2006,Togo,Brest,France
+2865,2006,Togo,Guingamp,France
+2866,2006,Togo,Moulins,France
+2867,2006,Trinidad & Tobago,West Ham,England
+2868,2006,Trinidad & Tobago,Dundee,Scotland
+2869,2006,Trinidad & Tobago,Coventry City,England
+2870,2006,Trinidad & Tobago,Gillingham,England
+2871,2006,Trinidad & Tobago,New England Revolution,USA
+2872,2006,Trinidad & Tobago,Rangers,Scotland
+2873,2006,Trinidad & Tobago,Gillingham,England
+2874,2006,Trinidad & Tobago,Wrexham,Wales
+2875,2006,Trinidad & Tobago,San Juan Jabloteh,Trinidad & Tobago
+2876,2006,Trinidad & Tobago,Luton Town,England
+2877,2006,Trinidad & Tobago,W Connection,Trinidad & Tobago
+2878,2006,Trinidad & Tobago,Port Vale,England
+2879,2006,Trinidad & Tobago,San Juan Jabloteh,Trinidad & Tobago
+2880,2006,Trinidad & Tobago,Falkirk,Scotland
+2881,2006,Trinidad & Tobago,Waldhof Mannheim,Germany
+2882,2006,Trinidad & Tobago,Falkirk,Scotland
+2883,2006,Trinidad & Tobago,San Juan Jabloteh,Trinidad & Tobago
+2884,2006,Trinidad & Tobago,Dundee United,Scotland
+2885,2006,Trinidad & Tobago,LA Galaxy,USA
+2886,2006,Trinidad & Tobago,Coventry City,England
+2887,2006,Trinidad & Tobago,Southampton,England
+2888,2006,Trinidad & Tobago,Sydney FC,Australia
+2889,2006,Trinidad & Tobago,St. Johnstone,Scotland
+2890,2006,Tunisia,Club Africain,Tunisia
+2891,2006,Tunisia,Monastir,Tunisia
+2892,2006,Tunisia,Espérance de Tunis,Tunisia
+2893,2006,Tunisia,Rosenborg,Norway
+2894,2006,Tunisia,Strasbourg,France
+2895,2006,Tunisia,Saint-Étienne,France
+2896,2006,Tunisia,Ajax,Netherlands
+2897,2006,Tunisia,Bolton Wanderers,England
+2898,2006,Tunisia,Bordeaux,France
+2899,2006,Tunisia,Samsunspor,Turkey
+2900,2006,Tunisia,Feyenoord,Netherlands
+2901,2006,Tunisia,Birmingham City,England
+2902,2006,Tunisia,Étoile du Sahel,Tunisia
+2903,2006,Tunisia,Konyaspor,Turkey
+2904,2006,Tunisia,1. FC Nurnberg,Germany
+2905,2006,Tunisia,Kayseri Erciyesspor,Turkey
+2906,2006,Tunisia,1. FC Nurnberg,Germany
+2907,2006,Tunisia,Rangers,Scotland
+2908,2006,Tunisia,Gaziantepspor,Turkey
+2909,2006,Tunisia,Troyes,France
+2910,2006,Tunisia,Strasbourg,France
+2911,2006,Tunisia,Toulouse,France
+2912,2006,Tunisia,Bastia,France
+2913,2006,Ukraine,Dynamo Kyiv,Ukraine
+2914,2006,Ukraine,Vorskla Poltava,Ukraine
+2915,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2916,2006,Ukraine,Dynamo Kyiv,Ukraine
+2917,2006,Ukraine,Kharkiv,Ukraine
+2918,2006,Ukraine,Dnipro Dnipropetrovsk,Ukraine
+2919,2006,Ukraine,Dnipro Dnipropetrovsk,Ukraine
+2920,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2921,2006,Ukraine,Dynamo Kyiv,Ukraine
+2922,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2923,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2924,2006,Ukraine,Dnipro Dnipropetrovsk,Ukraine
+2925,2006,Ukraine,Dynamo Kyiv,Ukraine
+2926,2006,Ukraine,Krylya Sovetov Samara,Russia
+2927,2006,Ukraine,Dnipro Dnipropetrovsk,Ukraine
+2928,2006,Ukraine,Spartak Moscow,Russia
+2929,2006,Ukraine,Dynamo Kyiv,Ukraine
 2930,2006,Ukraine,AC Milan,Italy
-2931,2006,Ukraine, Bayer Leverkusen,Germany
-2932,2006,Ukraine, Dynamo Kyiv,Ukraine
-2933,2006,Ukraine, Dynamo Kyiv,Ukraine
-2934,2006,Ukraine, Shakhtar Donetsk,Ukraine
-2935,2006,Ukraine, Shakhtar Donetsk,Ukraine
-2936,2006,USA, Borussia Monchengladbach,Germany
-2937,2006,USA, LA Galaxy,USA
-2938,2006,USA, Energie Cottbus,Germany
-2939,2006,USA, Kansas City Wizards,USA
-2940,2006,USA, Real Salt Lake,USA
-2941,2006,USA, Colorado Rapids,USA
-2942,2006,USA, Chivas USA,USA
-2943,2006,USA, Leeds United,England
-2944,2006,USA, Manchester City,England
-2945,2006,USA, D.C. United,USA
-2946,2006,USA, Reading,England
-2947,2006,USA, Kansas City Wizards,USA
-2948,2006,USA, Houston Dynamo,USA
-2949,2006,USA, Kansas City Wizards,USA
-2950,2006,USA, Fulham,England
+2931,2006,Ukraine,Bayer Leverkusen,Germany
+2932,2006,Ukraine,Dynamo Kyiv,Ukraine
+2933,2006,Ukraine,Dynamo Kyiv,Ukraine
+2934,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2935,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2936,2006,USA,Borussia Monchengladbach,Germany
+2937,2006,USA,LA Galaxy,USA
+2938,2006,USA,Energie Cottbus,Germany
+2939,2006,USA,Kansas City Wizards,USA
+2940,2006,USA,Real Salt Lake,USA
+2941,2006,USA,Colorado Rapids,USA
+2942,2006,USA,Chivas USA,USA
+2943,2006,USA,Leeds United,England
+2944,2006,USA,Manchester City,England
+2945,2006,USA,D.C. United,USA
+2946,2006,USA,Reading,England
+2947,2006,USA,Kansas City Wizards,USA
+2948,2006,USA,Houston Dynamo,USA
+2949,2006,USA,Kansas City Wizards,USA
+2950,2006,USA,Fulham,England
 2951,2006,Brazil,Lyon,France
