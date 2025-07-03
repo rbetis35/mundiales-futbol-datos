@@ -23,6 +23,7 @@ player_id,world_cup_year,team,club,country_club
 17,2022,Argentina,Brighton,England
 18,2022,Argentina,Benfica,Portugal
 19,2022,Argentina,Atlanta United,USA
+20,2006,Argentina,Barcelona,Spain
 20,2010,Argentina,Barcelona,Spain
 20,2014,Argentina,Barcelona,Spain
 20,2018,Argentina,Barcelona,Spain
@@ -281,6 +282,7 @@ player_id,world_cup_year,team,club,country_club
 192,2022,Croatia,Bayern Munich,Germany
 193,2022,Croatia,Sassuolo,Italy
 194,2022,Croatia,Dinamo Zagreb,Croatia
+195,2006,Croatia,Dinamo Zagreb,Croatia
 195,2014,Croatia,Real Madrid,Spain
 195,2018,Croatia,Real Madrid,Spain
 195,2022,Croatia,Real Madrid,Spain
@@ -605,6 +607,7 @@ player_id,world_cup_year,team,club,country_club
 413,2022,Japan,Shonan Bellmare,Japan
 414,2022,Japan,Cercle Brugge,Belgium
 415,2022,Japan,Celtic,Scotland
+416,2006,Mexico,America,Mexico
 416,2010,Mexico,America,Mexico
 416,2014,Mexico,Ajaccio,France
 416,2018,Mexico,Standard Liege,Belgium
@@ -625,6 +628,7 @@ player_id,world_cup_year,team,club,country_club
 424,2022,Mexico,Genk,Belgium
 425,2022,Mexico,Pachuca,Mexico
 426,2022,Mexico,Cremonese,Italy
+427,2006,Mexico,Atlas,Mexico
 427,2010,Mexico,Deportivo La Coruña,Spain
 427,2014,Mexico,Bayer Leverkusen,Germany
 427,2018,Mexico,Real Betis,Spain
@@ -781,6 +785,7 @@ player_id,world_cup_year,team,club,country_club
 539,2022,Portugal,PSG,France
 540,2018,Portugal,AC Milan,Italy
 540,2022,Portugal,RB Leipzig,Germany
+541,2006,Portugal,Manchester United,England
 541,2010,Portugal,Real Madrid,Spain
 541,2014,Portugal,Real Madrid,Spain
 541,2018,Portugal,Real Madrid,Spain
@@ -1177,6 +1182,7 @@ player_id,world_cup_year,team,club,country_club
 834,2018,Argentina,Sevilla,Spain
 835,2018,Argentina,Torino,Italy
 836,2018,Argentina,Roma,Italy
+837,2006,Argentina,Corinthians,Brazil
 837,2010,Argentina,Liverpool,England
 837,2014,Argentina,Barcelona,Spain
 837,2018,Argentina,Hebei China Fortune,China
@@ -1199,6 +1205,7 @@ player_id,world_cup_year,team,club,country_club
 847,2018,Argentina,Manchester City,England
 848,2018,Australia,Feyenoord,Netherlands
 849,2018,Australia,Millwall,England
+850,2006,Australia,Sydney FC,Australia
 850,2014,Australia,Melbourne Victory,Australia
 850,2010,Australia,JEF United,Japan
 850,2018,Australia,Al Ahli,Saudi Arabia
@@ -1211,6 +1218,7 @@ player_id,world_cup_year,team,club,country_club
 856,2014,Australia,Crystal Palace,England
 856,2018,Australia,Aston Villa,England
 857,2018,Australia,Celtic,Scotland
+858,2006,Australia,Everton,England
 858,2010,Australia,Everton,England
 858,2014,Australia,New York Red Bulls,USA
 858,2018,Australia,Millwall,England
@@ -1293,10 +1301,12 @@ player_id,world_cup_year,team,club,country_club
 913,2014,Costa Rica,Rosenborg,Norway
 913,2018,Costa Rica,Celtic,Scotland
 914,2018,Costa Rica,Alajuelense,Costa Rica
+915,2006,Costa Rica,Saprissa,Costa Rica
 915,2014,Costa Rica,Copenhagen,Dinamarca
 915,2018,Costa Rica,Saprissa,Costa Rica
 916,2018,Costa Rica,Saprissa,Costa Rica
 917,2018,Costa Rica,New York City FC,USA
+918,2006,Costa Rica,Saprissa,Costa Rica
 918,2018,Costa Rica,Herediano,Costa Rica
 919,2018,Costa Rica,Portland Timbers,USA
 920,2014,Costa Rica,Kuban Krasnodar,Russia
@@ -1442,6 +1452,7 @@ player_id,world_cup_year,team,club,country_club
 1034,2018,Iran,Padideh,Iran
 1035,2014,Iran,Umm Salal,Qatar
 1035,2018,Iran,Esteghlal,Iran
+1036,2006,Iran,Saipa,Iran
 1036,2014,Iran,Las Palmas,Spain
 1036,2018,Iran,AEK Athens,Greece
 1037,2018,Iran,Esteghlal,Iran
@@ -1499,10 +1510,12 @@ player_id,world_cup_year,team,club,country_club
 1072,2018,South Korea,Incheon United,South Korea
 1073,2014,South Korea,Ulsan Hyundai,South Korea
 1073,2018,South Korea,Jeonbuk Hyundai Motors,South Korea
+1074,2006,Mexico,Tecos,Mexico
 1074,2014,Mexico,Cruz Azul,Mexico
 1074,2018,Mexico,Cruz Azul,Mexico
 1075,2018,Mexico,UANL,Mexico
 1076,2018,Mexico,Eintracht Frankfurt,Germany
+1077,2006,Mexico,Barcelona,Spain
 1077,2010,Mexico,Barcelona,Spain
 1077,2014,Mexico,Leon,Mexico
 1077,2018,Mexico,Atlas,Mexico
@@ -1615,6 +1628,7 @@ player_id,world_cup_year,team,club,country_club
 1170,2018,Peru,Watford,England
 1171,2018,Peru,AaB,Denmark
 1172,2018,Poland,Ipswich Town,England
+1173,2006,Poland,Legia Warsaw,Poland
 1173,2018,Poland,Swansea City,Wales
 1174,2018,Poland,Legia Warsaw,Poland
 1175,2018,Poland,SPAL,Italy
@@ -1706,6 +1720,7 @@ player_id,world_cup_year,team,club,country_club
 1250,2018,Senegal,Rennes,France
 1251,2018,Senegal,Torino,Italy
 1252,2018,Senegal,Monaco,France
+1253,2006,Serbia & Montenegro,Red Star Belgrade,Serbia
 1253,2010,Serbia,Wigan Athletic,England
 1253,2018,Serbia,Partizan,Serbia
 1254,2018,Serbia,Villarreal,Spain
@@ -1732,10 +1747,12 @@ player_id,world_cup_year,team,club,country_club
 1268,2018,Spain,Barcelona,Spain
 1269,2018,Spain,Real Madrid,Spain
 1270,2018,Spain,Real Sociedad,Spain
+1271,2006,Spain,Real Madrid,Spain
 1271,2010,Spain,Real Madrid,Spain
 1271,2014,Spain,Real Madrid,Spain
 1271,2018,Spain,Real Madrid,Spain
 1272,2018,Spain,Arsenal,England
+1273,2006,Spain,Barcelona,Spain
 1273,2010,Spain,Barcelona,Spain
 1273,2014,Spain,Barcelona,Spain
 1273,2018,Spain,Barcelona,Spain
@@ -1782,12 +1799,15 @@ player_id,world_cup_year,team,club,country_club
 1308,2018,Switzerland,Toulouse,France
 1309,2014,Switzerland,Grasshopper,Switzerland
 1309,2018,Switzerland,Basel,Switzerland
+1310,2006,Switzerland,Arsenal,England
 1310,2014,Switzerland,Hamburger SV,Germany
 1310,2018,Switzerland,Antalyaspor,Turkey
+1311,2006,Switzerland,Lazio,Italy
 1311,2010,Switzerland,West Ham,England
 1311,2014,Switzerland,Napoli,Italy
 1311,2018,Switzerland,Udinese,Italy
 1312,2018,Switzerland,1899 Hoffenheim,Germany
+1313,2006,Switzerland,Zurich,Switzerland
 1313,2014,Switzerland,Napoli,Italy
 1313,2018,Switzerland,Bologna,Italy
 1314,2010,Switzerland,Saint-Etienne,France
@@ -1869,10 +1889,12 @@ player_id,world_cup_year,team,club,country_club
 1372,2014,Argentina, Napoli,Italy
 1373,2014,Argentina, Monterrey,Mexico
 1374,2014,Argentina, Boca Juniors,Argentina
-1375,2014,Argentina, Liverpool,England
+1375,2006,Argentina, Atletico Madrid,Spain
+1375,2010,Argentina, Liverpool,England
 1375,2014,Argentina, Newell's Old Boys,Argentina
 1376,2014,Argentina, Celta de Vigo,Spain
 1377,2014,Argentina, Internazionale,Italy
+1378,2006,Argentina, Boca Juniors,Argentina
 1378,2014,Argentina, Internazionale,Italy
 1379,2014,Argentina, PSG,France
 1380,2014,Australia, Borussia Dortmund,Germany
@@ -1891,7 +1913,8 @@ player_id,world_cup_year,team,club,country_club
 1392,2014,Australia, Brisbane Roar,Australia
 1393,2010,Australia, MSV Duisburg,Germany
 1393,2014,Australia, Sion,Switzerland
-1394,2014,Australia, Palermo,Italy
+1394,2006,Australia, Parma,Italy
+1394,2010,Australia, Palermo,Italy
 1394,2014,Australia, Al-Gharafa,Qatar
 1395,2014,Australia, Newcastle Jets,Australia
 1396,2014,Belgium, Zulte Waregem,Belgium
@@ -1926,6 +1949,7 @@ player_id,world_cup_year,team,club,country_club
 1425,2014,Bosnia and Herzegovina, Manchester City,England
 1426,2014,Bosnia and Herzegovina, Istanbul Basaksehir,Turkey
 1427,2014,Brazil, Botafogo,Brazil
+1428,2006,Brazil, Internazionale,Italy
 1428,2010,Brazil, Internazionale,Italy
 1428,2014,Brazil, Toronto FC,Canada
 1429,2014,Brazil, Atletico Mineiro,Brazil
@@ -2021,6 +2045,7 @@ player_id,world_cup_year,team,club,country_club
 1498,2014,Colombia, Hertha BSC,Germany
 1499,2014,Colombia, Porto,Portugal
 1500,2014,Costa Rica, Herediano,Costa Rica
+1501,2006,Costa Rica, Brujas,Costa Rica
 1501,2014,Costa Rica, Saprissa,Costa Rica
 1502,2014,Costa Rica, Herediano,Costa Rica
 1503,2014,Costa Rica, Columbus Crew,USA
@@ -2031,19 +2056,23 @@ player_id,world_cup_year,team,club,country_club
 1508,2014,Costa Rica, Valerenga,Norway
 1509,2014,Costa Rica, Herediano,Costa Rica
 1510,2014,Costa Rica, Cartaginés,Costa Rica
+1511,2006,Croatia, Shakhtar Donetsk,Ukraine
 1511,2014,Croatia, Rostov,Russia
 1512,2014,Croatia, Lokomotiva,Croatia
 1513,2014,Croatia, Panathinaikos,Greece
+1514,2006,Croatia, Shakhtar Donetsk,Ukraine
 1514,2014,Croatia, Shakhtar Donetsk,Ukraine
 1515,2014,Croatia, Panathinaikos,Greece
 1516,2014,Croatia, Dynamo Kyiv,Ukraine
 1517,2014,Croatia, Getafe,Spain
 1518,2014,Croatia, Hull City,England
+1519,2006,Croatia, CSKA Moscow,Russia
 1519,2014,Croatia, VfL Wolfsburg,Germany
 1520,2014,Croatia, Shakhtar Donetsk,Ukraine
 1521,2014,Ecuador, Barcelona SC,Ecuador
 1522,2014,Ecuador, El Nacional,Ecuador
 1523,2014,Ecuador, LDU Quito,Ecuador
+1524,2006,Ecuador, El Nacional,Ecuador
 1524,2014,Ecuador, Emelec,Ecuador
 1525,2014,Ecuador, Flamengo,Brazil
 1526,2014,Ecuador, Barcelona SC,Ecuador
@@ -2057,7 +2086,9 @@ player_id,world_cup_year,team,club,country_club
 1534,2014,Ecuador, Cruz Azul,Mexico
 1535,2014,Ecuador, Chivas USA,USA
 1536,2014,Ecuador, Atlante,Mexico
+1537,2006,Ecuador, Recreativo,Spain
 1537,2014,Ecuador, Manchester United,England
+1538,2006,Ecuador, Deportivo Quito,Ecuador
 1538,2014,Ecuador, Barcelona SC,Ecuador
 1539,2014,Ecuador, Tijuana,Mexico
 1540,2014,Ecuador, Al Jazira,United Arab Emirates
@@ -2071,9 +2102,11 @@ player_id,world_cup_year,team,club,country_club
 1546,2014,England, Everton,England
 1547,2014,England, Everton,England
 1548,2014,England, Manchester United,England
+1549,2006,England, Liverpool,England
 1549,2010,England, Liverpool,England
 1549,2014,England, Liverpool,England
 1550,2014,England, Arsenal,England
+1551,2006,England, Chelsea,England
 1551,2010,England, Chelsea,England
 1551,2014,England, Chelsea,England
 1552,2014,England, Arsenal,England
@@ -2082,10 +2115,12 @@ player_id,world_cup_year,team,club,country_club
 1554,2014,England, Southampton,England
 1555,2014,England, Everton,England
 1556,2014,England, Liverpool,England
+1557,2006,England, Manchester United,England
 1557,2010,England, Manchester United,England
 1557,2014,England, Manchester United,England
 1558,2014,England, Southampton,England
 1559,2014,France, Saint-Etienne,France
+1560,2006,France, Nantes,France
 1560,2014,France, Bastia,France
 1561,2014,France, Newcastle United,England
 1562,2010,France, Manchester United,England
@@ -2110,17 +2145,22 @@ player_id,world_cup_year,team,club,country_club
 1578,2014,Germany, Borussia Dortmund,Germany
 1579,2014,Germany, Schalke 04,Germany
 1580,2014,Germany, Borussia Dortmund,Germany
+1581,2006,Germany, Bayern Munich,Germany
 1581,2010,Germany, Bayern Munich,Germany
 1581,2014,Germany, Bayern Munich,Germany
+1582,2006,Germany, Hannover 96,Germany
 1582,2010,Germany, Werder Bremen,Germany
 1582,2014,Germany, Arsenal,England
 1583,2014,Germany, Sampdoria,Italy
+1584,2006,Germany, Bayern Munich,Germany
 1584,2010,Germany, Bayern Munich,Germany
 1584,2014,Germany, Bayern Munich,Germany
 1585,2014,Germany, Borussia Monchengladbach,Germany
 1586,2014,Germany, Chelsea,England
+1587,2006,Germany, 1. FC Koln,Germany
 1587,2010,Germany, 1. FC Koln,Germany
 1587,2014,Germany, Arsenal,England
+1588,2006,Germany, Werder Bremen,Germany
 1588,2010,Germany, Bayern Munich,Germany
 1588,2014,Germany, Lazio,Italy
 1589,2014,Ghana, Aduana Stars,Ghana
@@ -2134,10 +2174,12 @@ player_id,world_cup_year,team,club,country_club
 1595,2014,Ghana, Evian,France
 1596,2014,Ghana, Rennes,France
 1597,2014,Ghana, Espérance de Tunis,Tunisia
+1598,2006,Ghana, Chelsea,England
 1598,2014,Ghana, AC Milan,Italy
 1599,2014,Ghana, Parma,Italy
 1600,2014,Ghana, Vitesse,Netherlands
 1601,2014,Ghana, Udinese,Italy
+1602,2006,Ghana, Udinese,Italy
 1602,2010,Ghana, Internazionale,Italy
 1602,2014,Ghana, AC Milan,Italy
 1603,2014,Ghana, Middlesbrough,England
@@ -2145,6 +2187,7 @@ player_id,world_cup_year,team,club,country_club
 1605,2010,Ghana, Udinese,Italy
 1605,2014,Ghana, Juventus,Italy
 1606,2014,Ghana, Rubin Kazan,Russia
+1607,2006,Ghana, Udinese,Italy
 1607,2010,Ghana, Rennes,France
 1607,2014,Ghana, Al Ain,United Arab Emirates
 1608,2010,Ghana, Portsmouth,England
@@ -2221,6 +2264,7 @@ player_id,world_cup_year,team,club,country_club
 1658,2014,Iran, Eintracht Braunschweig,Germany
 1659,2014,Iran, Esteghlal,Iran
 1660,2014,Iran, Persepolis,Iran
+1661,2006,Iran, Esteghlal,Iran
 1661,2014,Iran, Esteghlal,Iran
 1662,2014,Iran, Persepolis,Iran
 1663,2014,Iran, Persepolis,Iran
@@ -2230,8 +2274,10 @@ player_id,world_cup_year,team,club,country_club
 1667,2014,Iran, Persepolis,Iran
 1668,2014,Iran, Al-Kuwait,Kuwait
 1669,2014,Iran, Zob Ahan,Iran
+1670,2006,Iran, Abu Moslem,Iran
 1670,2014,Iran, Esteghlal,Iran
 1671,2014,Iran, Foolad,Iran
+1672,2006,Italy, Juventus,Italy
 1672,2010,Italy, Juventus,Italy
 1672,2014,Italy, Juventus,Italy
 1673,2014,Italy, PSG,France
@@ -2241,6 +2287,7 @@ player_id,world_cup_year,team,club,country_club
 1676,2014,Italy, Juventus,Italy
 1677,2014,Italy, Torino,Italy
 1678,2014,Italy, AC Milan,Italy
+1679,2006,Italy, Palermo,Italy
 1679,2014,Italy, Juventus,Italy
 1680,2014,Italy, Bari,Italy
 1680,2014,Italy, Juventus,Italy
@@ -2250,9 +2297,11 @@ player_id,world_cup_year,team,club,country_club
 1684,2010,Italy, Juventus,Italy
 1684,2014,Italy, Juventus,Italy
 1685,2014,Italy, Fiorentina,Italy
+1686,2006,Italy, Roma,Italy
 1686,2010,Italy, Roma,Italy
 1686,2014,Italy, Roma,Italy
 1687,2014,Italy, Parma,Italy
+1688,2006,Italy, AC Milan,Italy
 1688,2010,Italy, AC Milan,Italy
 1688,2014,Italy, Juventus,Italy
 1689,2014,Italy, PSG,France
@@ -2261,15 +2310,19 @@ player_id,world_cup_year,team,club,country_club
 1692,2014,Italy, Torino,Italy
 1693,2014,Italy, Torino,Italy
 1694,2014,Italy, Napoli,Italy
+1695,2006,Ivory Coast, Beveren,Belgium
 1695,2010,Ivory Coast, Lokeren,Belgium
 1695,2014,Ivory Coast, Lokeren,Belgium
 1696,2014,Ivory Coast, Sewe Sport,Ivory Coast
 1697,2014,Ivory Coast, Stabaek,Norway
 1698,2014,Ivory Coast, Caykur Rizespor,Turkey
+1699,2006,Ivory Coast, Strasbourg,France
 1699,2010,Ivory Coast, VfB Stuttgart,Germany
 1699,2014,Ivory Coast, VfB Stuttgart,Germany
+1700,2006,Ivory Coast, Arsenal,England
 1700,2010,Ivory Coast, Manchester City,England
 1700,2014,Ivory Coast, Liverpool,England
+1701,2006,Ivory Coast, Saint-Etienne,France
 1701,2010,Ivory Coast, Sevilla,Spain
 1701,2014,Ivory Coast, Trabzonspor,Turkey
 1702,2014,Ivory Coast, Toulouse,France
@@ -2280,6 +2333,7 @@ player_id,world_cup_year,team,club,country_club
 1706,2010,Ivory Coast, Twente,Netherlands
 1706,2014,Ivory Coast, Newcastle United,England
 1707,2014,Ivory Coast, Saint-Etienne,France
+1708,2006,Ivory Coast, Olympiacos,Greece
 1708,2010,Ivory Coast, Barcelona,Spain
 1708,2014,Ivory Coast, Manchester City,England
 1709,2014,Ivory Coast, Basel,Switzerland
@@ -2288,6 +2342,7 @@ player_id,world_cup_year,team,club,country_club
 1711,2014,Ivory Coast, Lille,France
 1712,2010,Ivory Coast, Lille,France
 1712,2014,Ivory Coast, Roma,Italy
+1713,2006,Ivory Coast, Chelsea,England
 1713,2010,Ivory Coast, Chelsea,England
 1713,2014,Ivory Coast, Galatasaray,Turkey
 1714,2014,Ivory Coast, Swansea City,Wales
@@ -2301,6 +2356,7 @@ player_id,world_cup_year,team,club,country_club
 1721,2010,Japan, FC Tokyo,Japan
 1721,2014,Japan, Gamba Osaka,Japan
 1722,2014,Japan, Jubilo Iwata,Japan
+1723,2006,Japan, Gamba Osaka,Japan
 1723,2010,Japan, Gamba Osaka,Japan
 1723,2014,Japan, Gamba Osaka,Japan
 1724,2014,Japan, 1. FC Nürnberg,Germany
@@ -2309,7 +2365,9 @@ player_id,world_cup_year,team,club,country_club
 1727,2010,Japan, Vissel Kobe,Japan
 1727,2014,Japan, Kawasaki Frontale,Japan
 1728,2014,Japan, Yokohama F. Marinos,Japan
+1729,2006,Mexico,Guadalajara,Mexico
 1729,2014,Mexico,America,Mexico
+1730,2006,Mexico,Guadalajara,Mexico
 1730,2010,Mexico, PSV,Netherlands
 1730,2014,Mexico, UANL,Mexico
 1731,2014,Mexico, Porto,Portugal
@@ -2330,18 +2388,22 @@ player_id,world_cup_year,team,club,country_club
 1744,2014,Netherlands, FC Augsburg,Germany
 1745,2014,Netherlands, Ajax,Netherlands
 1746,2014,Netherlands, Feyenoord,Netherlands
+1747,2006,Netherlands, Feyenoord,Netherlands
 1747,2010,Netherlands, Liverpool,England
 1747,2014,Netherlands, Fenerbahce,Turkey
 1748,2010,Netherlands, Manchester City,England
 1748,2014,Netherlands, AC Milan,Italy
 1749,2014,Netherlands, Swansea City,Wales
+1750,2006,Netherlands, Ajax,Netherlands
 1750,2010,Netherlands, Internazionale,Italy
 1750,2014,Netherlands, Galatasaray,Turkey
 1751,2014,Netherlands, Feyenoord,Netherlands
 1752,2014,Netherlands, Norwich City,England
 1753,2014,Netherlands, PSV,Netherlands
+1754,2006,Netherlands, Arsenal,England
 1754,2010,Netherlands, Arsenal,England
 1754,2014,Netherlands, Manchester United,England
+1755,2006,Netherlands, Chelsea,England
 1755,2010,Netherlands, Bayern Munich,Germany
 1755,2014,Netherlands, Bayern Munich,Germany
 1756,2014,Netherlands, Dynamo Kyiv,Ukraine
@@ -2375,6 +2437,7 @@ player_id,world_cup_year,team,club,country_club
 1778,2014,Portugal, Sporting CP,Portugal
 1779,2010,Portugal, Benfica,Portugal
 1779,2014,Portugal, Real Madrid,Spain
+1780,2006,Portugal, Porto,Portugal
 1780,2010,Portugal, Lille,France
 1780,2014,Portugal, Valencia,Spain
 1781,2014,Portugal, Zenit Saint Petersburg,Russia
@@ -2393,6 +2456,7 @@ player_id,world_cup_year,team,club,country_club
 1791,2010,Portugal, Werder Bremen,Germany
 1791,2014,Portugal, Besiktas,Turkey
 1792,2014,Portugal, SC Braga,Portugal
+1793,2006,Portugal, Porto,Portugal
 1793,2014,Portugal, Lazio,Italy
 1794,2014,Russia, CSKA Moscow,Russia
 1795,2014,Russia, Zenit Saint Petersburg,Russia
@@ -2426,44 +2490,56 @@ player_id,world_cup_year,team,club,country_club
 1821,2014,South Korea, Guangzhou R&F,China
 1822,2010,South Korea, Bolton Wanderers,England
 1822,2014,South Korea, Bolton Wanderers,England
+1823,2006,South Korea, Seoul FC,South Korea
 1823,2010,South Korea, Monaco,France
 1823,2014,South Korea, Watford,England
 1824,2014,South Korea, Sangju Sangmu,South Korea
 1825,2014,South Korea, FC Augsburg,Germany
+1826,2006,Spain, Real Madrid,Spain
 1826,2010,Spain, Real Madrid,Spain
 1826,2014,Spain, Real Madrid,Spain
+1827,2006,Spain, Liverpool,England
 1827,2010,Spain, Real Madrid,Spain
 1827,2014,Spain, Napoli,Italy
 1828,2014,Spain, Atletico Madrid,Spain
 1829,2010,Spain,Athletic Bilbao,Spain
 1829,2014,Spain,Bayern Munich,Germany
+1830,2006,Spain,Barcelona,Spain
 1830,2010,Spain,Barcelona,Spain
 1830,2014,Spain,Barcelona,Spain
+1831,2006,Spain,Arsenal,England
 1831,2010,Spain,Arsenal,England
 1831,2014,Spain,Barcelona,Spain
 1832,2010,Spain,Valencia,Spain
 1832,2014,Spain,Manchester United,England
+1833,2006,Spain,Liverpool,England
 1833,2010,Spain,Real Madrid,Spain
 1833,2014,Spain,Real Madrid,Spain
 1834,2014,Spain,Arsenal,England
+1835,2006,Spain,Valencia,Spain
 1835,2010,Spain,Valencia,Spain
 1835,2014,Spain,Atletico Madrid,Spain
+1836,2006,Spain,Atletico Madrid,Spain
 1836,2010,Spain,Liverpool,England
 1836,2014,Spain,Chelsea,England
+1837,2006,Switzerland, Nacional Madeira,Portugal
 1837,2010,Switzerland, VfL Wolfsburg,Germany
 1837,2014,Switzerland, VfL Wolfsburg,Germany
 1838,2010,Switzerland, Sampdoria,Italy
 1838,2014,Switzerland, Sassuolo,Italy
+1839,2006,Switzerland, Arsenal,England
 1839,2010,Switzerland, Everton,England
 1839,2014,Switzerland, Valencia,Spain
 1840,2010,Switzerland, Hertha BSC,Germany
 1840,2014,Switzerland, Young Boys,Switzerland
+1841,2006,Switzerland, Bayer Leverkusen,Germany
 1841,2010,Switzerland, Bayer Leverkusen,Germany
 1841,2014,Switzerland, Eintracht Frankfurt,Germany
 1842,2010,Switzerland, Udinese,Italy
 1842,2014,Switzerland, Napoli,Italy
 1843,2014,Switzerland, Basel,Switzerland
 1844,2014,Switzerland, SC Freiburg,Germany
+1845,2006,USA, Manchester United,England
 1845,2010,USA, Everton,England
 1845,2014,USA, Everton,England
 1846,2010,USA, Aston Villa,England
@@ -2472,6 +2548,7 @@ player_id,world_cup_year,team,club,country_club
 1848,2014,USA, LA Galaxy,USA
 1849,2014,USA, Sporting Kansas City,USA
 1850,2014,USA, Hertha BSC,Germany
+1851,2006,USA, PSV,Netherlands
 1851,2010,USA, Rangers,Scotland
 1851,2014,USA, Puebla,Mexico
 1852,2014,USA, Stoke City,England
@@ -2486,6 +2563,7 @@ player_id,world_cup_year,team,club,country_club
 1860,2014,USA, Real Salt Lake,USA
 1861,2014,USA, Bayern Munich,Germany
 1862,2014,USA, Sporting Kansas City,USA
+1863,2006,USA, New England Revolution,USA
 1863,2010,USA, Fulham,England
 1863,2014,USA, Seattle Sounders FC,USA
 1864,2014,USA, AZ,Netherlands
@@ -2533,6 +2611,7 @@ player_id,world_cup_year,team,club,country_club
 1896,2010,Algeria, Borussia Monchengladbach,Germany
 1897,2010,Argentina, Colón,Argentina
 1898,2010,Argentina, Estudiantes,Argentina
+1899,2006,Argentina, Internazionale,Italy
 1899,2010,Argentina, Roma,Italy
 1900,2010,Argentina, Marseille,France
 1901,2010,Argentina, Colón,Argentina
@@ -2541,42 +2620,60 @@ player_id,world_cup_year,team,club,country_club
 1904,2010,Argentina, Estudiantes,Argentina
 1905,2010,Argentina, Newcastle United,England
 1906,2010,Argentina, Palermo,Italy
+1907,2006,Argentina, Corinthians,Brazil
 1907,2010,Argentina, Manchester City,England
 1908,2010,Argentina, Boca Juniors,Argentina
 1909,2010,Argentina, Internazionale,Italy
+1910,2006,Australia, Middlesbrough,England
 1910,2010,Australia, Fulham,England
 1911,2010,Australia, Reading,England
+1912,2006,Australia, Blackburn Rovers,England
 1912,2010,Australia, Galatasaray,Turkey
+1913,2006,Australia, Newcastle United,England
 1913,2010,Australia, Rangers,Scotland
+1914,2006,Australia, Central Coast Mariners,Australia
 1914,2010,Australia, Al Jazira,United Arab Emirates
+1915,2006,Australia, Bristol City,England
 1915,2010,Australia, Dynamo Moscow,Russia
+1916,2006,Australia, Basel,Switzerland
 1916,2010,Australia, Basel,Switzerland
 1917,2010,Australia, Twente,Netherlands
+1918,2006,Australia, PSV,Netherlands
 1918,2010,Australia, Gold Coast United,Australia
+1919,2006,Australia, Blackburn Rovers,England
 1919,2010,Australia, Blackburn Rovers,England
+1920,2006,Australia, Parma,Italy
 1920,2010,Australia, Blackburn Rovers,England
 1921,2010,Australia, Antalyaspor,Turkey
 1922,2010,Australia, Sassuolo,Italy
 1923,2010,Australia, Hull City,England
+1924,2006,Australia, Dynamo Dresden,Germany
 1924,2010,Australia, Nagoya Grampus,Japan
+1925,2006,Australia, Liverpool,England
 1925,2010,Australia, Galatasaray,Turkey
 1926,2010,Australia, AZ,Netherlands
 1927,2010,Australia, Roeselare,Belgium
 1928,2010,Brazil, Tottenham,England
 1929,2010,Brazil, Roma,Italy
 1930,2010,Brazil, Internazionale,Italy
+1931,2006,Brazil, Bayer Leverkusen,Germany
 1931,2010,Brazil, Roma,Italy
 1932,2010,Brazil, Lyon,France
+1933,2006,Brazil, Benfica,Portugal
 1933,2010,Brazil, Benfica,Portugal
+1934,2006,Brazil, Hertha BSC,Germany
 1934,2010,Brazil, Cruzeiro,Brazil
 1935,2010,Brazil, Juventus,Italy
 1936,2010,Brazil, Galatasaray,Turkey
+1937,2006,Brazil, Arsenal,England
 1937,2010,Brazil, Panathinaikos,Greece
+1938,2006,Brazil, AC Milan,Italy
 1938,2010,Brazil, Real Madrid,Spain
 1939,2010,Brazil, VfL Wolfsburg,Germany
 1940,2010,Brazil, Roma,Italy
 1941,2010,Brazil, Flamengo,Brazil
 1942,2010,Brazil, Sevilla,Spain
+1943,2006,Brazil, Real Madrid,Spain
 1943,2010,Brazil, Santos,Brazil
 1944,2010,Brazil, Villarreal,Spain
 1945,2010,Brazil, VfL Wolfsburg,Germany
@@ -2623,46 +2720,63 @@ player_id,world_cup_year,team,club,country_club
 1986,2010,Denmark, Arsenal,England
 1987,2010,Denmark, Randers,Denmark
 1988,2010,Denmark, MSV Duisburg,Germany
+1989,2006,England, Manchester City,England
 1989,2010,England, Portsmouth,England
 1990,2010,England, West Ham,England
+1991,2006,England, Arsenal,England
 1991,2010,England, Chelsea,England
 1992,2010,England, Tottenham,England
+1993,2006,England, Chelsea,England
 1993,2010,England, Chelsea,England
 1994,2010,England, Aston Villa,England
 1995,2010,England, West Ham,England
+1996,2006,England, Liverpool,England
 1996,2010,England, Liverpool,England
 1997,2010,England, Tottenham,England
+1998,2006,England, Tottenham,England
 1998,2010,England, Tottenham,England
+1999,2006,England, Chelsea,England
 1999,2010,England, Chelsea,England
 2000,2010,England, Manchester City,England
 2001,2010,England, Manchester City,England
+2002,2006,England, Tottenham,England
 2002,2010,England, Manchester United,England
+2003,2006,England, Liverpool,England
 2003,2010,England, Tottenham,England
 2004,2010,England, Tottenham,England
 2005,2010,England, Aston Villa,England
 2006,2010,France, Bordeaux,France
+2007,2006,France, Lyon,France
 2007,2010,France, Barcelona,Spain
 2008,2010,France, Lyon,France
+2009,2006,France, Chelsea,England
 2009,2010,France, Arsenal,England
 2010,2010,France, Bordeaux,France
 2011,2010,France, Sevilla,Spain
+2012,2006,France, Marseille,France
 2012,2010,France, Bayern Munich,Germany
 2013,2010,France, Bordeaux,France
 2014,2010,France, Lyon,France
+2015,2006,France, Lyon,France
 2015,2010,France, Chelsea,England
+2016,2006,France, Lyon,France
 2016,2010,France, Bordeaux,France
 2017,2010,France, Arsenal,England
 2018,2010,France, Panathinaikos,Greece
+2019,2006,France, Lyon,France
 2019,2010,France, Lyon,France
 2020,2010,France, Toulouse,France
+2021,2006,France, Arsenal,England
 2021,2010,France, Barcelona,Spain
 2022,2010,France, Chelsea,England
 2023,2010,Germany, Werder Bremen,Germany
 2024,2010,Germany, Bayern Munich,Germany
+2025,2006,Germany, Hertha BSC,Germany
 2025,2010,Germany, Hertha BSC,Germany
 2026,2010,Germany, Hamburger SV,Germany
 2027,2010,Germany, VfB Stuttgart,Germany
 2028,2010,Germany, Bayern Munich,Germany
+2029,2006,Germany, Borussia Moenchengladbach,Germany
 2029,2010,Germany, Hamburger SV,Germany
 2030,2010,Germany, Hamburger SV,Germany
 2031,2010,Germany, Werder Bremen,Germany
@@ -2671,17 +2785,23 @@ player_id,world_cup_year,team,club,country_club
 2034,2010,Ghana, Liberty Professionals,Ghana
 2035,2010,Ghana, Heart of Lions,Ghana
 2036,2010,Ghana, Wigan Athletic,England
+2037,2006,Ghana, VfB Wolfsburg,Germany
 2037,2010,Ghana, Bayer Leverkusen,Germany
+2038,2006,Ghana, Hapoel Tel Aviv,Israel
 2038,2010,Ghana, Fulham,England
+2039,2006,Ghana, Rennes,France
 2039,2010,Ghana, Sunderland,England
 2040,2010,Ghana, 1899 Hoffenheim,Germany
 2041,2010,Ghana, Zamalek,Egypt
 2042,2010,Ghana, Bechem Chelsea,Ghana
 2043,2010,Ghana, Rosenborg,Norway
+2044,2006,Ghana, AIK,Sweden
 2044,2010,Ghana, Getafe,Spain
+2045,2006,Ghana, Fenerbahce,Turkey
 2045,2010,Ghana, Bologna,Italy
 2046,2010,Ghana, Al Sadd,Qatar
 2047,2010,Ghana, 1899 Hoffenheim,Germany
+2048,2006,Ghana, Borussia Dortmund,Germany
 2048,2010,Ghana, NAC,Netherlands
 2049,2010,Ghana, AC Milan,Italy
 2050,2010,Greece, PAOK,Greece
@@ -2714,16 +2834,22 @@ player_id,world_cup_year,team,club,country_club
 2077,2010,Italy, Napoli,Italy
 2078,2010,Italy, Napoli,Italy
 2079,2010,Italy, Genoa,Italy
+2080,2006,Italy, Juventus,Italy
 2080,2010,Italy, Juventus,Italy
 2081,2010,Italy, Genoa,Italy
+2082,2006,Italy, Juventus,Italy
 2082,2010,Italy, AC Milan,Italy
 2083,2010,Italy, Udinese,Italy
+2084,2006,Italy, AC Milan,Italy
 2084,2010,Italy, AC Milan,Italy
+2085,2006,Italy, Juventus,Italy
 2085,2010,Italy, Juventus,Italy
 2086,2010,Italy, Sampdoria,Italy
 2087,2010,Italy, Fiorentina,Italy
+2088,2006,Italy, Udinese,Italy
 2088,2010,Italy, Juventus,Italy
 2089,2010,Italy, Udinese,Italy
+2090,2006,Italy, AC Milan,Italy
 2090,2010,Italy, Fiorentina,Italy
 2091,2010,Italy, Napoli,Italy
 2092,2010,Italy, Sampdoria,Italy
@@ -2732,57 +2858,81 @@ player_id,world_cup_year,team,club,country_club
 2095,2010,Ivory Coast, Valenciennes,France
 2096,2010,Ivory Coast, Wigan Athletic,England
 2097,2010,Ivory Coast, Valenciennes,France
+2098,2006,Ivory Coast, Hamburger SV,Germany
 2098,2010,Ivory Coast, Hamburger SV,Germany
+2099,2006,Ivory Coast, Arsenal,England
 2099,2010,Ivory Coast, Arsenal,England
 2100,2010,Ivory Coast, Monaco,France
+2101,2006,Ivory Coast, Le Mans,France
 2101,2010,Ivory Coast, Sevilla,Spain
-2102,2010,Ivory Coast, Interna?ional Arges,Romania
+2102,2010,Ivory Coast, Internacional Arges,Romania
+2103,2006,Ivory Coast, Lille,France
 2103,2010,Ivory Coast, Galatasaray,Turkey
 2104,2010,Ivory Coast, Young Boys,Switzerland
+2105,2006,Ivory Coast, Lens,France
 2105,2010,Ivory Coast, Portsmouth,England
+2106,2006,Japan, Nagoya Grampus,Japan
 2106,2010,Japan, Nagoya Grampus,Japan
+2107,2006,Japan, Jubilo Iwata,Japan
 2107,2010,Japan, Jubilo Iwata,Japan
+2108,2006,Japan, Sanfreece Hiroshima,Japan
 2108,2010,Japan, Jubilo Iwata,Japan
 2109,2010,Japan, Nagoya Grampus,Japan
 2110,2010,Japan, Kashima Antlers,Japan
+2111,2006,Japan, Yokohama F. Marinos,Japan
 2111,2010,Japan, Yokohama F. Marinos,Japan
 2112,2010,Japan, Urawa Red Diamonds,Japan
+2113,2006,Japan, Celtic,Scotland
 2113,2010,Japan, Yokohama F. Marinos,Japan
 2114,2010,Japan, Kawasaki Frontale,Japan
+2115,2006,Japan, West Bromwich,England
 2115,2010,Japan, Kawasaki Frontale,Japan
 2116,2010,Japan, Grenoble,France
+2117,2006,Japan, Nagoya Grampus,Japan
 2117,2010,Japan, Nagoya Grampus,Japan
 2118,2010,Japan, Albirex Niigata,Japan
 2119,2010,Japan, Catania,Italy
 2120,2010,Mexico, Chiapas,Mexico
 2121,2010,Mexico, Guadalajara,Mexico
 2122,2010,Mexico, PSV,Netherlands
+2123,2006,Mexico, Cruz Azul,Mexico
 2123,2010,Mexico, VfB Stuttgart,Germany
 2124,2010,Mexico, UNAM,Mexico
 2125,2010,Mexico, Guadalajara,Mexico
 2126,2010,Mexico, Atlas,Mexico
+2127,2006,Mexico, Cruz Azul,Mexico
 2127,2010,Mexico, Cruz Azul,Mexico
 2128,2010,Mexico, UNAM,Mexico
 2129,2010,Mexico, UNAM,Mexico
 2130,2010,Mexico, Guadalajara,Mexico
+2131,2006,Mexico, Villarreal,Spain
 2131,2010,Mexico, West Ham,England
 2132,2010,Mexico, Veracruz,Mexico
 2133,2010,Mexico, Guadalajara,Mexico
+2134,2006,Netherlands, Ajax,Netherlands
 2134,2010,Netherlands, Ajax,Netherlands
 2135,2010,Netherlands, Twente,Netherlands
 2136,2010,Netherlands, Ajax,Netherlands
+2137,2006,Netherlands, Ajax,Netherlands
 2137,2010,Netherlands, Everton,England
+2138,2006,Netherlands, AZ,Netherlands
 2138,2010,Netherlands, Hamburger SV,Germany
+2139,2006,Netherlands, Barcelona,Spain
 2139,2010,Netherlands, Feyenoord,Netherlands
+2140,2006,Netherlands, Hamburger SV,Germany
 2140,2010,Netherlands, VfB Stuttgart,Germany
+2141,2006,Netherlands, PSV,Netherlands
 2141,2010,Netherlands, PSV,Netherlands
 2142,2010,Netherlands, Celtic,Scotland
+2143,2006,Netherlands, Barcelona,Spain
 2143,2010,Netherlands, Bayern Munich,Germany
 2144,2010,Netherlands, Ajax,Netherlands
 2145,2010,Netherlands, AZ,Netherlands
 2146,2010,Netherlands, PSV,Netherlands
+2147,2006,Netherlands, Hamburger SV,Germany
 2147,2010,Netherlands, Real Madrid,Spain
 2148,2010,Netherlands, Hamburger SV,Germany
+2149,2006,Netherlands, Ajax,Netherlands
 2149,2010,Netherlands, Liverpool,England
 2150,2010,New Zealand, Wellington Phoenix,New Zealand
 2151,2010,New Zealand, Melbourne Victory,Australia
@@ -2848,43 +2998,58 @@ player_id,world_cup_year,team,club,country_club
 2211,2010,North Korea, Kawasaki Frontale,Japan
 2212,2010,North Korea, Rostov,Russia
 2213,2010,North Korea, April 25,North Korea
+2214,2006,Paraguay, Newell's Old Boys,Argentina
 2214,2010,Paraguay, Valladolid,Spain
 2215,2010,Paraguay, Cerro Porteño,Paraguay
+2216,2006,Paraguay, Libertad,Paraguay
 2216,2010,Paraguay, Independiente Medellín,Colombia
 2217,2010,Paraguay, UNAM,Mexico
 2218,2010,Paraguay, Boca Juniors,Argentina
 2219,2010,Paraguay, León,Mexico
+2220,2006,Paraguay, River Plate,Argentina
 2220,2010,Paraguay, Atlético Mineiro,Brazil
+2221,2006,Paraguay, Libertad,Paraguay
 2221,2010,Paraguay, Olimpia,Paraguay
+2222,2006,Paraguay, Toluca,Mexico
 2222,2010,Paraguay, Sunderland,England
 2223,2010,Paraguay, San Lorenzo,Argentina
 2224,2010,Paraguay, Club Brugge,Belgium
+2225,2006,Paraguay, NEC,Netherlands
 2225,2010,Paraguay, Atalanta,Italy
 2226,2010,Paraguay, VfL Wolfsburg,Germany
 2227,2010,Paraguay, LDU Quito,Ecuador
 2228,2010,Paraguay, Libertad,Paraguay
+2229,2006,Paraguay, Libertad,Paraguay
 2229,2010,Paraguay, Cruz Azul,Mexico
 2230,2010,Paraguay, Argentinos Juniors,Argentina
 2231,2010,Paraguay, Benfica,Portugal
+2232,2006,Paraguay, Bayern Munich,Germany
 2232,2010,Paraguay, Manchester City,England
 2233,2010,Paraguay, Pachuca,Mexico
 2234,2010,Paraguay, Borussia Dortmund,Germany
 2235,2010,Paraguay, Borussia Dortmund,Germany
 2236,2010,Paraguay, Libertad,Paraguay
 2237,2010,Portugal, Iraklis,Greece
+2238,2006,Portugal, Chelsea,England
 2238,2010,Portugal, Chelsea,England
 2239,2010,Portugal, Porto,Portugal
+2240,2006,Portugal, Chelsea,England
 2240,2010,Portugal, Chelsea,England
+2241,2006,Portugal, Valencia,Spain
 2241,2010,Portugal, Valencia,Spain
 2242,2010,Portugal, Malaga,Spain
 2243,2010,Portugal, Sporting CP,Portugal
 2244,2010,Portugal, Zenit Saint Petersburg,Russia
+2245,2006,Portugal, Benfica,Portugal
 2245,2010,Portugal, Atletico Madrid,Spain
+2246,2006,Portugal, Lyon,France
 2246,2010,Portugal, Atletico Madrid,Spain
+2247,2006,Portugal, Barcelona,Spain
 2247,2010,Portugal, Chelsea,England
 2248,2010,Portugal, Sporting CP,Portugal
 2249,2010,Serbia, Zaglebie Lubin,Poland
 2250,2010,Serbia, Uniao de Leiria,Portugal
+2251,2006,Serbia & Montenegro, Manchester United,England
 2251,2010,Serbia, 1860 Munich,Germany
 2251,2010,Serbia, Manchester United,England
 2252,2010,Serbia, Udinese,Italy
@@ -2892,6 +3057,7 @@ player_id,world_cup_year,team,club,country_club
 2254,2010,Serbia, Borussia Dortmund,Germany
 2255,2010,Serbia, Hertha BSC,Germany
 2256,2010,Serbia, 1. FC Koln,Germany
+2257,2006,Serbia & Montenegro, Internazionale,Italy
 2257,2010,Serbia, Internazionale,Italy
 2258,2010,Serbia, Wolverhampton,England
 2259,2010,Serbia, Standard Liege,Belgium
@@ -2901,6 +3067,7 @@ player_id,world_cup_year,team,club,country_club
 2263,2010,Serbia, VfB Stuttgart,Germany
 2264,2010,Serbia, Zenit Saint Petersburg,Russia
 2265,2010,Serbia, Ajax,Netherlands
+2266,2006,Serbia & Montenegro, Red Star Belgrade,Serbia
 2266,2010,Serbia, Valencia,Spain
 2267,2010,Slovakia, Legia Warsaw,Poland
 2268,2010,Slovakia, Dundee United,Scotland
@@ -2971,52 +3138,70 @@ player_id,world_cup_year,team,club,country_club
 2333,2010,South Africa, Mamelodi Sundowns,South Africa
 2334,2010,South Africa, Twente,Netherlands
 2335,2010,South Africa, Moroka Swallows,South Africa
+2336,2006,South Korea, Suwon Samsung Bluewings,South Korea
 2336,2010,South Korea, Suwon Samsung Bluewings,South Korea
+2337,2006,South Korea, Jeonnam Dragons,South Korea
 2337,2010,South Korea, Ulsan Hyundai,South Korea
 2338,2010,South Korea, Ulsan Hyundai,South Korea
 2339,2010,South Korea, Pohang Steelers,South Korea
 2340,2010,South Korea, Jeju United,South Korea
+2341,2006,South Korea, Tottenham,England
 2341,2010,South Korea, Al Hilal,Saudi Arabia
 2342,2010,South Korea, Kashima Antlers,Japan
+2343,2006,South Korea, FC Seoul,South Korea
 2343,2010,South Korea, Ulsan Hyundai,South Korea
 2344,2010,South Korea, SC Freiburg,Germany
 2345,2010,South Korea, Suwon Samsung Bluewings,South Korea
+2346,2006,South Korea, Suwon Samsung Bluewings,South Korea
 2346,2010,South Korea, Tom Tomsk,Russia
+2347,2006,South Korea, Manchester United,England
 2347,2010,South Korea, Manchester United,England
 2348,2010,South Korea, Gwangju Sangmu,South Korea
 2349,2010,South Korea, Pohang Steelers,South Korea
+2350,2006,South Korea, MSV Duisburg,Germany
 2350,2010,South Korea, Dalian Shide,China
 2351,2010,South Korea, FC Seoul,South Korea
 2352,2010,South Korea, Suwon Samsung Bluewings,South Korea
 2353,2010,South Korea, Jeonbuk Hyundai Motors,South Korea
+2354,2006,Spain, Valencia,Spain
 2354,2010,Spain, Valencia,Spain
+2355,2006,Spain, Barcelona,Spain
 2355,2010,Spain, Barcelona,Spain
 2356,2010,Spain, Villarreal,Spain
 2357,2010,Spain, Real Madrid,Spain
 2358,2010,Spain, Sevilla,Spain
 2359,2010,Spain, Athletic Bilbao,Spain
 2360,2010,Switzerland, Young Boys,Switzerland
-2361,2010,Switzerland, Zürich,Switzerland
-2362,2010,Switzerland, Zürich,Switzerland
+2361,2010,Switzerland, Zurich,Switzerland
+2362,2006,Switzerland, VfB Stuttgart,Germany
+2362,2010,Switzerland, Zurich,Switzerland
+2363,2006,Switzerland, Auxerre,France
 2363,2010,Switzerland, Auxerre,France
 2364,2010,Switzerland, Hannover 96,Germany
 2365,2010,Switzerland, Basel,Switzerland
 2366,2010,Switzerland, Sampdoria,Italy
+2367,2006,Switzerland, Young Boys,Switzerland
 2367,2010,Switzerland, Luzern,Switzerland
 2368,2010,Switzerland, Eintracht Frankfurt,Germany
+2369,2006,Switzerland, Rennes,France
 2369,2010,Switzerland, Basel,Switzerland
 2370,2010,Switzerland, Twente,Netherlands
 2371,2010,Switzerland, 1. FC Nürnberg,Germany
 2372,2010,Switzerland, Bayer Leverkusen,Germany
+2373,2006,USA, Reading,England
 2373,2010,USA, Wolverhampton,England
 2374,2010,USA, West Ham,England
+2375,2006,USA, Fulham,England
 2375,2010,USA, Rennes,France
+2376,2006,USA, Standard Liege,Belgium
 2376,2010,USA, AC Milan,Italy
+2377,2006,USA, Hannover 96,Germany
 2377,2010,USA, Hannover 96,Germany
-2378,2010,USA, Chivas USA,United States
+2378,2010,USA, Chivas USA,USA
 2379,2010,USA, Watford,England
 2380,2010,USA, Start,Norway
-2381,2010,USA, LA Galaxy,United States
+2381,2006,USA, LA Galaxy,USA
+2381,2010,USA, LA Galaxy,USA
 2382,2010,USA, Bolton Wanderers,England
 2383,2010,USA, Eintracht Frankfurt,Germany
 2384,2010,USA, Pachuca,Mexico
@@ -3586,3 +3771,4 @@ player_id,world_cup_year,team,club,country_club
 2948,2006,USA, Houston Dynamo,USA
 2949,2006,USA, Kansas City Wizards,USA
 2950,2006,USA, Fulham,England
+2951,2006,Brazil,Lyon,France
