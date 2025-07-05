@@ -11,18 +11,18 @@ team_id,team_name,group,coach
 10,Turkey,C,Şenol Güneş
 11,Costa Rica,C,Alexandre Guimarães
 12,China PR,C,Bora Milutinović
-13,Germany,D,Rudi Völler
-14,Republic of Ireland,D,Mick McCarthy
-15,Cameroon,D,Winfried Schäfer
-16,Saudi Arabia,D,Nasser Al-Johar
-17,Italy,E,Giovanni Trapattoni
-18,Croatia,E,Mirko Jozić
-19,Mexico,E,Javier Aguirre
-20,Ecuador,E,Hernán Darío Gómez
-21,Portugal,F,António Oliveira
-22,United States,F,Bruce Arena
-23,Poland,F,Jerzy Engel
-24,South Korea,F,Guus Hiddink
+13,Portugal,D,António Oliveira
+14,United States,D,Bruce Arena
+15,Poland,D,Jerzy Engel
+16,South Korea,D,Guus Hiddink
+17,Germany,E,Rudi Völler
+18,Republic of Ireland,E,Mick McCarthy
+19,Cameroon,E,Winfried Schäfer
+20,Saudi Arabia,E,Nasser Al-Johar
+21,Italy,F,Giovanni Trapattoni
+22,Croatia,F,Mirko Jozić
+23,Mexico,F,Javier Aguirre
+24,Ecuador,F,Hernán Darío Gómez
 25,Argentina,G,Marcelo Bielsa
 26,England,G,Sven-Göran Eriksson
 27,Sweden,G,Lars Lagerbäck & Tommy Söderberg
