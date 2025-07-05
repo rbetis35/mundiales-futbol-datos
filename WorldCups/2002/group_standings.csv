@@ -1,33 +1,33 @@
 group,team,matches_played,wins,draws,losses,goals_for,goals_against,goal_difference,points
-A,Netherlands,3,2,1,0,5,1,4,7
-A,Senegal,3,2,0,1,5,4,1,6
-A,Ecuador,3,1,1,1,4,3,1,4
-A,Qatar,3,0,0,3,1,7,-6,0
-B,England,3,2,1,0,9,2,7,7
-B,USA,3,1,2,0,2,1,1,5
-B,Iran,3,1,0,2,4,7,-3,3
-B,Wales,3,0,1,2,1,6,-5,1
-C,Argentina,3,2,0,1,5,2,3,6
-C,Poland,3,1,1,1,2,2,0,4
-C,Mexico,3,1,1,1,2,3,-1,4
-C,Saudi Arabia,3,1,0,2,3,5,-2,3
-D,France,3,2,0,1,6,3,3,6
-D,Australia,3,2,0,1,3,4,-1,6
-D,Tunisia,3,1,1,1,1,1,0,4
-D,Denmark,3,0,1,2,1,3,-2,1
-E,Japan,3,2,0,1,4,3,1,6
-E,Spain,3,1,1,1,9,3,6,4
-E,Germany,3,1,1,1,6,5,1,4
-E,Costa Rica,3,1,0,2,3,11,-8,3
-F,Morocco,3,2,1,0,4,1,3,7
-F,Croatia,3,1,2,0,4,1,3,5
-F,Belgium,3,1,1,1,1,2,-1,4
-F,Canada,3,0,0,3,2,7,-5,0
-G,Brazil,3,2,0,1,3,1,2,6
-G,Switzerland,3,2,0,1,4,3,1,6
-G,Cameroon,3,1,1,1,4,4,0,4
-G,Serbia,3,0,1,2,5,8,-3,1
-H,Portugal,3,2,0,1,6,4,2,6
-H,South Korea,3,1,1,1,4,4,0,4
-H,Uruguay,3,1,1,1,2,2,0,4
-H,Ghana,3,1,0,2,5,7,-2,3
+A,Denmark,3,2,1,0,5,2,3,7
+A,Senegal,3,1,2,0,5,3,2,5
+A,Uruguay,3,0,2,1,4,5,-1,2
+A,France,3,0,1,2,0,3,-3,1
+B,Spain,3,3,0,0,9,4,5,9
+B,Paraguay,3,1,1,1,6,6,0,4
+B,South Africa,3,1,1,1,5,5,0,4
+B,Slovenia,3,0,0,3,2,7,-5,0
+C,Brazil,3,3,0,0,11,3,8,9
+C,Turkey,3,1,1,1,5,3,2,4
+C,Costa Rica,3,1,1,1,5,6,-1,4
+C,China PR,3,0,0,3,0,9,-9,0
+D,South Korea,3,2,1,0,4,2,2,7
+D,United States,3,1,1,1,5,6,-1,4
+D,Portugal,3,1,0,2,6,4,2,3
+D,Poland,3,1,0,2,3,7,-4,3
+E,Germany,3,2,1,0,11,1,10,7
+E,Republic of Ireland,3,1,2,0,5,3,2,5
+E,Cameroon,3,1,1,1,2,2,0,4
+E,Saudi Arabia,3,0,0,3,0,12,-12,0
+F,Sweden,3,1,2,0,4,3,1,5
+F,England,3,1,2,0,4,1,3,5
+F,Argentina,3,1,1,1,2,2,0,4
+F,Nigeria,3,0,1,2,1,3,-2,1
+G,Mexico,3,2,1,0,4,2,2,7
+G,Italy,3,1,1,1,5,3,2,4
+G,Croatia,3,1,0,2,2,4,-2,3
+G,Ecuador,3,1,0,2,4,6,-2,3
+H,Japan,3,2,1,0,5,2,3,7
+H,Belgium,3,1,2,0,6,5,1,5
+H,Russia,3,1,0,2,4,5,-1,3
+H,Tunisia,3,0,1,2,1,4,-3,1
