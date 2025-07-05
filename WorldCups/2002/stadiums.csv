@@ -1,9 +1,21 @@
 stadium_id,stadium_name,city,capacity
-1,Al Bayt Stadium,Al Khor,68895
-2,Khalifa International Stadium,Doha,45857
-3,Al Thumama Stadium,Doha,44400
-4,Lusail Stadium,Lusail,88966
-5,Education City Stadium,Al Rayyan,45350
-6,Stadium 974,Doha,44950
-7,Al Janoub Stadium,Al Wakrah,40000
-8,Ahmad bin Ali Stadium,Al Rayyan,44740
+1,Seoul World Cup Stadium,Seoul,63000
+2,Busan Asiad Main Stadium,Busan,53000
+3,Daegu World Cup Stadium,Daegu,66000
+4,Incheon Munhak Stadium,Incheon,52000
+5,Gwangju World Cup Stadium,Gwangju,44000
+6,Daejeon World Cup Stadium,Daejeon,42000
+7,Suwon World Cup Stadium,Suwon,43500
+8,Ulsan Munsu Football Stadium,Ulsan,44000
+9,Jeonju World Cup Stadium,Jeonju,42500
+10,Jeju World Cup Stadium,Seogwipo,35256
+11,Sapporo Dome,Sapporo,42000
+12,Miyagi Stadium,Sendai,49000
+13,Ibaraki Kashima Stadium,Kashima,42000
+14,Niigata Big Swan Stadium,Niigata,42000
+15,Shizuoka Stadium Ecopa,Shizuoka,51000
+16,Oita Big Eye Stadium,Oita,43000
+17,Kobe Wing Stadium,Kobe,42000
+18,Nagai Stadium,Osaka,50000
+19,Yokohama International Stadium,Yokohama,70000
+20,Saitama Stadium 2002,Saitama,63000
