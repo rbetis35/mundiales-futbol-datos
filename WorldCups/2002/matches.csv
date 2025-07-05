@@ -1,25 +1,65 @@
-match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance
-1,2022-11-20,Qatar,Ecuador,0,2,Group Stage,Al Bayt Stadium,Al Khor,A,67372
-2,2022-11-21,England,Iran,6,2,Group Stage,Khalifa International Stadium,Doha,B,45334
-3,2022-11-21,Senegal,Netherlands,0,2,Group Stage,Al Thumama Stadium,Doha,A,41721
-4,2022-11-22,Argentina,Saudi Arabia,1,2,Group Stage,Lusail Stadium,Lusail,C,88012
-5,2022-11-22,Denmark,Tunisia,0,0,Group Stage,Education City Stadium,Al Rayyan,D,43418
-6,2022-11-22,Mexico,Poland,0,0,Group Stage,Stadium 974,Doha,C,39369
-7,2022-11-22,France,Australia,4,1,Group Stage,Al Janoub Stadium,Al Wakrah,D,35441
-8,2022-11-23,Morocco,Croatia,0,0,Group Stage,Al Bayt Stadium,Al Khor,F,67013
-9,2022-11-23,Germany,Japan,1,2,Group Stage,Khalifa International Stadium,Doha,E,42608
-10,2022-11-24,Spain,Costa Rica,7,0,Group Stage,Al Thumama Stadium,Doha,E,40013
-11,2022-11-24,Belgium,Canada,1,0,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,F,43984
-12,2022-11-25,Brazil,Serbia,2,0,Group Stage,Lusail Stadium,Lusail,G,88103
-13,2022-12-03,Argentina,Australia,2,1,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,R16,44623
-14,2022-12-04,France,Poland,3,1,Round of 16,Al Thumama Stadium,Doha,R16,44089
-15,2022-12-05,England,Senegal,3,0,Round of 16,Al Bayt Stadium,Al Khor,R16,65985
-16,2022-12-06,Netherlands,USA,3,1,Round of 16,Khalifa International Stadium,Doha,R16,44846
-17,2022-12-09,Argentina,Netherlands,2,2,Quarter-final,Lusail Stadium,Lusail,QF,88235
-18,2022-12-10,France,England,2,1,Quarter-final,Al Bayt Stadium,Al Khor,QF,68895
-19,2022-12-10,Morocco,Portugal,1,0,Quarter-final,Al Thumama Stadium,Doha,QF,44198
-20,2022-12-11,Croatia,Brazil,1,1,Quarter-final,Education City Stadium,Al Rayyan,QF,43893
-21,2022-12-13,Argentina,Croatia,3,0,Semi-final,Lusail Stadium,Lusail,SF,88966
-22,2022-12-14,France,Morocco,2,0,Semi-final,Al Bayt Stadium,Al Khor,SF,68294
-23,2022-12-17,Croatia,Morocco,2,1,Third Place,Khalifa International Stadium,Doha,3rd,44137
-24,2022-12-18,Argentina,France,3,3,Final,Lusail Stadium,Lusail,Final,88966
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,2002-05-31,France,Senegal,0,1,Group Stage,Seoul World Cup Stadium,Seoul,A,62561,
+2,2002-06-01,Uruguay,Denmark,1,2,Group Stage,Ulsan Munsu Football Stadium,Ulsan,A,37300,
+3,2002-06-01,Republic of Ireland,Cameroon,1,1,Group Stage,Niigata Big Swan Stadium,Niigata,E,31570,
+4,2002-06-01,Paraguay,South Africa,2,2,Group Stage,Busan Asiad Main Stadium,Busan,B,37000,
+5,2002-06-02,Germany,Saudi Arabia,8,0,Group Stage,Sapporo Dome,Sapporo,E,32000,
+6,2002-06-02,England,Sweden,1,1,Group Stage,Saitama Stadium 2002,Saitama,F,55100,
+7,2002-06-02,Argentina,Nigeria,1,0,Group Stage,Ibaraki Kashima Stadium,Kashima,F,34050,
+8,2002-06-02,Spain,Slovenia,3,1,Group Stage,Gwangju World Cup Stadium,Gwangju,B,28000,
+9,2002-06-03,Brazil,Turkey,2,1,Group Stage,Ulsan Munsu Football Stadium,Ulsan,C,37306,
+10,2002-06-03,China PR,Costa Rica,0,2,Group Stage,Gwangju World Cup Stadium,Gwangju,C,27217,
+11,2002-06-04,South Korea,Poland,2,0,Group Stage,Busan Asiad Main Stadium,Busan,D,52438,
+12,2002-06-04,United States,Portugal,3,2,Group Stage,Suwon World Cup Stadium,Suwon,D,37306,
+13,2002-06-05,Japan,Belgium,2,2,Group Stage,Saitama Stadium 2002,Saitama,H,55256,
+14,2002-06-05,Russia,Tunisia,2,0,Group Stage,Kobe Wing Stadium,Kobe,H,40440,
+15,2002-06-06,Mexico,Croatia,1,0,Group Stage,Niigata Big Swan Stadium,Niigata,G,40582,
+16,2002-06-06,Italy,Ecuador,2,0,Group Stage,Sapporo Dome,Sapporo,G,35927,
+17,2002-06-06,Denmark,Senegal,1,1,Group Stage,Daegu World Cup Stadium,Daegu,A,63483,
+18,2002-06-06,France,Uruguay,0,0,Group Stage,Busan Asiad Main Stadium,Busan,A,51888,
+19,2002-06-07,Germany,Republic of Ireland,1,1,Group Stage,Ibaraki Kashima Stadium,Kashima,E,35854,
+20,2002-06-07,Cameroon,Saudi Arabia,1,0,Group Stage,Saitama Stadium 2002,Saitama,E,52721,
+21,2002-06-08,Spain,Paraguay,3,1,Group Stage,Jeonju World Cup Stadium,Jeonju,B,38926,
+22,2002-06-08,South Africa,Slovenia,1,0,Group Stage,Daegu World Cup Stadium,Daegu,B,54798,
+23,2002-06-08,Argentina,England,0,1,Group Stage,Sapporo Dome,Sapporo,F,35927,
+24,2002-06-08,Sweden,Nigeria,2,1,Group Stage,Kobe Wing Stadium,Kobe,F,40440,
+25,2002-06-09,Brazil,China PR,4,0,Group Stage,Jeju World Cup Stadium,Seogwipo,C,42256,
+26,2002-06-09,Costa Rica,Turkey,1,1,Group Stage,Incheon Munhak Stadium,Incheon,C,50239,
+27,2002-06-10,South Korea,United States,1,1,Group Stage,Daegu World Cup Stadium,Daegu,D,63483,
+28,2002-06-10,Portugal,Poland,4,0,Group Stage,Jeonju World Cup Stadium,Jeonju,D,38926,
+29,2002-06-10,Japan,Russia,1,0,Group Stage,Yokohama International Stadium,Yokohama,H,66108,
+30,2002-06-10,Tunisia,Belgium,1,1,Group Stage,Oita Big Eye Stadium,Oita,H,39747,
+31,2002-06-11,Italy,Croatia,2,1,Group Stage,Ibaraki Kashima Stadium,Kashima,G,35854,
+32,2002-06-11,Mexico,Ecuador,2,1,Group Stage,Miyagi Stadium,Sendai,G,45666,
+33,2002-06-11,Denmark,France,2,0,Group Stage,Incheon Munhak Stadium,Incheon,A,50239,
+34,2002-06-11,Senegal,Uruguay,3,3,Group Stage,Suwon World Cup Stadium,Suwon,A,37306,
+35,2002-06-12,Cameroon,Germany,0,2,Group Stage,Shizuoka Stadium Ecopa,Shizuoka,E,47436,
+36,2002-06-12,Saudi Arabia,Republic of Ireland,0,3,Group Stage,Yokohama International Stadium,Yokohama,E,66108,
+37,2002-06-12,South Africa,Spain,2,3,Group Stage,Daejeon World Cup Stadium,Daejeon,B,38588,
+38,2002-06-12,Slovenia,Paraguay,1,3,Group Stage,Jeju World Cup Stadium,Seogwipo,B,25176,
+39,2002-06-12,Sweden,Argentina,1,1,Group Stage,Miyagi Stadium,Sendai,F,45666,
+40,2002-06-12,Nigeria,England,0,0,Group Stage,Nagai Stadium,Osaka,F,44864,
+41,2002-06-13,Costa Rica,Brazil,2,5,Group Stage,Suwon World Cup Stadium,Suwon,C,37306,
+42,2002-06-13,Turkey,China PR,3,0,Group Stage,Seoul World Cup Stadium,Seoul,C,62561,
+43,2002-06-14,Poland,United States,3,1,Group Stage,Daejeon World Cup Stadium,Daejeon,D,33842,
+44,2002-06-14,Portugal,South Korea,0,1,Group Stage,Incheon Munhak Stadium,Incheon,D,50239,
+45,2002-06-14,Tunisia,Japan,0,2,Group Stage,Nagai Stadium,Osaka,H,44864,
+46,2002-06-14,Belgium,Russia,3,2,Group Stage,Shizuoka Stadium Ecopa,Shizuoka,H,47436,
+47,2002-06-13,Ecuador,Croatia,1,0,Group Stage,Yokohama International Stadium,Yokohama,G,66108,
+48,2002-06-13,Mexico,Italy,1,1,Group Stage,Oita Big Eye Stadium,Oita,G,39747,
+49,2002-06-15,Germany,Paraguay,1,0,Round of 16,Jeju World Cup Stadium,Seogwipo,R16,25176,
+50,2002-06-15,Denmark,England,0,3,Round of 16,Niigata Big Swan Stadium,Niigata,R16,40582,
+51,2002-06-16,Sweden,Senegal,1,2,Round of 16,Oita Big Eye Stadium,Oita,R16,39747,Golden Goal
+52,2002-06-16,Spain,Republic of Ireland,1,1,Round of 16,Suwon World Cup Stadium,Suwon,R16,38926,PSO: Spain 3 Republic of Ireland 2
+53,2002-06-17,Mexico,United States,0,2,Round of 16,Jeonju World Cup Stadium,Jeonju,R16,38926,
+54,2002-06-17,Brazil,Belgium,2,0,Round of 16,Kobe Wing Stadium,Kobe,R16,40440,
+55,2002-06-18,Japan,Turkey,0,1,Round of 16,Miyagi Stadium,Sendai,R16,45666,
+56,2002-06-18,South Korea,Italy,2,1,Round of 16,Daejeon World Cup Stadium,Daejeon,R16,38588,Golden Goal
+57,2002-06-21,England,Brazil,1,2,Quarter-final,Shizuoka Stadium Ecopa,Shizuoka,QF,47436,
+58,2002-06-21,Germany,United States,1,0,Quarter-final,Ulsan Munsu Football Stadium,Ulsan,QF,37306,
+59,2002-06-22,Spain,South Korea,0,0,Quarter-final,Gwangju World Cup Stadium,Gwangju,QF,42256,PSO: Spain 3 South Korea 5
+60,2002-06-22,Senegal,Turkey,0,1,Quarter-final,Nagai Stadium,Osaka,QF,44864,Golden Goal
+61,2002-06-25,Germany,South Korea,1,0,Semi-final,Seoul World Cup Stadium,Seoul,SF,62561,
+62,2002-06-26,Brazil,Turkey,1,0,Semi-final,Saitama Stadium 2002,Saitama,SF,61058,
+63,2002-06-29,South Korea,Turkey,2,3,Third Place Play-off,Daegu World Cup Stadium,Daegu,3rd,63483,
+64,2002-06-30,Germany,Brazil,0,2,Final,Yokohama International Stadium,Yokohama,Final,69029,
