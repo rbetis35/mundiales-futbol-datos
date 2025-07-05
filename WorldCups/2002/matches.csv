@@ -1,0 +1,25 @@
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance
+1,2022-11-20,Qatar,Ecuador,0,2,Group Stage,Al Bayt Stadium,Al Khor,A,67372
+2,2022-11-21,England,Iran,6,2,Group Stage,Khalifa International Stadium,Doha,B,45334
+3,2022-11-21,Senegal,Netherlands,0,2,Group Stage,Al Thumama Stadium,Doha,A,41721
+4,2022-11-22,Argentina,Saudi Arabia,1,2,Group Stage,Lusail Stadium,Lusail,C,88012
+5,2022-11-22,Denmark,Tunisia,0,0,Group Stage,Education City Stadium,Al Rayyan,D,43418
+6,2022-11-22,Mexico,Poland,0,0,Group Stage,Stadium 974,Doha,C,39369
+7,2022-11-22,France,Australia,4,1,Group Stage,Al Janoub Stadium,Al Wakrah,D,35441
+8,2022-11-23,Morocco,Croatia,0,0,Group Stage,Al Bayt Stadium,Al Khor,F,67013
+9,2022-11-23,Germany,Japan,1,2,Group Stage,Khalifa International Stadium,Doha,E,42608
+10,2022-11-24,Spain,Costa Rica,7,0,Group Stage,Al Thumama Stadium,Doha,E,40013
+11,2022-11-24,Belgium,Canada,1,0,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,F,43984
+12,2022-11-25,Brazil,Serbia,2,0,Group Stage,Lusail Stadium,Lusail,G,88103
+13,2022-12-03,Argentina,Australia,2,1,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,R16,44623
+14,2022-12-04,France,Poland,3,1,Round of 16,Al Thumama Stadium,Doha,R16,44089
+15,2022-12-05,England,Senegal,3,0,Round of 16,Al Bayt Stadium,Al Khor,R16,65985
+16,2022-12-06,Netherlands,USA,3,1,Round of 16,Khalifa International Stadium,Doha,R16,44846
+17,2022-12-09,Argentina,Netherlands,2,2,Quarter-final,Lusail Stadium,Lusail,QF,88235
+18,2022-12-10,France,England,2,1,Quarter-final,Al Bayt Stadium,Al Khor,QF,68895
+19,2022-12-10,Morocco,Portugal,1,0,Quarter-final,Al Thumama Stadium,Doha,QF,44198
+20,2022-12-11,Croatia,Brazil,1,1,Quarter-final,Education City Stadium,Al Rayyan,QF,43893
+21,2022-12-13,Argentina,Croatia,3,0,Semi-final,Lusail Stadium,Lusail,SF,88966
+22,2022-12-14,France,Morocco,2,0,Semi-final,Al Bayt Stadium,Al Khor,SF,68294
+23,2022-12-17,Croatia,Morocco,2,1,Third Place,Khalifa International Stadium,Doha,3rd,44137
+24,2022-12-18,Argentina,France,3,3,Final,Lusail Stadium,Lusail,Final,88966
