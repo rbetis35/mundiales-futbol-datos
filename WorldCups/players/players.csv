@@ -2950,3 +2950,525 @@ player_id,dorsal,player_name,birth_date,position,nationality
 2949,16,Josh Wolff,25-02-1977,FW,USA
 2950,20,Brian McBride,19-06-1972,FW,USA
 2951,21,Fred,03-10-1983,FW,Brazil
+player_id,dorsal,player_name,Date of birth,position,nationality
+2952,1,Germán Burgos,16-04-1969,GK,Argentina
+2953,12,Pablo Cavallero,13-04-1974,GK,Argentina
+2954,23,Roberto Bonano,24-01-1970,GK,Argentina
+2955,4,Mauricio Pochettino,02-03-1972,DF,Argentina
+2956,8,Javier Zanetti,10-08-1973,DF,Argentina
+2957,13,Diego Placente,24-04-1977,DF,Argentina
+2958,22,José Chamot,17-05-1969,DF,Argentina
+2959,5,Matías Almeyda,21-12-1973,MF,Argentina
+2960,10,Ariel Ortega,04-03-1974,MF,Argentina
+2961,14,Diego Simeone,28-04-1970,MF,Argentina
+2962,15,Claudio Husaín,20-11-1974,MF,Argentina
+2963,17,Gustavo López,13-04-1973,MF,Argentina
+2964,18,Kily González,04-08-1974,MF,Argentina
+2965,20,Marcelo Gallardo,18-01-1976,MF,Argentina
+2966,7,Claudio López,17-07-1974,FW,Argentina
+2967,9,Gabriel Batistuta ,01-02-1969,FW,Argentina
+2968,21,Claudio Caniggia,09-01-1967,FW,Argentina
+2969,1,Geert De Vlieger,16-10-1971,GK,Belgium
+2970,13,Franky Vandendriessche,07-04-1971,GK,Belgium
+2971,23,Frédéric Herpoel,16-08-1974,GK,Belgium
+2972,2,Eric Deflandre,02-08-1973,DF,Belgium
+2973,3,Glen De Boeck,22-08-1971,DF,Belgium
+2974,4,Eric Van Meir,28-02-1968,DF,Belgium
+2975,5,Nico Van Kerckhoven,14-12-1970,DF,Belgium
+2976,12,Peter Van der Heyden,16-07-1976,DF,Belgium
+2977,15,Jacky Peeters,13-12-1969,DF,Belgium
+2978,6,Timmy Simons,11-12-1976,MF,Belgium
+2979,8,Bart Goor,09-04-1973,MF,Belgium
+2980,10,Johan Walem,01-02-1972,MF,Belgium
+2981,14,Sven Vermant,04-04-1973,MF,Belgium
+2982,17,Gaëtan Englebert,11-06-1976,MF,Belgium
+2983,18,Yves Vanderhaeghe,30-01-1970,MF,Belgium
+2984,19,Bernd Thijs,28-06-1978,MF,Belgium
+2985,21,Danny Boffin,10-07-1965,MF,Belgium
+2986,7,Marc Wilmots ,22-02-1969,FW,Belgium
+2987,9,Wesley Sonck,09-08-1978,FW,Belgium
+2988,11,Gert Verheyen,20-09-1970,FW,Belgium
+2989,20,Branko Strupar,09-02-1970,FW,Belgium
+2990,22,Mbo Mpenza,04-12-1976,FW,Belgium
+2991,1,Marcos,04-08-1973,GK,Brazil
+2992,4,Roque Júnior,31-08-1976,DF,Brazil
+2993,5,Edmílson,10-07-1976,DF,Brazil
+2994,13,Juliano Belletti,20-06-1976,DF,Brazil
+2995,14,Ânderson Polga,09-02-1979,DF,Brazil
+2996,16,Júnior,20-06-1973,DF,Brazil
+2997,10,Rivaldo,19-04-1972,MF,Brazil
+2998,18,Vampeta,13-03-1974,MF,Brazil
+2999,19,Juninho Paulista,22-02-1973,MF,Brazil
+3000,17,Denílson,24-08-1977,FW,Brazil
+3001,20,Edílson,17-09-1971,FW,Brazil
+3002,21,Luizão,14-11-1975,FW,Brazil
+3003,1,Alioum Boukar,03-01-1972,GK,Cameroon
+3004,16,Jacques Songo'o,17-03-1964,GK,Cameroon
+3005,2,Bill Tchato,14-05-1975,DF,Cameroon
+3006,3,Pierre Womé,26-03-1979,DF,Cameroon
+3007,5,Raymond Kalla,22-04-1975,DF,Cameroon
+3008,6,Pierre Njanka,15-03-1975,DF,Cameroon
+3009,13,Lucien Mettomo,19-04-1977,DF,Cameroon
+3010,7,Joseph N'Do,28-04-1976,MF,Cameroon
+3011,12,Lauren,19-01-1977,MF,Cameroon
+3012,14,Joël Epalle,20-02-1978,MF,Cameroon
+3013,15,Nicolas Alnoudji,09-12-1979,MF,Cameroon
+3014,17,Marc-Vivien Foé,01-05-1975,MF,Cameroon
+3015,19,Eric Djemba-Djemba,04-05-1981,MF,Cameroon
+3016,20,Salomon Olembé,08-12-1980,MF,Cameroon
+3017,23,Daniel N'Gom Kome,19-05-1980,MF,Cameroon
+3018,10,Patrick M'Boma,15-11-1970,FW,Cameroon
+3019,11,Pius N'Diefi,05-07-1975,FW,Cameroon
+3020,18,Patrick Suffo,17-01-1978,FW,Cameroon
+3021,21,Joseph-Désiré Job,01-12-1977,FW,Cameroon
+3022,1,An Qi,21-06-1981,GK,China
+3023,22,Jiang Jin,07-10-1968,GK,China
+3024,23,Ou Chuliang,26-08-1968,GK,China
+3025,2,Zhang Enhua,28-04-1973,DF,China
+3026,3,Yang Pu,30-03-1978,DF,China
+3027,4,Wu Chengying,21-04-1975,DF,China
+3028,5,Fan Zhiyi,06-11-1969,DF,China
+3029,7,Sun Jihai,30-09-1977,DF,China
+3030,14,Li Weifeng,01-12-1978,DF,China
+3031,17,Du Wei,09-02-1982,DF,China
+3032,21,Xu Yunlong,17-02-1979,DF,China
+3033,6,Shao Jiayi,10-04-1980,MF,China
+3034,8,Li Tie,18-05-1977,MF,China
+3035,9,Ma Mingyu ,04-02-1970,MF,China
+3036,11,Yu Genwei,07-01-1974,MF,China
+3037,13,Gao Yao,13-07-1977,MF,China
+3038,15,Zhao Junzhe,18-04-1979,MF,China
+3039,18,Li Xiaopeng,20-06-1975,MF,China
+3040,19,Qi Hong,03-06-1976,MF,China
+3041,10,Hao Haidong,09-05-1970,FW,China
+3042,12,Su Maozhen,30-07-1972,FW,China
+3043,16,Qu Bo,15-07-1981,FW,China
+3044,20,Yang Chen,17-01-1974,FW,China
+3045,1,Erick Lonnis ,09-09-1965,GK,Costa Rica
+3046,23,Lester Morgan,02-05-1976,GK,Costa Rica
+3047,4,Mauricio Wright,20-12-1970,DF,Costa Rica
+3048,13,Daniel Vallejos,27-05-1981,DF,Costa Rica
+3049,14,Juan José Rodríguez,23-06-1967,DF,Costa Rica
+3050,21,Pablo Chinchilla,21-12-1978,DF,Costa Rica
+3051,22,Carlos Castro,10-09-1978,DF,Costa Rica
+3052,6,Wílmer López,08-03-1971,MF,Costa Rica
+3053,17,Hernán Medford,23-05-1968,MF,Costa Rica
+3054,19,Rodrigo Cordero,04-12-1973,MF,Costa Rica
+3055,7,Rolando Fonseca,06-06-1974,FW,Costa Rica
+3056,11,Rónald Gómez,24-01-1975,FW,Costa Rica
+3057,12,Winston Parks,12-10-1981,FW,Costa Rica
+3058,16,Steven Bryce,16-08-1977,FW,Costa Rica
+3059,20,William Sunsing,12-05-1977,FW,Costa Rica
+3060,23,Vladimir Vasilj,06-07-1975,GK,Croatia
+3061,6,Boris Živkovi?,15-11-1975,DF,Croatia
+3062,15,Daniel Šari?,04-08-1972,DF,Croatia
+3063,17,Robert Jarni,26-10-1968,DF,Croatia
+3064,5,Milan Rapai?,16-08-1973,MF,Croatia
+3065,8,Robert Prosine?ki,12-01-1969,MF,Croatia
+3066,13,Mario Stani?,10-04-1972,MF,Croatia
+3067,14,Zvonimir Soldo,02-11-1967,MF,Croatia
+3068,7,Davor Vugrinec,24-03-1975,FW,Croatia
+3069,9,Davor Šuker ,01-01-1968,FW,Croatia
+3070,11,Alen Bokši?,21-01-1970,FW,Croatia
+3071,19,Goran Vlaovi?,07-08-1972,FW,Croatia
+3072,16,Peter Kjær,05-11-1965,GK,Denmark
+3073,3,René Henriksen,27-08-1969,DF,Denmark
+3074,4,Martin Laursen,26-07-1977,DF,Denmark
+3075,5,Jan Heintze ,17-08-1963,DF,Denmark
+3076,6,Thomas Helveg,24-06-1971,DF,Denmark
+3077,12,Niclas Jensen,17-08-1974,DF,Denmark
+3078,13,Steven Lustü,13-04-1971,DF,Denmark
+3079,20,Kasper Bøgelund,08-10-1980,DF,Denmark
+3080,2,Stig Tøfting,14-08-1969,MF,Denmark
+3081,7,Thomas Gravesen,11-03-1976,MF,Denmark
+3082,14,Claus Jensen,29-04-1977,MF,Denmark
+3083,15,Jan Michaelsen,28-11-1970,MF,Denmark
+3084,23,Brian Steen Nielsen,28-12-1968,MF,Denmark
+3085,11,Ebbe Sand,19-07-1972,FW,Denmark
+3086,18,Peter Løvenkrands,29-01-1980,FW,Denmark
+3087,21,Peter Madsen,26-04-1978,FW,Denmark
+3088,1,José Francisco Cevallos,17-04-1971,GK,Ecuador
+3089,12,Oswaldo Ibarra,08-09-1969,GK,Ecuador
+3090,22,Daniel Viteri,12-12-1981,GK,Ecuador
+3091,2,Augusto Porozo,13-04-1974,DF,Ecuador
+3092,6,Raúl Guerrón,12-10-1976,DF,Ecuador
+3093,5,Alfonso Obregón,12-05-1972,MF,Ecuador
+3094,8,Luis Gómez,20-04-1972,MF,Ecuador
+3095,10,Álex Aguinaga ,09-07-1968,MF,Ecuador
+3096,14,Juan Carlos Burbano,15-02-1969,MF,Ecuador
+3097,16,Cléber Chalá,29-06-1971,MF,Ecuador
+3098,21,Wellington Sánchez,19-06-1974,MF,Ecuador
+3099,7,Nicolás Asencio,26-04-1975,FW,Ecuador
+3100,13,Ángel Fernández,02-08-1971,FW,Ecuador
+3101,1,David Seaman,19-09-1963,GK,England
+3102,13,Nigel Martyn,11-08-1966,GK,England
+3103,2,Danny Mills,18-05-1977,DF,England
+3104,12,Wes Brown,13-10-1979,DF,England
+3105,15,Martin Keown,24-07-1966,DF,England
+3106,16,Gareth Southgate,03-09-1970,DF,England
+3107,4,Trevor Sinclair,02-03-1973,MF,England
+3108,8,Paul Scholes,16-11-1974,MF,England
+3109,21,Nicky Butt,21-01-1975,MF,England
+3110,23,Kieron Dyer,29-12-1978,MF,England
+3111,9,Robbie Fowler,09-04-1975,FW,England
+3112,17,Teddy Sheringham,02-04-1966,FW,England
+3113,20,Darius Vassell,13-06-1980,FW,England
+3114,1,Ulrich Ramé,19-09-1972,GK,France
+3115,2,Vincent Candela,24-10-1973,DF,France
+3116,3,Bixente Lizarazu,09-12-1969,DF,France
+3117,5,Philippe Christanval,31-08-1978,DF,France
+3118,8,Marcel Desailly ,07-09-1968,DF,France
+3119,18,Frank Leboeuf,22-01-1968,DF,France
+3120,6,Youri Djorkaeff,09-03-1968,MF,France
+3121,14,Alain Boghossian,27-10-1970,MF,France
+3122,17,Emmanuel Petit,22-09-1970,MF,France
+3123,22,Johan Micoud,24-07-1973,MF,France
+3124,21,Christophe Dugarry,24-03-1972,FW,France
+3125,2,Thomas Linke,26-12-1969,DF,Germany
+3126,3,Marko Rehmer,29-04-1972,DF,Germany
+3127,4,Frank Baumann,29-10-1975,DF,Germany
+3128,6,Christian Ziege,01-02-1972,DF,Germany
+3129,5,Carsten Ramelow,20-03-1974,MF,Germany
+3130,8,Dietmar Hamann,27-08-1973,MF,Germany
+3131,10,Lars Ricken,10-07-1976,MF,Germany
+3132,16,Jens Jeremies,05-03-1974,MF,Germany
+3133,17,Marco Bode,23-07-1969,MF,Germany
+3134,18,Jörg Böhme,22-01-1974,MF,Germany
+3135,9,Carsten Jancker,28-08-1974,FW,Germany
+3136,20,Oliver Bierhoff,01-05-1968,FW,Germany
+3137,12,Christian Abbiati,08-07-1977,GK,Italy
+3138,22,Francesco Toldo,02-12-1971,GK,Italy
+3139,2,Christian Panucci,12-04-1973,DF,Italy
+3140,3,Paolo Maldini ,26-06-1968,DF,Italy
+3141,4,Francesco Coco,08-01-1977,DF,Italy
+3142,15,Mark Iuliano,12-08-1973,DF,Italy
+3143,6,Cristiano Zanetti,14-04-1977,MF,Italy
+3144,11,Cristiano Doni,01-04-1973,MF,Italy
+3145,14,Luigi Di Biagio,03-06-1971,MF,Italy
+3146,16,Angelo Di Livio,26-07-1966,MF,Italy
+3147,17,Damiano Tommasi,17-05-1974,MF,Italy
+3148,18,Marco Delvecchio,07-04-1973,FW,Italy
+3149,20,Vincenzo Montella,18-06-1974,FW,Italy
+3150,21,Christian Vieri,12-07-1973,FW,Italy
+3151,23,Hitoshi Sogahata,02-08-1979,GK,Japan
+3152,2,Yutaka Akita,06-08-1970,DF,Japan
+3153,3,Naoki Matsuda,14-03-1977,DF,Japan
+3154,4,Ryuzo Morioka,07-10-1975,DF,Japan
+3155,6,Toshihiro Hattori,23-09-1973,DF,Japan
+3156,8,Hiroaki Morishima,30-04-1972,MF,Japan
+3157,20,Tomokazu Myojin,24-01-1978,MF,Japan
+3158,21,Kazuyuki Toda,30-12-1977,MF,Japan
+3159,22,Daisuke Ichikawa,14-05-1980,MF,Japan
+3160,9,Akinori Nishizawa,18-06-1976,FW,Japan
+3161,10,Masashi Nakayama,23-09-1967,FW,Japan
+3162,11,Takayuki Suzuki,05-06-1976,FW,Japan
+3163,23,Jorge Campos,15-10-1966,GK,Mexico
+3164,2,Francisco Gabriel de Anda,05-06-1971,DF,Mexico
+3165,5,Manuel Vidrio,23-08-1972,DF,Mexico
+3166,16,Salvador Carmona,22-08-1975,DF,Mexico
+3167,20,Melvin Brown,28-01-1979,DF,Mexico
+3168,22,Alberto Rodríguez,01-04-1974,DF,Mexico
+3169,8,Alberto García Aspe,11-05-1967,MF,Mexico
+3170,11,Braulio Luna,08-09-1974,MF,Mexico
+3171,13,Sigifredo Mercado,21-12-1968,MF,Mexico
+3172,14,Germán Villa,02-04-1973,MF,Mexico
+3173,18,Johan Rodríguez,15-08-1975,MF,Mexico
+3174,19,Gabriel Caballero,05-02-1971,MF,Mexico
+3175,15,Luis Hernández,22-12-1968,FW,Mexico
+3176,17,Francisco Palencia,28-04-1973,FW,Mexico
+3177,1,Ike Shorunmu,16-10-1967,GK,Nigeria
+3178,3,Celestine Babayaro,29-08-1978,DF,Nigeria
+3179,5,Isaac Okoronkwo,01-05-1978,DF,Nigeria
+3180,6,Taribo West,26-03-1974,DF,Nigeria
+3181,14,Ifeanyi Udeze,21-07-1980,DF,Nigeria
+3182,16,Efe Sodje,05-10-1972,DF,Nigeria
+3183,19,Eric Ejiofor,21-07-1979,DF,Nigeria
+3184,7,Pius Ikedia,11-07-1980,MF,Nigeria
+3185,8,Mutiu Adepoju,22-12-1970,MF,Nigeria
+3186,10,Jay-Jay Okocha ,14-08-1973,MF,Nigeria
+3187,11,Garba Lawal,22-05-1974,MF,Nigeria
+3188,15,Justice Christopher,24-12-1981,MF,Nigeria
+3189,20,James Obiorah,24-08-1978,MF,Nigeria
+3190,23,Femi Opabunmi,03-03-1985,MF,Nigeria
+3191,9,Bartholomew Ogbeche,01-10-1984,FW,Nigeria
+3192,17,Julius Aghahowa,12-02-1982,FW,Nigeria
+3193,18,Benedict Akwuegbu,03-11-1974,FW,Nigeria
+3194,1,José Luis Chilavert ,27-07-1965,GK,Paraguay
+3195,22,Ricardo Tavarelli,02-08-1970,GK,Paraguay
+3196,2,Francisco Arce,02-04-1971,DF,Paraguay
+3197,3,Pedro Sarabia,05-07-1975,DF,Paraguay
+3198,5,Celso Ayala,20-08-1970,DF,Paraguay
+3199,17,Juan Carlos Franco,17-04-1973,DF,Paraguay
+3200,19,Daniel Sanabria,08-02-1977,DF,Paraguay
+3201,6,Estanislao Struway,25-06-1968,MF,Paraguay
+3202,8,Guido Alvarenga,24-08-1970,MF,Paraguay
+3203,16,Gustavo Morínigo,23-01-1977,MF,Paraguay
+3204,7,Richart Báez,31-07-1973,FW,Paraguay
+3205,11,Jorge Luis Campos,11-08-1970,FW,Paraguay
+3206,20,José Cardozo,19-03-1971,FW,Paraguay
+3207,1,Jerzy Dudek,23-03-1973,GK,Poland
+3208,12,Rados?aw Majdan,10-05-1972,GK,Poland
+3209,22,Adam Matysek,19-07-1968,GK,Poland
+3210,2,Tomasz K?os,07-03-1973,DF,Poland
+3211,3,Jacek Zieli?ski,10-10-1967,DF,Poland
+3212,5,Tomasz Rz?sa,11-03-1973,DF,Poland
+3213,6,Tomasz Hajto,16-10-1972,DF,Poland
+3214,13,Arkadiusz G?owacki,13-03-1979,DF,Poland
+3215,15,Tomasz Wa?doch ,10-05-1971,DF,Poland
+3216,16,Maciej Murawski,20-02-1974,DF,Poland
+3217,7,Piotr ?wierczewski,08-04-1972,MF,Poland
+3218,10,Rados?aw Ka?u?ny,02-02-1974,MF,Poland
+3219,17,Arkadiusz B?k,06-10-1974,MF,Poland
+3220,21,Marek Ko?mi?ski,07-02-1971,MF,Poland
+3221,23,Pawe? Sibik,15-02-1971,MF,Poland
+3222,8,Cezary Kucharski,17-02-1972,FW,Poland
+3223,9,Pawe? Krysza?owicz,23-06-1974,FW,Poland
+3224,11,Emmanuel Olisadebe,22-12-1978,FW,Poland
+3225,14,Marcin ?ew?akow,22-04-1976,FW,Poland
+3226,1,Vítor Baía,15-10-1969,GK,Portugal
+3227,15,Nélson Pereira,20-10-1975,GK,Portugal
+3228,2,Jorge Costa,14-10-1971,DF,Portugal
+3229,3,Abel Xavier,30-11-1972,DF,Portugal
+3230,5,Fernando Couto ,02-08-1969,DF,Portugal
+3231,13,Jorge Andrade,09-04-1978,DF,Portugal
+3232,18,Nuno Frechaut,24-09-1977,DF,Portugal
+3233,23,Rui Jorge,27-03-1973,DF,Portugal
+3234,6,Paulo Sousa,30-08-1970,MF,Portugal
+3235,10,Rui Costa,29-03-1972,MF,Portugal
+3236,11,Sérgio Conceição,15-11-1974,MF,Portugal
+3237,14,Pedro Barbosa,06-08-1970,MF,Portugal
+3238,17,Paulo Bento,20-06-1969,MF,Portugal
+3239,19,Capucho,21-02-1972,MF,Portugal
+3240,8,João Pinto,19-08-1971,FW,Portugal
+3241,1,Shay Given,20-04-1976,GK,Republic of Ireland
+3242,16,Dean Kiely,10-10-1970,GK,Republic of Ireland
+3243,23,Alan Kelly,11-08-1968,GK,Republic of Ireland
+3244,2,Steve Finnan,24-04-1976,DF,Republic of Ireland
+3245,3,Ian Harte,31-08-1977,DF,Republic of Ireland
+3246,4,Kenny Cunningham,28-06-1971,DF,Republic of Ireland
+3247,5,Steve Staunton ,19-01-1969,DF,Republic of Ireland
+3248,14,Gary Breen,12-12-1973,DF,Republic of Ireland
+3249,15,Richard Dunne,21-09-1979,DF,Republic of Ireland
+3250,18,Gary Kelly,09-07-1974,DF,Republic of Ireland
+3251,20,Andrew O'Brien,29-06-1979,DF,Republic of Ireland
+3252,6,Roy Keane*,10-08-1971,MF,Republic of Ireland
+3253,7,Jason McAteer,18-06-1971,MF,Republic of Ireland
+3254,8,Matt Holland,11-04-1974,MF,Republic of Ireland
+3255,9,Damien Duff,02-03-1979,MF,Republic of Ireland
+3256,11,Kevin Kilbane,01-02-1977,MF,Republic of Ireland
+3257,12,Mark Kinsella,12-08-1972,MF,Republic of Ireland
+3258,21,Steven Reid,10-03-1981,MF,Republic of Ireland
+3259,22,Lee Carsley,28-02-1974,MF,Republic of Ireland
+3260,10,Robbie Keane,08-07-1980,FW,Republic of Ireland
+3261,13,David Connolly,06-06-1977,FW,Republic of Ireland
+3262,17,Niall Quinn,06-10-1966,FW,Republic of Ireland
+3263,19,Clinton Morrison,14-05-1979,FW,Republic of Ireland
+3264,1,Ruslan Nigmatullin,07-10-1974,GK,Russia
+3265,12,Stanislav Cherchesov,02-09-1963,GK,Russia
+3266,23,Aleksandr Filimonov,15-10-1973,GK,Russia
+3267,2,Yuri Kovtun,05-01-1970,DF,Russia
+3268,3,Yuri Nikiforov,16-09-1970,DF,Russia
+3269,5,Andrei Solomatin,09-09-1975,DF,Russia
+3270,7,Viktor Onopko ,14-10-1969,DF,Russia
+3271,13,Vyacheslav Dayev,06-09-1972,DF,Russia
+3272,14,Igor Chugainov,06-04-1970,DF,Russia
+3273,18,Dmitri Sennikov,24-06-1976,DF,Russia
+3274,4,Alexey Smertin,01-05-1975,MF,Russia
+3275,6,Igor Semshov,06-04-1978,MF,Russia
+3276,8,Valeri Karpin,02-02-1969,MF,Russia
+3277,9,Yegor Titov,29-05-1976,MF,Russia
+3278,10,Aleksandr Mostovoi,22-08-1968,MF,Russia
+3279,15,Dmitri Alenichev,20-10-1972,MF,Russia
+3280,17,Sergei Semak,27-02-1976,MF,Russia
+3281,20,Marat Izmailov,21-09-1982,MF,Russia
+3282,21,Dmitri Khokhlov,22-12-1975,MF,Russia
+3283,11,Vladimir Beschastnykh,01-04-1974,FW,Russia
+3284,19,Ruslan Pimenov,25-11-1981,FW,Russia
+3285,22,Dmitri Sychev,26-10-1983,FW,Russia
+3286,22,Mohammed Al-Khojali,15-01-1973,GK,Saudi Arabia
+3287,2,Mohammed Sheliah,28-09-1974,DF,Saudi Arabia
+3288,4,Abdullah Zubromawi,15-11-1973,DF,Saudi Arabia
+3289,5,Mohsin Al-Harthi,17-07-1976,DF,Saudi Arabia
+3290,6,Fouzi Al-Shehri,15-05-1980,DF,Saudi Arabia
+3291,23,Mansour Al-Thagafi,14-01-1979,DF,Saudi Arabia
+3292,7,Ibrahim Suwayed,21-07-1974,MF,Saudi Arabia
+3293,16,Khamis Al-Owairan,08-09-1973,MF,Saudi Arabia
+3294,17,Abdullah Al-Waked,29-09-1975,MF,Saudi Arabia
+3295,11,Obeid Al-Dosari,02-10-1975,FW,Saudi Arabia
+3296,15,Abdullah Al-Jumaan,10-11-1977,FW,Saudi Arabia
+3297,20,Al-Hasan Al-Yami,21-08-1972,FW,Saudi Arabia
+3298,1,Tony Sylva,17-05-1975,GK,Senegal
+3299,16,Omar Diallo,28-09-1972,GK,Senegal
+3300,22,Kalidou Cissokho,28-08-1978,GK,Senegal
+3301,2,Omar Daf,12-02-1977,DF,Senegal
+3302,4,Pape Malick Diop,29-12-1974,DF,Senegal
+3303,5,Alassane N'Dour,12-12-1981,DF,Senegal
+3304,6,Aliou Cissé ,24-03-1976,DF,Senegal
+3305,13,Lamine Diatta,02-07-1975,DF,Senegal
+3306,17,Ferdinand Coly,10-09-1973,DF,Senegal
+3307,21,Habib Beye,19-10-1977,DF,Senegal
+3308,3,Pape Sarr,07-12-1977,MF,Senegal
+3309,10,Khalilou Fadiga,30-12-1974,MF,Senegal
+3310,12,Amdy Faye,12-03-1977,MF,Senegal
+3311,14,Moussa N'Diaye,20-02-1979,MF,Senegal
+3312,15,Salif Diao,10-02-1977,MF,Senegal
+3313,19,Papa Bouba Diop,28-01-1978,MF,Senegal
+3314,20,Sylvain N'Diaye,25-06-1976,MF,Senegal
+3315,23,Makhtar N'Diaye,31-12-1981,MF,Senegal
+3316,7,Henri Camara,10-05-1977,FW,Senegal
+3317,8,Amara Traoré,25-09-1965,FW,Senegal
+3318,9,Souleymane Camara,22-12-1982,FW,Senegal
+3319,11,El Hadji Diouf,15-01-1981,FW,Senegal
+3320,18,Pape Thiaw,05-02-1981,FW,Senegal
+3321,1,Marko Simeunovi?,06-12-1967,GK,Slovenia
+3322,12,Mladen Dabanovi?,13-09-1971,GK,Slovenia
+3323,22,Dejan Nemec,01-03-1977,GK,Slovenia
+3324,2,Goran Sankovi?,18-06-1979,DF,Slovenia
+3325,3,Željko Milinovi?,12-10-1969,DF,Slovenia
+3326,4,Muamer Vugdali?,25-08-1977,DF,Slovenia
+3327,5,Marinko Gali?,22-04-1970,DF,Slovenia
+3328,6,Aleksander Knavs,05-12-1975,DF,Slovenia
+3329,14,Saša Gajser,11-02-1974,DF,Slovenia
+3330,19,Amir Kari?,31-12-1973,DF,Slovenia
+3331,23,Spasoje Bulaji?,24-11-1975,DF,Slovenia
+3332,7,Džoni Novak,04-09-1969,MF,Slovenia
+3333,8,Aleš ?eh ,07-04-1968,MF,Slovenia
+3334,10,Zlatko Zahovi?*,01-02-1971,MF,Slovenia
+3335,11,Miran Pavlin,08-10-1971,MF,Slovenia
+3336,15,Rajko Tav?ar,21-07-1974,MF,Slovenia
+3337,17,Zoran Pavlovi?,27-06-1976,MF,Slovenia
+3338,20,Nastja ?eh,26-01-1978,MF,Slovenia
+3339,9,Milan Osterc,04-07-1975,FW,Slovenia
+3340,13,Mladen Rudonja,26-07-1971,FW,Slovenia
+3341,16,Senad Tiganj,28-08-1975,FW,Slovenia
+3342,18,Milenko A?imovi?,15-02-1977,FW,Slovenia
+3343,21,Sebastjan Cimiroti?,14-09-1974,FW,Slovenia
+3344,1,Hans Vonk,30-01-1970,GK,South Africa
+3345,16,Andre Arendse,27-06-1967,GK,South Africa
+3346,20,Calvin Marlin,20-04-1976,GK,South Africa
+3347,2,Cyril Nzama,26-06-1974,DF,South Africa
+3348,3,Bradley Carnell,21-01-1977,DF,South Africa
+3349,5,Jacob Lekgetho,24-03-1974,DF,South Africa
+3350,13,Pierre Issa,12-09-1975,DF,South Africa
+3351,19,Lucas Radebe ,12-04-1969,DF,South Africa
+3352,22,Thabang Molefe,11-04-1979,DF,South Africa
+3353,7,Quinton Fortune,21-05-1977,MF,South Africa
+3354,8,Thabo Mngomeni,24-06-1969,MF,South Africa
+3355,9,MacDonald Mukansi,26-05-1975,MF,South Africa
+3356,10,Bennett Mnguni,18-03-1974,MF,South Africa
+3357,11,Jabu Pule,11-07-1980,MF,South Africa
+3358,12,Teboho Mokoena,10-07-1974,MF,South Africa
+3359,15,Sibusiso Zuma,23-06-1975,MF,South Africa
+3360,18,Delron Buckley,07-12-1977,MF,South Africa
+3361,17,Benni McCarthy,12-11-1977,FW,South Africa
+3362,23,George Koumantarakis,27-03-1974,FW,South Africa
+3363,12,Kim Byung-ji,08-04-1970,GK,South Korea
+3364,23,Choi Eun-sung,05-04-1971,GK,South Korea
+3365,2,Hyun Young-min,25-12-1979,DF,South Korea
+3366,6,Yoo Sang-chul,18-10-1971,DF,South Korea
+3367,7,Kim Tae-young,08-11-1970,DF,South Korea
+3368,15,Lee Min-sung,23-06-1973,DF,South Korea
+3369,20,Hong Myung-bo ,12-02-1969,DF,South Korea
+3370,3,Choi Sung-yong,25-12-1975,MF,South Korea
+3371,17,Yoon Jong-hwan,16-02-1973,MF,South Korea
+3372,8,Choi Tae-uk,13-03-1981,FW,South Korea
+3373,11,Choi Yong-soo,10-09-1973,FW,South Korea
+3374,18,Hwang Sun-hong,14-07-1968,FW,South Korea
+3375,13,Ricardo Lopez,30-12-1971,GK,Spain
+3376,23,Pedro Contreras,07-01-1972,GK,Spain
+3377,2,Curro Torres,27-12-1976,DF,Spain
+3378,6,Fernando Hierro ,23-03-1968,DF,Spain
+3379,15,Enrique Romero,23-06-1971,DF,Spain
+3380,20,Miguel Ángel Nadal,28-07-1966,DF,Spain
+3381,4,Iván Helguera,18-03-1975,MF,Spain
+3382,8,Rubén Baraja,11-07-1975,MF,Spain
+3383,11,Javier de Pedro,04-08-1973,MF,Spain
+3384,16,Gaizka Mendieta,27-03-1974,MF,Spain
+3385,17,Juan Carlos Valerón,17-06-1975,MF,Spain
+3386,18,Sergio,10-11-1976,MF,Spain
+3387,21,Luis Enrique,08-05-1970,MF,Spain
+3388,9,Fernando Morientes,05-04-1976,FW,Spain
+3389,10,Diego Tristán,05-01-1976,FW,Spain
+3390,12,Albert Luque,11-03-1978,FW,Spain
+3391,1,Magnus Hedman,19-03-1973,GK,Sweden
+3392,12,Magnus Kihlstedt,29-02-1972,GK,Sweden
+3393,3,Patrik Andersson ,18-08-1971,DF,Sweden
+3394,4,Johan Mjällby,09-02-1971,DF,Sweden
+3395,5,Michael Svensson,25-11-1975,DF,Sweden
+3396,13,Tomas Antonelius,07-05-1973,DF,Sweden
+3397,15,Andreas Jakobsson,06-10-1972,DF,Sweden
+3398,17,Magnus Svensson,10-03-1969,MF,Sweden
+3399,19,Pontus Farnerud,04-06-1980,MF,Sweden
+3400,22,Andreas Andersson,10-04-1974,FW,Sweden
+3401,16,Hassen Bejaoui,14-02-1976,GK,Tunisia
+3402,22,Ahmed El-Jaouachi,13-07-1975,GK,Tunisia
+3403,2,Khaled Badra ,08-04-1973,DF,Tunisia
+3404,4,Mohamed Mkacher,25-05-1975,DF,Tunisia
+3405,12,Raouf Bouzaiene,16-08-1970,DF,Tunisia
+3406,14,Hamdi Marzouki,23-01-1977,DF,Tunisia
+3407,17,Tarek Thabet,16-08-1971,DF,Tunisia
+3408,19,Emir Mkademi,20-08-1978,DF,Tunisia
+3409,23,José Clayton,21-03-1974,DF,Tunisia
+3410,3,Zoubeir Baya,15-05-1971,MF,Tunisia
+3411,8,Hassen Gabsi,23-02-1974,MF,Tunisia
+3412,18,Selim Benachour,08-09-1981,MF,Tunisia
+3413,21,Mourad Melki,09-05-1975,MF,Tunisia
+3414,7,Imed Mhedhebi,22-03-1976,FW,Tunisia
+3415,9,Riadh Jelassi,07-07-1971,FW,Tunisia
+3416,11,Adel Sellimi,16-11-1972,FW,Tunisia
+3417,20,Ali Zitouni,11-01-1981,FW,Tunisia
+3418,1,Rü?tü Reçber,10-05-1973,GK,Turkey
+3419,12,Ömer Çatk?ç,15-10-1974,GK,Turkey
+3420,23,Zafer Özgültekin,10-03-1975,GK,Turkey
+3421,2,Emre A??k,13-12-1973,DF,Turkey
+3422,3,Bülent Korkmaz,24-11-1968,DF,Turkey
+3423,4,Fatih Akyel,26-12-1977,DF,Turkey
+3424,5,Alpay Özalan,29-05-1973,DF,Turkey
+3425,16,Ümit Özat,30-10-1976,DF,Turkey
+3426,20,Hakan Ünsal,14-05-1973,DF,Turkey
+3427,7,Okan Buruk,19-10-1973,MF,Turkey
+3428,8,Tugay Kerimo?lu,24-08-1970,MF,Turkey
+3429,10,Y?ld?ray Ba?türk,24-12-1978,MF,Turkey
+3430,13,Muzzy Izzet,31-10-1974,MF,Turkey
+3431,14,Tayfur Havutçu,23-04-1970,MF,Turkey
+3432,18,Ergün Penbe,17-05-1972,MF,Turkey
+3433,19,Abdullah Ercan,08-12-1971,MF,Turkey
+3434,21,Emre Belözo?lu,07-09-1980,MF,Turkey
+3435,22,Ümit Davala,30-07-1973,MF,Turkey
+3436,6,Arif Erdem,02-01-1972,FW,Turkey
+3437,9,Hakan ?ükür ,01-09-1971,FW,Turkey
+3438,11,Hasan ?a?,01-08-1976,FW,Turkey
+3439,15,Nihat Kahveci,23-11-1979,FW,Turkey
+3440,17,?lhan Mans?z,10-08-1975,FW,Turkey
+3441,1,Brad Friedel,08-05-1971,GK,USA
+3442,19,Tony Meola,21-02-1969,GK,USA
+3443,6,David Regis,02-12-1968,DF,USA
+3444,12,Jeff Agoos,02-05-1968,DF,USA
+3445,16,Carlos Llamosa,30-06-1969,DF,USA
+3446,22,Tony Sanneh,01-06-1971,DF,USA
+3447,2,Frankie Hejduk,05-08-1974,MF,USA
+3448,8,Earnie Stewart,28-03-1969,MF,USA
+3449,13,Cobi Jones,16-06-1970,MF,USA
+3450,9,Joe-Max Moore,23-02-1971,FW,USA
+3451,11,Clint Mathis,25-11-1976,FW,USA
+3452,1,Fabián Carini,26-12-1979,GK,Uruguay
+3453,12,Gustavo Munúa,27-01-1978,GK,Uruguay
+3454,23,Federico Elduayen,25-06-1977,GK,Uruguay
+3455,2,Gustavo Méndez,03-02-1971,DF,Uruguay
+3456,3,Alejandro Lembo,15-02-1978,DF,Uruguay
+3457,4,Paolo Montero ,03-09-1971,DF,Uruguay
+3458,6,Darío Rodríguez,17-09-1974,DF,Uruguay
+3459,14,Gonzalo Sorondo,09-10-1979,DF,Uruguay
+3460,19,Joe Bizera,17-05-1980,DF,Uruguay
+3461,5,Pablo García,11-05-1977,MF,Uruguay
+3462,7,Gianni Guigou,22-02-1975,MF,Uruguay
+3463,10,Fabián O'Neill,14-10-1973,MF,Uruguay
+3464,16,Marcelo Romero,04-07-1976,MF,Uruguay
+3465,17,Mario Regueiro,14-09-1978,MF,Uruguay
+3466,20,Álvaro Recoba,17-03-1976,MF,Uruguay
+3467,22,Gonzalo de los Santos,19-07-1976,MF,Uruguay
+3468,8,Gustavo Varela,14-05-1978,FW,Uruguay
+3469,9,Darío Silva,02-11-1972,FW,Uruguay
+3470,11,Federico Magallanes,22-08-1976,FW,Uruguay
+3471,15,Nicolás Olivera,30-05-1978,FW,Uruguay
+3472,18,Richard Morales,21-02-1975,FW,Uruguay
