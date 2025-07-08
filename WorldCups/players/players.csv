@@ -2428,7 +2428,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 2427,2,Roberto Ayala,14-04-1973,DF,Argentina
 2428,3,Juan Pablo Sorín ,05-05-1976,DF,Argentina
 2429,4,Fabricio Coloccini,22-01-1982,DF,Argentina
-2430,6,Gabriel Heinze,19-04-1978,DF,Argentina
+
 2431,13,Lionel Scaloni,16-05-1978,DF,Argentina
 2432,15,Gabriel Milito,07-09-1980,DF,Argentina
 2433,17,Leandro Cufré,09-05-1978,DF,Argentina
@@ -2450,8 +2450,8 @@ player_id,dorsal,player_name,birth_date,position,nationality
 2449,17,Archie Thompson,23-10-1978,FW,Australia
 2450,1,Dida,07-10-1973,GK,Brazil
 2451,12,Rogerio Ceni,22-01-1973,GK,Brazil
-2452,2,Cafu ,07-06-1970,DF,Brazil
-2453,3,Lucio,08-05-1978,DF,Brazil
+2452,2,Cafu,07-06-1970,DF,Brazil
+2453,22,Beto Gaspar,03-05-1976,DF,Portugal
 2454,6,Roberto Carlos,10-04-1973,DF,Brazil
 2455,13,Cicinho,24-06-1980,DF,Brazil
 2456,15,Cris,03-06-1977,DF,Brazil
@@ -2691,14 +2691,14 @@ player_id,dorsal,player_name,birth_date,position,nationality
 2690,3,Delio Toledo,02-10-1976,DF,Paraguay
 2691,4,Carlos Gamarra ,17-02-1971,DF,Paraguay
 2692,15,Julio Cesar Manzur,22-01-1981,DF,Paraguay
-2693,21,Denis Caniza,29-08-1974,DF,Paraguay
+
 2694,10,Roberto Acuña,25-03-1972,MF,Paraguay
 2695,11,Diego Gavilán,01-03-1980,MF,Paraguay
 2696,13,Carlos Paredes,16-07-1976,MF,Paraguay
 2697,17,José Montiel,19-03-1988,MF,Paraguay
 2698,19,Julio dos Santos,07-05-1983,MF,Paraguay
 2699,7,Salvador Cabañas,05-08-1980,FW,Paraguay
-2700,18,Nelson Haedo Valdez,28-11-1983,FW,Paraguay
+
 2701,20,Dante López,16-08-1983,FW,Paraguay
 2702,23,Nelson Cuevas,10-01-1980,FW,Paraguay
 2703,1,Artur Boruc,20-02-1980,GK,Poland
@@ -2706,7 +2706,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 2705,2,Mariusz Jop,03-08-1978,DF,Poland
 2706,3,Seweryn Gancarczyk,22-11-1981,DF,Poland
 2707,4,Marcin Baszczynski,07-06-1977,DF,Poland
-2708,6,Jacek Bak ,24-03-1973,DF,Poland
+2708,6,Jacek Bak,24-03-1973,DF,Poland
 2709,14,Michal Zewlakow,22-04-1976,DF,Poland
 2710,18,Mariusz Lewandowski,18-05-1979,DF,Poland
 2711,19,Bartosz Bosacki,20-12-1975,DF,Poland
