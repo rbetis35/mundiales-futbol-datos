@@ -3250,7 +3250,7 @@ player_id,world_cup_year,team,club,country_club
 2427,2006,Argentina,Valencia,Spain
 2428,2006,Argentina,Villarreal,Spain
 2429,2006,Argentina,Deportivo La Coruña,Spain
-2430,2006,Argentina,Manchester United,England
+
 2431,2006,Argentina,Deportivo La Coruña,Spain
 2432,2006,Argentina,Real Zaragoza,Spain
 2433,2006,Argentina,Roma,Italy
@@ -3273,7 +3273,7 @@ player_id,world_cup_year,team,club,country_club
 2450,2006,Brazil,AC Milan,Italy
 2451,2006,Brazil,Sao Paulo,Brazil
 2452,2006,Brazil,AC Milan,Italy
-2453,2006,Brazil,Bayern Munich,Germany
+2453,2002,Portugal,Sporting CP,Portugal
 2454,2006,Brazil,Real Madrid,Spain
 2455,2006,Brazil,Real Madrid,Spain
 2456,2006,Brazil,Lyon,France
@@ -3513,14 +3513,14 @@ player_id,world_cup_year,team,club,country_club
 2690,2006,Paraguay,Real Zaragoza,Spain
 2691,2006,Paraguay,Palmeiras,Brazil
 2692,2006,Paraguay,Santos,Brazil
-2693,2006,Paraguay,Cruz Azul,Mexico
+
 2694,2006,Paraguay,Deportivo La Coruña,Spain
 2695,2006,Paraguay,Newell's Old Boys,Argentina
 2696,2006,Paraguay,Reggina,Italy
 2697,2006,Paraguay,Olimpia,Paraguay
 2698,2006,Paraguay,Bayern Munich,Germany
 2699,2006,Paraguay,Chiapas,Mexico
-2700,2006,Paraguay,Werder Bremen,Germany
+
 2701,2006,Paraguay,Genoa,Italy
 2702,2006,Paraguay,Pachuca,Mexico
 2703,2006,Poland,Celtic,Scotland
