@@ -1,11 +1,737 @@
-player_id,player_name,team,minutes_played,matches_played,yellow_cards,red_cards
-1,Lionel Messi,Argentina,690,7,2,0
-2,Kylian Mbappé,France,660,7,2,0
-3,Luka Modrić,Croatia,570,7,1,0
-4,Harry Kane,England,358,5,0,0
-5,Olivier Giroud,France,546,7,1,0
-6,Julián Álvarez,Argentina,399,7,1,0
-7,Antoine Griezmann,France,631,7,1,0
-8,Emiliano Martínez,Argentina,690,7,1,0
-9,Achraf Hakimi,Morocco,570,7,2,0
-10,Sofyan Amrabat,Morocco,540,7,3,0
+player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
+2952,1,Germán Burgos,GK,Argentina,0,0,0,0,,0,0
+2953,12,Pablo Cavallero,GK,Argentina,3,3,270,0,,0,0
+2954,23,Roberto Bonano,GK,Argentina,0,0,0,0,,0,0
+2427,2,Roberto Ayala,DF,Argentina,0,0,0,0,,0,0
+2428,3,Juan Pablo Sorín,DF,Argentina,3,3,242,0,,0,0
+2955,4,Mauricio Pochettino,DF,Argentina,3,3,270,0,,0,0
+1902,6,Walter Samuel,DF,Argentina,3,3,270,0,,1,0
+2956,8,Javier Zanetti,DF,Argentina,3,3,270,0,,0,0
+2957,13,Diego Placente,DF,Argentina,2,2,180,0,,0,0
+2958,22,José Chamot,DF,Argentina,1,1,90,0,,1,0
+2959,5,Matías Almeyda,MF,Argentina,1,1,62,0,,1,0
+2960,10,Ariel Ortega,MF,Argentina,3,3,270,0,,0,0
+1904,11,Juan Sebastián Verón,MF,Argentina,3,2,150,0,,0,0
+2961,14,Diego Simeone,MF,Argentina,2,2,180,0,,1,0
+2962,15,Claudio Husaín,MF,Argentina,0,0,0,0,,0,0
+2436,16,Pablo Aimar,MF,Argentina,3,1,148,0,,0,0
+2963,17,Gustavo López,MF,Argentina,0,0,0,0,,0,0
+2964,18,Kily González,MF,Argentina,3,1,136,0,,1,0
+2965,20,Marcelo Gallardo,MF,Argentina,0,0,0,0,,0,0
+2966,7,Claudio López,FW,Argentina,3,2,162,0,,0,0
+2967,9,Gabriel Batistuta ,FW,Argentina,3,3,196,1,,1,0
+2439,19,Hernán Crespo,FW,Argentina,3,0,74,1,,0,0
+2968,21,Claudio Caniggia,FW,Argentina,0,0,0,0,,0,0
+2969,1,Geert De Vlieger,GK,Belgium,4,4,360,0,,0,0
+2970,13,Franky Vandendriessche,GK,Belgium,0,0,0,0,,0,0
+2971,23,Frédéric Herpoel,GK,Belgium,0,0,0,0,,0,0
+2972,2,Eric Deflandre,DF,Belgium,1,1,90,0,,0,0
+2973,3,Glen De Boeck,DF,Belgium,2,2,179,0,,0,0
+2974,4,Eric Van Meir,DF,Belgium,2,1,91,0,,1,0
+2975,5,Nico Van Kerckhoven,DF,Belgium,2,2,180,0,,0,0
+2976,12,Peter Van der Heyden,DF,Belgium,2,2,180,1,,1,0
+2977,15,Jacky Peeters,DF,Belgium,3,3,251,0,,0,0
+1397,16,Daniel Van Buyten,DF,Belgium,4,4,360,0,,1,0
+2978,6,Timmy Simons,MF,Belgium,4,4,266,0,,0,0
+2979,8,Bart Goor,MF,Belgium,4,4,360,0,,0,0
+2980,10,Johan Walem,MF,Belgium,3,3,247,1,,0,0
+2981,14,Sven Vermant,MF,Belgium,1,0,45,0,,0,0
+2982,17,Gaëtan Englebert,MF,Belgium,0,0,0,0,,0,0
+2983,18,Yves Vanderhaeghe,MF,Belgium,4,4,360,0,,2,0
+2984,19,Bernd Thijs,MF,Belgium,0,0,0,0,,0,0
+2985,21,Danny Boffin,MF,Belgium,0,0,0,0,,0,0
+2986,7,Marc Wilmots ,FW,Belgium,4,4,360,3,,0,0
+2987,9,Wesley Sonck,FW,Belgium,3,0,108,1,,0,0
+2988,11,Gert Verheyen,FW,Belgium,4,4,294,0,,1,0
+2989,20,Branko Strupar,FW,Belgium,2,1,53,0,,0,0
+2990,22,Mbo Mpenza,FW,Belgium,3,2,176,0,,0,0
+2991,1,Marcos,GK,Brazil,7,7,630,0,,0,0
+2450,12,Dida,GK,Brazil,0,0,0,0,,0,0
+2451,22,Rogério Ceni,GK,Brazil,0,0,0,0,,0,0
+2452,2,Cafu ,DF,Brazil,7,7,630,0,,1,0
+1930,3,Lúcio,DF,Brazil,7,7,630,0,,0,0
+2992,4,Roque Júnior,DF,Brazil,6,6,540,0,,2,0
+2993,5,Edmílson,DF,Brazil,6,6,540,1,,0,0
+2454,6,Roberto Carlos,DF,Brazil,6,6,540,1,,1,0
+2994,13,Juliano Belletti,DF,Brazil,1,0,6,0,,0,0
+2995,14,Ânderson Polga,DF,Brazil,2,2,180,0,,0,0
+2996,16,Júnior,DF,Brazil,1,1,90,1,,0,0
+2462,7,Ricardinho,MF,Brazil,3,0,52,0,,0,0
+1937,8,Gilberto Silva,MF,Brazil,7,7,630,0,,1,0
+2997,10,Rivaldo,MF,Brazil,7,7,610,5,,0,0
+2458,11,Ronaldinho,MF,Brazil,5,5,331,2,,1,1
+1941,15,Kléberson,MF,Brazil,5,3,308,0,,0,0
+2998,18,Vampeta,MF,Brazil,1,0,19,0,,0,0
+2999,19,Juninho Paulista,MF,Brazil,5,4,262,0,,0,0
+1938,23,Kaká,MF,Brazil,1,0,19,0,,0,0
+2464,9,Ronaldo,FW,Brazil,7,7,548,8,,0,0
+3000,17,Denílson,FW,Brazil,5,0,120,0,,1,0
+3001,20,Edílson,FW,Brazil,4,2,170,0,,0,0
+3002,21,Luizão,FW,Brazil,2,0,41,0,,0,0
+3003,1,Alioum Boukar,GK,Cameroon,3,3,270,0,,0,0
+3004,16,Jacques Songo'o,GK,Cameroon,0,0,0,0,,0,0
+1946,22,Carlos Kameni,GK,Cameroon,0,0,0,0,,0,0
+3005,2,Bill Tchato,DF,Cameroon,3,3,232,0,,1,0
+3006,3,Pierre Womé,DF,Cameroon,3,3,263,0,,1,0
+1949,4,Rigobert Song ,DF,Cameroon,3,3,270,0,,1,0
+3007,5,Raymond Kalla,DF,Cameroon,3,3,270,0,,1,0
+3008,6,Pierre Njanka,DF,Cameroon,1,0,7,0,,0,0
+1951,8,Geremi,DF,Cameroon,3,3,270,0,,1,0
+3009,13,Lucien Mettomo,DF,Cameroon,0,0,0,0,,0,0
+3010,7,Joseph N'Do,MF,Cameroon,0,0,0,0,,0,0
+3011,12,Lauren,MF,Cameroon,3,3,270,0,,1,0
+3012,14,Joël Epalle,MF,Cameroon,0,0,0,0,,0,0
+3013,15,Nicolas Alnoudji,MF,Cameroon,0,0,0,0,,0,0
+3014,17,Marc-Vivien Foé,MF,Cameroon,3,3,270,0,,1,0
+3015,19,Eric Djemba-Djemba,MF,Cameroon,0,0,0,0,,0,0
+3016,20,Salomon Olembé,MF,Cameroon,3,2,198,0,,1,0
+3017,23,Daniel N'Gom Kome,MF,Cameroon,2,1,72,0,,0,0
+1461,9,Samuel Eto'o,FW,Cameroon,3,3,270,1,,0,0
+3018,10,Patrick M'Boma,FW,Cameroon,3,3,220,1,,0,0
+3019,11,Pius N'Diefi,FW,Cameroon,1,0,17,0,,0,0
+3020,18,Patrick Suffo,FW,Cameroon,2,0,46,0,,2,1
+3021,21,Joseph-Désiré Job,FW,Cameroon,1,0,11,0,,0,0
+3022,1,An Qi,GK,China,0,0,0,0,,0,0
+3023,22,Jiang Jin,GK,China,3,3,270,0,,0,0
+3024,23,Ou Chuliang,GK,China,0,0,0,0,,0,0
+3025,2,Zhang Enhua,DF,China,0,0,0,0,,0,0
+3026,3,Yang Pu,DF,China,2,1,119,0,,1,0
+3027,4,Wu Chengying,DF,China,3,3,225,0,,0,0
+3028,5,Fan Zhiyi,DF,China,1,1,73,0,,0,0
+3029,7,Sun Jihai,DF,China,1,1,25,0,,0,0
+3030,14,Li Weifeng,DF,China,3,3,270,0,,1,0
+3031,17,Du Wei,DF,China,2,2,180,0,,0,0
+3032,21,Xu Yunlong,DF,China,3,3,270,0,,1,0
+3033,6,Shao Jiayi,MF,China,2,0,37,0,,0,1
+3034,8,Li Tie,MF,China,3,3,270,0,,1,0
+3035,9,Ma Mingyu ,MF,China,2,2,151,0,,0,0
+3036,11,Yu Genwei,MF,China,2,0,35,0,,0,0
+3037,13,Gao Yao,MF,China,0,0,0,0,,0,0
+3038,15,Zhao Junzhe,MF,China,2,2,180,0,,0,0
+3039,18,Li Xiaopeng,MF,China,3,3,270,0,,1,0
+3040,19,Qi Hong,MF,China,1,1,65,0,,0,0
+3041,10,Hao Haidong,FW,China,3,3,236,0,,0,0
+3042,12,Su Maozhen,FW,China,1,0,25,0,,0,0
+3043,16,Qu Bo,FW,China,3,0,99,0,,0,0
+3044,20,Yang Chen,FW,China,2,2,137,0,,0,0
+3045,1,Erick Lonnis ,GK,Costa Rica,3,3,270,0,,0,0
+2465,18,Álvaro Mesén,GK,Costa Rica,0,0,0,0,,0,0
+3046,23,Lester Morgan,GK,Costa Rica,0,0,0,0,,0,0
+2468,2,Jervis Drummond,DF,Costa Rica,0,0,0,0,,0,0
+2469,3,Luis Marín Murillo,DF,Costa Rica,3,3,270,0,,1,0
+3047,4,Mauricio Wright,DF,Costa Rica,3,3,270,1,,0,0
+2470,5,Gilberto Martínez,DF,Costa Rica,3,3,253,0,,1,0
+3048,13,Daniel Vallejos,DF,Costa Rica,0,0,0,0,,0,0
+3049,14,Juan José Rodríguez,DF,Costa Rica,0,0,0,0,,0,0
+2473,15,Harold Wallace,DF,Costa Rica,3,3,190,0,,0,0
+3050,21,Pablo Chinchilla,DF,Costa Rica,0,0,0,0,,0,0
+3051,22,Carlos Castro,DF,Costa Rica,3,3,270,0,,1,0
+3052,6,Wílmer López,MF,Costa Rica,3,2,177,0,,0,0
+2471,8,Mauricio Solís,MF,Costa Rica,3,3,244,0,,0,0
+2477,10,Walter Centeno,MF,Costa Rica,3,3,245,0,,1,0
+3053,17,Hernán Medford,MF,Costa Rica,2,0,59,0,,1,0
+3054,19,Rodrigo Cordero,MF,Costa Rica,0,0,0,0,,0,0
+3055,7,Rolando Fonseca,FW,Costa Rica,2,1,82,0,,0,0
+2480,9,Paulo Wanchope,FW,Costa Rica,3,3,259,1,,0,0
+3056,11,Rónald Gómez,FW,Costa Rica,3,3,270,2,,1,0
+3057,12,Winston Parks,FW,Costa Rica,2,0,31,1,,0,0
+3058,16,Steven Bryce,FW,Costa Rica,3,0,80,0,,0,0
+3059,20,William Sunsing,FW,Costa Rica,0,0,0,0,,0,0
+1511,1,Stipe Pletikosa,GK,Croatia,3,3,270,0,,0,0
+2486,12,Tomislav Butina,GK,Croatia,0,0,0,0,,0,0
+3060,23,Vladimir Vasilj,GK,Croatia,0,0,0,0,,0,0
+2494,2,Anthony Šeri?,DF,Croatia,0,0,0,0,,0,0
+2487,3,Josip Šimuni?,DF,Croatia,3,3,270,0,,1,0
+2493,4,Stjepan Tomas,DF,Croatia,3,3,270,0,,1,0
+3061,6,Boris Živkovi?,DF,Croatia,1,1,58,0,,0,1
+3062,15,Daniel Šari?,DF,Croatia,3,2,184,0,,0,0
+3063,17,Robert Jarni,DF,Croatia,3,3,270,0,,0,0
+2490,20,Dario Šimi?,DF,Croatia,2,1,63,0,,0,0
+2488,21,Robert Kova?,DF,Croatia,3,3,270,0,,1,0
+3064,5,Milan Rapai?,MF,Croatia,3,2,213,1,,0,0
+3065,8,Robert Prosine?ki,MF,Croatia,1,1,45,0,,0,0
+2496,10,Niko Kova?,MF,Croatia,3,3,238,0,,0,0
+3066,13,Mario Stani?,MF,Croatia,2,0,47,0,,0,0
+3067,14,Zvonimir Soldo,MF,Croatia,2,2,151,0,,0,0
+2495,16,Jurica Vranješ,MF,Croatia,2,0,61,0,,0,0
+3068,7,Davor Vugrinec,FW,Croatia,2,1,95,0,,0,0
+3069,9,Davor Šuker ,FW,Croatia,1,1,63,0,,0,0
+3070,11,Alen Bokši?,FW,Croatia,3,3,246,0,,0,0
+1519,18,Ivica Oli?,FW,Croatia,2,1,124,1,,0,0
+3071,19,Goran Vlaovi?,FW,Croatia,0,0,0,0,,0,0
+2502,22,Boško Balaban,FW,Croatia,0,0,0,0,,0,0
+1969,1,Thomas Sørensen,GK,Denmark,4,4,360,0,,0,0
+3072,16,Peter Kjær,GK,Denmark,0,0,0,0,,0,0
+1971,22,Jesper Christiansen,GK,Denmark,0,0,0,0,,0,0
+3073,3,René Henriksen,DF,Denmark,4,4,360,0,,0,0
+3074,4,Martin Laursen,DF,Denmark,4,4,360,0,,1,0
+3075,5,Jan Heintze ,DF,Denmark,2,2,147,0,,1,0
+3076,6,Thomas Helveg,DF,Denmark,4,4,276,0,,1,0
+3077,12,Niclas Jensen,DF,Denmark,3,2,213,0,,1,0
+3078,13,Steven Lustü,DF,Denmark,0,0,0,0,,0,0
+3079,20,Kasper Bøgelund,DF,Denmark,2,0,99,0,,0,0
+3080,2,Stig Tøfting,MF,Denmark,4,4,315,0,,1,0
+3081,7,Thomas Gravesen,MF,Denmark,4,4,331,0,,0,0
+1971,8,Jesper Grønkjær,MF,Denmark,4,3,253,0,,0,0
+1980,10,Martin Jørgensen,MF,Denmark,3,1,107,0,,0,0
+3082,14,Claus Jensen,MF,Denmark,1,0,33,0,,0,0
+3083,15,Jan Michaelsen,MF,Denmark,0,0,0,0,,0,0
+1977,17,Christian Poulsen,MF,Denmark,3,1,106,0,,2,0
+1983,19,Dennis Rommedahl,MF,Denmark,4,4,358,1,,0,0
+3084,23,Brian Steen Nielsen,MF,Denmark,1,0,12,0,,0,0
+1985,9,Jon Dahl Tomasson,FW,Denmark,4,4,360,4,,1,0
+3085,11,Ebbe Sand,FW,Denmark,3,3,268,0,,1,0
+3086,18,Peter Løvenkrands,FW,Denmark,1,0,2,0,,0,0
+3087,21,Peter Madsen,FW,Denmark,0,0,0,0,,0,0
+3088,1,José Francisco Cevallos,GK,Ecuador,3,3,270,0,,1,0
+3089,12,Oswaldo Ibarra,GK,Ecuador,0,0,0,0,,0,0
+3090,22,Daniel Viteri,GK,Ecuador,0,0,0,0,,0,0
+3091,2,Augusto Porozo,DF,Ecuador,3,3,270,0,,1,0
+2530,3,Iván Hurtado,DF,Ecuador,3,3,270,0,,0,0
+2531,4,Ulises de la Cruz,DF,Ecuador,3,3,270,0,,1,0
+3092,6,Raúl Guerrón,DF,Ecuador,3,3,270,0,,1,0
+2540,15,Marlon Ayoví,DF,Ecuador,3,1,178,0,,0,0
+2534,17,Giovanny Espinoza,DF,Ecuador,0,0,0,0,,0,0
+1527,23,Walter Ayoví,DF,Ecuador,0,0,0,0,,0,0
+3093,5,Alfonso Obregón,MF,Ecuador,3,3,186,0,,0,0
+3094,8,Luis Gómez,MF,Ecuador,0,0,0,0,,0,0
+3095,10,Álex Aguinaga ,MF,Ecuador,3,1,129,0,,0,0
+3096,14,Juan Carlos Burbano,MF,Ecuador,0,0,0,0,,0,0
+3097,16,Cléber Chalá,MF,Ecuador,3,3,264,0,,2,0
+2541,20,Edwin Tenorio,MF,Ecuador,2,2,92,0,,0,0
+3098,21,Wellington Sánchez,MF,Ecuador,0,0,0,0,,0,0
+3099,7,Nicolás Asencio,FW,Ecuador,1,0,6,0,,0,0
+2543,9,Iván Kaviedes,FW,Ecuador,2,1,67,0,,1,0
+2544,11,Agustín Delgado,FW,Ecuador,3,3,270,1,,1,0
+3100,13,Ángel Fernández,FW,Ecuador,0,0,0,0,,0,0
+2545,18,Carlos Tenorio,FW,Ecuador,3,1,158,0,,1,0
+2538,19,Édison Méndez,FW,Ecuador,3,3,270,1,,0,0
+3101,1,David Seaman,GK,England,5,5,450,0,,0,0
+3102,13,Nigel Martyn,GK,England,0,0,0,0,,0,0
+1989,22,David James,GK,England,0,0,0,0,,0,0
+3103,2,Danny Mills,DF,England,5,5,450,0,,1,0
+1991,3,Ashley Cole,DF,England,5,5,439,0,,1,0
+2550,5,Rio Ferdinand,DF,England,5,5,450,1,,1,0
+2551,6,Sol Campbell,DF,England,5,5,450,1,,1,0
+3104,12,Wes Brown,DF,England,0,0,0,0,,0,0
+2552,14,Wayne Bridge,DF,England,2,0,17,0,,0,0
+3105,15,Martin Keown,DF,England,0,0,0,0,,0,0
+3106,16,Gareth Southgate,DF,England,0,0,0,0,,0,0
+3107,4,Trevor Sinclair,MF,England,4,3,307,0,,0,0
+2553,7,David Beckham ,MF,England,5,5,422,1,,0,0
+3108,8,Paul Scholes,MF,England,5,5,408,0,,1,0
+2554,18,Owen Hargreaves,MF,England,2,2,108,0,,0,0
+1999,19,Joe Cole,MF,England,1,0,17,0,,0,0
+3109,21,Nicky Butt,MF,England,4,4,360,0,,0,0
+3110,23,Kieron Dyer,MF,England,3,0,105,0,,0,0
+3111,9,Robbie Fowler,FW,England,1,0,45,0,,0,0
+2557,10,Michael Owen,FW,England,5,5,368,2,,0,0
+2005,11,Emile Heskey,FW,England,5,5,369,1,,1,0
+3112,17,Teddy Sheringham,FW,England,4,0,92,0,,0,0
+3113,20,Darius Vassell,FW,England,3,1,99,0,,0,0
+3114,1,Ulrich Ramé,GK,France,0,0,0,0,,0,0
+2559,16,Fabien Barthez,GK,France,3,3,270,0,,0,0
+2560,23,Grégory Coupet,GK,France,0,0,0,0,,0,0
+3115,2,Vincent Candela,DF,France,2,1,165,0,,0,0
+3116,3,Bixente Lizarazu,DF,France,3,3,270,0,,0,0
+3117,5,Philippe Christanval,DF,France,0,0,0,0,,0,0
+3118,8,Marcel Desailly ,DF,France,3,3,270,0,,0,0
+2562,13,Mikaël Silvestre,DF,France,0,0,0,0,,0,0
+2563,15,Lilian Thuram,DF,France,3,3,270,0,,0,0
+3119,18,Frank Leboeuf,DF,France,2,2,105,0,,0,0
+2565,19,Willy Sagnol,DF,France,0,0,0,0,,0,0
+2567,4,Patrick Vieira,MF,France,3,3,250,0,,0,0
+3120,6,Youri Djorkaeff,MF,France,2,1,67,0,,0,0
+2568,7,Claude Makélélé,MF,France,1,1,90,0,,0,0
+2570,10,Zinedine Zidane,MF,France,1,1,90,0,,0,0
+3121,14,Alain Boghossian,MF,France,0,0,0,0,,0,0
+3122,17,Emmanuel Petit,MF,France,2,2,180,0,,2,0
+3123,22,Johan Micoud,MF,France,2,1,110,0,,0,0
+2018,9,Djibril Cissé,FW,France,3,0,57,0,,0,0
+2571,11,Sylvain Wiltord,FW,France,3,3,251,0,,0,0
+2021,12,Thierry Henry,FW,France,2,2,114,0,,0,1
+2573,20,David Trezeguet,FW,France,3,3,260,0,,0,0
+3124,21,Christophe Dugarry,FW,France,3,1,85,0,,1,0
+2575,1,Oliver Kahn ,GK,Germany,7,7,630,0,,1,0
+2574,12,Jens Lehmann,GK,Germany,0,0,0,0,,0,0
+2024,23,Hans-Jörg Butt,GK,Germany,0,0,0,0,,0,0
+3125,2,Thomas Linke,DF,Germany,7,7,630,1,,0,0
+3126,3,Marko Rehmer,DF,Germany,1,1,45,0,,0,0
+3127,4,Frank Baumann,DF,Germany,1,0,45,0,,1,0
+3128,6,Christian Ziege,DF,Germany,5,4,367,0,,2,0
+2580,15,Sebastian Kehl,DF,Germany,2,1,135,0,,1,0
+2579,21,Christoph Metzelder,DF,Germany,7,7,585,0,,0,0
+3129,5,Carsten Ramelow,MF,Germany,5,5,354,0,,2,1
+3130,8,Dietmar Hamann,MF,Germany,6,6,540,0,,2,0
+3131,10,Lars Ricken,MF,Germany,0,0,0,0,,0,0
+2580,13,Michael Ballack,MF,Germany,6,6,540,3,,3,0
+3132,16,Jens Jeremies,MF,Germany,7,2,261,0,,1,0
+3133,17,Marco Bode,MF,Germany,6,3,325,1,,0,0
+3134,18,Jörg Böhme,MF,Germany,0,0,0,0,,0,0
+2585,19,Bernd Schneider,MF,Germany,7,7,580,1,,1,0
+2581,22,Torsten Frings,MF,Germany,7,7,630,0,,1,0
+2588,7,Oliver Neuville,FW,Germany,6,4,367,1,,1,0
+3135,9,Carsten Jancker,FW,Germany,3,3,185,1,,1,0
+1588,11,Miroslav Klose,FW,Germany,7,7,561,5,,1,0
+2589,14,Gerald Asamoah,FW,Germany,3,0,18,0,,0,0
+3136,20,Oliver Bierhoff,FW,Germany,5,0,81,1,,0,0
+1672,1,Gianluigi Buffon,GK,Italy,4,4,390,0,,0,0
+3137,12,Christian Abbiati,GK,Italy,0,0,0,0,,0,0
+3138,22,Francesco Toldo,GK,Italy,0,0,0,0,,0,0
+3139,2,Christian Panucci,DF,Italy,4,4,362,0,,1,0
+3140,3,Paolo Maldini ,DF,Italy,4,4,390,0,,0,0
+3141,4,Francesco Coco,DF,Italy,2,1,148,0,,1,0
+2080,5,Fabio Cannavaro,DF,Italy,3,3,270,0,,2,0
+2628,13,Alessandro Nesta,DF,Italy,3,3,202,0,,0,0
+3142,15,Mark Iuliano,DF,Italy,1,1,120,0,,0,0
+2082,19,Gianluca Zambrotta,DF,Italy,4,4,341,0,,1,0
+2630,23,Marco Materazzi,DF,Italy,1,0,68,0,,0,0
+3143,6,Cristiano Zanetti,MF,Italy,3,3,300,0,,1,0
+2084,8,Gennaro Gattuso,MF,Italy,2,0,82,0,,0,0
+3144,11,Cristiano Doni,MF,Italy,2,2,141,0,,0,0
+3145,14,Luigi Di Biagio,MF,Italy,1,1,68,0,,0,0
+3146,16,Angelo Di Livio,MF,Italy,2,0,76,0,,0,0
+3147,17,Damiano Tommasi,MF,Italy,4,4,390,0,,1,0
+2633,7,Alessandro Del Piero,FW,Italy,3,1,90,1,,0,0
+2636,9,Filippo Inzaghi,FW,Italy,2,1,66,0,,0,0
+2635,10,Francesco Totti,FW,Italy,4,4,342,0,,3,1
+3148,18,Marco Delvecchio,FW,Italy,0,0,0,0,,0,0
+3149,20,Vincenzo Montella,FW,Italy,1,0,36,0,,1,0
+3150,21,Christian Vieri,FW,Italy,4,4,390,4,,1,0
+2107,1,Yoshikatsu Kawaguchi,GK,Japan,0,0,0,0,,0,0
+2106,12,Seigo Narazaki,GK,Japan,4,4,360,0,,0,0
+3151,23,Hitoshi Sogahata,GK,Japan,0,0,0,0,,0,0
+3152,2,Yutaka Akita,DF,Japan,0,0,0,0,,0,0
+3153,3,Naoki Matsuda,DF,Japan,4,4,360,0,,0,0
+3154,4,Ryuzo Morioka,DF,Japan,1,1,70,0,,0,0
+3155,6,Toshihiro Hattori,DF,Japan,1,0,16,0,,0,0
+2652,16,K?ji Nakata,DF,Japan,4,4,360,0,,1,0
+2651,17,Tsuneyasu Miyamoto ,DF,Japan,4,3,290,0,,1,0
+2115,5,Junichi Inamoto,MF,Japan,4,4,264,2,,1,0
+2656,7,Hidetoshi Nakata,MF,Japan,4,4,353,1,,0,0
+3156,8,Hiroaki Morishima,MF,Japan,3,0,73,1,,0,0
+2653,14,Alex Santos,MF,Japan,2,1,72,0,,0,0
+2658,15,Takashi Fukunishi,MF,Japan,1,0,6,0,,0,0
+2659,18,Shinji Ono,MF,Japan,4,4,317,0,,0,0
+2657,19,Mitsuo Ogasawara,MF,Japan,1,0,7,0,,0,0
+3157,20,Tomokazu Myojin,MF,Japan,3,3,270,0,,0,0
+3158,21,Kazuyuki Toda,MF,Japan,4,4,360,0,,2,0
+3159,22,Daisuke Ichikawa,MF,Japan,3,1,175,0,,0,0
+3160,9,Akinori Nishizawa,FW,Japan,1,1,90,0,,0,0
+3161,10,Masashi Nakayama,FW,Japan,1,0,19,0,,1,0
+3162,11,Takayuki Suzuki,FW,Japan,4,3,273,1,,0,0
+2662,13,Atsushi Yanagisawa,FW,Japan,3,3,225,0,,0,0
+2120,1,Óscar Pérez,GK,Mexico,4,4,360,0,,1,0
+2664,12,Oswaldo Sánchez,GK,Mexico,0,0,0,0,,0,0
+3163,23,Jorge Campos,GK,Mexico,0,0,0,0,,0,0
+3164,2,Francisco Gabriel de Anda,DF,Mexico,0,0,0,0,,0,0
+1077,4,Rafael Márquez ,DF,Mexico,4,4,357,0,,0,1
+3165,5,Manuel Vidrio,DF,Mexico,4,4,315,0,,1,0
+3166,16,Salvador Carmona,DF,Mexico,4,4,360,0,,1,0
+3167,20,Melvin Brown,DF,Mexico,0,0,0,0,,0,0
+3168,22,Alberto Rodríguez,DF,Mexico,0,0,0,0,,0,0
+2672,3,Rafael García,MF,Mexico,1,0,15,0,,0,0
+2127,6,Gerardo Torrado,MF,Mexico,4,4,347,1,,1,0
+2671,7,Ramón Morales,MF,Mexico,4,4,282,0,,0,0
+3169,8,Alberto García Aspe,MF,Mexico,1,0,13,0,,1,0
+3170,11,Braulio Luna,MF,Mexico,4,4,360,0,,0,0
+3171,13,Sigifredo Mercado,MF,Mexico,3,1,136,0,,0,0
+3172,14,Germán Villa,MF,Mexico,0,0,0,0,,0,0
+3173,18,Johan Rodríguez,MF,Mexico,3,3,251,0,,0,0
+3174,19,Gabriel Caballero,MF,Mexico,3,1,109,0,,0,0
+2675,9,Jared Borgetti,FW,Mexico,4,4,312,2,,0,0
+2132,10,Cuauhtémoc Blanco,FW,Mexico,4,4,347,1,,1,0
+3175,15,Luis Hernández,FW,Mexico,3,0,100,0,,1,0
+3176,17,Francisco Palencia,FW,Mexico,2,0,23,0,,0,0
+2673,21,Jesús Arellano,FW,Mexico,3,3,270,0,,1,0
+3177,1,Ike Shorunmu,GK,Nigeria,2,2,180,0,,0,0
+1759,12,Austin Ejide,GK,Nigeria,0,0,0,0,,0,0
+1758,22,Vincent Enyeama,GK,Nigeria,1,1,90,0,,0,0
+1761,2,Joseph Yobo,DF,Nigeria,3,3,270,0,,0,0
+3178,3,Celestine Babayaro,DF,Nigeria,2,2,154,0,,0,0
+3179,5,Isaac Okoronkwo,DF,Nigeria,3,3,270,0,,0,0
+3180,6,Taribo West,DF,Nigeria,2,2,180,0,,1,0
+2175,13,Rabiu Afolabi,DF,Nigeria,0,0,0,0,,0,0
+3181,14,Ifeanyi Udeze,DF,Nigeria,2,2,180,0,,0,0
+3182,16,Efe Sodje,DF,Nigeria,2,2,162,0,,1,0
+3183,19,Eric Ejiofor,DF,Nigeria,0,0,0,0,,0,0
+3184,7,Pius Ikedia,MF,Nigeria,3,0,69,0,,0,0
+3185,8,Mutiu Adepoju,MF,Nigeria,0,0,0,0,,0,0
+3186,10,Jay-Jay Okocha ,MF,Nigeria,3,3,270,0,,0,0
+3187,11,Garba Lawal,MF,Nigeria,1,1,90,0,,0,0
+3188,15,Justice Christopher,MF,Nigeria,3,2,198,0,,0,0
+3189,20,James Obiorah,MF,Nigeria,1,1,90,0,,0,0
+2184,21,John Utaka,MF,Nigeria,1,1,90,0,,0,0
+3190,23,Femi Opabunmi,MF,Nigeria,1,1,85,0,,0,0
+2183,4,Nwankwo Kanu,FW,Nigeria,2,1,73,0,,0,0
+3191,9,Bartholomew Ogbeche,FW,Nigeria,2,2,159,0,,0,0
+3192,17,Julius Aghahowa,FW,Nigeria,3,3,270,1,,0,0
+3193,18,Benedict Akwuegbu,FW,Nigeria,1,1,90,0,,0,0
+3194,1,José Luis Chilavert ,GK,Paraguay,3,3,270,0,,0,0
+2214,12,Justo Villar,GK,Paraguay,0,0,0,0,,0,0
+3195,22,Ricardo Tavarelli,GK,Paraguay,1,1,90,0,,1,0
+3196,2,Francisco Arce,DF,Paraguay,4,4,360,1,,1,0
+3197,3,Pedro Sarabia,DF,Paraguay,0,0,0,0,,0,0
+2691,4,Carlos Gamarra,DF,Paraguay,4,4,360,0,,0,0
+3198,5,Celso Ayala,DF,Paraguay,4,4,360,0,,0,0
+3199,17,Juan Carlos Franco,DF,Paraguay,2,0,6,0,,1,0
+2220,18,Julio César Cáceres,DF,Paraguay,4,4,360,0,,1,0
+3200,19,Daniel Sanabria,DF,Paraguay,0,0,0,0,,0,0
+2219,21,Denis Caniza,DF,Paraguay,4,4,347,0,,1,0
+3201,6,Estanislao Struway,MF,Paraguay,3,2,187,0,,0,0
+3202,8,Guido Alvarenga,MF,Paraguay,2,2,117,0,,0,0
+2694,10,Roberto Acuña,MF,Paraguay,4,4,359,0,,1,1
+2696,13,Carlos Paredes,MF,Paraguay,2,2,111,0,,2,1
+2695,14,Diego Gavilán,MF,Paraguay,3,1,122,0,,1,0
+2221,15,Carlos Bonet,MF,Paraguay,1,1,83,0,,0,0
+3203,16,Gustavo Morínigo,MF,Paraguay,1,0,19,0,,0,0
+3204,7,Richart Báez,FW,Paraguay,0,0,0,0,,0,0
+2232,9,Roque Santa Cruz,FW,Paraguay,4,4,298,1,,1,0
+3205,11,Jorge Luis Campos,FW,Paraguay,4,1,199,1,,0,0
+3206,20,José Cardozo,FW,Paraguay,3,3,212,0,,1,0
+2702,23,Nelson Cuevas,FW,Paraguay,2,0,30,2,,0,0
+3207,1,Jerzy Dudek,GK,Poland,2,2,180,0,,0,0
+3208,12,Rados?aw Majdan,GK,Poland,1,1,90,0,,1,0
+3209,22,Adam Matysek,GK,Poland,0,0,0,0,,0,0
+3210,2,Tomasz K?os,DF,Poland,2,1,129,0,,0,0
+3211,3,Jacek Zieli?ski,DF,Poland,1,1,90,0,,0,0
+2709,4,Micha? ?ew?akow,DF,Poland,2,2,160,0,,0,0
+3212,5,Tomasz Rz?sa,DF,Poland,1,0,20,0,,0,0
+3213,6,Tomasz Hajto,DF,Poland,2,2,180,0,,1,0
+3214,13,Arkadiusz G?owacki,DF,Poland,1,1,90,0,,0,0
+3215,15,Tomasz Wa?doch ,DF,Poland,3,2,182,0,,0,0
+3216,16,Maciej Murawski,DF,Poland,1,1,90,0,,0,0
+2708,20,Jacek B?k,DF,Poland,1,1,49,0,,0,0
+3217,7,Piotr ?wierczewski,MF,Poland,2,2,180,0,,2,0
+3218,10,Rados?aw Ka?u?ny,MF,Poland,2,2,79,0,,0,0
+3219,17,Arkadiusz B?k,MF,Poland,1,0,74,0,,1,0
+2714,18,Jacek Krzynówek,MF,Poland,3,3,270,0,,1,0
+3220,21,Marek Ko?mi?ski,MF,Poland,3,3,270,0,,1,0
+3221,23,Pawe? Sibik,MF,Poland,1,0,5,0,,0,0
+3222,8,Cezary Kucharski,FW,Poland,1,1,64,0,,1,0
+3223,9,Pawe? Krysza?owicz,FW,Poland,3,2,225,1,,0,0
+3224,11,Emmanuel Olisadebe,FW,Poland,3,3,265,1,,1,0
+3225,14,Marcin ?ew?akow,FW,Poland,3,0,88,1,,0,0
+2720,19,Maciej ?urawski,FW,Poland,3,3,190,0,,0,0
+3226,1,Vítor Baía,GK,Portugal,3,3,270,0,,0,0
+3227,15,Nélson Pereira,GK,Portugal,0,0,0,0,,0,0
+2725,16,Ricardo,GK,Portugal,0,0,0,0,,0,0
+3228,2,Jorge Costa,DF,Portugal,3,3,252,0,,2,0
+3229,3,Abel Xavier,DF,Portugal,1,0,18,0,,0,0
+2728,4,Marco Caneira,DF,Portugal,0,0,0,0,,0,0
+3230,5,Fernando Couto ,DF,Portugal,3,3,270,0,,0,0
+3231,13,Jorge Andrade,DF,Portugal,2,0,40,0,,0,0
+3232,18,Nuno Frechaut,DF,Portugal,1,1,62,0,,1,0
+2453,22,Beto Gaspar,DF,Portugal,3,2,183,1,,3,1
+3233,23,Rui Jorge,DF,Portugal,3,3,230,0,,0,0
+3234,6,Paulo Sousa,MF,Portugal,0,0,0,0,,0,0
+2732,7,Luís Figo,MF,Portugal,3,3,270,0,,0,0
+3235,10,Rui Costa,MF,Portugal,2,1,110,1,,1,0
+3236,11,Sérgio Conceição,MF,Portugal,3,3,248,0,,0,0
+2734,12,Hugo Viana,MF,Portugal,0,0,0,0,,0,0
+3237,14,Pedro Barbosa,MF,Portugal,0,0,0,0,,0,0
+3238,17,Paulo Bento,MF,Portugal,3,2,202,0,,0,0
+3239,19,Capucho,MF,Portugal,1,0,22,0,,0,0
+2733,20,Petit,MF,Portugal,3,3,256,0,,1,0
+3240,8,João Pinto,FW,Portugal,3,3,175,0,,0,1
+2736,9,Pauleta,FW,Portugal,3,3,248,3,,0,0
+2738,21,Nuno Gomes,FW,Portugal,2,0,25,0,,0,0
+3241,1,Shay Given,GK,Republic of Ireland,4,4,390,0,,0,0
+3242,16,Dean Kiely,GK,Republic of Ireland,0,0,0,0,,0,0
+3243,23,Alan Kelly,GK,Republic of Ireland,0,0,0,0,,0,0
+3244,2,Steve Finnan,DF,Republic of Ireland,4,3,345,0,,1,0
+3245,3,Ian Harte,DF,Republic of Ireland,4,4,274,0,,0,0
+3246,4,Kenny Cunningham,DF,Republic of Ireland,2,0,75,0,,0,0
+3247,5,Steve Staunton ,DF,Republic of Ireland,4,4,315,0,,1,0
+3248,14,Gary Breen,DF,Republic of Ireland,4,4,390,1,,0,0
+3249,15,Richard Dunne,DF,Republic of Ireland,0,0,0,0,,0,0
+3250,18,Gary Kelly,DF,Republic of Ireland,4,4,295,0,,0,0
+3251,20,Andrew O'Brien,DF,Republic of Ireland,0,0,0,0,,0,0
+3252,6,Roy Keane,MF,Republic of Ireland,0,0,0,0,,0,0
+3253,7,Jason McAteer,MF,Republic of Ireland,2,1,56,0,,1,0
+3254,8,Matt Holland,MF,Republic of Ireland,4,4,390,1,,0,0
+3255,9,Damien Duff,MF,Republic of Ireland,4,4,390,1,,0,0
+3256,11,Kevin Kilbane,MF,Republic of Ireland,4,4,390,0,,0,0
+3257,12,Mark Kinsella,MF,Republic of Ireland,4,4,388,0,,0,0
+3258,21,Steven Reid,MF,Republic of Ireland,2,0,32,0,,1,0
+3259,22,Lee Carsley,MF,Republic of Ireland,1,0,2,0,,0,0
+3260,10,Robbie Keane,FW,Republic of Ireland,4,4,390,3,,0,0
+3261,13,David Connolly,FW,Republic of Ireland,1,0,39,0,,0,0
+3262,17,Niall Quinn,FW,Republic of Ireland,3,0,129,0,,0,0
+3263,19,Clinton Morrison,FW,Republic of Ireland,0,0,0,0,,0,0
+3264,1,Ruslan Nigmatullin,GK,Russia,3,3,270,0,,0,0
+3265,12,Stanislav Cherchesov,GK,Russia,0,0,0,0,,0,0
+3266,23,Aleksandr Filimonov,GK,Russia,0,0,0,0,,0,0
+3267,2,Yuri Kovtun,DF,Russia,3,3,270,0,,0,0
+3268,3,Yuri Nikiforov,DF,Russia,3,3,222,0,,0,0
+3269,5,Andrei Solomatin,DF,Russia,3,3,270,0,,2,0
+3270,7,Viktor Onopko ,DF,Russia,3,3,270,0,,0,0
+3271,13,Vyacheslav Dayev,DF,Russia,0,0,0,0,,0,0
+3272,14,Igor Chugainov,DF,Russia,0,0,0,0,,0,0
+3273,18,Dmitri Sennikov,DF,Russia,1,0,48,0,,1,0
+3274,4,Alexey Smertin,MF,Russia,2,2,89,0,,1,0
+3275,6,Igor Semshov,MF,Russia,2,2,135,0,,1,0
+3276,8,Valeri Karpin,MF,Russia,3,3,261,1,,0,0
+3277,9,Yegor Titov,MF,Russia,3,3,270,1,,0,0
+3278,10,Aleksandr Mostovoi,MF,Russia,0,0,0,0,,0,0
+3279,15,Dmitri Alenichev,MF,Russia,2,1,103,0,,2,0
+3280,17,Sergei Semak,MF,Russia,0,0,0,0,,0,0
+3281,20,Marat Izmailov,MF,Russia,2,2,128,0,,0,0
+3282,21,Dmitri Khokhlov,MF,Russia,3,1,174,0,,1,0
+3283,11,Vladimir Beschastnykh,FW,Russia,3,2,178,1,,0,0
+1809,16,Aleksandr Kerzhakov,FW,Russia,1,0,9,0,,0,0
+3284,19,Ruslan Pimenov,FW,Russia,2,2,135,0,,1,0
+3285,22,Dmitri Sychev,FW,Russia,3,0,138,1,,0,0
+2739,1,Mohamed Al-Deayea,GK,Saudi Arabia,3,3,270,0,,0,0
+2740,21,Mabrouk Zaid,GK,Saudi Arabia,0,0,0,0,,0,0
+3286,22,Mohammed Al-Khojali,GK,Saudi Arabia,0,0,0,0,,0,0
+3287,2,Mohammed Sheliah,DF,Saudi Arabia,2,2,168,0,,0,0
+2743,3,Redha Tukar,DF,Saudi Arabia,3,3,270,0,,0,0
+3288,4,Abdullah Zubromawi,DF,Saudi Arabia,3,3,228,0,,0,0
+3289,5,Mohsin Al-Harthi,DF,Saudi Arabia,0,0,0,0,,0,0
+3290,6,Fouzi Al-Shehri,DF,Saudi Arabia,2,2,180,0,,0,0
+2742,12,Ahmed Al-Dokhi,DF,Saudi Arabia,2,1,102,0,,0,0
+2747,13,Hussein Abdulghani,DF,Saudi Arabia,3,3,270,0,,0,0
+3291,23,Mansour Al-Thagafi,DF,Saudi Arabia,0,0,0,0,,0,0
+3292,7,Ibrahim Suwayed,MF,Saudi Arabia,3,2,225,0,,0,0
+2753,8,Mohammed Noor,MF,Saudi Arabia,2,1,95,0,,1,0
+2754,10,Mohammad Al-Shalhoub,MF,Saudi Arabia,1,0,24,0,,0,0
+2746,14,Abdulaziz Al-Khathran,MF,Saudi Arabia,3,2,196,0,,0,0
+3293,16,Khamis Al-Owairan,MF,Saudi Arabia,2,2,135,0,,0,0
+3294,17,Abdullah Al-Waked,MF,Saudi Arabia,2,2,180,0,,0,0
+2757,18,Nawaf Al-Temyat,MF,Saudi Arabia,3,3,225,0,,1,0
+2751,19,Omar Al-Ghamdi,MF,Saudi Arabia,0,0,0,0,,0,0
+2758,9,Sami Al-Jaber ,FW,Saudi Arabia,1,1,90,0,,0,0
+3295,11,Obeid Al-Dosari,FW,Saudi Arabia,1,1,34,0,,0,0
+3296,15,Abdullah Al-Jumaan,FW,Saudi Arabia,3,0,56,0,,0,0
+3297,20,Al-Hasan Al-Yami,FW,Saudi Arabia,3,2,222,0,,1,0
+3298,1,Tony Sylva,GK,Senegal,5,5,510,0,,0,0
+3299,16,Omar Diallo,GK,Senegal,0,0,0,0,,0,0
+3300,22,Kalidou Cissokho,GK,Senegal,0,0,0,0,,0,0
+3301,2,Omar Daf,DF,Senegal,5,5,510,0,,2,0
+3302,4,Pape Malick Diop,DF,Senegal,5,5,455,1,,0,0
+3303,5,Alassane N'Dour,DF,Senegal,1,1,75,0,,0,0
+3304,6,Aliou Cissé ,DF,Senegal,4,4,420,0,,2,0
+3305,13,Lamine Diatta,DF,Senegal,5,5,510,0,,0,0
+3306,17,Ferdinand Coly,DF,Senegal,5,5,482,0,,2,0
+3307,21,Habib Beye,DF,Senegal,3,0,91,0,,1,0
+3308,3,Pape Sarr,MF,Senegal,1,1,45,0,,0,0
+3309,10,Khalilou Fadiga,MF,Senegal,4,4,390,1,,2,0
+3310,12,Amdy Faye,MF,Senegal,2,1,135,0,,0,0
+3311,14,Moussa N'Diaye,MF,Senegal,3,2,159,0,,0,0
+3312,15,Salif Diao,MF,Senegal,3,3,289,1,,2,1
+3313,19,Papa Bouba Diop,MF,Senegal,5,5,510,2,,1,0
+3314,20,Sylvain N'Diaye,MF,Senegal,0,0,0,0,,0,0
+3315,23,Makhtar N'Diaye,MF,Senegal,0,0,0,0,,0,0
+3316,7,Henri Camara,FW,Senegal,4,3,351,2,,1,0
+3317,8,Amara Traoré,FW,Senegal,0,0,0,0,,0,0
+3318,9,Souleymane Camara,FW,Senegal,1,0,37,0,,0,0
+3319,11,El Hadji Diouf,FW,Senegal,5,5,510,0,,1,0
+3320,18,Pape Thiaw,FW,Senegal,1,1,120,0,,1,0
+3321,1,Marko Simeunovi?,GK,Slovenia,2,2,180,0,,0,0
+3322,12,Mladen Dabanovi?,GK,Slovenia,1,1,90,0,,0,0
+3323,22,Dejan Nemec,GK,Slovenia,0,0,0,0,,0,0
+3324,2,Goran Sankovi?,DF,Slovenia,0,0,0,0,,0,0
+3325,3,Željko Milinovi?,DF,Slovenia,3,3,270,0,,2,0
+3326,4,Muamer Vugdali?,DF,Slovenia,1,1,90,0,,1,0
+3327,5,Marinko Gali?,DF,Slovenia,1,1,90,0,,0,0
+3328,6,Aleksander Knavs,DF,Slovenia,2,2,149,0,,0,0
+3329,14,Saša Gajser,DF,Slovenia,1,0,14,0,,0,0
+3330,19,Amir Kari?,DF,Slovenia,3,3,270,0,,2,0
+3331,23,Spasoje Bulaji?,DF,Slovenia,2,1,121,0,,0,0
+3332,7,Džoni Novak,MF,Slovenia,3,3,256,0,,0,0
+3333,8,Aleš ?eh ,MF,Slovenia,3,3,270,0,,1,0
+3334,10,Zlatko Zahovi?,MF,Slovenia,1,1,62,0,,0,0
+3335,11,Miran Pavlin,MF,Slovenia,3,3,219,0,,2,0
+3336,15,Rajko Tav?ar,MF,Slovenia,1,1,90,0,,0,0
+3337,17,Zoran Pavlovi?,MF,Slovenia,0,0,0,0,,0,0
+3338,20,Nastja ?eh,MF,Slovenia,2,0,50,0,,0,1
+3339,9,Milan Osterc,FW,Slovenia,3,2,182,0,,0,0
+3340,13,Mladen Rudonja,FW,Slovenia,3,2,231,0,,1,0
+3341,16,Senad Tiganj,FW,Slovenia,1,0,14,0,,0,0
+3342,18,Milenko A?imovi?,FW,Slovenia,3,2,148,1,,0,0
+3343,21,Sebastjan Cimiroti?,FW,Slovenia,3,2,164,1,,1,0
+3344,1,Hans Vonk,GK,South Africa,0,0,0,0,,0,0
+3345,16,Andre Arendse,GK,South Africa,3,3,270,0,,0,0
+3346,20,Calvin Marlin,GK,South Africa,0,0,0,0,,0,0
+3347,2,Cyril Nzama,DF,South Africa,3,3,270,0,,1,0
+3348,3,Bradley Carnell,DF,South Africa,3,3,270,0,,1,0
+2318,4,Aaron Mokoena,DF,South Africa,3,3,270,0,,2,0
+3349,5,Jacob Lekgetho,DF,South Africa,1,0,8,0,,0,0
+3350,13,Pierre Issa,DF,South Africa,1,1,26,0,,1,0
+3351,19,Lucas Radebe ,DF,South Africa,3,3,259,1,,1,0
+3352,22,Thabang Molefe,DF,South Africa,1,0,11,0,,0,0
+2324,6,MacBeth Sibaya,MF,South Africa,3,3,270,0,,0,0
+3353,7,Quinton Fortune,MF,South Africa,3,3,255,1,,0,0
+3354,8,Thabo Mngomeni,MF,South Africa,0,0,0,0,,0,0
+3355,9,MacDonald Mukansi,MF,South Africa,0,0,0,0,,0,0
+3356,10,Bennett Mnguni,MF,South Africa,0,0,0,0,,0,0
+3357,11,Jabu Pule,MF,South Africa,1,0,7,0,,0,0
+3358,12,Teboho Mokoena,MF,South Africa,3,3,270,1,,1,0
+3359,15,Sibusiso Zuma,MF,South Africa,3,3,270,0,,1,0
+3360,18,Delron Buckley,MF,South Africa,1,0,20,0,,0,0
+2327,21,Steven Pienaar,MF,South Africa,0,0,0,0,,0,0
+2335,14,Siyabonga Nomvethe,FW,South Africa,2,2,143,1,,1,0
+3361,17,Benni McCarthy,FW,South Africa,3,3,246,1,,1,0
+3362,23,George Koumantarakis,FW,South Africa,3,0,41,0,,0,0
+2336,1,Lee Woon-jae,GK,South Korea,7,7,690,0,,0,0
+3363,12,Kim Byung-ji,GK,South Korea,0,0,0,0,,0,0
+3364,23,Choi Eun-sung,GK,South Korea,0,0,0,0,,0,0
+3365,2,Hyun Young-min,DF,South Korea,0,0,0,0,,0,0
+2783,4,Choi Jin-cheul,DF,South Korea,6,6,565,0,,1,0
+3366,6,Yoo Sang-chul,DF,South Korea,7,7,577,1,,1,0
+3367,7,Kim Tae-young,DF,South Korea,7,6,556,0,,1,0
+2341,10,Lee Young-pyo,DF,South Korea,5,5,510,0,,1,0
+3368,15,Lee Min-sung,DF,South Korea,2,1,125,0,,1,0
+3369,20,Hong Myung-bo ,DF,South Korea,7,7,596,0,,1,0
+3370,3,Choi Sung-yong,MF,South Korea,0,0,0,0,,0,0
+2346,5,Kim Nam-il,MF,South Korea,5,5,368,0,,1,0
+2789,13,Lee Eul-yong,MF,South Korea,4,3,333,1,,1,0
+3371,17,Yoon Jong-hwan,MF,South Korea,0,0,0,0,,0,0
+2347,21,Park Ji-sung,MF,South Korea,7,7,637,1,,1,0
+2786,22,Song Chong-gug,MF,South Korea,7,7,690,1,,1,0
+3372,8,Choi Tae-uk,FW,South Korea,1,0,12,0,,0,0
+2792,9,Seol Ki-hyeon,FW,South Korea,7,6,597,1,,1,0
+3373,11,Choi Yong-soo,FW,South Korea,1,0,22,0,,0,0
+2793,14,Lee Chun-soo,FW,South Korea,7,2,378,0,,1,0
+2344,16,Cha Du-ri,FW,South Korea,4,1,156,0,,1,0
+3374,18,Hwang Sun-hong,FW,South Korea,5,3,246,1,,0,0
+2350,19,Ahn Jung-hwan,FW,South Korea,7,5,532,2,,1,0
+1826,1,Iker Casillas,GK,Spain,5,5,510,0,,0,0
+3375,13,Ricardo Lopez,GK,Spain,0,0,0,0,,0,0
+3376,23,Pedro Contreras,GK,Spain,0,0,0,0,,0,0
+3377,2,Curro Torres,DF,Spain,1,1,90,0,,0,0
+1828,3,Juanfran,DF,Spain,3,3,291,0,,1,0
+2355,5,Carles Puyol,DF,Spain,4,4,420,0,,0,0
+3378,6,Fernando Hierro ,DF,Spain,4,4,420,2,,1,0
+3379,15,Enrique Romero,DF,Spain,3,2,219,0,,0,0
+3380,20,Miguel Ángel Nadal,DF,Spain,4,4,390,0,,0,0
+3381,4,Iván Helguera,MF,Spain,5,3,364,0,,0,0
+3382,8,Rubén Baraja,MF,Spain,4,4,420,0,,2,0
+3383,11,Javier de Pedro,MF,Spain,4,4,314,0,,1,0
+2802,14,David Albelda,MF,Spain,2,1,101,0,,0,0
+3384,16,Gaizka Mendieta,MF,Spain,3,1,196,1,,0,0
+3385,17,Juan Carlos Valerón,MF,Spain,4,4,373,1,,1,0
+3386,18,Sergio,MF,Spain,1,0,38,0,,0,0
+1830,19,Xavi,MF,Spain,3,1,124,0,,0,0
+3387,21,Luis Enrique,MF,Spain,5,3,288,0,,0,0
+2806,22,Joaquín,MF,Spain,2,2,210,0,,0,0
+2807,7,Raúl,FW,Spain,4,4,340,3,,0,0
+3388,9,Fernando Morientes,FW,Spain,5,3,336,3,,1,0
+3389,10,Diego Tristán,FW,Spain,2,2,111,0,,0,0
+3390,12,Albert Luque,FW,Spain,2,0,55,0,,0,0
+3391,1,Magnus Hedman,GK,Sweden,4,4,390,0,,0,0
+3392,12,Magnus Kihlstedt,GK,Sweden,0,0,0,0,,0,0
+2808,23,Andreas Isaksson,GK,Sweden,0,0,0,0,,0,0
+2812,2,Olof Mellberg,DF,Sweden,4,4,390,0,,0,0
+3393,3,Patrik Andersson ,DF,Sweden,0,0,0,0,,0,0
+3394,4,Johan Mjällby,DF,Sweden,4,4,390,0,,1,0
+3395,5,Michael Svensson,DF,Sweden,0,0,0,0,,0,0
+3396,13,Tomas Antonelius,DF,Sweden,0,0,0,0,,0,0
+2814,14,Erik Edman,DF,Sweden,0,0,0,0,,0,0
+3397,15,Andreas Jakobsson,DF,Sweden,4,4,390,0,,1,0
+2813,16,Teddy Lu?i?,DF,Sweden,4,4,390,0,,0,0
+2818,6,Tobias Linderoth,MF,Sweden,4,4,390,0,,0,0
+2819,7,Niclas Alexandersson,MF,Sweden,4,4,345,1,,1,0
+2820,8,Anders Svensson,MF,Sweden,4,3,304,1,,0,0
+2821,9,Freddie Ljungberg,MF,Sweden,2,2,180,0,,0,0
+3398,17,Magnus Svensson,MF,Sweden,4,3,251,0,,1,0
+2823,18,Mattias Jonson,MF,Sweden,2,0,45,0,,0,0
+3399,19,Pontus Farnerud,MF,Sweden,0,0,0,0,,0,0
+2824,20,Daniel Andersson,MF,Sweden,0,0,0,0,,0,0
+2829,10,Marcus Allbäck,FW,Sweden,4,4,251,0,,1,0
+2827,11,Henrik Larsson,FW,Sweden,4,4,387,3,,1,0
+2826,21,Zlatan Ibrahimovi?,FW,Sweden,2,0,48,0,,0,0
+3400,22,Andreas Andersson,FW,Sweden,4,0,139,0,,0,0
+2890,1,Ali Boumnijel,GK,Tunisia,3,3,270,0,,0,0
+3401,16,Hassen Bejaoui,GK,Tunisia,0,0,0,0,,0,0
+3402,22,Ahmed El-Jaouachi,GK,Tunisia,0,0,0,0,,0,0
+3403,2,Khaled Badra ,DF,Tunisia,3,3,263,0,,1,0
+3404,4,Mohamed Mkacher,DF,Tunisia,1,1,90,0,,0,0
+2896,6,Hatem Trabelsi,DF,Tunisia,3,3,270,0,,1,0
+3405,12,Raouf Bouzaiene,DF,Tunisia,3,3,257,1,,0,0
+3406,14,Hamdi Marzouki,DF,Tunisia,0,0,0,0,,0,0
+2897,15,Radhi Jaïdi,DF,Tunisia,3,3,270,0,,0,0
+3407,17,Tarek Thabet,DF,Tunisia,0,0,0,0,,0,0
+3408,19,Emir Mkademi,DF,Tunisia,0,0,0,0,,0,0
+3409,23,José Clayton,DF,Tunisia,1,1,60,0,,0,0
+3410,3,Zoubeir Baya,MF,Tunisia,3,0,72,0,,0,0
+3411,8,Hassen Gabsi,MF,Tunisia,2,2,132,0,,2,0
+2903,10,Kaies Ghodhbane,MF,Tunisia,2,2,180,0,,1,0
+2905,13,Riadh Bouazizi,MF,Tunisia,3,3,270,0,,1,0
+3412,18,Selim Benachour,MF,Tunisia,3,3,270,0,,0,0
+3413,21,Mourad Melki,MF,Tunisia,2,2,132,0,,1,0
+2909,5,Ziad Jaziri,FW,Tunisia,3,3,256,0,,1,0
+3414,7,Imed Mhedhebi,FW,Tunisia,2,0,54,0,,0,0
+3415,9,Riadh Jelassi,FW,Tunisia,0,0,0,0,,0,0
+3416,11,Adel Sellimi,FW,Tunisia,2,1,90,0,,0,0
+3417,20,Ali Zitouni,FW,Tunisia,3,0,34,0,,0,0
+3418,1,Rü?tü Reçber,GK,Turkey,7,7,604,0,,1,0
+3419,12,Ömer Çatk?ç,GK,Turkey,1,0,56,0,,0,0
+3420,23,Zafer Özgültekin,GK,Turkey,0,0,0,0,,0,0
+3421,2,Emre A??k,DF,Turkey,2,2,180,0,,2,0
+3422,3,Bülent Korkmaz,DF,Turkey,6,6,545,1,,0,0
+3423,4,Fatih Akyel,DF,Turkey,7,7,660,0,,1,0
+3424,5,Alpay Özalan,DF,Turkey,5,5,475,0,,3,1
+3425,16,Ümit Özat,DF,Turkey,2,2,180,0,,0,0
+3426,20,Hakan Ünsal,DF,Turkey,4,3,319,0,,2,1
+3427,7,Okan Buruk,MF,Turkey,1,0,15,0,,0,0
+3428,8,Tugay Kerimo?lu,MF,Turkey,7,7,647,0,,3,0
+3429,10,Y?ld?ray Ba?türk,MF,Turkey,7,7,593,0,,0,0
+3430,13,Muzzy Izzet,MF,Turkey,1,0,17,0,,0,0
+3431,14,Tayfur Havutçu,MF,Turkey,3,0,18,0,,0,0
+3432,18,Ergün Penbe,MF,Turkey,5,5,480,0,,1,0
+3433,19,Abdullah Ercan,MF,Turkey,0,0,0,0,,0,0
+3434,21,Emre Belözo?lu,MF,Turkey,6,6,461,1,,3,0
+3435,22,Ümit Davala,MF,Turkey,7,6,546,2,,0,0
+3436,6,Arif Erdem,FW,Turkey,4,0,39,0,,0,0
+3437,9,Hakan ?ükür ,FW,Turkey,7,7,590,1,,1,0
+3438,11,Hasan ?a?,FW,Turkey,6,6,564,2,,2,0
+3439,15,Nihat Kahveci,FW,Turkey,2,0,29,0,,0,0
+3440,17,?lhan Mans?z,FW,Turkey,7,1,236,3,,1,0
+3441,1,Brad Friedel,GK,USA,5,5,450,0,,1,0
+2936,18,Kasey Keller,GK,USA,0,0,0,0,,0,0
+3442,19,Tony Meola,GK,USA,0,0,0,0,,0,0
+2938,3,Gregg Berhalter,DF,USA,2,2,180,0,,2,0
+2941,4,Pablo Mastroeni,DF,USA,3,3,186,0,,2,0
+3443,6,David Regis,DF,USA,0,0,0,0,,0,0
+3444,12,Jeff Agoos,DF,USA,3,3,215,0,,1,0
+2377,14,Steve Cherundolo,DF,USA,0,0,0,0,,0,0
+3445,16,Carlos Llamosa,DF,USA,2,0,12,0,,0,0
+3446,22,Tony Sanneh,DF,USA,5,5,450,0,,0,0
+2940,23,Eddie Pope,DF,USA,5,5,439,0,,2,0
+3447,2,Frankie Hejduk,MF,USA,4,4,334,0,,2,0
+2942,5,John O'Brien,MF,USA,5,5,450,1,,0,0
+2943,7,Eddie Lewis,MF,USA,3,2,196,0,,1,0
+3448,8,Earnie Stewart,MF,USA,4,2,227,0,,0,0
+2944,10,Claudio Reyna ,MF,USA,4,4,360,0,,1,0
+3449,13,Cobi Jones,MF,USA,4,0,106,0,,0,0
+1851,17,DaMarcus Beasley,MF,USA,3,2,219,0,,1,0
+3450,9,Joe-Max Moore,FW,USA,2,0,49,0,,0,0
+3451,11,Clint Mathis,FW,USA,3,2,204,1,,0,0
+2949,15,Josh Wolff,FW,USA,2,1,67,0,,1,0
+2950,20,Brian McBride,FW,USA,5,5,372,2,,0,0
+2381,21,Landon Donovan,FW,USA,5,5,434,2,,0,0
+3452,1,Fabián Carini,GK,Uruguay,3,3,270,0,,1,0
+3453,12,Gustavo Munúa,GK,Uruguay,0,0,0,0,,0,0
+3454,23,Federico Elduayen,GK,Uruguay,0,0,0,0,,0,0
+3455,2,Gustavo Méndez,DF,Uruguay,1,1,90,0,,1,0
+3456,3,Alejandro Lembo,DF,Uruguay,2,2,180,0,,0,0
+3457,4,Paolo Montero ,DF,Uruguay,3,3,270,0,,1,0
+3458,6,Darío Rodríguez,DF,Uruguay,3,3,247,1,,1,0
+3459,14,Gonzalo Sorondo,DF,Uruguay,3,3,211,0,,0,0
+3460,19,Joe Bizera,DF,Uruguay,0,0,0,0,,0,0
+3461,5,Pablo García,MF,Uruguay,3,3,270,0,,2,0
+3462,7,Gianni Guigou,MF,Uruguay,2,1,109,0,,0,0
+3463,10,Fabián O'Neill,MF,Uruguay,0,0,0,0,,0,0
+3464,16,Marcelo Romero,MF,Uruguay,2,2,115,0,,2,0
+3465,17,Mario Regueiro,MF,Uruguay,2,0,70,0,,0,0
+3466,20,Álvaro Recoba,MF,Uruguay,3,3,259,1,,0,0
+3467,22,Gonzalo de los Santos,MF,Uruguay,1,0,20,0,,0,0
+3468,8,Gustavo Varela,FW,Uruguay,3,3,270,0,,0,0
+3469,9,Darío Silva,FW,Uruguay,3,3,239,0,,1,0
+3470,11,Federico Magallanes,FW,Uruguay,2,0,35,0,,0,0
+2396,13,Sebastián Abreu,FW,Uruguay,3,3,222,0,,1,0
+3471,15,Nicolás Olivera,FW,Uruguay,0,0,0,0,,0,0
+3472,18,Richard Morales,FW,Uruguay,2,0,48,1,,0,0
+1879,21,Diego Forlán,FW,Uruguay,1,0,45,1,,0,0
