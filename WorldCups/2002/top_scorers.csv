@@ -1,11 +1,108 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Ronaldo,Brazil,8,,548
+2,Rivaldo,Brazil,5,,610
+3,Miroslav Klose,Germany,5,,561
+4,Jon Dahl Tomasson,Denmark,4,,360
+5,Christian Vieri,Italy,4,,390
+6,Marc Wilmots ,Belgium,3,,360
+7,Michael Ballack,Germany,3,,540
+8,Pauleta,Portugal,3,,248
+9,Robbie Keane,Republic of Ireland,3,,390
+10,Raúl,Spain,3,,340
+11,Fernando Morientes,Spain,3,,336
+12,Henrik Larsson,Sweden,3,,387
+13,?lhan Mans?z,Turkey,3,,236
+14,Ronaldinho,Brazil,2,,331
+15,Rónald Gómez,Costa Rica,2,,270
+16,Michael Owen,England,2,,368
+17,Junichi Inamoto,Japan,2,,264
+18,Jared Borgetti,Mexico,2,,312
+19,Nelson Cuevas,Paraguay,2,,30
+20,Papa Bouba Diop,Senegal,2,,510
+21,Henri Camara,Senegal,2,,351
+22,Ahn Jung-hwan,South Korea,2,,532
+23,Fernando Hierro ,Spain,2,,420
+24,Ümit Davala,Turkey,2,,546
+25,Hasan ?a?,Turkey,2,,564
+26,Brian McBride,USA,2,,372
+27,Landon Donovan,USA,2,,434
+28,Gabriel Batistuta ,Argentina,1,,196
+29,Hernán Crespo,Argentina,1,,74
+30,Peter Van der Heyden,Belgium,1,,180
+31,Johan Walem,Belgium,1,,247
+32,Wesley Sonck,Belgium,1,,108
+33,Edmílson,Brazil,1,,540
+34,Roberto Carlos,Brazil,1,,540
+35,Júnior,Brazil,1,,90
+36,Samuel Eto'o,Cameroon,1,,270
+37,Patrick M'Boma,Cameroon,1,,220
+38,Mauricio Wright,Costa Rica,1,,270
+39,Paulo Wanchope,Costa Rica,1,,259
+40,Winston Parks,Costa Rica,1,,31
+41,Milan Rapai?,Croatia,1,,213
+42,Ivica Oli?,Croatia,1,,124
+43,Dennis Rommedahl,Denmark,1,,358
+44,Agustín Delgado,Ecuador,1,,270
+45,Édison Méndez,Ecuador,1,,270
+46,Rio Ferdinand,England,1,,450
+47,Sol Campbell,England,1,,450
+48,David Beckham ,England,1,,422
+49,Emile Heskey,England,1,,369
+50,Thomas Linke,Germany,1,,630
+51,Marco Bode,Germany,1,,325
+52,Bernd Schneider,Germany,1,,580
+53,Oliver Neuville,Germany,1,,367
+54,Carsten Jancker,Germany,1,,185
+55,Oliver Bierhoff,Germany,1,,81
+56,Alessandro Del Piero,Italy,1,,90
+57,Hidetoshi Nakata,Japan,1,,353
+58,Hiroaki Morishima,Japan,1,,73
+59,Takayuki Suzuki,Japan,1,,273
+60,Gerardo Torrado,Mexico,1,,347
+61,Cuauhtémoc Blanco,Mexico,1,,347
+62,Julius Aghahowa,Nigeria,1,,270
+63,Francisco Arce,Paraguay,1,,360
+64,Roque Santa Cruz,Paraguay,1,,298
+65,Jorge Luis Campos,Paraguay,1,,199
+66,Pawe? Krysza?owicz,Poland,1,,225
+67,Emmanuel Olisadebe,Poland,1,,265
+68,Marcin ?ew?akow,Poland,1,,88
+69,Beto Gaspar,Portugal,1,,183
+70,Rui Costa,Portugal,1,,110
+71,Gary Breen,Republic of Ireland,1,,390
+72,Matt Holland,Republic of Ireland,1,,390
+73,Damien Duff,Republic of Ireland,1,,390
+74,Valeri Karpin,Russia,1,,261
+75,Yegor Titov,Russia,1,,270
+76,Vladimir Beschastnykh,Russia,1,,178
+77,Dmitri Sychev,Russia,1,,138
+78,Pape Malick Diop,Senegal,1,,455
+79,Khalilou Fadiga,Senegal,1,,390
+80,Salif Diao,Senegal,1,,289
+81,Milenko A?imovi?,Slovenia,1,,148
+82,Sebastjan Cimiroti?,Slovenia,1,,164
+83,Lucas Radebe ,South Africa,1,,259
+84,Quinton Fortune,South Africa,1,,255
+85,Teboho Mokoena,South Africa,1,,270
+86,Siyabonga Nomvethe,South Africa,1,,143
+87,Benni McCarthy,South Africa,1,,246
+88,Yoo Sang-chul,South Korea,1,,577
+89,Lee Eul-yong,South Korea,1,,333
+90,Park Ji-sung,South Korea,1,,637
+91,Song Chong-gug,South Korea,1,,690
+92,Seol Ki-hyeon,South Korea,1,,597
+93,Hwang Sun-hong,South Korea,1,,246
+94,Gaizka Mendieta,Spain,1,,196
+95,Juan Carlos Valerón,Spain,1,,373
+96,Niclas Alexandersson,Sweden,1,,345
+97,Anders Svensson,Sweden,1,,304
+98,Raouf Bouzaiene,Tunisia,1,,257
+99,Bülent Korkmaz,Turkey,1,,545
+100,Emre Belözo?lu,Turkey,1,,461
+101,Hakan ?ükür ,Turkey,1,,590
+102,John O'Brien,USA,1,,450
+103,Clint Mathis,USA,1,,204
+104,Darío Rodríguez,Uruguay,1,,247
+105,Álvaro Recoba,Uruguay,1,,259
+106,Richard Morales,Uruguay,1,,48
+107,Diego Forlán,Uruguay,1,,45
