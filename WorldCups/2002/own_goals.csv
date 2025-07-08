@@ -1,4 +1,4 @@
-nombre_jugador	seleccion_autor	seleccion_beneficiada	minuto	fecha	instancia
+nombre_jugador,seleccion_autor,seleccion_beneficiada,minuto,fecha,instancia
 Jorge Costa,Portugal,Estados Unidos,29,05-06-2002,Grupos
 Jeff Agoos,Estados Unidos,Portugal,71,05-06-2002,Grupos
 Carles Puyol,España,Paraguay,53,07-06-2002,Grupos
