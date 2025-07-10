@@ -2080,6 +2080,7 @@ player_id,world_cup_year,team,club,country_club
 1524,2014,Ecuador,Emelec,Ecuador
 1525,2014,Ecuador,Flamengo,Brazil
 1526,2014,Ecuador,Barcelona SC,Ecuador
+1527,2002,Ecuador,Emelec,Ecuador
 1527,2014,Ecuador,Pachuca,Mexico
 1528,2014,Ecuador,Emelec,Ecuador
 1529,2014,Ecuador,Emelec,Ecuador
@@ -2164,6 +2165,7 @@ player_id,world_cup_year,team,club,country_club
 1587,2006,Germany,1. FC Koln,Germany
 1587,2010,Germany,1. FC Koln,Germany
 1587,2014,Germany,Arsenal,England
+1588,2002,Germany,1. FC Kaiserslautern,Germany
 1588,2006,Germany,Werder Bremen,Germany
 1588,2010,Germany,Bayern Munich,Germany
 1588,2014,Germany,Lazio,Italy
@@ -2726,6 +2728,7 @@ player_id,world_cup_year,team,club,country_club
 1977,2002,Denmark,Copenhague,Denmark
 1977,2010,Denmark,Juventus,Italy
 1978,2010,Denmark,Werder Bremen,Germany
+1979,2002,Denmark,Chelsea,England
 1979,2010,Denmark,Copenhagen,Denmark
 1980,2002,Denmark,Udinese,Italy
 1980,2010,Denmark,AGF,Denmark
@@ -2739,9 +2742,11 @@ player_id,world_cup_year,team,club,country_club
 1986,2010,Denmark,Arsenal,England
 1987,2010,Denmark,Randers,Denmark
 1988,2010,Denmark,MSV Duisburg,Germany
+1989,2002,England,West Ham,England
 1989,2006,England,Manchester City,England
 1989,2010,England,Portsmouth,England
 1990,2010,England,West Ham,England
+1991,2002,England,Arsenal,England
 1991,2006,England,Arsenal,England
 1991,2010,England,Chelsea,England
 1992,2010,England,Tottenham,England
@@ -2754,6 +2759,7 @@ player_id,world_cup_year,team,club,country_club
 1997,2010,England,Tottenham,England
 1998,2006,England,Tottenham,England
 1998,2010,England,Tottenham,England
+1999,2002,England,West Ham,England
 1999,2006,England,Chelsea,England
 1999,2010,England,Chelsea,England
 2000,2010,England,Manchester City,England
@@ -2763,6 +2769,7 @@ player_id,world_cup_year,team,club,country_club
 2003,2006,England,Liverpool,England
 2003,2010,England,Tottenham,England
 2004,2010,England,Tottenham,England
+2005,2002,England,Liverpool,England
 2005,2010,England,Aston Villa,England
 2006,2010,France,Bordeaux,France
 2007,2006,France,Lyon,France
@@ -2781,14 +2788,17 @@ player_id,world_cup_year,team,club,country_club
 2016,2006,France,Lyon,France
 2016,2010,France,Bordeaux,France
 2017,2010,France,Arsenal,England
+2018,2002,France,Auxerre,France
 2018,2010,France,Panathinaikos,Greece
 2019,2006,France,Lyon,France
 2019,2010,France,Lyon,France
 2020,2010,France,Toulouse,France
+2021,2002,France,Arsenal,England
 2021,2006,France,Arsenal,England
 2021,2010,France,Barcelona,Spain
 2022,2010,France,Chelsea,England
 2023,2010,Germany,Werder Bremen,Germany
+2024,2002,Germany,Bayer Leverkusen,Germany
 2024,2010,Germany,Bayern Munich,Germany
 2025,2006,Germany,Hertha BSC,Germany
 2025,2010,Germany,Hertha BSC,Germany
@@ -3397,65 +3407,98 @@ player_id,world_cup_year,team,club,country_club
 2527,2006,Ecuador,Deportivo Quito,Ecuador
 2528,2006,Ecuador,LDU Quito,Ecuador
 2529,2006,Ecuador,Aucas,Ecuador
+2530,2002,Ecuador,Barcelona SC,Ecuador
 2530,2006,Ecuador,Al-Arabi,Qatar
+2531,2002,Ecuador,Hibernian,Scotland
 2531,2006,Ecuador,Aston Villa,England
 2532,2006,Ecuador,Olmedo,Ecuador
 2533,2006,Ecuador,LDU Quito,Ecuador
+2534,2002,Ecuador,Aucas,Ecuador
 2534,2006,Ecuador,LDU Quito,Ecuador
 2535,2006,Ecuador,LDU Quito,Ecuador
 2536,2006,Ecuador,LDU Quito,Ecuador
 2537,2006,Ecuador,El Nacional,Ecuador
+2538,2002,Ecuador,Deportivo Quito,Ecuador
 2538,2006,Ecuador,LDU Quito,Ecuador
 2539,2006,Ecuador,El Nacional,Ecuador
+2540,2002,Ecuador,Deportivo Quito,Ecuador
 2540,2006,Ecuador,Deportivo Quito,Ecuador
+2541,2002,Ecuador,Barcelona SC,Ecuador
 2541,2006,Ecuador,Barcelona SC,Ecuador
 2542,2006,Ecuador,El Nacional,Ecuador
+2543,2002,Ecuador,Barcelona SC,Ecuador
 2543,2006,Ecuador,Argentinos Juniors,Argentina
+2544,2002,Ecuador,Southampton,England
 2544,2006,Ecuador,LDU Quito,Ecuador
+2545,2002,Ecuador,LDU Quito,Ecuador
 2545,2006,Ecuador,Al Sadd,Qatar
 2546,2006,Ecuador,El Nacional,Ecuador
 2547,2006,England,Tottenham,England
 2548,2006,England,Liverpool,England
 2549,2006,England,Manchester United,England
+2550,2002,England,Leeds United,England
 2550,2006,England,Manchester United,England
+2551,2002,England,Arsenal,England
 2551,2006,England,Arsenal,England
+2552,2002,England,Southampton,England
 2552,2006,England,Chelsea,England
+2553,2002,England,Manchester United,England
 2553,2006,England,Real Madrid,Spain
+2554,2002,England,Bayern Munich,Germany
 2554,2006,England,Bayern Munich,Germany
 2555,2006,England,Tottenham,England
 2556,2006,England,Middlesbrough,England
+2557,2002,England,Liverpool,England
 2557,2006,England,Newcastle United,England
 2558,2006,England,Arsenal,England
+2559,2002,France,Manchester United,England
 2559,2006,France,Marseille,France
+2560,2002,France,Lyon,France
 2560,2006,France,Lyon,France
 2561,2006,France,Newcastle United,England
+2562,2002,France,Manchester United,England
 2562,2006,France,Manchester United,England
+2563,2002,France,Juventus,Italy
 2563,2006,France,Juventus,Italy
 2564,2006,France,Monaco,France
+2565,2002,France,Bayern Munich,Germany
 2565,2006,France,Bayern Munich,Germany
 2566,2006,France,Wigan Athletic,England
+2567,2002,France,Arsenal,England
 2567,2006,France,Juventus,Italy
+2568,2002,France,Real Madrid,Spain
 2568,2006,France,Chelsea,England
 2569,2006,France,PSG,France
+2570,2002,France,Real Madrid,Spain
 2570,2006,France,Real Madrid,Spain
+2571,2002,France,Arsenal,England
 2571,2006,France,Lyon,France
 2572,2006,France,Manchester United,England
+2573,2002,France,Juventus,Italy
 2573,2006,France,Juventus,Italy
+2574,2002,Germany,Borussia Dortmund,Germany
 2574,2006,Germany,Arsenal,England
+2575,2002,Germany,Bayern Munich,Germany
 2575,2006,Germany,Bayern Munich,Germany
 2576,2006,Germany,VfB Stuttgart,Germany
 2577,2006,Germany,Chelsea,England
 2578,2006,Germany,Bayer Leverkusen,Germany
+2579,2002,Germany,Borussia Dortmund,Germany
 2579,2006,Germany,Borussia Dortmund,Germany
+2580,2002,Germany,Borussia Dortmund,Germany
 2580,2006,Germany,Borussia Dortmund,Germany
+2581,2002,Germany,Werder Bremen,Germany
 2581,2006,Germany,Werder Bremen,Germany
 2582,2006,Germany,Bayern Munich,Germany
 2583,2006,Germany,VfB Stuttgart,Germany
 2584,2006,Germany,Werder Bremen,Germany
+2585,2002,Germany,Bayer Leverkusen,Germany
 2585,2006,Germany,Bayer Leverkusen,Germany
 2586,2006,Germany,Borussia Dortmund,Germany
 2587,2006,Germany,VfL Wolfsburg,Germany
+2588,2002,Germany,Bayer Leverkusen,Germany
 2588,2006,Germany,Borussia Monchengladbach,Germany
+2589,2002,Germany,Schalke 04,Germany
 2589,2006,Germany,Schalke 04,Germany
 2590,2006,Ghana,Ashdod,Israel
 2591,2006,Ghana,Ashanti Gold,Ghana
