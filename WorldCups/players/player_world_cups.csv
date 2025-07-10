@@ -1918,6 +1918,7 @@ player_id,world_cup_year,team,club,country_club
 1394,2014,Australia,Al-Gharafa,Qatar
 1395,2014,Australia,Newcastle Jets,Australia
 1396,2014,Belgium,Zulte Waregem,Belgium
+1397,2002,Belgium,Marseille,France
 1397,2014,Belgium,Bayern Munich,Germany
 1398,2014,Belgium,Zenit Saint Petersburg,Russia
 1399,2014,Belgium,Anderlecht,Belgium
@@ -1992,6 +1993,7 @@ player_id,world_cup_year,team,club,country_club
 1459,2010,Cameroon,Schalke 04,Germany
 1459,2014,Cameroon,Schalke 04,Germany
 1460,2014,Cameroon,Nancy,France
+1461,2002,Cameroon,Mallorca,Spain
 1461,2010,Cameroon,Internazionale,Italy
 1461,2014,Cameroon,Chelsea,England
 1462,2010,Cameroon,Mallorca,Spain
@@ -2056,6 +2058,7 @@ player_id,world_cup_year,team,club,country_club
 1508,2014,Costa Rica,Valerenga,Norway
 1509,2014,Costa Rica,Herediano,Costa Rica
 1510,2014,Costa Rica,Cartaginés,Costa Rica
+1511,2002,Croatia,Hajduk Split,Croatia
 1511,2006,Croatia,Shakhtar Donetsk,Ukraine
 1511,2014,Croatia,Rostov,Russia
 1512,2014,Croatia,Lokomotiva,Croatia
@@ -2066,6 +2069,7 @@ player_id,world_cup_year,team,club,country_club
 1516,2014,Croatia,Dynamo Kyiv,Ukraine
 1517,2014,Croatia,Getafe,Spain
 1518,2014,Croatia,Hull City,England
+1519,2002,Croatia,NK Zagreb,Croatia
 1519,2006,Croatia,CSKA Moscow,Russia
 1519,2014,Croatia,VfL Wolfsburg,Germany
 1520,2014,Croatia,Shakhtar Donetsk,Ukraine
@@ -2615,8 +2619,10 @@ player_id,world_cup_year,team,club,country_club
 1899,2010,Argentina,Roma,Italy
 1900,2010,Argentina,Marseille,France
 1901,2010,Argentina,Colón,Argentina
+1902,2002,Argentina,Roma,Italy
 1902,2010,Argentina,Internazionale,Italy
 1903,2010,Argentina,Fiorentina,Italy
+1904,2002,Argentina,Manchester United,England
 1904,2010,Argentina,Estudiantes,Argentina
 1905,2010,Argentina,Newcastle United,England
 1906,2010,Argentina,Palermo,Italy
@@ -2655,6 +2661,7 @@ player_id,world_cup_year,team,club,country_club
 1927,2010,Australia,Roeselare,Belgium
 1928,2010,Brazil,Tottenham,England
 1929,2010,Brazil,Roma,Italy
+1930,2002,Brazil,Bayer Leverkusen,Germany
 1930,2010,Brazil,Internazionale,Italy
 1931,2006,Brazil,Bayer Leverkusen,Germany
 1931,2010,Brazil,Roma,Italy
@@ -2665,23 +2672,29 @@ player_id,world_cup_year,team,club,country_club
 1934,2010,Brazil,Cruzeiro,Brazil
 1935,2010,Brazil,Juventus,Italy
 1936,2010,Brazil,Galatasaray,Turkey
+1937,2002,Brazil,Atletico Mineiro,Brazil
 1937,2006,Brazil,Arsenal,England
 1937,2010,Brazil,Panathinaikos,Greece
+1938,2002,Brazil,Sao Paulo,Brazil
 1938,2006,Brazil,AC Milan,Italy
 1938,2010,Brazil,Real Madrid,Spain
 1939,2010,Brazil,VfL Wolfsburg,Germany
 1940,2010,Brazil,Roma,Italy
+1941,2002,Brazil,Atletico Paranaense,Brazil
 1941,2010,Brazil,Flamengo,Brazil
 1942,2010,Brazil,Sevilla,Spain
 1943,2006,Brazil,Real Madrid,Spain
 1943,2010,Brazil,Santos,Brazil
 1944,2010,Brazil,Villarreal,Spain
 1945,2010,Brazil,VfL Wolfsburg,Germany
+1946,2002,Cameroon,Le Havre,France
 1946,2010,Cameroon,Espanyol,Spain
 1947,2010,Cameroon,Kayserispor,Turkey
 1948,2010,Cameroon,Valenciennes,France
+1949,2002,Cameroon,1. FC Koln,Germany
 1949,2010,Cameroon,Trabzonspor,Turkey
 1950,2010,Cameroon,Tottenham,England
+1951,2002,Cameroon,Real Madrid,Spain
 1951,2010,Cameroon,Ankaragucu,Turkey
 1952,2010,Cameroon,Valenciennes,France
 1953,2010,Cameroon,Marseille,France
@@ -2698,24 +2711,30 @@ player_id,world_cup_year,team,club,country_club
 1964,2010,Chile,Sporting CP,Portugal
 1965,2010,Chile,Colo-Colo,Chile
 1966,2010,Chile,Besiktas,Turkey
-1967,2010,Chile,Zaragoza,Spain
+1967,2010,Chile,Real Zaragoza,Spain
 1968,2010,Chile,CSKA Moscow,Russia
+1969,2002,Denmark,Sunderland,England
 1969,2010,Denmark,Stoke City,England
 1970,2010,Denmark,Brondby,Denmark
+1971,2002,Denmark,Velje,Denmark
 1971,2010,Denmark,Copenhagen,Denmark
 1972,2010,Denmark,Liverpool,England
 1973,2010,Denmark,Blackburn Rovers,England
 1974,2010,Denmark,Fiorentina,Italy
 1975,2010,Denmark,AZ,Netherlands
 1976,2010,Denmark,Malaga,Spain
+1977,2002,Denmark,Copenhague,Denmark
 1977,2010,Denmark,Juventus,Italy
 1978,2010,Denmark,Werder Bremen,Germany
 1979,2010,Denmark,Copenhagen,Denmark
+1980,2002,Denmark,Udinese,Italy
 1980,2010,Denmark,AGF,Denmark
 1981,2010,Denmark,VfL Wolfsburg,Germany
 1982,2010,Denmark,AGF,Denmark
+1983,2002,Denmark,PSV,Netherlands
 1983,2010,Denmark,Ajax,Netherlands
 1984,2010,Denmark,Groningen,Netherlands
+1985,2002,Denmark,Feyenoord,Netherlands
 1985,2010,Denmark,Feyenoord,Netherlands
 1986,2010,Denmark,Arsenal,England
 1987,2010,Denmark,Randers,Denmark
@@ -3247,7 +3266,9 @@ player_id,world_cup_year,team,club,country_club
 2424,2006,Argentina,Boca Juniors,Argentina
 2425,2006,Argentina,Atletico Madrid,Spain
 2426,2006,Argentina,Independiente,Argentina
+2427,2002,Argentina,Valencia,Spain
 2427,2006,Argentina,Valencia,Spain
+2428,2002,Argentina,Cruzeiro,Brazil
 2428,2006,Argentina,Villarreal,Spain
 2429,2006,Argentina,Deportivo La Coruña,Spain
 
@@ -3256,9 +3277,11 @@ player_id,world_cup_year,team,club,country_club
 2433,2006,Argentina,Roma,Italy
 2434,2006,Argentina,Internazionale,Italy
 2435,2006,Argentina,Villarreal,Spain
+2436,2002,Argentina,Valencia,Spain
 2436,2006,Argentina,Valencia,Spain
 2437,2006,Argentina,Porto,Portugal
 2438,2006,Argentina,Barcelona,Spain
+2439,2002,Argentina,Lazio,Italy
 2439,2006,Argentina,Chelsea,England
 2440,2006,Argentina,Internazionale,Italy
 2441,2006,Australia,Hammarby,Sweden
@@ -3270,58 +3293,82 @@ player_id,world_cup_year,team,club,country_club
 2447,2006,Australia,Middlesbrough,England
 2448,2006,Australia,Alaves,Spain
 2449,2006,Australia,Melbourne Victory,Australia
+2450,2002,Brazil,Corinthians,Brazil
 2450,2006,Brazil,AC Milan,Italy
+2451,2002,Brazil,Sao Paulo,Brazil
 2451,2006,Brazil,Sao Paulo,Brazil
+2452,2002,Brazil,Roma,Italy
 2452,2006,Brazil,AC Milan,Italy
 2453,2002,Portugal,Sporting CP,Portugal
+2454,2002,Brazil,Real Madrid,Spain
 2454,2006,Brazil,Real Madrid,Spain
 2455,2006,Brazil,Real Madrid,Spain
 2456,2006,Brazil,Lyon,France
 2457,2006,Brazil,Juventus,Italy
+2458,2002,Brazil,PSG,France
 2458,2006,Brazil,Barcelona,Spain
 2459,2006,Brazil,Bayern Munich,Germany
 2460,2006,Brazil,Sao Paulo,Brazil
 2461,2006,Brazil,Lyon,France
+2462,2002,Brazil,Corinthians,Brazil
 2462,2006,Brazil,Corinthians,Brazil
 2463,2006,Brazil,Internazionale,Italy
+2464,2002,Brazil,Internazionale,Italy
 2464,2006,Brazil,Real Madrid,Spain
+2465,2002,Costa Rica,Alajuelense,Costa Rica
 2465,2006,Costa Rica,Herediano,Costa Rica
 2466,2006,Costa Rica,Saprissa,Costa Rica
 2467,2006,Costa Rica,Alajuelense,Costa Rica
+2468,2002,Costa Rica,Saprissa,Costa Rica
 2468,2006,Costa Rica,Saprissa,Costa Rica
+2469,2002,Costa Rica,Alajuelense,Costa Rica
 2469,2006,Costa Rica,Alajuelense,Costa Rica
+2470,2002,Costa Rica,Saprissa,Costa Rica
 2470,2006,Costa Rica,Brescia,Italy
+2471,2002,Costa Rica,Alajuelense,Costa Rica
 2471,2006,Costa Rica,Comunicaciones,Guatemala
 2472,2006,Costa Rica,Herediano,Costa Rica
+2473,2002,Costa Rica,Alajuelense,Costa Rica
 2473,2006,Costa Rica,Alajuelense,Costa Rica
 2474,2006,Costa Rica,Saprissa,Costa Rica
 2475,2006,Costa Rica,Alajuelense,Costa Rica
 2476,2006,Costa Rica,Cartaginés,Costa Rica
+2477,2002,Costa Rica,Saprissa,Costa Rica
 2477,2006,Costa Rica,Saprissa,Costa Rica
 2478,2006,Costa Rica,Alajuelense,Costa Rica
 2479,2006,Costa Rica,Real Salt Lake,USA
+2480,2002,Costa Rica,Manchester City,England
 2480,2006,Costa Rica,Herediano,Costa Rica
 2481,2006,Costa Rica,Saprissa,Costa Rica
 2482,2006,Costa Rica,Puntarenas,Costa Rica
 2483,2006,Costa Rica,Saprissa,Costa Rica
 2484,2006,Costa Rica,Cartaginés,Costa Rica
 2485,2006,Croatia,Austria Wien,Austria
+2486,2002,Croatia,Dinamo Zagreb,Croatia
 2486,2006,Croatia,Club Brugge,Belgium
+2487,2002,Croatia,Hertha BSC,Germany
 2487,2006,Croatia,Hertha BSC,Germany
+2488,2002,Croatia,Bayern Munich,Germany
 2488,2006,Croatia,Juventus,Italy
 2489,2006,Croatia,Juventus,Italy
+2490,2002,Croatia,Internazionale,Italy
 2490,2006,Croatia,AC Milan,Italy
 2491,2006,Croatia,Bayer Leverkusen,Germany
 2492,2006,Croatia,Austria Wien,Austria
+2493,2002,Croatia,Vicenza,Italy
 2493,2006,Croatia,Galatasaray,Turkey
+2494,2002,Croatia,Hellas Verona,Italy
 2494,2006,Croatia,Panathinaikos,Greece
+2495,2002,Croatia,Bayer Leverkusen,Germany
 2495,2006,Croatia,Werder Bremen,Germany
+2496,2002,Croatia,Bayern Munich,Germany
 2496,2006,Croatia,Hertha BSC,Germany
 2497,2006,Croatia,Club Brugge,Belgium
 2498,2006,Croatia,Dynamo Kyiv,Ukraine
 2499,2006,Croatia,Hajduk Split,Croatia
 2500,2006,Croatia,Rangers,Scotland
 2501,2006,Croatia,Werder Bremen,Germany
+2502,2002,Croatia,Aston Villa,England
 2502,2006,Croatia,Club Brugge,Belgium
 2503,2006,Croatia,Dinamo Zagreb,Croatia
 2504,2006,Czech Republic,Chelsea,England
