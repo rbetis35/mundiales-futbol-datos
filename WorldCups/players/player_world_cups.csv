@@ -2563,6 +2563,7 @@ player_id,world_cup_year,team,club,country_club
 1848,2014,USA,LA Galaxy,USA
 1849,2014,USA,Sporting Kansas City,USA
 1850,2014,USA,Hertha BSC,Germany
+1851,2002,USA,Chicago Fire,USA
 1851,2006,USA,PSV,Netherlands
 1851,2010,USA,Rangers,Scotland
 1851,2014,USA,Puebla,Mexico
@@ -2605,6 +2606,7 @@ player_id,world_cup_year,team,club,country_club
 1876,2014,Uruguay,Southampton,England
 1877,2014,Uruguay,Lazio,Italy
 1878,2014,Uruguay,Palermo,Italy
+1879,2002,Uruguay,Manchester United,England
 1879,2010,Uruguay,Atletico Madrid,Spain
 1879,2014,Uruguay,Cerezo Osaka,Japan
 1880,2010,Algeria,ASO Chlef,Algeria
@@ -3261,11 +3263,13 @@ player_id,world_cup_year,team,club,country_club
 2375,2010,USA,Rennes,France
 2376,2006,USA,Standard Liege,Belgium
 2376,2010,USA,AC Milan,Italy
+2377,2002,USA,Hannover 96,Germany
 2377,2006,USA,Hannover 96,Germany
 2377,2010,USA,Hannover 96,Germany
 2378,2010,USA,Chivas USA,USA
 2379,2010,USA,Watford,England
 2380,2010,USA,Start,Norway
+2381,2002,USA,San Jose Earthquakes,USA
 2381,2006,USA,LA Galaxy,USA
 2381,2010,USA,LA Galaxy,USA
 2382,2010,USA,Bolton Wanderers,England
@@ -3282,6 +3286,7 @@ player_id,world_cup_year,team,club,country_club
 2393,2010,Uruguay,AIK,Sweden
 2394,2010,Uruguay,Levadiakos,Greece
 2395,2010,Uruguay,Universidad de Chile,Chile
+2396,2002,Uruguay,Cruz Azul,Mexico
 2396,2010,Uruguay,Botafogo,Brazil
 2397,2010,Uruguay,Banfield,Argentina
 2398,2010,France,Arsenal,England
@@ -3809,27 +3814,40 @@ player_id,world_cup_year,team,club,country_club
 2806,2006,Spain,Real Betis,Spain
 2807,2002,Spain,Real Madrid,Spain
 2807,2006,Spain,Real Madrid,Spain
+2808,2002,Sweden,Djugarden,Sweden
 2808,2006,Sweden,Rennes,France
 2809,2006,Sweden,Viborg,Denmark
 2810,2006,Sweden,Fredrikstad,Norway
 2811,2006,Sweden,Panathinaikos,Greece
+2812,2002,Sweden,Aston Villa,England
 2812,2006,Sweden,Aston Villa,England
+2813,2002,Sweden,AIK,Sweden
 2813,2006,Sweden,Hacken,Sweden
+2814,2002,Sweden,Heerenveen,Netherlands
 2814,2006,Sweden,Rennes,France
 2815,2006,Sweden,Heerenveen,Netherlands
 2816,2006,Sweden,Bayer Leverkusen,Germany
 2817,2006,Sweden,IFK Goteborg,Sweden
+2818,2002,Sweden,Everton,England
 2818,2006,Sweden,Copenhagen,Denmark
+2819,2002,Sweden,Everton,England
 2819,2006,Sweden,IFK Goteborg,Sweden
+2820,2002,Sweden,Southampton,England
 2820,2006,Sweden,Elfsborg,Sweden
+2821,2002,Sweden,Arsenal,England
 2821,2006,Sweden,Arsenal,England
 2822,2006,Sweden,Rennes,France
+2823,2002,Sweden,Brondby,Denmark
 2823,2006,Sweden,Djurgarden,Sweden
+2824,2002,Sweden,Venezia,Italy
 2824,2006,Sweden,Malmo,Sweden
 2825,2006,Sweden,Anderlecht,Belgium
+2826,2002,Sweden,Ajax,Netherlands
 2826,2006,Sweden,Juventus,Italy
+2827,2002,Sweden,Celtic,Scotland
 2827,2006,Sweden,Barcelona,Spain
 2828,2006,Sweden,Brondby,Denmark
+2829,2006,Sweden,Heerenveen,Netherlands
 2829,2006,Sweden,Copenhagen,Denmark
 2830,2006,Sweden,Ajax,Netherlands
 2831,2006,Switzerland,Basel,Switzerland
@@ -3891,25 +3909,31 @@ player_id,world_cup_year,team,club,country_club
 2887,2006,Trinidad & Tobago,Southampton,England
 2888,2006,Trinidad & Tobago,Sydney FC,Australia
 2889,2006,Trinidad & Tobago,St. Johnstone,Scotland
+2890,2002,Tunisia,Bastia,France
 2890,2006,Tunisia,Club Africain,Tunisia
 2891,2006,Tunisia,Monastir,Tunisia
 2892,2006,Tunisia,Espérance de Tunis,Tunisia
 2893,2006,Tunisia,Rosenborg,Norway
 2894,2006,Tunisia,Strasbourg,France
 2895,2006,Tunisia,Saint-Étienne,France
+2896,2002,Tunisia,Ajax,Netherlands
 2896,2006,Tunisia,Ajax,Netherlands
+2897,2002,Tunisia,Espérance de Tunis,Tunisia
 2897,2006,Tunisia,Bolton Wanderers,England
 2898,2006,Tunisia,Bordeaux,France
 2899,2006,Tunisia,Samsunspor,Turkey
 2900,2006,Tunisia,Feyenoord,Netherlands
 2901,2006,Tunisia,Birmingham City,England
 2902,2006,Tunisia,Étoile du Sahel,Tunisia
+2903,2002,Tunisia,Étoile du Sahel,Tunisia
 2903,2006,Tunisia,Konyaspor,Turkey
 2904,2006,Tunisia,1. FC Nurnberg,Germany
+2905,2002,Tunisia,Bursaspor,Turkey
 2905,2006,Tunisia,Kayseri Erciyesspor,Turkey
 2906,2006,Tunisia,1. FC Nurnberg,Germany
 2907,2006,Tunisia,Rangers,Scotland
 2908,2006,Tunisia,Gaziantepspor,Turkey
+2909,2002,Tunisia,Étoile du Sahel,Tunisia
 2909,2006,Tunisia,Troyes,France
 2910,2006,Tunisia,Strasbourg,France
 2911,2006,Tunisia,Toulouse,France
@@ -3937,23 +3961,31 @@ player_id,world_cup_year,team,club,country_club
 2933,2006,Ukraine,Dynamo Kyiv,Ukraine
 2934,2006,Ukraine,Shakhtar Donetsk,Ukraine
 2935,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2936,2002,USA,Tottenham,England
 2936,2006,USA,Borussia Monchengladbach,Germany
 2937,2006,USA,LA Galaxy,USA
+2938,2002,USA,Crystal Palace,England
 2938,2006,USA,Energie Cottbus,Germany
 2939,2006,USA,Kansas City Wizards,USA
+2940,2002,USA,D.C. United,USA
 2940,2006,USA,Real Salt Lake,USA
+2941,2002,USA,Colorado Rapids,USA
 2941,2006,USA,Colorado Rapids,USA
+2942,2002,USA,Ajax,Netherlands
 2942,2006,USA,Chivas USA,USA
+2943,2002,USA,Fulham,England
 2943,2006,USA,Leeds United,England
+2944,2002,USA,Sunderland,England
 2944,2006,USA,Manchester City,England
 2945,2006,USA,D.C. United,USA
 2946,2006,USA,Reading,England
 2947,2006,USA,Kansas City Wizards,USA
 2948,2006,USA,Houston Dynamo,USA
+2949,2002,USA,Chicago Fire,USA
 2949,2006,USA,Kansas City Wizards,USA
+2950,2002,USA,Columbus Crew,USA
 2950,2006,USA,Fulham,England
 2951,2006,Brazil,Lyon,France
-player_id,world_cup_year,team,club,country_club
 2952,2002,Argentina, Atletico Madrid,Spain
 2953,2002,Argentina, Celta de Vigo,Spain
 2954,2002,Argentina, Barcelona,Spain
