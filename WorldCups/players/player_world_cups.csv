@@ -1515,6 +1515,7 @@ player_id,world_cup_year,team,club,country_club
 1074,2018,Mexico,Cruz Azul,Mexico
 1075,2018,Mexico,UANL,Mexico
 1076,2018,Mexico,Eintracht Frankfurt,Germany
+1077,2002,Mexico,Monaco,France
 1077,2006,Mexico,Barcelona,Spain
 1077,2010,Mexico,Barcelona,Spain
 1077,2014,Mexico,Leon,Mexico
@@ -2283,6 +2284,7 @@ player_id,world_cup_year,team,club,country_club
 1670,2006,Iran,Abu Moslem,Iran
 1670,2014,Iran,Esteghlal,Iran
 1671,2014,Iran,Foolad,Iran
+1672,2002,Italy,Juventus,Italy
 1672,2006,Italy,Juventus,Italy
 1672,2010,Italy,Juventus,Italy
 1672,2014,Italy,Juventus,Italy
@@ -2863,12 +2865,15 @@ player_id,world_cup_year,team,club,country_club
 2077,2010,Italy,Napoli,Italy
 2078,2010,Italy,Napoli,Italy
 2079,2010,Italy,Genoa,Italy
+2080,2002,Italy,Parma,Italy
 2080,2006,Italy,Juventus,Italy
 2080,2010,Italy,Juventus,Italy
 2081,2010,Italy,Genoa,Italy
+2082,2002,Italy,Juventus,Italy
 2082,2006,Italy,Juventus,Italy
 2082,2010,Italy,AC Milan,Italy
 2083,2010,Italy,Udinese,Italy
+2084,2002,Italy,AC Milan,Italy
 2084,2006,Italy,AC Milan,Italy
 2084,2010,Italy,AC Milan,Italy
 2085,2006,Italy,Juventus,Italy
@@ -2900,8 +2905,10 @@ player_id,world_cup_year,team,club,country_club
 2104,2010,Ivory Coast,Young Boys,Switzerland
 2105,2006,Ivory Coast,Lens,France
 2105,2010,Ivory Coast,Portsmouth,England
+2106,2002,Japan,Nagoya Grampus,Japan
 2106,2006,Japan,Nagoya Grampus,Japan
 2106,2010,Japan,Nagoya Grampus,Japan
+2107,2002,Japan,Portsmouth,England
 2107,2006,Japan,Jubilo Iwata,Japan
 2107,2010,Japan,Jubilo Iwata,Japan
 2108,2006,Japan,Sanfreece Hiroshima,Japan
@@ -2914,6 +2921,7 @@ player_id,world_cup_year,team,club,country_club
 2113,2006,Japan,Celtic,Scotland
 2113,2010,Japan,Yokohama F. Marinos,Japan
 2114,2010,Japan,Kawasaki Frontale,Japan
+2115,2002,Japan,Arsenal,England
 2115,2006,Japan,West Bromwich,England
 2115,2010,Japan,Kawasaki Frontale,Japan
 2116,2010,Japan,Grenoble,France
@@ -2921,6 +2929,7 @@ player_id,world_cup_year,team,club,country_club
 2117,2010,Japan,Nagoya Grampus,Japan
 2118,2010,Japan,Albirex Niigata,Japan
 2119,2010,Japan,Catania,Italy
+2120,2002,Mexico,Cruz Azul,Mexico
 2120,2010,Mexico,Chiapas,Mexico
 2121,2010,Mexico,Guadalajara,Mexico
 2122,2010,Mexico,PSV,Netherlands
@@ -2929,6 +2938,7 @@ player_id,world_cup_year,team,club,country_club
 2124,2010,Mexico,UNAM,Mexico
 2125,2010,Mexico,Guadalajara,Mexico
 2126,2010,Mexico,Atlas,Mexico
+2127,2002,Mexico,Sevilla,Spain
 2127,2006,Mexico,Cruz Azul,Mexico
 2127,2010,Mexico,Cruz Azul,Mexico
 2128,2010,Mexico,UNAM,Mexico
@@ -2936,6 +2946,7 @@ player_id,world_cup_year,team,club,country_club
 2130,2010,Mexico,Guadalajara,Mexico
 2131,2006,Mexico,Villarreal,Spain
 2131,2010,Mexico,West Ham,England
+2132,2002,Mexico,Valladolid,Spain
 2132,2010,Mexico,Veracruz,Mexico
 2133,2010,Mexico,Guadalajara,Mexico
 2134,2006,Netherlands,Ajax,Netherlands
@@ -3539,14 +3550,19 @@ player_id,world_cup_year,team,club,country_club
 2625,2006,Italy,Livorno,Italy
 2626,2006,Italy,Palermo,Italy
 2627,2006,Italy,Palermo,Italy
+2628,2002,Italy,Lazio,Italy
 2628,2006,Italy,AC Milan,Italy
 2629,2006,Italy,Lazio,Italy
+2630,2002,Italy,Internazionale,Italy
 2630,2006,Italy,Internazionale,Italy
 2631,2006,Italy,Palermo,Italy
 2632,2006,Italy,Roma,Italy
+2633,2002,Italy,Juventus,Italy
 2633,2006,Italy,Juventus,Italy
 2634,2006,Italy,Fiorentina,Italy
+2635,2002,Italy,Roma,Italy
 2635,2006,Italy,Roma,Italy
+2636,2002,Italy,AC Milan,Italy
 2636,2006,Italy,AC Milan,Italy
 2637,2006,Ivory Coast,Esperance de Tunis,Tunisia
 2638,2006,Ivory Coast,Montpellier,France
@@ -3562,19 +3578,28 @@ player_id,world_cup_year,team,club,country_club
 2648,2006,Ivory Coast,Nice,France
 2649,2006,Japan,FC Tokyo,Japan
 2650,2006,Japan,FC Tokyo,Japan
+2651,2002,Japan,Gamba Osaka,Japan
 2651,2006,Japan,Gamba Osaka,Japan
+2652,2002,Japan,Kashima Antlers,Japan
 2652,2006,Japan,Basel,Switzerland
+2653,2002,Japan,Shimizu S-Pulse,Japan
 2653,2006,Japan,Urawa Red Diamonds,Japan
 2654,2006,Japan,Urawa Red Diamonds,Japan
 2655,2006,Japan,Gamba Osaka,Japan
+2656,2002,Japan,Parma,Italy
 2656,2006,Japan,Fiorentina,Italy
+2657,2002,Japan,Kashima Antlers,Japan
 2657,2006,Japan,Kashima Antlers,Japan
+2658,2002,Japan,Jubilo Iwata,Japan
 2658,2006,Japan,Jubilo Iwata,Japan
+2659,2002,Japan,Feyenoord,Netherlands
 2659,2006,Japan,Urawa Red Diamonds,Japan
 2660,2006,Japan,Hamburger SV,Germany
 2661,2006,Japan,JEF United,Japan
+2662,2002,Japan,Kashima Antlers,Japan
 2662,2006,Japan,Kashima Antlers,Japan
 2663,2006,Japan,Grenoble,France
+2664,2002,Mexico,Guadalajara,Mexico
 2664,2006,Mexico,Guadalajara,Mexico
 2665,2006,Mexico,Chivas USA,USA
 2666,2006,Mexico,Guadalajara,Mexico
@@ -3582,10 +3607,14 @@ player_id,world_cup_year,team,club,country_club
 2668,2006,Mexico,Monterrey,Mexico
 2669,2006,Mexico,Toluca,Mexico
 2670,2006,Mexico,America,Mexico
+2671,2002,Mexico,Guadalajara,Mexico
 2671,2006,Mexico,Guadalajara,Mexico
+2672,2002,Mexico,Toluca,Mexico
 2672,2006,Mexico,Atlas,Mexico
+2673,2002,Mexico,Monterrey,Mexico
 2673,2006,Mexico,Monterrey,Mexico
 2674,2006,Mexico,Monterrey,Mexico
+2675,2002,Mexico,Santos Laguna,Mexico
 2675,2006,Mexico,Bolton Wanderers,England
 2676,2006,Mexico,Cruz Azul,Mexico
 2677,2006,Mexico,Guadalajara,Mexico
