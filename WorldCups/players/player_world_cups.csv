@@ -2417,11 +2417,14 @@ player_id,world_cup_year,team,club,country_club
 1756,2014,Netherlands,Dynamo Kyiv,Ukraine
 1757,2010,Netherlands,AC Milan,Italy
 1757,2014,Netherlands,Schalke 04,Germany
+1758,2002,Nigeria,Enyimba,Nigeria
 1758,2010,Nigeria,Hapoel Tel Aviv,Israel
 1758,2014,Nigeria,Lille,France
+1759,2002,Nigeria,Gabros International,Nigeria
 1759,2010,Nigeria,Hapoel Petah Tikva,Israel
 1759,2014,Nigeria,Hapoel Be'er Sheva,Israel
 1760,2014,Nigeria,Gombe United,Nigeria
+1761,2002,Nigeria,Marseille,France
 1761,2010,Nigeria,Everton,England
 1761,2014,Nigeria,Norwich City,England
 1762,2014,Nigeria,Celtic,Scotland
@@ -2481,6 +2484,7 @@ player_id,world_cup_year,team,club,country_club
 1806,2014,Russia,Zenit Saint Petersburg,Russia
 1807,2014,Russia,Amkar Perm,Russia
 1808,2014,Russia,Dynamo Moscow,Russia
+1809,2002,Russia,Zenit Saint Petersburg,Russia
 1809,2014,Russia,Zenit Saint Petersburg,Russia
 1810,2014,Russia,Dynamo Moscow,Russia
 1811,2010,South Korea,Seongnam Ilhwa Chunma,South Korea
@@ -2503,6 +2507,7 @@ player_id,world_cup_year,team,club,country_club
 1823,2014,South Korea,Watford,England
 1824,2014,South Korea,Sangju Sangmu,South Korea
 1825,2014,South Korea,FC Augsburg,Germany
+1826,2002,Spain,Real Madrid,Spain
 1826,2006,Spain,Real Madrid,Spain
 1826,2010,Spain,Real Madrid,Spain
 1826,2014,Spain,Real Madrid,Spain
@@ -2510,8 +2515,10 @@ player_id,world_cup_year,team,club,country_club
 1827,2010,Spain,Real Madrid,Spain
 1827,2014,Spain,Napoli,Italy
 1828,2014,Spain,Atletico Madrid,Spain
+1828,2014,Spain,Atletico Madrid,Spain
 1829,2010,Spain,Athletic Bilbao,Spain
 1829,2014,Spain,Bayern Munich,Germany
+1830,2002,Spain,Barcelona,Spain
 1830,2006,Spain,Barcelona,Spain
 1830,2010,Spain,Barcelona,Spain
 1830,2014,Spain,Barcelona,Spain
@@ -2999,6 +3006,7 @@ player_id,world_cup_year,team,club,country_club
 2172,2010,New Zealand,West Bromwich Albion,England
 2173,2010,Nigeria,Bnei Yehuda,Israel
 2174,2010,Nigeria,Marseille,France
+2175,2002,Nigeria,Standard Liege,Belgium
 2175,2010,Nigeria,Red Bull Salzburg,Austria
 2176,2010,Nigeria,Bolton Wanderers,England
 2177,2010,Nigeria,CSKA Moscow,Russia
@@ -3007,7 +3015,9 @@ player_id,world_cup_year,team,club,country_club
 2180,2010,Nigeria,Alania Vladikavkaz,Russia
 2181,2010,Nigeria,Monaco,France
 2182,2010,Nigeria,Fulham,England
+2183,2002,Nigeria,Arsenal,England
 2183,2010,Nigeria,Portsmouth,England
+2184,2002,Nigeria,Al Saad,Qatar
 2184,2010,Nigeria,Portsmouth,England
 2185,2010,Nigeria,Everton,England
 2186,2010,Nigeria,VfL Wolfsburg,Germany
@@ -3038,6 +3048,7 @@ player_id,world_cup_year,team,club,country_club
 2211,2010,North Korea,Kawasaki Frontale,Japan
 2212,2010,North Korea,Rostov,Russia
 2213,2010,North Korea,April 25,North Korea
+2214,2002,Paraguay,Libertad,Paraguay
 2214,2006,Paraguay,Newell's Old Boys,Argentina
 2214,2010,Paraguay,Valladolid,Spain
 2215,2010,Paraguay,Cerro Porteño,Paraguay
@@ -3045,9 +3056,12 @@ player_id,world_cup_year,team,club,country_club
 2216,2010,Paraguay,Independiente Medellín,Colombia
 2217,2010,Paraguay,UNAM,Mexico
 2218,2010,Paraguay,Boca Juniors,Argentina
-2219,2010,Paraguay,León,Mexico
+2219,2002,Paraguay,Santos Laguna,Mexico
+2219,2010,Paraguay,Leon,Mexico
+2220,2002,Paraguay,Olimpia,Paraguay
 2220,2006,Paraguay,River Plate,Argentina
-2220,2010,Paraguay,Atlético Mineiro,Brazil
+2220,2010,Paraguay,Atletico Mineiro,Brazil
+2221,2002,Paraguay,Libertad,Paraguay
 2221,2006,Paraguay,Libertad,Paraguay
 2221,2010,Paraguay,Olimpia,Paraguay
 2222,2006,Paraguay,Toluca,Mexico
@@ -3063,6 +3077,7 @@ player_id,world_cup_year,team,club,country_club
 2229,2010,Paraguay,Cruz Azul,Mexico
 2230,2010,Paraguay,Argentinos Juniors,Argentina
 2231,2010,Paraguay,Benfica,Portugal
+2232,2002,Paraguay,Bayern Munich,Germany
 2232,2006,Paraguay,Bayern Munich,Germany
 2232,2010,Paraguay,Manchester City,England
 2233,2010,Paraguay,Pachuca,Mexico
@@ -3160,15 +3175,18 @@ player_id,world_cup_year,team,club,country_club
 2315,2010,South Africa,Maritzburg United,South Africa
 2316,2010,South Africa,Mamelodi Sundowns,South Africa
 2317,2010,South Africa,Maccabi Haifa,Israel
+2318,2002,South Africa,Germinal Beerschot,Belgium
 2318,2010,South Africa,Portsmouth,England
 2319,2010,South Africa,Genk,Belgium
 2320,2010,South Africa,Mamelodi Sundowns,South Africa
 2321,2010,South Africa,Orlando Pirates,South Africa
 2322,2010,South Africa,Supersport United,South Africa
 2323,2010,South Africa,Golden Arrows,South Africa
+2324,2002,South Africa,Jomo Cosmos,South Africa
 2324,2010,South Africa,Rubin Kazan,Russia
 2325,2010,South Africa,Ajax Cape Town,South Africa
 2326,2010,South Africa,Kaizer Chiefs,South Africa
+2327,2002,South Africa,Ajax,Netherlands
 2327,2010,South Africa,Everton,England
 2328,2010,South Africa,Orlando Pirates,South Africa
 2329,2010,South Africa,Kaizer Chiefs,South Africa
@@ -3177,7 +3195,9 @@ player_id,world_cup_year,team,club,country_club
 2332,2010,South Africa,Golden Arrows,South Africa
 2333,2010,South Africa,Mamelodi Sundowns,South Africa
 2334,2010,South Africa,Twente,Netherlands
+2335,2002,South Africa,Udinese,Italy
 2335,2010,South Africa,Moroka Swallows,South Africa
+2336,2002,South Korea,Suwon Samsung Bluewings,South Korea
 2336,2006,South Korea,Suwon Samsung Bluewings,South Korea
 2336,2010,South Korea,Suwon Samsung Bluewings,South Korea
 2337,2006,South Korea,Jeonnam Dragons,South Korea
@@ -3185,19 +3205,24 @@ player_id,world_cup_year,team,club,country_club
 2338,2010,South Korea,Ulsan Hyundai,South Korea
 2339,2010,South Korea,Pohang Steelers,South Korea
 2340,2010,South Korea,Jeju United,South Korea
+2341,2002,South Korea,FC Seoul,South Korea
 2341,2006,South Korea,Tottenham,England
 2341,2010,South Korea,Al Hilal,Saudi Arabia
 2342,2010,South Korea,Kashima Antlers,Japan
 2343,2006,South Korea,FC Seoul,South Korea
 2343,2010,South Korea,Ulsan Hyundai,South Korea
+2344,2002,South Korea,Korea University,South Korea
 2344,2010,South Korea,SC Freiburg,Germany
 2345,2010,South Korea,Suwon Samsung Bluewings,South Korea
+2346,2002,South Korea,Jeonman Dragons,South Korea
 2346,2006,South Korea,Suwon Samsung Bluewings,South Korea
 2346,2010,South Korea,Tom Tomsk,Russia
+2347,2002,South Korea,Kyoto Sanga FC,Japan
 2347,2006,South Korea,Manchester United,England
 2347,2010,South Korea,Manchester United,England
 2348,2010,South Korea,Gwangju Sangmu,South Korea
 2349,2010,South Korea,Pohang Steelers,South Korea
+2350,2002,South Korea,Perugia,Italy
 2350,2006,South Korea,MSV Duisburg,Germany
 2350,2010,South Korea,Dalian Shide,China
 2351,2010,South Korea,FC Seoul,South Korea
@@ -3205,6 +3230,7 @@ player_id,world_cup_year,team,club,country_club
 2353,2010,South Korea,Jeonbuk Hyundai Motors,South Korea
 2354,2006,Spain,Valencia,Spain
 2354,2010,Spain,Valencia,Spain
+2355,2002,Spain,Barcelona,Spain
 2355,2006,Spain,Barcelona,Spain
 2355,2010,Spain,Barcelona,Spain
 2356,2010,Spain,Villarreal,Spain
@@ -3292,7 +3318,7 @@ player_id,world_cup_year,team,club,country_club
 2428,2002,Argentina,Cruzeiro,Brazil
 2428,2006,Argentina,Villarreal,Spain
 2429,2006,Argentina,Deportivo La Coruña,Spain
-
+2430,2002,Spain,Celta de Vigo,Spain
 2431,2006,Argentina,Deportivo La Coruña,Spain
 2432,2006,Argentina,Real Zaragoza,Spain
 2433,2006,Argentina,Roma,Italy
@@ -3631,73 +3657,100 @@ player_id,world_cup_year,team,club,country_club
 2688,2006,Paraguay,Sportivo Luqueño,Paraguay
 2689,2006,Paraguay,Estudiantes,Argentina
 2690,2006,Paraguay,Real Zaragoza,Spain
+2691,2002,Paraguay,AEK Athens,Greece
 2691,2006,Paraguay,Palmeiras,Brazil
 2692,2006,Paraguay,Santos,Brazil
 
+2694,2002,Paraguay,Real Zaragoza,Spain
 2694,2006,Paraguay,Deportivo La Coruña,Spain
+2695,2002,Paraguay,Tecos,Mexico
 2695,2006,Paraguay,Newell's Old Boys,Argentina
+2696,2002,Paraguay,Porto,Portugal
 2696,2006,Paraguay,Reggina,Italy
 2697,2006,Paraguay,Olimpia,Paraguay
 2698,2006,Paraguay,Bayern Munich,Germany
 2699,2006,Paraguay,Chiapas,Mexico
 
 2701,2006,Paraguay,Genoa,Italy
+2702,2002,Paraguay,River Plate,Argentina
 2702,2006,Paraguay,Pachuca,Mexico
 2703,2006,Poland,Celtic,Scotland
 2704,2006,Poland,West Bromwich Albion,England
 2705,2006,Poland,FC Moscow,Russia
 2706,2006,Poland,Metalist Kharkiv,Ukraine
 2707,2006,Poland,Wisla Krakow,Poland
+2708,2002,Poland,Lens,France
 2708,2006,Poland,Al-Rayyan,Qatar
+2709,2002,Poland,Mouscron,Belgium
 2709,2006,Poland,Anderlecht,Belgium
 2710,2006,Poland,Shakhtar Donetsk,Ukraine
 2711,2006,Poland,Lech Poznan,Poland
 2712,2006,Poland,1. FC Kaiserslautern,Germany
 2713,2006,Poland,Wisla Krakow,Poland
+2714,2002,Poland,1. FC Nuremberg,Germany
 2714,2006,Poland,Bayer Leverkusen,Germany
 2715,2006,Poland,Trabzonspor,Turkey
 2716,2006,Poland,Austria Wien,Austria
 2717,2006,Poland,Austria Wien,Austria
 2718,2006,Poland,Wisla Krakow,Poland
 2719,2006,Poland,Cracovia,Poland
+2720,2002,Poland,Wisla Krakow,Poland
 2720,2006,Poland,Celtic,Scotland
 2721,2006,Poland,Tottenham,England
 2722,2006,Poland,Borussia Dortmund,Germany
 2723,2006,Poland,Wisla Plock,Poland
 2724,2006,Poland,Wisla Krakow,Poland
+2725,2002,Portugal,Boavista,Portugal
 2725,2006,Portugal,Sporting CP,Portugal
 2726,2006,Portugal,Benfica,Portugal
 2727,2006,Portugal,SC Braga,Portugal
+2728,2002,Portugal,Benfica,Portugal
 2728,2006,Portugal,Valencia,Spain
 2729,2006,Portugal,VfB Stuttgart,Germany
 2730,2006,Portugal,Everton,England
 2731,2006,Portugal,Dynamo Moscow,Russia
+2732,2002,Portugal,Real Madrid,Spain
 2732,2006,Portugal,Internazionale,Italy
+2733,2002,Portugal,Boavista,Portugal
 2733,2006,Portugal,Benfica,Portugal
+2734,2002,Portugal,Sporting CP,Portugal
 2734,2006,Portugal,Valencia,Spain
 2735,2006,Portugal,Dynamo Moscow,Russia
+2736,2002,Portugal,Bordeaux,France
 2736,2006,Portugal,PSG,France
 2737,2006,Portugal,Fulham,England
+2738,2002,Portugal,Fiorentina,Italy
 2738,2006,Portugal,Benfica,Portugal
+2739,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2739,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2740,2002,Saudi Arabia,Al-Ittihad,Saudi Arabia
 2740,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
 2741,2006,Saudi Arabia,Al Shabab,Saudi Arabia
+2742,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2742,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2743,2002,Saudi Arabia,Al Shabab,Saudi Arabia
 2743,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
 2744,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
 2745,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2746,2002,Saudi Arabia,Al Shabab,Saudi Arabia
 2746,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2747,2002,Saudi Arabia,Al-Ahli,Saudi Arabia
 2747,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
 2748,2006,Saudi Arabia,Al Ettifaq,Saudi Arabia
 2749,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
 2750,2006,Saudi Arabia,Al-Ahli,Saudi Arabia
+2751,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2751,2006,Saudi Arabia,Al Hilal,Saudi Arabia
 2752,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2753,2002,Saudi Arabia,Al-Ittihad,Saudi Arabia
 2753,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
+2754,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2754,2006,Saudi Arabia,Al Hilal,Saudi Arabia
 2755,2006,Saudi Arabia,Al-Ittihad,Saudi Arabia
 2756,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2757,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2757,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2758,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2758,2006,Saudi Arabia,Al Hilal,Saudi Arabia
 2759,2006,Saudi Arabia,Al Nassr,Saudi Arabia
 2760,2006,Saudi Arabia,Al Hilal,Saudi Arabia
@@ -3723,16 +3776,21 @@ player_id,world_cup_year,team,club,country_club
 2780,2006,Serbia & Montenegro,PSG,France
 2781,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
 2782,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2783,2002,South Korea,Jeonbuk Hyundai Motors,South Korea
 2783,2006,South Korea,Jeonbuk Hyundai Motors,South Korea
 2784,2006,South Korea,Jubilo Iwata,Japan
 2785,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2786,2002,South Korea,Busan I'Cons,South Korea
 2786,2006,South Korea,Suwon Samsung Bluewings,South Korea
 2787,2006,South Korea,Suwon Samsung Bluewings,South Korea
 2788,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
+2789,2002,South Korea,Jeju United,South Korea
 2789,2006,South Korea,Trabzonspor,Turkey
 2790,2006,South Korea,FC Seoul,South Korea
 2791,2006,South Korea,Ulsan Hyundai Horangi,South Korea
+2792,2006,South Korea,Anderlecht,Belgium
 2792,2006,South Korea,Wolverhampton,England
+2793,2002,South Korea,Ulsan Hyundai Horangi,South Korea
 2793,2006,South Korea,Ulsan Hyundai Horangi,South Korea
 2794,2006,South Korea,Gwangju Sangmu Phoenix,South Korea
 2795,2006,South Korea,Shimizu S-Pulse,Japan
@@ -3742,11 +3800,14 @@ player_id,world_cup_year,team,club,country_club
 2799,2006,Spain,Atletico Madrid,Spain
 2800,2006,Spain,Real Betis,Spain
 2801,2006,Spain,Atletico Madrid,Spain
+2802,2002,Spain,Valencia,Spain
 2802,2006,Spain,Valencia,Spain
 2803,2006,Spain,Arsenal,England
 2804,2006,Spain,Liverpool,England
 2805,2006,Spain,Villarreal,Spain
+2806,2002,Spain,Real Betis,Spain
 2806,2006,Spain,Real Betis,Spain
+2807,2002,Spain,Real Madrid,Spain
 2807,2006,Spain,Real Madrid,Spain
 2808,2006,Sweden,Rennes,France
 2809,2006,Sweden,Viborg,Denmark
