@@ -1,11 +1,109 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Davor Suker,Croatia,6,0,630
+2,Gabriel Batistuta,Argentina,5,0,427
+3,Christian Vieri,Italy,5,0,429
+4,Ronaldo,Brazil,4,3,660
+5,Marcelo Salas,Chile,4,0,360
+6,César Sampaio,Brazil,3,0,529
+7,Rivaldo,Brazil,3,2,652
+8,Bebeto,Brazil,3,2,518
+9,Thierry Henry,France,3,0,368
+10,Jurgen Klinsmann ,Germany,3,1,450
+11,Oliver Bierhoff,Germany,3,1,450
+12,Luis Hernández,Mexico,3,0,360
+13,Dennis Bergkamp,Netherlands,3,3,594
+14,Ariel Ortega,Argentina,2,2,437
+15,Marc Wilmots,Belgium,2,0,270
+16,Robert Prosine?ki,Croatia,2,0,302
+17,Brian Laudrup,Denmark,2,3,427
+18,Alan Shearer ,England,2,1,390
+19,Michael Owen,England,2,0,235
+20,Lilian Thuram,France,2,0,600
+21,Zinedine Zidane,France,2,1,460
+22,Emmanuel Petit,France,2,1,503
+23,Roberto Baggio,Italy,2,2,227
+24,Theodore Whitmore,Jamaica,2,0,252
+25,Ricardo Peláez,Mexico,2,0,86
+26,Abdeljalil Hadda,Morocco,2,1,262
+27,Salaheddine Bassir,Morocco,2,0,270
+28,Ronald de Boer,Netherlands,2,2,525
+29,Phillip Cocu,Netherlands,2,1,615
+30,Patrick Kluivert,Netherlands,2,0,381
+31,Viorel Moldovan,Romania,2,0,281
+32,Shaun Bartlett,South Africa,2,1,168
+33,Fernando Hierro,Spain,2,2,270
+34,Fernando Morientes,Spain,2,0,129
+35,Slobodan Komljenovi?,Yugoslavia,2,0,270
+36,Mauricio Pineda,Argentina,1,0,124
+37,Javier Zanetti,Argentina,1,0,456
+38,Claudio López,Argentina,1,2,330
+39,Andi Herzog,Austria,1,0,137
+40,Ivica Vasti?,Austria,1,0,117
+41,Toni Polster ,Austria,1,0,241
+42,Luc Nilis,Belgium,1,0,256
+43,Emil Kostadinov,Bulgaria,1,0,203
+44,Pierre Njanka,Cameroon,1,0,270
+45,Patrick M'Boma,Cameroon,1,0,245
+46,José Luis Sierra,Chile,1,0,159
+47,Léider Preciado,Colombia,1,0,87
+48,Robert Jarni,Croatia,1,2,630
+49,Mario Stani?,Croatia,1,2,616
+50,Goran Vlaovi?,Croatia,1,0,365
+51,Marc Rieper,Denmark,1,0,450
+52,Thomas Helveg,Denmark,1,0,446
+53,Allan Nielsen,Denmark,1,0,341
+54,Michael Laudrup ,Denmark,1,2,408
+55,Martin Jørgensen,Denmark,1,1,395
+56,Peter Møller,Denmark,1,0,123
+57,Ebbe Sand,Denmark,1,0,241
+58,David Beckham,England,1,1,195
+59,Darren Anderton,England,1,0,354
+60,Paul Scholes,England,1,0,329
+61,Bixente Lizarazu,France,1,1,600
+62,Laurent Blanc,France,1,0,495
+63,Youri Djorkaeff,France,1,3,595
+64,David Trezeguet,France,1,1,351
+65,Christophe Dugarry,France,1,0,119
+66,Andreas Möller,Germany,1,0,178
+67,Mehdi Mahdavikia,Iran,1,0,270
+68,Hamid Estili,Iran,1,0,247
+69,Luigi Di Biagio,Italy,1,1,424
+70,Robbie Earle,Jamaica,1,0,93
+71,Masashi Nakayama,Japan,1,0,214
+72,Claudio Suárez,Mexico,1,0,360
+73,Alberto García Aspe ,Mexico,1,0,310
+74,Cuauhtémoc Blanco,Mexico,1,2,360
+75,Mustapha Hadji,Morocco,1,1,270
+76,Boudewijn Zenden,Netherlands,1,0,197
+77,Marc Overmars,Netherlands,1,1,432
+78,Edgar Davids,Netherlands,1,0,570
+79,Pierre van Hooijdonk,Netherlands,1,0,92
+80,Mutiu Adepoju,Nigeria,1,0,270
+81,Tijani Babangida,Nigeria,1,0,123
+82,Sunday Oliseh,Nigeria,1,0,315
+83,Wilson Oruma,Nigeria,1,0,67
+84,Victor Ikpeba,Nigeria,1,0,246
+85,Dan Eggen,Norway,1,0,360
+86,Kjetil Rekdal,Norway,1,0,360
+87,Tore André Flo,Norway,1,0,360
+88,Håvard Flo,Norway,1,0,269
+89,Celso Ayala,Paraguay,1,0,390
+90,José Cardozo,Paraguay,1,0,249
+91,Miguel Ángel Benítez,Paraguay,1,0,366
+92,Dan Petrescu,Romania,1,0,344
+93,Adrian Ilie,Romania,1,0,315
+94,Yousuf Al-Thunayan ,Saudi Arabia,1,0,87
+95,Sami Al-Jaber,Saudi Arabia,1,0,263
+96,Craig Burley,Scotland,1,0,232
+97,John Collins,Scotland,1,0,270
+98,Benni McCarthy,South Africa,1,0,223
+99,Yoo Sang-chul,South Korea,1,0,270
+100,Ha Seok-ju,South Korea,1,1,119
+101,Luis Enrique,Spain,1,1,248
+102,Raúl,Spain,1,1,195
+103,Kiko,Spain,1,0,142
+104,Skander Souayah,Tunisia,1,0,224
+105,Brian McBride,USA,1,0,180
+106,Siniša Mihajlovi?,Yugoslavia,1,0,347
+107,Dragan Stojkovi? ,Yugoslavia,1,0,273
+108,Predrag Mijatovi?,Yugoslavia,1,0,299
