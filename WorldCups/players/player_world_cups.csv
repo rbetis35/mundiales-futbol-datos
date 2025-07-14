@@ -1994,6 +1994,7 @@ player_id,world_cup_year,team,club,country_club
 1459,2010,Cameroon,Schalke 04,Germany
 1459,2014,Cameroon,Schalke 04,Germany
 1460,2014,Cameroon,Nancy,France
+1461,1998,Cameroon,Leganés,Spain
 1461,2002,Cameroon,Mallorca,Spain
 1461,2010,Cameroon,Internazionale,Italy
 1461,2014,Cameroon,Chelsea,England
@@ -2635,6 +2636,7 @@ player_id,world_cup_year,team,club,country_club
 1902,2002,Argentina,Roma,Italy
 1902,2010,Argentina,Internazionale,Italy
 1903,2010,Argentina,Fiorentina,Italy
+1904,1998,Argentina,Sampdoria,Italy
 1904,2002,Argentina,Manchester United,England
 1904,2010,Argentina,Estudiantes,Argentina
 1905,2010,Argentina,Newcastle United,England
@@ -2704,6 +2706,7 @@ player_id,world_cup_year,team,club,country_club
 1946,2010,Cameroon,Espanyol,Spain
 1947,2010,Cameroon,Kayserispor,Turkey
 1948,2010,Cameroon,Valenciennes,France
+1949,1998,Cameroon,Metz,France
 1949,2002,Cameroon,1. FC Koln,Germany
 1949,2010,Cameroon,Trabzonspor,Turkey
 1950,2010,Cameroon,Tottenham,England
@@ -3318,6 +3321,7 @@ player_id,world_cup_year,team,club,country_club
 2424,2006,Argentina,Boca Juniors,Argentina
 2425,2006,Argentina,Atletico Madrid,Spain
 2426,2006,Argentina,Independiente,Argentina
+2427,1998,Argentina,Napoli,Italy
 2427,2002,Argentina,Valencia,Spain
 2427,2006,Argentina,Valencia,Spain
 2428,2002,Argentina,Cruzeiro,Brazil
@@ -3333,6 +3337,7 @@ player_id,world_cup_year,team,club,country_club
 2436,2006,Argentina,Valencia,Spain
 2437,2006,Argentina,Porto,Portugal
 2438,2006,Argentina,Barcelona,Spain
+2439,1998,Argentina,Parma,Italy
 2439,2002,Argentina,Lazio,Italy
 2439,2006,Argentina,Chelsea,England
 2440,2006,Argentina,Internazionale,Italy
@@ -3345,26 +3350,32 @@ player_id,world_cup_year,team,club,country_club
 2447,2006,Australia,Middlesbrough,England
 2448,2006,Australia,Alaves,Spain
 2449,2006,Australia,Melbourne Victory,Australia
+2450,1998,Brazil,Cruzeiro,Brazil
 2450,2002,Brazil,Corinthians,Brazil
 2450,2006,Brazil,AC Milan,Italy
 2451,2002,Brazil,Sao Paulo,Brazil
 2451,2006,Brazil,Sao Paulo,Brazil
+2452,1998,Brazil,Roma,Italy
 2452,2002,Brazil,Roma,Italy
 2452,2006,Brazil,AC Milan,Italy
 2453,2002,Portugal,Sporting CP,Portugal
+2454,1998,Brazil,Real Madrid,Spain
 2454,2002,Brazil,Real Madrid,Spain
 2454,2006,Brazil,Real Madrid,Spain
 2455,2006,Brazil,Real Madrid,Spain
 2456,2006,Brazil,Lyon,France
+2457,1998,Brazil,Bayer Leverkusen,Germany
 2457,2006,Brazil,Juventus,Italy
 2458,2002,Brazil,PSG,France
 2458,2006,Brazil,Barcelona,Spain
+2459,1998,Brazil,Flamengo,Brazil
 2459,2006,Brazil,Bayern Munich,Germany
 2460,2006,Brazil,Sao Paulo,Brazil
 2461,2006,Brazil,Lyon,France
 2462,2002,Brazil,Corinthians,Brazil
 2462,2006,Brazil,Corinthians,Brazil
 2463,2006,Brazil,Internazionale,Italy
+2464,1998,Brazil,Internazionale,Italy
 2464,2002,Brazil,Internazionale,Italy
 2464,2006,Brazil,Real Madrid,Spain
 2465,2002,Costa Rica,Alajuelense,Costa Rica
@@ -3986,99 +3997,124 @@ player_id,world_cup_year,team,club,country_club
 2950,2002,USA,Columbus Crew,USA
 2950,2006,USA,Fulham,England
 2951,2006,Brazil,Lyon,France
-2952,2002,Argentina, Atletico Madrid,Spain
-2953,2002,Argentina, Celta de Vigo,Spain
-2954,2002,Argentina, Barcelona,Spain
-2955,2002,Argentina, PSG,France
-2956,2002,Argentina, Internazionale,Italy
-2957,2002,Argentina, Bayer Leverkusen,Germany
-2958,2002,Argentina, AC Milan,Italy
-2959,2002,Argentina, Parma,Italy
-2960,2002,Argentina, River Plate,Argentina
-2961,2002,Argentina, Lazio,Italy
-2962,2002,Argentina, River Plate,Argentina
-2963,2002,Argentina, Celta de Vigo,Spain
-2964,2002,Argentina, Valencia,Spain
-2965,2002,Argentina, Monaco,France
-2966,2002,Argentina, Lazio,Italy
-2967,2002,Argentina, Roma,Italy
-2968,2002,Argentina, Rangers,Scotland
-2969,2002,Belgium, Willem II,Netherlands
-2970,2002,Belgium, Mouscron,Belgium
-2971,2002,Belgium, Gent,Belgium
-2972,2002,Belgium, Lyon,France
-2973,2002,Belgium, Anderlecht,Belgium
-2974,2002,Belgium, Standard Liege,Belgium
-2975,2002,Belgium, Schalke 04,Germany
-2976,2002,Belgium, Club Brugge,Belgium
-2977,2002,Belgium, Gent,Belgium
-2978,2002,Belgium, Club Brugge,Belgium
-2979,2002,Belgium, Hertha BSC,Germany
-2980,2002,Belgium, Standard Liege,Belgium
-2981,2002,Belgium, Schalke 04,Germany
-2982,2002,Belgium, Club Brugge,Belgium
-2983,2002,Belgium, Anderlecht,Belgium
-2984,2002,Belgium, Genk,Belgium
-2985,2002,Belgium, Sint-Truiden,Belgium
-2986,2002,Belgium, Schalke 04,Germany
-2987,2002,Belgium, Genk,Belgium
-2988,2002,Belgium, Club Brugge,Belgium
-2989,2002,Belgium, Derby County,England
-2990,2002,Belgium, Mouscron,Belgium
-2991,2002,Brazil, Palmeiras,Brazil
-2992,2002,Brazil, AC Milan,Italy
-2993,2002,Brazil, Lyon,France
-2994,2002,Brazil, São Paulo,Brazil
-2995,2002,Brazil, Grêmio,Brazil
-2996,2002,Brazil, Parma,Italy
-2997,2002,Brazil, Barcelona,Spain
-2998,2002,Brazil, Corinthians,Brazil
-2999,2002,Brazil, Flamengo,Brazil
-3000,2002,Brazil, Real Betis,Spain
-3001,2002,Brazil, Cruzeiro,Brazil
-3002,2002,Brazil, Grêmio,Brazil
-3003,2002,Cameroon, Samsunspor,Turkey
-3004,2002,Cameroon, Metz,France
-3005,2002,Cameroon, Montpellier,France
-3006,2002,Cameroon, Bologna,Italy
-3007,2002,Cameroon, Extremadura,Spain
-3008,2002,Cameroon, Strasbourg,France
-3009,2002,Cameroon, Manchester City,England
-3010,2002,Cameroon, Al-Khaleej,Saudi Arabia
-3011,2002,Cameroon, Arsenal,England
-3012,2002,Cameroon, Panachaiki,Greece
-3013,2002,Cameroon, Rizespor,Turkey
-3014,2002,Cameroon, Lyon,France
-3015,2002,Cameroon, Nantes,France
-3016,2002,Cameroon, Marseille,France
-3017,2002,Cameroon, Numancia,Spain
-3018,2002,Cameroon, Sunderland,England
-3019,2002,Cameroon, Sedan,France
-3020,2002,Cameroon, Sheffield United,England
-3021,2002,Cameroon, Metz,France
-3022,2002,China, Dalian Shide,China
-3023,2002,China, Tianjin Teda,China
-3024,2002,China, Yunnan Hongta,China
-3025,2002,China, Dalian Shide,China
-3026,2002,China, Beijing Guoan,China
-3027,2002,China, Shanghai Shenhua,China
-3028,2002,China, Dundee,Scotland
-3029,2002,China, Manchester City,England
-3030,2002,China, Shenzhen Pingan,China
-3031,2002,China, Shanghai Shenhua,China
-3032,2002,China, Beijing Guoan,China
-3033,2002,China, Beijing Guoan,China
-3034,2002,China, Liaoning,China
-3035,2002,China, Sichuan First City,China
-3036,2002,China, Tianjin Teda,China
-3037,2002,China, Shandong Luneng,China
-3038,2002,China, Liaoning,China
-3039,2002,China, Shandong Luneng,China
-3040,2002,China, Beijing Chengfeng F.C.,China
-3041,2002,China, Dalian Shide,China
-3042,2002,China, Shandong Luneng,China
-3043,2002,China, Qingdao Etsong Hainiu,China
-3044,2002,China, Eintracht Frankfurt,Germany
+2952,1998,Argentina,River Plate,Argentina
+2952,2002,Argentina,Atletico Madrid,Spain
+2953,1998,Argentina,Velez Sarsfield,Argentina
+2953,2002,Argentina,Celta de Vigo,Spain
+2954,2002,Argentina,Barcelona,Spain
+2955,2002,Argentina,PSG,France
+2956,1998,Argentina,Internazionale,Italy
+2956,2002,Argentina,Internazionale,Italy
+2957,2002,Argentina,Bayer Leverkusen,Germany
+2958,2002,Argentina,AC Milan,Italy
+2959,1998,Argentina,Lazio,Italy
+2959,2002,Argentina,Parma,Italy
+2960,1998,Argentina,Valencia,Spain
+2960,2002,Argentina,River Plate,Argentina
+2961,1998,Argentina,Internazionale,Italy
+2961,2002,Argentina,Lazio,Italy
+2962,2002,Argentina,River Plate,Argentina
+2963,2002,Argentina,Celta de Vigo,Spain
+2964,2002,Argentina,Valencia,Spain
+2965,1998,Argentina,River Plate,Argentina
+2965,2002,Argentina,Monaco,France
+2966,1998,Argentina,Valencia,Spain
+2966,2002,Argentina,Lazio,Italy
+2967,1998,Argentina,Fiorentina,Italy
+2967,2002,Argentina,Roma,Italy
+2968,2002,Argentina,Rangers,Scotland
+2969,2002,Belgium,Willem II,Netherlands
+2970,2002,Belgium,Mouscron,Belgium
+2971,2002,Belgium,Gent,Belgium
+2972,1998,Belgium,Club Brugge,Belgium
+2972,2002,Belgium,Lyon,France
+2973,1998,Belgium,Anderlecht,Belgium
+2973,2002,Belgium,Anderlecht,Belgium
+2974,1998,Belgium,Lierse,Belgium
+2974,2002,Belgium,Standard Liege,Belgium
+2975,1998,Belgium,Lierse,Belgium
+2975,2002,Belgium,Schalke 04,Germany
+2976,2002,Belgium,Club Brugge,Belgium
+2977,2002,Belgium,Gent,Belgium
+2978,2002,Belgium,Club Brugge,Belgium
+2979,2002,Belgium,Hertha BSC,Germany
+2980,2002,Belgium,Standard Liege,Belgium
+2981,2002,Belgium,Schalke 04,Germany
+2982,2002,Belgium,Club Brugge,Belgium
+2983,2002,Belgium,Anderlecht,Belgium
+2984,2002,Belgium,Genk,Belgium
+2985,1998,Belgium,Metz,France
+2985,2002,Belgium,Sint-Truiden,Belgium
+2986,1998,Belgium,Schalke 04,Germany
+2986,2002,Belgium,Schalke 04,Germany
+2987,2002,Belgium,Genk,Belgium
+2988,1998,Belgium,Club Brugge,Belgium
+2988,2002,Belgium,Club Brugge,Belgium
+2989,2002,Belgium,Derby County,England
+2990,1998,Belgium,Standard Liege,Belgium
+2990,2002,Belgium,Mouscron,Belgium
+2991,2002,Brazil,Palmeiras,Brazil
+2992,2002,Brazil,AC Milan,Italy
+2993,2002,Brazil,Lyon,France
+2994,2002,Brazil,São Paulo,Brazil
+2995,2002,Brazil,Grêmio,Brazil
+2996,2002,Brazil,Parma,Italy
+2997,1998,Brazil,Barcelona,Spain
+2997,2002,Brazil,Barcelona,Spain
+2998,2002,Brazil,Corinthians,Brazil
+2999,2002,Brazil,Flamengo,Brazil
+3000,1998,Brazil,São Paulo,Brazil
+3000,2002,Brazil,Real Betis,Spain
+3001,2002,Brazil,Cruzeiro,Brazil
+3002,2002,Brazil,Grêmio,Brazil
+3003,1998,Cameroon,Samsunspor,Turkey
+3003,2002,Cameroon,Samsunspor,Turkey
+3004,1998,Cameroon,Deportivo La Coruña,Spain
+3004,2002,Cameroon,Metz,France
+3005,2002,Cameroon,Montpellier,France
+3006,1998,Cameroon,Lucchese,Italy
+3006,2002,Cameroon,Bologna,Italy
+3007,1998,Cameroon,Panachaiki,Greece
+3007,2002,Cameroon,Extremadura,Spain
+3008,1998,Cameroon,Olympic Mvolyé,Cameroon
+3008,2002,Cameroon,Strasbourg,France
+3009,2002,Cameroon,Manchester City,England
+3010,1998,Cameroon,Cotonsport Garoua,Cameroon
+3010,2002,Cameroon,Al-Khaleej,Saudi Arabia
+3011,2002,Cameroon,Arsenal,England
+3012,2002,Cameroon,Panachaiki,Greece
+3013,2002,Cameroon,Rizespor,Turkey
+3014,2002,Cameroon,Lyon,France
+3015,2002,Cameroon,Nantes,France
+3016,2002,Cameroon,Marseille,France
+3017,2002,Cameroon,Numancia,Spain
+3018,2002,Cameroon,Sunderland,England
+3019,2002,Cameroon,Sedan,France
+3020,2002,Cameroon,Sheffield United,England
+3021,2002,Cameroon,Metz,France
+3022,2002,China,Dalian Shide,China
+3023,2002,China,Tianjin Teda,China
+3024,2002,China,Yunnan Hongta,China
+3025,2002,China,Dalian Shide,China
+3026,2002,China,Beijing Guoan,China
+3027,2002,China,Shanghai Shenhua,China
+3028,2002,China,Dundee,Scotland
+3029,2002,China,Manchester City,England
+3030,2002,China,Shenzhen Pingan,China
+3031,2002,China,Shanghai Shenhua,China
+3032,2002,China,Beijing Guoan,China
+3033,2002,China,Beijing Guoan,China
+3034,2002,China,Liaoning,China
+3035,2002,China,Sichuan First City,China
+3036,2002,China,Tianjin Teda,China
+3037,2002,China,Shandong Luneng,China
+3038,2002,China,Liaoning,China
+3039,2002,China,Shandong Luneng,China
+3040,2002,China,Beijing Chengfeng F.C.,China
+3041,2002,China,Dalian Shide,China
+3042,2002,China,Shandong Luneng,China
+3043,2002,China,Qingdao Etsong Hainiu,China
+3044,2002,China,Eintracht Frankfurt,Germany
 3045,2002,Costa Rica, Saprissa,Costa Rica
 3046,2002,Costa Rica, Herediano,Costa Rica
 3047,2002,Costa Rica, Herediano,Costa Rica
