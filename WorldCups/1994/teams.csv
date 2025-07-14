@@ -1,25 +1,25 @@
 team_id,team_name,group,coach
-1,United States	Group A	Bora Milutinović
-2,Switzerland	Group A	Roy Hodgson
-3,Colombia	Group A	Francisco Maturana
-4,Romania	Group A	Anghel Iordănescu
-5,Brazil	Group B	Carlos Alberto Parreira
-6,Cameroon	Group B	Henri Michel
-7,Russia	Group B	Pavel Sadyrin
-8,Sweden	Group B	Tommy Svensson
-9,Germany	Group C	Berti Vogts
-10,Bolivia	Group C	Xabier Azkargorta
-11,Spain	Group C	Javier Clemente
-12,South Korea	Group C	Kim Ho
-13,Argentina	Group D	Alfio Basile
-14,Greece	Group D	Alketas Panagoulias
-15,Nigeria	Group D	Clemens Westerhof
-16,Bulgaria	Group D	Dimitar Penev
-17,Italy	Group E	Arrigo Sacchi
-18,Mexico	Group E	Miguel Mejía Barón
-19,Republic of Ireland	Group E	Jack Charlton
-20,Norway	Group E	Egil Olsen
-21,Belgium	Group F	Paul Van Himst
-22,Morocco	Group F	Abdellah Blinda
-23,Netherlands	Group F	Dick Advocaat
-24,Saudi Arabia	Group F	Jorge Solari
+1,United States,A,Bora Milutinović
+2,Switzerland,A,Roy Hodgson
+3,Colombia,A,Francisco Maturana
+4,Romania,A,Anghel Iordănescu
+5,Brazil,B,Carlos Alberto Parreira
+6,Cameroon,B,Henri Michel
+7,Russia,B,Pavel Sadyrin
+8,Sweden,B,Tommy Svensson
+9,Germany,C,Berti Vogts
+10,Bolivia,C,Xabier Azkargorta
+11,Spain,C,Javier Clemente
+12,South Korea,C,Kim Ho
+13,Argentina,D,Alfio Basile
+14,Greece,D,Alketas Panagoulias
+15,Nigeria,D,Clemens Westerhof
+16,Bulgaria,D,Dimitar Penev
+17,Italy,E,Arrigo Sacchi
+18,Mexico,E,Miguel Mejía Barón
+19,Republic of Ireland,E,Jack Charlton
+20,Norway,E,Egil Olsen
+21,Belgium,F,Paul Van Himst
+22,Morocco,F,Abdellah Blinda
+23,Netherlands,F,Dick Advocaat
+24,Saudi Arabia,F,Jorge Solari
