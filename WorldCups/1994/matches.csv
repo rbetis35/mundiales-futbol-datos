@@ -1,25 +1,53 @@
-match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance
-1,2022-11-20,Qatar,Ecuador,0,2,Group Stage,Al Bayt Stadium,Al Khor,A,67372
-2,2022-11-21,England,Iran,6,2,Group Stage,Khalifa International Stadium,Doha,B,45334
-3,2022-11-21,Senegal,Netherlands,0,2,Group Stage,Al Thumama Stadium,Doha,A,41721
-4,2022-11-22,Argentina,Saudi Arabia,1,2,Group Stage,Lusail Stadium,Lusail,C,88012
-5,2022-11-22,Denmark,Tunisia,0,0,Group Stage,Education City Stadium,Al Rayyan,D,43418
-6,2022-11-22,Mexico,Poland,0,0,Group Stage,Stadium 974,Doha,C,39369
-7,2022-11-22,France,Australia,4,1,Group Stage,Al Janoub Stadium,Al Wakrah,D,35441
-8,2022-11-23,Morocco,Croatia,0,0,Group Stage,Al Bayt Stadium,Al Khor,F,67013
-9,2022-11-23,Germany,Japan,1,2,Group Stage,Khalifa International Stadium,Doha,E,42608
-10,2022-11-24,Spain,Costa Rica,7,0,Group Stage,Al Thumama Stadium,Doha,E,40013
-11,2022-11-24,Belgium,Canada,1,0,Group Stage,Ahmad bin Ali Stadium,Al Rayyan,F,43984
-12,2022-11-25,Brazil,Serbia,2,0,Group Stage,Lusail Stadium,Lusail,G,88103
-13,2022-12-03,Argentina,Australia,2,1,Round of 16,Ahmad bin Ali Stadium,Al Rayyan,R16,44623
-14,2022-12-04,France,Poland,3,1,Round of 16,Al Thumama Stadium,Doha,R16,44089
-15,2022-12-05,England,Senegal,3,0,Round of 16,Al Bayt Stadium,Al Khor,R16,65985
-16,2022-12-06,Netherlands,USA,3,1,Round of 16,Khalifa International Stadium,Doha,R16,44846
-17,2022-12-09,Argentina,Netherlands,2,2,Quarter-final,Lusail Stadium,Lusail,QF,88235
-18,2022-12-10,France,England,2,1,Quarter-final,Al Bayt Stadium,Al Khor,QF,68895
-19,2022-12-10,Morocco,Portugal,1,0,Quarter-final,Al Thumama Stadium,Doha,QF,44198
-20,2022-12-11,Croatia,Brazil,1,1,Quarter-final,Education City Stadium,Al Rayyan,QF,43893
-21,2022-12-13,Argentina,Croatia,3,0,Semi-final,Lusail Stadium,Lusail,SF,88966
-22,2022-12-14,France,Morocco,2,0,Semi-final,Al Bayt Stadium,Al Khor,SF,68294
-23,2022-12-17,Croatia,Morocco,2,1,Third Place,Khalifa International Stadium,Doha,3rd,44137
-24,2022-12-18,Argentina,France,3,3,Final,Lusail Stadium,Lusail,Final,88966
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,1994-06-17,Germany,Bolivia,1,0,Group Stage,Soldier Field,Chicago,C,63089,
+2,1994-06-17,Spain,South Korea,2,2,Group Stage,Cotton Bowl,Dallas,C,56247,
+3,1994-06-18,United States,Switzerland,1,1,Group Stage,Pontiac Silverdome,Pontiac,A,73425,
+4,1994-06-18,Romania,Colombia,3,1,Group Stage,Rose Bowl,Pasadena,A,91856,
+5,1994-06-18,Republic of Ireland,Italy,1,0,Group Stage,Giants Stadium,East Rutherford,E,74826,
+6,1994-06-19,Cameroon,Sweden,2,2,Group Stage,Rose Bowl,Pasadena,B,83959,
+7,1994-06-19,Norway,Mexico,1,0,Group Stage,RFK Stadium,Washington,E,53186,
+8,1994-06-19,Belgium,Morocco,1,0,Group Stage,Citrus Bowl,Orlando,F,60790,
+9,1994-06-20,Brazil,Russia,2,0,Group Stage,Stanford Stadium,Stanford,B,81061,
+10,1994-06-20,Netherlands,Saudi Arabia,2,1,Group Stage,RFK Stadium,Washington,F,52959,
+11,1994-06-21,Argentina,Greece,4,0,Group Stage,Foxboro Stadium,Foxborough,D,54453,
+12,1994-06-21,Nigeria,Bulgaria,3,0,Group Stage,Cotton Bowl,Dallas,D,44132,
+13,1994-06-21,Germany,Spain,1,1,Group Stage,Soldier Field,Chicago,C,63117,
+14,1994-06-22,Switzerland,Romania,4,1,Group Stage,Pontiac Silverdome,Pontiac,A,71528,
+15,1994-06-22,United States,Colombia,2,1,Group Stage,Rose Bowl,Pasadena,A,94194,
+16,1994-06-23,Bolivia,South Korea,0,0,Group Stage,Foxboro Stadium,Foxborough,C,53001,
+17,1994-06-23,Italy,Norway,1,0,Group Stage,Giants Stadium,East Rutherford,E,76322,
+18,1994-06-24,Brazil,Cameroon,3,0,Group Stage,Stanford Stadium,Stanford,B,84147,
+19,1994-06-24,Sweden,Russia,3,1,Group Stage,Pontiac Silverdome,Pontiac,B,71528,
+20,1994-06-24,Mexico,Republic of Ireland,2,1,Group Stage,Citrus Bowl,Orlando,E,60790,
+21,1994-06-25,Argentina,Nigeria,2,1,Group Stage,Foxboro Stadium,Foxborough,D,54605,
+22,1994-06-25,Belgium,Netherlands,1,0,Group Stage,Citrus Bowl,Orlando,F,60246,
+23,1994-06-25,Saudi Arabia,Morocco,2,1,Group Stage,Giants Stadium,East Rutherford,F,72404,
+24,1994-06-26,Bulgaria,Greece,4,0,Group Stage,Soldier Field,Chicago,D,54267,
+25,1994-06-26,Colombia,Switzerland,2,0,Group Stage,Stanford Stadium,Stanford,A,74914,
+26,1994-06-26,Romania,United States,1,0,Group Stage,Rose Bowl,Pasadena,A,93869,
+27,1994-06-27,Germany,South Korea,3,2,Group Stage,Cotton Bowl,Dallas,C,60277,
+28,1994-06-27,Spain,Bolivia,3,1,Group Stage,Soldier Field,Chicago,C,63089,
+29,1994-06-28,Russia,Cameroon,6,1,Group Stage,Stanford Stadium,Stanford,B,74914,
+30,1994-06-28,Brazil,Sweden,1,1,Group Stage,Pontiac Silverdome,Pontiac,B,77217,
+31,1994-06-28,Italy,Mexico,1,1,Group Stage,RFK Stadium,Washington,E,53186,
+32,1994-06-28,Republic of Ireland,Norway,0,0,Group Stage,Giants Stadium,East Rutherford,E,76322,
+33,1994-06-29,Netherlands,Morocco,2,1,Group Stage,Citrus Bowl,Orlando,F,60790,
+34,1994-06-29,Saudi Arabia,Belgium,1,0,Group Stage,RFK Stadium,Washington,F,52959,
+35,1994-06-30,Bulgaria,Argentina,2,0,Group Stage,Cotton Bowl,Dallas,D,71528,H2H: Bulgaria 3 Argentina 0
+36,1994-06-30,Nigeria,Greece,2,0,Group Stage,Foxboro Stadium,Foxborough,D,54453,
+37,1994-07-02,Germany,Belgium,3,2,Round of 16,Soldier Field,Chicago,R16,63089,
+38,1994-07-02,Spain,Switzerland,3,0,Round of 16,RFK Stadium,Washington,R16,53186,
+39,1994-07-03,Sweden,Saudi Arabia,3,1,Round of 16,Cotton Bowl,Dallas,R16,60277,
+40,1994-07-03,Romania,Argentina,3,2,Round of 16,Rose Bowl,Pasadena,R16,90469,
+41,1994-07-04,Netherlands,Republic of Ireland,2,0,Round of 16,Citrus Bowl,Orlando,R16,60790,
+42,1994-07-04,Brazil,United States,1,0,Round of 16,Stanford Stadium,Stanford,R16,84147,
+43,1994-07-05,Italy,Nigeria,2,1,Round of 16,Foxboro Stadium,Foxborough,R16,54605,
+44,1994-07-05,Bulgaria,Mexico,1,1,Round of 16,Giants Stadium,East Rutherford,R16,72404,PSO: Bulgaria 3 Mexico 1
+45,1994-07-09,Italy,Spain,2,1,Quarter-final,Foxboro Stadium,Foxborough,QF,54605,
+46,1994-07-09,Netherlands,Brazil,2,3,Quarter-final,Cotton Bowl,Dallas,QF,60277,
+47,1994-07-10,Bulgaria,Germany,2,1,Quarter-final,Giants Stadium,East Rutherford,QF,72404,
+48,1994-07-10,Romania,Sweden,2,2,Quarter-final,Stanford Stadium,Stanford,QF,84147,PSO: Romania 4 Sweden 5
+49,1994-07-13,Italy,Bulgaria,2,1,Semi-final,Giants Stadium,East Rutherford,SF,72404,
+50,1994-07-13,Brazil,Sweden,1,0,Semi-final,Rose Bowl,Pasadena,SF,94194,
+51,1994-07-16,Sweden,Bulgaria,4,0,Third Place Play-off,Rose Bowl,Pasadena,3rd,91856,
+52,1994-07-17,Brazil,Italy,0,0,Final,Rose Bowl,Pasadena,Final,94194,PSO: Brazil 3 Italy 2
