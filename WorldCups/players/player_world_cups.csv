@@ -1970,13 +1970,13 @@ player_id,world_cup_year,team,club,country_club
 1440,2014,Brazil,Zenit Saint Petersburg,Russia
 1441,2014,Brazil,Shakhtar Donetsk,Ukraine
 1442,2014,Brazil,Atletico Mineiro,Brazil
-1443,2014,Cameroon,Coton Sport,Cameroon
+1443,2014,Cameroon,Coton Sport de Garoua,Cameroon
 1444,2014,Cameroon,Konyaspor,Turkey
 1445,2014,Cameroon,Fethiyespor,Turkey
 1446,2010,Cameroon,Tottenham,England
 1446,2014,Cameroon,Queens Park Rangers,England
 1447,2014,Cameroon,Marseille,France
-1448,2014,Cameroon,Coton Sport,Cameroon
+1448,2014,Cameroon,Coton Sport de Garoua,Cameroon
 1449,2014,Cameroon,Besiktas,Turkey
 1450,2014,Cameroon,Lyon,France
 1451,2010,Cameroon,Lille,France
@@ -2035,6 +2035,7 @@ player_id,world_cup_year,team,club,country_club
 1485,2014,Chile,Valencia,Spain
 1486,2010,Chile,Colo-Colo,Chile
 1486,2014,Chile,Colo-Colo,Chile
+1487,1998,Colombia,Independiente,Argentina
 1487,2014,Colombia,Deportivo Cali,Colombia
 1488,2014,Colombia,Atalanta,Italy
 1489,2014,Colombia,West Ham,England
@@ -2285,6 +2286,7 @@ player_id,world_cup_year,team,club,country_club
 1670,2006,Iran,Abu Moslem,Iran
 1670,2014,Iran,Esteghlal,Iran
 1671,2014,Iran,Foolad,Iran
+1672,1998,Italy,Parma,Italy
 1672,2002,Italy,Juventus,Italy
 1672,2006,Italy,Juventus,Italy
 1672,2010,Italy,Juventus,Italy
@@ -2744,6 +2746,7 @@ player_id,world_cup_year,team,club,country_club
 1978,2010,Denmark,Werder Bremen,Germany
 1979,2002,Denmark,Chelsea,England
 1979,2010,Denmark,Copenhagen,Denmark
+1980,1998,Denmark,Udinese,Italy
 1980,2002,Denmark,Udinese,Italy
 1980,2010,Denmark,AGF,Denmark
 1981,2010,Denmark,VfL Wolfsburg,Germany
@@ -2807,6 +2810,7 @@ player_id,world_cup_year,team,club,country_club
 2019,2006,France,Lyon,France
 2019,2010,France,Lyon,France
 2020,2010,France,Toulouse,France
+2021,1998,France,Monaco,France
 2021,2002,France,Arsenal,England
 2021,2006,France,Arsenal,England
 2021,2010,France,Barcelona,Spain
@@ -2877,6 +2881,7 @@ player_id,world_cup_year,team,club,country_club
 2077,2010,Italy,Napoli,Italy
 2078,2010,Italy,Napoli,Italy
 2079,2010,Italy,Genoa,Italy
+2080,1998,Italy,Parma,Italy
 2080,2002,Italy,Parma,Italy
 2080,2006,Italy,Juventus,Italy
 2080,2010,Italy,Juventus,Italy
@@ -2917,9 +2922,11 @@ player_id,world_cup_year,team,club,country_club
 2104,2010,Ivory Coast,Young Boys,Switzerland
 2105,2006,Ivory Coast,Lens,France
 2105,2010,Ivory Coast,Portsmouth,England
+2106,1998,Japan,Yokohama Flugels,Japan
 2106,2002,Japan,Nagoya Grampus,Japan
 2106,2006,Japan,Nagoya Grampus,Japan
 2106,2010,Japan,Nagoya Grampus,Japan
+2107,1998,Japan,Yokohama F. Marinos,Japan
 2107,2002,Japan,Portsmouth,England
 2107,2006,Japan,Jubilo Iwata,Japan
 2107,2010,Japan,Jubilo Iwata,Japan
@@ -3413,13 +3420,16 @@ player_id,world_cup_year,team,club,country_club
 2487,2006,Croatia,Hertha BSC,Germany
 2488,2002,Croatia,Bayern Munich,Germany
 2488,2006,Croatia,Juventus,Italy
+2489,1998,Croatia,Hadjuk Split,Croatia
 2489,2006,Croatia,Juventus,Italy
+2490,1998,Croatia,Croatia Zagreb,Croatia
 2490,2002,Croatia,Internazionale,Italy
 2490,2006,Croatia,AC Milan,Italy
 2491,2006,Croatia,Bayer Leverkusen,Germany
 2492,2006,Croatia,Austria Wien,Austria
 2493,2002,Croatia,Vicenza,Italy
 2493,2006,Croatia,Galatasaray,Turkey
+2494,1998,Croatia,Hadjuk Split,Croatia
 2494,2002,Croatia,Hellas Verona,Italy
 2494,2006,Croatia,Panathinaikos,Greece
 2495,2002,Croatia,Bayer Leverkusen,Germany
@@ -3488,22 +3498,28 @@ player_id,world_cup_year,team,club,country_club
 2546,2006,Ecuador,El Nacional,Ecuador
 2547,2006,England,Tottenham,England
 2548,2006,England,Liverpool,England
+2549,1998,England,Manchester United,England
 2549,2006,England,Manchester United,England
+2550,1998,England,West Ham,England
 2550,2002,England,Leeds United,England
 2550,2006,England,Manchester United,England
+2551,1998,England,Tottenham,England
 2551,2002,England,Arsenal,England
 2551,2006,England,Arsenal,England
 2552,2002,England,Southampton,England
 2552,2006,England,Chelsea,England
+2553,1998,England,Manchester United,England
 2553,2002,England,Manchester United,England
 2553,2006,England,Real Madrid,Spain
 2554,2002,England,Bayern Munich,Germany
 2554,2006,England,Bayern Munich,Germany
 2555,2006,England,Tottenham,England
 2556,2006,England,Middlesbrough,England
+2557,1998,England,Liverpool,England
 2557,2002,England,Liverpool,England
 2557,2006,England,Newcastle United,England
 2558,2006,England,Arsenal,England
+2559,1998,France,Monaco,France
 2559,2002,France,Manchester United,England
 2559,2006,France,Marseille,France
 2560,2002,France,Lyon,France
@@ -3511,26 +3527,32 @@ player_id,world_cup_year,team,club,country_club
 2561,2006,France,Newcastle United,England
 2562,2002,France,Manchester United,England
 2562,2006,France,Manchester United,England
+2563,1998,France,Parma,Italy
 2563,2002,France,Juventus,Italy
 2563,2006,France,Juventus,Italy
 2564,2006,France,Monaco,France
 2565,2002,France,Bayern Munich,Germany
 2565,2006,France,Bayern Munich,Germany
 2566,2006,France,Wigan Athletic,England
+2567,1998,France,Arsenal,England
 2567,2002,France,Arsenal,England
 2567,2006,France,Juventus,Italy
 2568,2002,France,Real Madrid,Spain
 2568,2006,France,Chelsea,England
 2569,2006,France,PSG,France
+2570,1998,France,Juventus,Italy
 2570,2002,France,Real Madrid,Spain
 2570,2006,France,Real Madrid,Spain
 2571,2002,France,Arsenal,England
 2571,2006,France,Lyon,France
 2572,2006,France,Manchester United,England
+2573,1998,France,Monaco,France
 2573,2002,France,Juventus,Italy
 2573,2006,France,Juventus,Italy
+2574,1998,Germany,Schalke 04,Germany
 2574,2002,Germany,Borussia Dortmund,Germany
 2574,2006,Germany,Arsenal,England
+2575,1998,Germany,Bayern Munich,Germany
 2575,2002,Germany,Bayern Munich,Germany
 2575,2006,Germany,Bayern Munich,Germany
 2576,2006,Germany,VfB Stuttgart,Germany
@@ -3576,6 +3598,7 @@ player_id,world_cup_year,team,club,country_club
 2609,2006,Iran,Messina,Italy
 2610,2006,Iran,Foolad,Iran
 2611,2006,Iran,Pas,Iran
+2612,1998,Iran,Persepolis,Iran
 2612,2006,Iran,Hamburger SV,Germany
 2613,2006,Iran,Al-Sharjah,United Arab Emirates
 2614,2006,Iran,1. FC Kaiserslautern,Germany
@@ -3583,6 +3606,7 @@ player_id,world_cup_year,team,club,country_club
 2616,2006,Iran,VfL Bochum,Germany
 2617,2006,Iran,Persepolis,Iran
 2618,2006,Iran,Hannover 96,Germany
+2619,1998,Iran,Arminia Bielefeld,Germany
 2619,2006,Iran,Saba Battery,Iran
 2620,2006,Iran,Sepahan,Iran
 2621,2006,Iran,Pas,Iran
@@ -3592,6 +3616,7 @@ player_id,world_cup_year,team,club,country_club
 2625,2006,Italy,Livorno,Italy
 2626,2006,Italy,Palermo,Italy
 2627,2006,Italy,Palermo,Italy
+2628,1998,Italy,Lazio,Italy
 2628,2002,Italy,Lazio,Italy
 2628,2006,Italy,AC Milan,Italy
 2629,2006,Italy,Lazio,Italy
@@ -3599,11 +3624,13 @@ player_id,world_cup_year,team,club,country_club
 2630,2006,Italy,Internazionale,Italy
 2631,2006,Italy,Palermo,Italy
 2632,2006,Italy,Roma,Italy
+2633,1998,Italy,Juventus,Italy
 2633,2002,Italy,Juventus,Italy
 2633,2006,Italy,Juventus,Italy
 2634,2006,Italy,Fiorentina,Italy
 2635,2002,Italy,Roma,Italy
 2635,2006,Italy,Roma,Italy
+2636,1998,Italy,Juventus,Italy
 2636,2002,Italy,AC Milan,Italy
 2636,2006,Italy,AC Milan,Italy
 2637,2006,Ivory Coast,Esperance de Tunis,Tunisia
@@ -3628,12 +3655,14 @@ player_id,world_cup_year,team,club,country_club
 2653,2006,Japan,Urawa Red Diamonds,Japan
 2654,2006,Japan,Urawa Red Diamonds,Japan
 2655,2006,Japan,Gamba Osaka,Japan
+2656,1998,Japan,Bellmare Hiratsuka,Japan
 2656,2002,Japan,Parma,Italy
 2656,2006,Japan,Fiorentina,Italy
 2657,2002,Japan,Kashima Antlers,Japan
 2657,2006,Japan,Kashima Antlers,Japan
 2658,2002,Japan,Jubilo Iwata,Japan
 2658,2006,Japan,Jubilo Iwata,Japan
+2659,1998,Japan,Urawa Red Diamonds,Japan
 2659,2002,Japan,Feyenoord,Netherlands
 2659,2006,Japan,Urawa Red Diamonds,Japan
 2660,2006,Japan,Hamburger SV,Germany
@@ -4079,18 +4108,22 @@ player_id,world_cup_year,team,club,country_club
 3008,1998,Cameroon,Olympic Mvolyé,Cameroon
 3008,2002,Cameroon,Strasbourg,France
 3009,2002,Cameroon,Manchester City,England
-3010,1998,Cameroon,Cotonsport Garoua,Cameroon
+3010,1998,Cameroon,Coton Sport de Garoua,Cameroon
 3010,2002,Cameroon,Al-Khaleej,Saudi Arabia
+3011,1998,Cameroon,Levante,Spain
 3011,2002,Cameroon,Arsenal,England
 3012,2002,Cameroon,Panachaiki,Greece
 3013,2002,Cameroon,Rizespor,Turkey
 3014,2002,Cameroon,Lyon,France
 3015,2002,Cameroon,Nantes,France
+3016,1998,Cameroon,Nantes,France
 3016,2002,Cameroon,Marseille,France
 3017,2002,Cameroon,Numancia,Spain
+3018,1998,Cameroon,Gamba Osaka,Japan
 3018,2002,Cameroon,Sunderland,England
 3019,2002,Cameroon,Sedan,France
 3020,2002,Cameroon,Sheffield United,England
+3021,1998,Cameroon,Lyon,France
 3021,2002,Cameroon,Metz,France
 3022,2002,China,Dalian Shide,China
 3023,2002,China,Tianjin Teda,China
@@ -4115,155 +4148,195 @@ player_id,world_cup_year,team,club,country_club
 3042,2002,China,Shandong Luneng,China
 3043,2002,China,Qingdao Etsong Hainiu,China
 3044,2002,China,Eintracht Frankfurt,Germany
-3045,2002,Costa Rica, Saprissa,Costa Rica
-3046,2002,Costa Rica, Herediano,Costa Rica
-3047,2002,Costa Rica, Herediano,Costa Rica
-3048,2002,Costa Rica, Herediano,Costa Rica
-3049,2002,Costa Rica, San Carlos,Costa Rica
-3050,2002,Costa Rica, Alajuelense,Costa Rica
-3051,2002,Costa Rica, Alajuelense,Costa Rica
-3052,2002,Costa Rica, Alajuelense,Costa Rica
-3053,2002,Costa Rica, Saprissa,Costa Rica
-3054,2002,Costa Rica, Herediano,Costa Rica
-3055,2002,Costa Rica, Alajuelense,Costa Rica
-3056,2002,Costa Rica, OFI Crete,Greece
-3057,2002,Costa Rica, Udinese,Italy
-3058,2002,Costa Rica, Alajuelense,Costa Rica
-3059,2002,Costa Rica, Herediano,Costa Rica
-3060,2002,Croatia, Zagreb,Croatia
-3061,2002,Croatia, Bayer Leverkusen,Germany
-3062,2002,Croatia, Panathinaikos,Greece
-3063,2002,Croatia, Panathinaikos,Greece
-3064,2002,Croatia, Fenerbahce,Turkey
-3065,2002,Croatia, Portsmouth,England
-3066,2002,Croatia, Chelsea,England
-3067,2002,Croatia, VfB Stuttgart,Germany
-3068,2002,Croatia, Lecce,Italy
-3069,2002,Croatia, 1860 Munich,Germany
-3070,2002,Croatia, Middlesbrough,England
-3071,2002,Croatia, Panathinaikos,Greece
-3072,2002,Denmark, Aberdeen,Scotland
-3073,2002,Denmark, Panathinaikos,Greece
-3074,2002,Denmark, AC Milan,Italy
-3075,2002,Denmark, PSV,Netherlands
-3076,2002,Denmark, AC Milan,Italy
-3077,2002,Denmark, Manchester City,England
-3078,2002,Denmark, Lyn,Norway
-3079,2002,Denmark, PSV,Netherlands
-3080,2002,Denmark, Bolton Wanderers,England
-3081,2002,Denmark, Everton,England
-3082,2002,Denmark, Charlton Athletic,England
-3083,2002,Denmark, Panathinaikos,Greece
-3084,2002,Denmark, Malmo,Sweden
-3085,2002,Denmark, Schalke 04,Germany
-3086,2002,Denmark, Rangers,Scotland
-3087,2002,Denmark, Brondby,Denmark
-3088,2002,Ecuador, Barcelona SC,Ecuador
-3089,2002,Ecuador, El Nacional,Ecuador
-3090,2002,Ecuador, Emelec,Ecuador
-3091,2002,Ecuador, Emelec,Ecuador
-3092,2002,Ecuador, Deportivo Quito,Ecuador
-3093,2002,Ecuador, LDU Quito,Ecuador
-3094,2002,Ecuador, Barcelona SC,Ecuador
-3095,2002,Ecuador, Necaxa,Mexico
-3096,2002,Ecuador, El Nacional,Ecuador
-3097,2002,Ecuador, El Nacional,Ecuador
-3098,2002,Ecuador, Emelec,Ecuador
-3099,2002,Ecuador, Barcelona SC,Ecuador
-3100,2002,Ecuador, El Nacional,Ecuador
-3101,2002,England, Arsenal,England
-3102,2002,England, Leeds United,England
-3103,2002,England, Leeds United,England
-3104,2002,England, Manchester United,England
-3105,2002,England, Arsenal,England
-3106,2002,England, Middlesbrough,England
-3107,2002,England, West Ham,England
-3108,2002,England, Manchester United,England
-3109,2002,England, Manchester United,England
-3110,2002,England, Newcastle United,England
-3111,2002,England, Leeds United,England
-3112,2002,England, Tottenham,England
-3113,2002,England, Aston Villa,England
-3114,2002,France, Bordeaux,France
-3115,2002,France, Roma,Italy
-3116,2002,France, Bayern Munich,Germany
-3117,2002,France, Barcelona,Spain
-3118,2002,France, Chelsea,England
-3119,2002,France, Marseille,France
-3120,2002,France, Bolton Wanderers,England
-3121,2002,France, Parma,Italy
-3122,2002,France, Chelsea,England
-3123,2002,France, Parma,Italy
-3124,2002,France, Bordeaux,France
-3125,2002,Germany, Bayern Munich,Germany
-3126,2002,Germany, Hertha BSC,Germany
-3127,2002,Germany, Werder Bremen,Germany
-3128,2002,Germany, Tottenham,England
-3129,2002,Germany, Bayer Leverkusen,Germany
-3130,2002,Germany, Liverpool,England
-3131,2002,Germany, Borussia Dortmund,Germany
-3132,2002,Germany, Bayern Munich,Germany
-3133,2002,Germany, Werder Bremen,Germany
-3134,2002,Germany, Schalke 04,Germany
-3135,2002,Germany, Bayern Munich,Germany
-3136,2002,Germany, Monaco,France
-3137,2002,Italy, AC Milan,Italy
-3138,2002,Italy, Internazionale,Italy
-3139,2002,Italy, Roma,Italy
-3140,2002,Italy, AC Milan,Italy
-3141,2002,Italy, Barcelona,Spain
-3142,2002,Italy, Juventus,Italy
-3143,2002,Italy, Internazionale,Italy
-3144,2002,Italy, Atalanta,Italy
-3145,2002,Italy, Internazionale,Italy
-3146,2002,Italy, Fiorentina,Italy
-3147,2002,Italy, Roma,Italy
-3148,2002,Italy, Roma,Italy
-3149,2002,Italy, Roma,Italy
-3150,2002,Italy, Internazionale,Italy
-3151,2002,Japan, Kashima Antlers,Japan
-3152,2002,Japan, Kashima Antlers,Japan
-3153,2002,Japan, Yokohama F. Marinos,Japan
-3154,2002,Japan, Shimizu S-Pulse,Japan
-3155,2002,Japan, Jubilo Iwata,Japan
-3156,2002,Japan, Cerezo Osaka,Japan
-3157,2002,Japan, Kashiwa Reysol,Japan
-3158,2002,Japan, Shimizu S-Pulse,Japan
-3159,2002,Japan, Shimizu S-Pulse,Japan
-3160,2002,Japan, Cerezo Osaka,Japan
-3161,2002,Japan, Jubilo Iwata,Japan
-3162,2002,Japan, Kashima Antlers,Japan
-3163,2002,Mexico, UNAM,Mexico
-3164,2002,Mexico, Pachuca,Mexico
-3165,2002,Mexico, Pachuca,Mexico
-3166,2002,Mexico, Toluca,Mexico
-3167,2002,Mexico, Cruz Azul,Mexico
-3168,2002,Mexico, Pachuca,Mexico
-3169,2002,Mexico, Puebla,Mexico
-3170,2002,Mexico, Necaxa,Mexico
-3171,2002,Mexico, Atlas,Mexico
-3172,2002,Mexico, America,Mexico
-3173,2002,Mexico, Santos Laguna,Mexico
-3174,2002,Mexico, Pachuca,Mexico
-3175,2002,Mexico, America,Mexico
-3176,2002,Mexico, Espanyol,Spain
-3177,2002,Nigeria, Lucerne,Switzerland
-3178,2002,Nigeria, Chelsea,England
-3179,2002,Nigeria, Shakhtar Donetsk,Ukraine
-3180,2002,Nigeria, 1. FC Kaiserslautern,Germany
-3181,2002,Nigeria, PAOK,Greece
-3182,2002,Nigeria, Crewe Alexandra,England
-3183,2002,Nigeria, Maccabi Haifa,Israel
-3184,2002,Nigeria, Ajax,Netherlands
-3185,2002,Nigeria, Salamanca,Spain
-3186,2002,Nigeria, PSG,France
-3187,2002,Nigeria, Roda JC,Netherlands
-3188,2002,Nigeria, Antwerp,Belgium
-3189,2002,Nigeria, Lokomotiv Moscow,Russia
-3190,2002,Nigeria, Ibadan,Nigeria
-3191,2002,Nigeria, PSG,France
-3192,2002,Nigeria, Shakhtar Donetsk,Ukraine
-3193,2002,Nigeria, Guangzhou City F.C.,China
+3045,2002,Costa Rica,Saprissa,Costa Rica
+3046,2002,Costa Rica,Herediano,Costa Rica
+3047,2002,Costa Rica,Herediano,Costa Rica
+3048,2002,Costa Rica,Herediano,Costa Rica
+3049,2002,Costa Rica,San Carlos,Costa Rica
+3050,2002,Costa Rica,Alajuelense,Costa Rica
+3051,2002,Costa Rica,Alajuelense,Costa Rica
+3052,2002,Costa Rica,Alajuelense,Costa Rica
+3053,2002,Costa Rica,Saprissa,Costa Rica
+3054,2002,Costa Rica,Herediano,Costa Rica
+3055,2002,Costa Rica,Alajuelense,Costa Rica
+3056,2002,Costa Rica,OFI Crete,Greece
+3057,2002,Costa Rica,Udinese,Italy
+3058,2002,Costa Rica,Alajuelense,Costa Rica
+3059,2002,Costa Rica,Herediano,Costa Rica
+3060,1998,Croatia,Hrvatski Dragovoljac,Croatia
+3060,2002,Croatia,Zagreb,Croatia
+3061,2002,Croatia,Bayer Leverkusen,Germany
+3062,2002,Croatia,Panathinaikos,Greece
+3063,1998,Croatia,Real Betis,Spain
+3063,2002,Croatia,Panathinaikos,Greece
+3064,2002,Croatia,Fenerbahce,Turkey
+3065,1998,Croatia,Croatia Zagreb,Croatia
+3065,2002,Croatia,Portsmouth,England
+3066,1998,Croatia,Parma,Italy
+3066,2002,Croatia,Chelsea,England
+3067,1998,Croatia,VfB Stuttgart,Germany
+3067,2002,Croatia,VfB Stuttgart,Germany
+3068,2002,Croatia,Lecce,Italy
+3069,1998,Croatia,Real Madrid,Spain
+3069,2002,Croatia,1860 Munich,Germany
+3070,2002,Croatia,Middlesbrough,England
+3071,1998,Croatia,Valencia,Spain
+3071,2002,Croatia,Panathinaikos,Greece
+3072,1998,Denmark,Silkeborg,Denmark
+3072,2002,Denmark,Aberdeen,Scotland
+3073,1998,Denmark,Akademisk Boldklub,Greece
+3073,2002,Denmark,Panathinaikos,Greece
+3074,2002,Denmark,AC Milan,Italy
+3075,1998,Denmark,Bayer Leverkusen,Germany
+3075,2002,Denmark,PSV,Netherlands
+3076,1998,Denmark,Udinese,Italy
+3076,2002,Denmark,AC Milan,Italy
+3077,2002,Denmark,Manchester City,England
+3078,2002,Denmark,Lyn,Norway
+3079,2002,Denmark,PSV,Netherlands
+3080,1998,Denmark,MSV Duisburg,Germany
+3080,2002,Denmark,Bolton Wanderers,England
+3081,2002,Denmark,Everton,England
+3082,2002,Denmark,Charlton Athletic,England
+3083,2002,Denmark,Panathinaikos,Greece
+3084,2002,Denmark,Malmo,Sweden
+3085,1998,Denmark,Brondby,Denmark
+3085,2002,Denmark,Schalke 04,Germany
+3086,2002,Denmark,Rangers,Scotland
+3087,2002,Denmark,Brondby,Denmark
+3088,2002,Ecuador,Barcelona SC,Ecuador
+3089,2002,Ecuador,El Nacional,Ecuador
+3090,2002,Ecuador,Emelec,Ecuador
+3091,2002,Ecuador,Emelec,Ecuador
+3092,2002,Ecuador,Deportivo Quito,Ecuador
+3093,2002,Ecuador,LDU Quito,Ecuador
+3094,2002,Ecuador,Barcelona SC,Ecuador
+3095,2002,Ecuador,Necaxa,Mexico
+3096,2002,Ecuador,El Nacional,Ecuador
+3097,2002,Ecuador,El Nacional,Ecuador
+3098,2002,Ecuador,Emelec,Ecuador
+3099,2002,Ecuador,Barcelona SC,Ecuador
+3100,2002,Ecuador,El Nacional,Ecuador
+3101,1998,England,Arsenal,England
+3101,2002,England,Arsenal,England
+3102,1998,England,Leeds United,England
+3102,2002,England,Leeds United,England
+3103,2002,England,Leeds United,England
+3104,2002,England,Manchester United,England
+3105,1998,England,Arsenal,England
+3105,2002,England,Arsenal,England
+3106,1998,England,Aston Villa,England
+3106,2002,England,Middlesbrough,England
+3107,2002,England,West Ham,England
+3108,1998,England,Manchester United,England
+3108,2002,England,Manchester United,England
+3109,2002,England,Manchester United,England
+3110,2002,England,Newcastle United,England
+3111,2002,England,Leeds United,England
+3112,1998,England,Manchester United,England
+3112,2002,England,Tottenham,England
+3113,2002,England,Aston Villa,England
+3114,2002,France,Bordeaux,France
+3115,1998,France,Roma,Italy
+3115,2002,France,Roma,Italy
+3116,1998,France,Bayern Munich,Germany
+3116,2002,France,Bayern Munich,Germany
+3117,2002,France,Barcelona,Spain
+3118,1998,France,AC Milan,Italy
+3118,2002,France,Chelsea,England
+3119,1998,France,Chelsea,England
+3119,2002,France,Marseille,France
+3120,1998,France,Internazionale,Italy
+3120,2002,France,Bolton Wanderers,England
+3121,1998,France,Sampdoria,Italy
+3121,2002,France,Parma,Italy
+3122,1998,France,Arsenal,England
+3122,2002,France,Chelsea,England
+3123,2002,France,Parma,Italy
+3124,1998,France,Marseille,France
+3124,2002,France,Bordeaux,France
+3125,2002,Germany,Bayern Munich,Germany
+3126,2002,Germany,Hertha BSC,Germany
+3127,2002,Germany,Werder Bremen,Germany
+3128,1998,Germany,AC Milan,Italy
+3128,2002,Germany,Tottenham,England
+3129,2002,Germany,Bayer Leverkusen,Germany
+3130,1998,Germany,Bayern Munich,Germany
+3130,2002,Germany,Liverpool,England
+3131,2002,Germany,Borussia Dortmund,Germany
+3132,1998,Germany,1860 Munich,Germany
+3132,2002,Germany,Bayern Munich,Germany
+3133,2002,Germany,Werder Bremen,Germany
+3134,2002,Germany,Schalke 04,Germany
+3135,2002,Germany,Bayern Munich,Germany
+3136,1998,Germany,Udinese,Italy
+3136,2002,Germany,Monaco,France
+3137,2002,Italy,AC Milan,Italy
+3138,1998,Italy,Fiorentina,Italy
+3138,2002,Italy,Internazionale,Italy
+3139,2002,Italy,Roma,Italy
+3140,1998,Italy,AC Milan,Italy
+3140,2002,Italy,AC Milan,Italy
+3141,2002,Italy,Barcelona,Spain
+3142,2002,Italy,Juventus,Italy
+3143,2002,Italy,Internazionale,Italy
+3144,2002,Italy,Atalanta,Italy
+3145,1998,Italy,Roma,Italy
+3145,2002,Italy,Internazionale,Italy
+3146,1998,Italy,Juventus,Italy
+3146,2002,Italy,Fiorentina,Italy
+3147,2002,Italy,Roma,Italy
+3148,2002,Italy,Roma,Italy
+3149,2002,Italy,Roma,Italy
+3150,1998,Italy,Atletico Madrid,Spain
+3150,2002,Italy,Internazionale,Italy
+3151,2002,Japan,Kashima Antlers,Japan
+3152,1998,Japan,Kashima Antlers,Japan
+3152,2002,Japan,Kashima Antlers,Japan
+3153,2002,Japan,Yokohama F. Marinos,Japan
+3154,2002,Japan,Shimizu S-Pulse,Japan
+3155,1998,Japan,Jubilo Iwata,Japan
+3155,2002,Japan,Jubilo Iwata,Japan
+3156,1998,Japan,Cerezo Osaka,Japan
+3156,2002,Japan,Cerezo Osaka,Japan
+3157,2002,Japan,Kashiwa Reysol,Japan
+3158,2002,Japan,Shimizu S-Pulse,Japan
+3159,2002,Japan,Shimizu S-Pulse,Japan
+3160,2002,Japan,Cerezo Osaka,Japan
+3161,1998,Japan,Jubilo Iwata,Japan
+3161,2002,Japan,Jubilo Iwata,Japan
+3162,2002,Japan,Kashima Antlers,Japan
+3163,2002,Mexico,UNAM,Mexico
+3164,2002,Mexico,Pachuca,Mexico
+3165,2002,Mexico,Pachuca,Mexico
+3166,2002,Mexico,Toluca,Mexico
+3167,2002,Mexico,Cruz Azul,Mexico
+3168,2002,Mexico,Pachuca,Mexico
+3169,2002,Mexico,Puebla,Mexico
+3170,2002,Mexico,Necaxa,Mexico
+3171,2002,Mexico,Atlas,Mexico
+3172,2002,Mexico,America,Mexico
+3173,2002,Mexico,Santos Laguna,Mexico
+3174,2002,Mexico,Pachuca,Mexico
+3175,2002,Mexico,America,Mexico
+3176,2002,Mexico,Espanyol,Spain
+3177,2002,Nigeria,Lucerne,Switzerland
+3178,2002,Nigeria,Chelsea,England
+3179,2002,Nigeria,Shakhtar Donetsk,Ukraine
+3180,2002,Nigeria,1. FC Kaiserslautern,Germany
+3181,2002,Nigeria,PAOK,Greece
+3182,2002,Nigeria,Crewe Alexandra,England
+3183,2002,Nigeria,Maccabi Haifa,Israel
+3184,2002,Nigeria,Ajax,Netherlands
+3185,2002,Nigeria,Salamanca,Spain
+3186,2002,Nigeria,PSG,France
+3187,2002,Nigeria,Roda JC,Netherlands
+3188,2002,Nigeria,Antwerp,Belgium
+3189,2002,Nigeria,Lokomotiv Moscow,Russia
+3190,2002,Nigeria,Ibadan,Nigeria
+3191,2002,Nigeria,PSG,France
+3192,2002,Nigeria,Shakhtar Donetsk,Ukraine
+3193,2002,Nigeria,Guangzhou City F.C.,China
 3194,2002,Paraguay, Strasbourg,France
 3195,2002,Paraguay, Olimpia,Paraguay
 3196,2002,Paraguay, Palmeiras,Brazil
