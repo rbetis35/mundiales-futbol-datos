@@ -3130,6 +3130,7 @@ player_id,world_cup_year,team,club,country_club
 2254,2010,Serbia,Borussia Dortmund,Germany
 2255,2010,Serbia,Hertha BSC,Germany
 2256,2010,Serbia,1. FC Koln,Germany
+2257,1998,Yugoslavia,Red Star Belgrade,Serbia
 2257,2006,Serbia & Montenegro,Internazionale,Italy
 2257,2010,Serbia,Internazionale,Italy
 2258,2010,Serbia,Wolverhampton,England
@@ -3838,6 +3839,7 @@ player_id,world_cup_year,team,club,country_club
 2776,2006,Serbia & Montenegro,Shakhtar Donetsk,Ukraine
 2777,2006,Serbia & Montenegro,Galatasaray,Turkey
 2778,2006,Serbia & Montenegro,Atletico Madrid,Spain
+2779,1998,Yugoslavia,Aston Villa,Spain
 2779,2006,Serbia & Montenegro,Osasuna,Spain
 2780,2006,Serbia & Montenegro,PSG,France
 2781,2006,South Korea,Seongnam Ilhwa Chunma,South Korea
@@ -4028,12 +4030,14 @@ player_id,world_cup_year,team,club,country_club
 2933,2006,Ukraine,Dynamo Kyiv,Ukraine
 2934,2006,Ukraine,Shakhtar Donetsk,Ukraine
 2935,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2936,1998,USA,Leicester City,England
 2936,2002,USA,Tottenham,England
 2936,2006,USA,Borussia Monchengladbach,Germany
 2937,2006,USA,LA Galaxy,USA
 2938,2002,USA,Crystal Palace,England
 2938,2006,USA,Energie Cottbus,Germany
 2939,2006,USA,Kansas City Wizards,USA
+2940,1998,USA,D.C. United,USA
 2940,2002,USA,D.C. United,USA
 2940,2006,USA,Real Salt Lake,USA
 2941,2002,USA,Colorado Rapids,USA
@@ -4042,6 +4046,7 @@ player_id,world_cup_year,team,club,country_club
 2942,2006,USA,Chivas USA,USA
 2943,2002,USA,Fulham,England
 2943,2006,USA,Leeds United,England
+2944,1998,USA,VfL Wolfsburg,Germany
 2944,2002,USA,Sunderland,England
 2944,2006,USA,Manchester City,England
 2945,2006,USA,D.C. United,USA
@@ -4050,6 +4055,7 @@ player_id,world_cup_year,team,club,country_club
 2948,2006,USA,Houston Dynamo,USA
 2949,2002,USA,Chicago Fire,USA
 2949,2006,USA,Kansas City Wizards,USA
+2950,1998,USA,Columbus Crew,USA
 2950,2002,USA,Columbus Crew,USA
 2950,2006,USA,Fulham,England
 2951,2006,Brazil,Lyon,France
@@ -4658,17 +4664,24 @@ player_id,world_cup_year,team,club,country_club
 3438,2002,Turkey,Galatasaray,Turkey
 3439,2002,Turkey,Real Sociedad,Spain
 3440,2002,Turkey,Besiktas,Turkey
+3441,1998,USA,Liverpool,England
 3441,2002,USA,Blackburn Rovers,England
-3442,2002,USA,Sporting Kansas City,USA
+3442,2002,USA,Kansas City Wizards,USA
+3443,1998,USA,Karlsruher SC,Germany
 3443,2002,USA,Metz,France
+3444,1998,USA,D.C. United,USA
 3444,2002,USA,San Jose Earthquakes,USA
 3445,2002,USA,New England Revolution,USA
-3446,2002,USA,1. FC Nürnberg,Germany
+3446,2002,USA,1. FC Nurnberg,Germany
+3447,1998,USA,Tampa Bay Mutiny,USA
 3447,2002,USA,Bayer Leverkusen,Germany
+3448,1998,USA,NAC,Netherlands
 3448,2002,USA,NAC,Netherlands
+3449,1998,USA,LA Galaxy,USA
 3449,2002,USA,LA Galaxy,USA
+3450,1998,USA,New England Revolution,USA
 3450,2002,USA,Everton,England
-3451,2002,USA,New York Red Bulls,USA
+3451,2002,USA,Metrostars,USA
 3452,2002,Uruguay,Juventus,Italy
 3453,2002,Uruguay,Nacional,Uruguay
 3454,2002,Uruguay,Peñarol,Uruguay
