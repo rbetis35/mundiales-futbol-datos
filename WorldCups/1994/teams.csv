@@ -1,17 +1,25 @@
 team_id,team_name,group,coach
-1,Qatar,A,Félix Sánchez Bas
-2,Ecuador,A,Gustavo Alfaro
-3,Senegal,A,Aliou Cissé
-4,Netherlands,A,Louis van Gaal
-5,England,B,Gareth Southgate
-6,Iran,B,Carlos Queiroz
-7,USA,B,Gregg Berhalter
-8,Wales,B,Rob Page
-9,Argentina,C,Lionel Scaloni
-10,Saudi Arabia,C,Hervé Renard
-11,Mexico,C,Gerardo Martino
-12,Poland,C,Czesław Michniewicz
-13,France,D,Didier Deschamps
-14,Australia,D,Graham Arnold
-15,Denmark,D,Kasper Hjulmand
-16,Tunisia,D,Jalel Kadri
+1,United States	Group A	Bora Milutinović
+2,Switzerland	Group A	Roy Hodgson
+3,Colombia	Group A	Francisco Maturana
+4,Romania	Group A	Anghel Iordănescu
+5,Brazil	Group B	Carlos Alberto Parreira
+6,Cameroon	Group B	Henri Michel
+7,Russia	Group B	Pavel Sadyrin
+8,Sweden	Group B	Tommy Svensson
+9,Germany	Group C	Berti Vogts
+10,Bolivia	Group C	Xabier Azkargorta
+11,Spain	Group C	Javier Clemente
+12,South Korea	Group C	Kim Ho
+13,Argentina	Group D	Alfio Basile
+14,Greece	Group D	Alketas Panagoulias
+15,Nigeria	Group D	Clemens Westerhof
+16,Bulgaria	Group D	Dimitar Penev
+17,Italy	Group E	Arrigo Sacchi
+18,Mexico	Group E	Miguel Mejía Barón
+19,Republic of Ireland	Group E	Jack Charlton
+20,Norway	Group E	Egil Olsen
+21,Belgium	Group F	Paul Van Himst
+22,Morocco	Group F	Abdellah Blinda
+23,Netherlands	Group F	Dick Advocaat
+24,Saudi Arabia	Group F	Jorge Solari
