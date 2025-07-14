@@ -2948,6 +2948,7 @@ player_id,world_cup_year,team,club,country_club
 2117,2010,Japan,Nagoya Grampus,Japan
 2118,2010,Japan,Albirex Niigata,Japan
 2119,2010,Japan,Catania,Italy
+2120,1998,Mexico,Cruz Azul,Mexico
 2120,2002,Mexico,Cruz Azul,Mexico
 2120,2010,Mexico,Chiapas,Mexico
 2121,2010,Mexico,Guadalajara,Mexico
@@ -2965,6 +2966,7 @@ player_id,world_cup_year,team,club,country_club
 2130,2010,Mexico,Guadalajara,Mexico
 2131,2006,Mexico,Villarreal,Spain
 2131,2010,Mexico,West Ham,England
+2132,1998,Mexico,Necaxa,Mexico
 2132,2002,Mexico,Valladolid,Spain
 2132,2010,Mexico,Veracruz,Mexico
 2133,2010,Mexico,Guadalajara,Mexico
@@ -2976,10 +2978,12 @@ player_id,world_cup_year,team,club,country_club
 2137,2010,Netherlands,Everton,England
 2138,2006,Netherlands,AZ,Netherlands
 2138,2010,Netherlands,Hamburger SV,Germany
+2139,1998,Netherlands,Feyenoord,Netherlands
 2139,2006,Netherlands,Barcelona,Spain
 2139,2010,Netherlands,Feyenoord,Netherlands
 2140,2006,Netherlands,Hamburger SV,Germany
 2140,2010,Netherlands,VfB Stuttgart,Germany
+2141,1998,Netherlands,PSV,Netherlands
 2141,2006,Netherlands,PSV,Netherlands
 2141,2010,Netherlands,PSV,Netherlands
 2142,2010,Netherlands,Celtic,Scotland
@@ -3670,18 +3674,22 @@ player_id,world_cup_year,team,club,country_club
 2662,2002,Japan,Kashima Antlers,Japan
 2662,2006,Japan,Kashima Antlers,Japan
 2663,2006,Japan,Grenoble,France
+2664,1998,Mexico,America,Mexico
 2664,2002,Mexico,Guadalajara,Mexico
 2664,2006,Mexico,Guadalajara,Mexico
+2665,1998,Mexico,Guadalajara,Mexico
 2665,2006,Mexico,Chivas USA,USA
 2666,2006,Mexico,Guadalajara,Mexico
 2667,2006,Mexico,America,Mexico
 2668,2006,Mexico,Monterrey,Mexico
 2669,2006,Mexico,Toluca,Mexico
+2670,1998,Mexico,Atlas,Mexico
 2670,2006,Mexico,America,Mexico
 2671,2002,Mexico,Guadalajara,Mexico
 2671,2006,Mexico,Guadalajara,Mexico
 2672,2002,Mexico,Toluca,Mexico
 2672,2006,Mexico,Atlas,Mexico
+2673,1998,Mexico,Guadalajara,Mexico
 2673,2002,Mexico,Monterrey,Mexico
 2673,2006,Mexico,Monterrey,Mexico
 2674,2006,Mexico,Monterrey,Mexico
@@ -3689,12 +3697,14 @@ player_id,world_cup_year,team,club,country_club
 2675,2006,Mexico,Bolton Wanderers,England
 2676,2006,Mexico,Cruz Azul,Mexico
 2677,2006,Mexico,Guadalajara,Mexico
+2678,1998,Netherlands,Ajax,Netherlands
 2678,2006,Netherlands,Manchester United,England
 2679,2006,Netherlands,AZ,Netherlands
 2680,2006,Netherlands,AZ,Netherlands
 2681,2006,Netherlands,Liverpool,England
 2682,2006,Netherlands,AZ,Netherlands
 2683,2006,Netherlands,AZ,Netherlands
+2684,1998,Netherlands,PSV,Netherlands
 2684,2006,Netherlands,PSV,Netherlands
 2685,2006,Netherlands,Ajax,Netherlands
 2686,2006,Netherlands,Manchester United,England
@@ -4306,19 +4316,26 @@ player_id,world_cup_year,team,club,country_club
 3161,1998,Japan,Jubilo Iwata,Japan
 3161,2002,Japan,Jubilo Iwata,Japan
 3162,2002,Japan,Kashima Antlers,Japan
+3163,1998,Mexico,Chicago Fire,USA
 3163,2002,Mexico,UNAM,Mexico
 3164,2002,Mexico,Pachuca,Mexico
 3165,2002,Mexico,Pachuca,Mexico
+3166,1998,Mexico,Toluca,Mexico
 3166,2002,Mexico,Toluca,Mexico
 3167,2002,Mexico,Cruz Azul,Mexico
 3168,2002,Mexico,Pachuca,Mexico
+3169,1998,Mexico,America,Mexico
 3169,2002,Mexico,Puebla,Mexico
+3170,1998,Mexico,UNAM,Mexico
 3170,2002,Mexico,Necaxa,Mexico
 3171,2002,Mexico,Atlas,Mexico
+3172,1998,Mexico,America,Mexico
 3172,2002,Mexico,America,Mexico
 3173,2002,Mexico,Santos Laguna,Mexico
 3174,2002,Mexico,Pachuca,Mexico
+3175,1998,Mexico,Necaxa,Mexico
 3175,2002,Mexico,America,Mexico
+3176,1998,Mexico,Cruz Azul,Mexico
 3176,2002,Mexico,Espanyol,Spain
 3177,2002,Nigeria,Lucerne,Switzerland
 3178,2002,Nigeria,Chelsea,England
