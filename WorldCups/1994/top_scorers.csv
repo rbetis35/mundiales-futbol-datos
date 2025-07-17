@@ -1,11 +1,81 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Hristo Stoichkov,Bulgaria,6,,640
+2,Oleg Salenko,Russia,6,,216
+3,Romário,Brazil,5,,660
+4,Jürgen Klinsmann,Germany,5,,444
+5,Roberto Baggio,Italy,5,,600
+6,Kennet Andersson,Sweden,5,,578
+7,Gabriel Batistuta,Argentina,4,,360
+8,Florin R?ducioiu,Romania,4,,381
+9,Martin Dahlin,Sweden,4,,442
+10,Bebeto,Brazil,3,,660
+11,Dennis Bergkamp,Netherlands,3,,450
+12,Gheorghe Hagi ,Romania,3,,474
+13,José Luis Caminero,Spain,3,,315
+14,Tomas Brolin,Sweden,3,,660
+15,Claudio Caniggia,Argentina,2,,205
+16,Philippe Albert,Belgium,2,,270
+17,Yordan Letchkov,Bulgaria,2,,614
+18,Adolfo Valencia,Colombia,2,,197
+19,Rudi Völler,Germany,2,,209
+20,Dino Baggio,Italy,2,,557
+21,Luis García Postigo,Mexico,2,,318
+22,Wim Jonk,Netherlands,2,,450
+23,Emmanuel Amunike,Nigeria,2,,326
+24,Daniel Amokachi,Nigeria,2,,304
+25,Ilie Dumitrescu,Romania,2,,433
+26,Fuad Anwar,Saudi Arabia,2,,270
+27,Hong Myung-bo,South Korea,2,,270
+28,Jon Goikoetxea,Spain,2,,393
+29,Adrian Knup,Switzerland,2,,260
+30,Diego Maradona ,Argentina,1,,172
+31,Abel Balbo,Argentina,1,,328
+32,Georges Grün ,Belgium,1,,270
+33,Marc Degryse,Belgium,1,,202
+34,Erwin Sánchez,Bolivia,1,,270
+35,Branco,Brazil,1,,299
+36,Márcio Santos,Brazil,1,,660
+37,Raí,Brazil,1,,308
+38,Daniel Borimirov,Bulgaria,1,,215
+39,Nasko Sirakov,Bulgaria,1,,540
+40,François Omam-Biyik,Cameroon,1,,270
+41,Roger Milla,Cameroon,1,,72
+42,David Embé,Cameroon,1,,190
+43,Hermán Gaviria,Colombia,1,,167
+44,Harold Lozano,Colombia,1,,13
+45,Lothar Matthäus ,Germany,1,,378
+46,Karl-Heinz Riedle,Germany,1,,149
+47,Daniele Massaro,Italy,1,,443
+48,Marcelino Bernal,Mexico,1,,320
+49,Alberto García Aspe,Mexico,1,,300
+50,Mohammed Chaouch,Morocco,1,,171
+51,Hassan Nader,Morocco,1,,90
+52,Aron Winter,Netherlands,1,,270
+53,Bryan Roy,Netherlands,1,,252
+54,Gaston Taument,Netherlands,1,,132
+55,Finidi George,Nigeria,1,,368
+56,Rashidi Yekini,Nigeria,1,,367
+57,Samson Siasia,Nigeria,1,,213
+58,Kjetil Rekdal,Norway,1,,113
+59,Ray Houghton,Republic of Ireland,1,,337
+60,John Aldridge,Republic of Ireland,1,,88
+61,Dan Petrescu,Romania,1,,480
+62,Dmitri Radchenko,Russia,1,,193
+63,Saeed Al-Owairan,Saudi Arabia,1,,310
+64,Fahad Al-Ghesheyan,Saudi Arabia,1,,49
+65,Sami Al-Jaber,Saudi Arabia,1,,168
+66,Seo Jung-won,South Korea,1,,141
+67,Hwang Sun-hong,South Korea,1,,270
+68,Fernando Hierro,Spain,1,,327
+69,Josep Guardiola,Spain,1,,143
+70,Aitor Begiristain,Spain,1,,30
+71,Julio Salinas,Spain,1,,273
+72,Luis Enrique,Spain,1,,360
+73,Roger Ljung,Sweden,1,,570
+74,Håkan Mild,Sweden,1,,337
+75,Henrik Larsson,Sweden,1,,192
+76,Georges Bregy,Switzerland,1,,360
+77,Alain Sutter,Switzerland,1,,240
+78,Stéphane Chapuisat,Switzerland,1,,360
+79,Earnie Stewart,USA,1,,325
+80,Eric Wynalda,USA,1,,253
