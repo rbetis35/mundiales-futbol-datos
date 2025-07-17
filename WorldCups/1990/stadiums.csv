@@ -1,9 +1,13 @@
 stadium_id,stadium_name,city,capacity
-1,Al Bayt Stadium,Al Khor,68895
-2,Khalifa International Stadium,Doha,45857
-3,Al Thumama Stadium,Doha,44400
-4,Lusail Stadium,Lusail,88966
-5,Education City Stadium,Al Rayyan,45350
-6,Stadium 974,Doha,44950
-7,Al Janoub Stadium,Al Wakrah,40000
-8,Ahmad bin Ali Stadium,Al Rayyan,44740
+1,Stadio Olimpico,Roma,73261
+2,Stadio San Paolo,Napoli,76824
+3,Stadio Giuseppe Meazza,Milano,85700
+4,Stadio delle Alpi,Torino,69041
+5,Stadio Artemio Franchi,Firenze,47282
+6,Stadio Renato Dall'Ara,Bologna,38279
+7,Stadio Marcantonio Bentegodi,Verona,39211
+8,Stadio Luigi Ferraris,Genova,33205
+9,Stadio Sant'Elia,Cagliari,39905
+10,Stadio Friuli,Udine,41652
+11,Stadio San Nicola,Bari,58270
+12,Stadio La Favorita,Palermo,33288
