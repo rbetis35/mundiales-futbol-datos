@@ -2035,6 +2035,7 @@ player_id,world_cup_year,team,club,country_club
 1485,2014,Chile,Valencia,Spain
 1486,2010,Chile,Colo-Colo,Chile
 1486,2014,Chile,Colo-Colo,Chile
+1487,1994,Colombia,Argentinos Juniors,Argentina
 1487,1998,Colombia,Independiente,Argentina
 1487,2014,Colombia,Deportivo Cali,Colombia
 1488,2014,Colombia,Atalanta,Italy
@@ -2708,6 +2709,7 @@ player_id,world_cup_year,team,club,country_club
 1946,2010,Cameroon,Espanyol,Spain
 1947,2010,Cameroon,Kayserispor,Turkey
 1948,2010,Cameroon,Valenciennes,France
+1949,1994,Cameroon,Tonnerre Yaoundé,Cameroon
 1949,1998,Cameroon,Metz,France
 1949,2002,Cameroon,1. FC Koln,Germany
 1949,2010,Cameroon,Trabzonspor,Turkey
@@ -3216,6 +3218,7 @@ player_id,world_cup_year,team,club,country_club
 2334,2010,South Africa,Twente,Netherlands
 2335,2002,South Africa,Udinese,Italy
 2335,2010,South Africa,Moroka Swallows,South Africa
+2336,1994,South Korea,Hyung Hee University,South Korea
 2336,2002,South Korea,Suwon Samsung Bluewings,South Korea
 2336,2006,South Korea,Suwon Samsung Bluewings,South Korea
 2336,2010,South Korea,Suwon Samsung Bluewings,South Korea
@@ -3370,6 +3373,7 @@ player_id,world_cup_year,team,club,country_club
 2450,2006,Brazil,AC Milan,Italy
 2451,2002,Brazil,Sao Paulo,Brazil
 2451,2006,Brazil,Sao Paulo,Brazil
+2452,1994,Brazil,Sao Paulo,Brazil
 2452,1998,Brazil,Roma,Italy
 2452,2002,Brazil,Roma,Italy
 2452,2006,Brazil,AC Milan,Italy
@@ -3390,6 +3394,7 @@ player_id,world_cup_year,team,club,country_club
 2462,2002,Brazil,Corinthians,Brazil
 2462,2006,Brazil,Corinthians,Brazil
 2463,2006,Brazil,Internazionale,Italy
+2464,1994,Brazil,Cruzeiro,Brazil
 2464,1998,Brazil,Internazionale,Italy
 2464,2002,Brazil,Internazionale,Italy
 2464,2006,Brazil,Real Madrid,Spain
@@ -3560,6 +3565,7 @@ player_id,world_cup_year,team,club,country_club
 2574,1998,Germany,Schalke 04,Germany
 2574,2002,Germany,Borussia Dortmund,Germany
 2574,2006,Germany,Arsenal,England
+2575,1994,Germany,Karlsruher SC,Germany
 2575,1998,Germany,Bayern Munich,Germany
 2575,2002,Germany,Bayern Munich,Germany
 2575,2006,Germany,Bayern Munich,Germany
@@ -3681,6 +3687,7 @@ player_id,world_cup_year,team,club,country_club
 2664,1998,Mexico,America,Mexico
 2664,2002,Mexico,Guadalajara,Mexico
 2664,2006,Mexico,Guadalajara,Mexico
+2665,1994,Mexico,UNAM,Mexico
 2665,1998,Mexico,Guadalajara,Mexico
 2665,2006,Mexico,Chivas USA,USA
 2666,2006,Mexico,Guadalajara,Mexico
@@ -3701,6 +3708,7 @@ player_id,world_cup_year,team,club,country_club
 2675,2006,Mexico,Bolton Wanderers,England
 2676,2006,Mexico,Cruz Azul,Mexico
 2677,2006,Mexico,Guadalajara,Mexico
+2678,1994,Netherlands,Ajax,Netherlands
 2678,1998,Netherlands,Ajax,Netherlands
 2678,2006,Netherlands,Manchester United,England
 2679,2006,Netherlands,AZ,Netherlands
@@ -3784,6 +3792,7 @@ player_id,world_cup_year,team,club,country_club
 2737,2006,Portugal,Fulham,England
 2738,2002,Portugal,Fiorentina,Italy
 2738,2006,Portugal,Benfica,Portugal
+2739,1994,Saudi Arabia,Al-Ta'ee,Saudi Arabia
 2739,1998,Saudi Arabia,Al-Ta'ee,Saudi Arabia
 2739,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2739,2006,Saudi Arabia,Al Hilal,Saudi Arabia
@@ -3817,6 +3826,7 @@ player_id,world_cup_year,team,club,country_club
 2757,1998,Saudi Arabia,Al Hilal,Saudi Arabia
 2757,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2757,2006,Saudi Arabia,Al Hilal,Saudi Arabia
+2758,1994,Saudi Arabia,Al Hilal,Saudi Arabia
 2758,1998,Saudi Arabia,Al Hilal,Saudi Arabia
 2758,2002,Saudi Arabia,Al Hilal,Saudi Arabia
 2758,2006,Saudi Arabia,Al Hilal,Saudi Arabia
@@ -3863,6 +3873,7 @@ player_id,world_cup_year,team,club,country_club
 2793,2006,South Korea,Ulsan Hyundai Horangi,South Korea
 2794,2006,South Korea,Gwangju Sangmu Phoenix,South Korea
 2795,2006,South Korea,Shimizu S-Pulse,Japan
+2796,1994,Spain,Celta de Vigo,Spain
 2796,1998,Spain,Real Madrid,Spain
 2796,2006,Spain,Valencia,Spain
 2797,2006,Spain,Real Madrid,Spain
@@ -3887,6 +3898,7 @@ player_id,world_cup_year,team,club,country_club
 2811,2006,Sweden,Panathinaikos,Greece
 2812,2002,Sweden,Aston Villa,England
 2812,2006,Sweden,Aston Villa,England
+2813,1994,Sweden,Vastra Frolunda,Sweden
 2813,2002,Sweden,AIK,Sweden
 2813,2006,Sweden,Hacken,Sweden
 2814,2002,Sweden,Heerenveen,Netherlands
@@ -3910,6 +3922,7 @@ player_id,world_cup_year,team,club,country_club
 2825,2006,Sweden,Anderlecht,Belgium
 2826,2002,Sweden,Ajax,Netherlands
 2826,2006,Sweden,Juventus,Italy
+2827,1994,Sweden,Feyenoord,Netherlands
 2827,2002,Sweden,Celtic,Scotland
 2827,2006,Sweden,Barcelona,Spain
 2828,2006,Sweden,Brondby,Denmark
@@ -4047,6 +4060,7 @@ player_id,world_cup_year,team,club,country_club
 2942,2006,USA,Chivas USA,USA
 2943,2002,USA,Fulham,England
 2943,2006,USA,Leeds United,England
+2944,1994,USA,USSF,USA
 2944,1998,USA,VfL Wolfsburg,Germany
 2944,2002,USA,Sunderland,England
 2944,2006,USA,Manchester City,England
@@ -4111,6 +4125,7 @@ player_id,world_cup_year,team,club,country_club
 2982,2002,Belgium,Club Brugge,Belgium
 2983,2002,Belgium,Anderlecht,Belgium
 2984,2002,Belgium,Genk,Belgium
+2985,1994,Belgium,Anderlecht,Belgium
 2985,1998,Belgium,Metz,France
 2985,2002,Belgium,Sint-Truiden,Belgium
 2986,1994,Belgium,Standard Liege,Belgium
@@ -4138,11 +4153,13 @@ player_id,world_cup_year,team,club,country_club
 3002,2002,Brazil,Grêmio,Brazil
 3003,1998,Cameroon,Samsunspor,Turkey
 3003,2002,Cameroon,Samsunspor,Turkey
+3004,1994,Cameroon,Metz,France
 3004,1998,Cameroon,Deportivo La Coruña,Spain
 3004,2002,Cameroon,Metz,France
 3005,2002,Cameroon,Montpellier,France
 3006,1998,Cameroon,Lucchese,Italy
 3006,2002,Cameroon,Bologna,Italy
+3007,1994,Cameroon,Canon Yaoundé,Cameroon
 3007,1998,Cameroon,Panachaiki,Greece
 3007,2002,Cameroon,Extremadura,Spain
 3008,1998,Cameroon,Olympic Mvolyé,Cameroon
@@ -4154,6 +4171,7 @@ player_id,world_cup_year,team,club,country_club
 3011,2002,Cameroon,Arsenal,England
 3012,2002,Cameroon,Panachaiki,Greece
 3013,2002,Cameroon,Rizespor,Turkey
+3014,1994,Cameroon,Canon Yaoundé,Cameroon
 3014,2002,Cameroon,Lyon,France
 3015,2002,Cameroon,Nantes,France
 3016,1998,Cameroon,Nantes,France
@@ -4315,6 +4333,7 @@ player_id,world_cup_year,team,club,country_club
 3138,1998,Italy,Fiorentina,Italy
 3138,2002,Italy,Internazionale,Italy
 3139,2002,Italy,Roma,Italy
+3140,1994,Italy,AC Milan,Italy
 3140,1998,Italy,AC Milan,Italy
 3140,2002,Italy,AC Milan,Italy
 3141,2002,Italy,Barcelona,Spain
@@ -4346,6 +4365,7 @@ player_id,world_cup_year,team,club,country_club
 3161,1998,Japan,Jubilo Iwata,Japan
 3161,2002,Japan,Jubilo Iwata,Japan
 3162,2002,Japan,Kashima Antlers,Japan
+3163,1994,Mexico,UNAM,Mexico
 3163,1998,Mexico,Chicago Fire,USA
 3163,2002,Mexico,UNAM,Mexico
 3164,2002,Mexico,Pachuca,Mexico
@@ -4354,6 +4374,7 @@ player_id,world_cup_year,team,club,country_club
 3166,2002,Mexico,Toluca,Mexico
 3167,2002,Mexico,Cruz Azul,Mexico
 3168,2002,Mexico,Pachuca,Mexico
+3169,1994,Mexico,Necaxa,Mexico
 3169,1998,Mexico,America,Mexico
 3169,2002,Mexico,Puebla,Mexico
 3170,1998,Mexico,UNAM,Mexico
@@ -4377,8 +4398,10 @@ player_id,world_cup_year,team,club,country_club
 3182,2002,Nigeria,Crewe Alexandra,England
 3183,2002,Nigeria,Maccabi Haifa,Israel
 3184,2002,Nigeria,Ajax,Netherlands
+3185,1994,Nigeria,Racing de Santander,Spain
 3185,1998,Nigeria,Real Sociedad,Spain
 3185,2002,Nigeria,Salamanca,Spain
+3186,1994,Nigeria,Eintracht Frankfurt,Germany
 3186,1998,Nigeria,Fenerbahce,Turkey
 3186,2002,Nigeria,PSG,France
 3187,1998,Nigeria,Roda JC,Netherlands
@@ -4444,6 +4467,7 @@ player_id,world_cup_year,team,club,country_club
 3240,2002,Portugal,Sporting CP,Portugal
 3241,2002,Republic of Ireland,Newcastle United,England
 3242,2002,Republic of Ireland,Charlton Athletic,England
+3243,1994,Republic of Ireland,Sheffield United,England
 3243,2002,Republic of Ireland,Blackburn Rovers,England
 3244,2002,Republic of Ireland,Fulham,England
 3245,2002,Republic of Ireland,Leeds United,England
@@ -4451,9 +4475,12 @@ player_id,world_cup_year,team,club,country_club
 3247,2002,Republic of Ireland,Aston Villa,England
 3248,2002,Republic of Ireland,Coventry City,England
 3249,2002,Republic of Ireland,Manchester City,England
+3250,1994,Republic of Ireland,Leeds United,England
 3250,2002,Republic of Ireland,Leeds United,England
 3251,2002,Republic of Ireland,Newcastle United,England
+3252,1994,Republic of Ireland,Manchester United,England
 3252,2002,Republic of Ireland,Manchester United,England
+3253,1994,Republic of Ireland,Bolton Wanderers,England
 3253,2002,Republic of Ireland,Sunderland,England
 3254,2002,Republic of Ireland,Ipswich Town,England
 3255,2002,Republic of Ireland,Blackburn Rovers,England
@@ -4466,24 +4493,29 @@ player_id,world_cup_year,team,club,country_club
 3262,2002,Republic of Ireland,Sunderland,England
 3263,2002,Republic of Ireland,Crystal Palace,England
 3264,2002,Russia,Hellas Verona,Italy
+3265,1994,Russia,Dynamo Dresden,Germany
 3265,2002,Russia,Tirol Innsbruck,Austria
 3266,2002,Russia,Uralan Elista,Russia
 3267,2002,Russia,Spartak Moscow,Russia
 3268,2002,Russia,PSV,Netherlands
 3269,2002,Russia,CSKA Moscow,Russia
+3270,1994,Russia,Spartak Moscow,Russia
 3270,2002,Russia,Real Oviedo,Spain
 3271,2002,Russia,CSKA Moscow,Russia
 3272,2002,Russia,Uralan Elista,Russia
 3273,2002,Russia,Lokomotiv Moscow,Russia
 3274,2002,Russia,Bordeaux,France
 3275,2002,Russia,Torpedo Moscow,Russia
+3276,1994,Russia,Spartak Moscow,Russia
 3276,2002,Russia,Celta de Vigo,Spain
 3277,2002,Russia,Spartak Moscow,Russia
+3278,1994,Russia,Caen,France
 3278,2002,Russia,Celta de Vigo,France
 3279,2002,Russia,Porto,Portugal
 3280,2002,Russia,CSKA Moscow,Russia
 3281,2002,Russia,Lokomotiv Moscow,Russia
 3282,2002,Russia,Real Sociedad,Spain
+3283,1994,Russia,Spartak Moscow,Russia
 3283,2002,Russia,Spartak Moscow,Russia
 3284,2002,Russia,Lokomotiv Moscow,Russia
 3285,2002,Russia,Spartak Moscow,Russia
@@ -4584,6 +4616,7 @@ player_id,world_cup_year,team,club,country_club
 3367,2002,South Korea,Jeonnam Dragons,South Korea
 3368,1998,South Korea,Busan Daewoo Royals,South Korea
 3368,2002,South Korea,Busan IPark,South Korea
+3369,1994,South Korea,POSCO Atoms,South Korea
 3369,1998,South Korea,Bellmare Hiratsuka,Japan
 3369,2002,South Korea,Pohang Steelers,South Korea
 3370,1998,South Korea,Sangmu,South Korea
@@ -4592,14 +4625,17 @@ player_id,world_cup_year,team,club,country_club
 3372,2002,South Korea,Anyang LG Cheetahs,South Korea
 3373,1998,South Korea,Sangmu,South Korea
 3373,2002,South Korea,JEF United Ichihara,Japan
+3374,1994,South Korea,POSCO Atoms,South Korea
 3374,1998,South Korea,Pohang Steelers,South Korea
 3374,2002,South Korea,Kashiwa Reysol,Japan
 3375,2002,Spain,Valladolid,Spain
-3376,2002,Spain,Málaga,Spain
+3376,2002,Spain,Malaga,Spain
 3377,2002,Spain,Valencia,Spain
+3378,1994,Spain,Real Madrid,Spain
 3378,1998,Spain,Real Madrid,Spain
 3378,2002,Spain,Real Madrid,Spain
 3379,2002,Spain,Deportivo La Coruña,Spain
+3380,1994,Spain,Barcelona,Spain
 3380,1998,Spain,Barcelona,Spain
 3380,2002,Spain,Mallorca,Spain
 3381,2002,Spain,Real Madrid,Spain
@@ -4608,14 +4644,17 @@ player_id,world_cup_year,team,club,country_club
 3384,2002,Spain,Lazio,Italy
 3385,2002,Spain,Deportivo La Coruña,Spain
 3386,2002,Spain,Deportivo La Coruña,Spain
+3387,1994,Spain,Real Madrid,Spain
 3387,1998,Spain,Barcelona,Spain
 3387,2002,Spain,Barcelona,Spain
 3388,1998,Spain,Real Madrid,Spain
 3388,2002,Spain,Real Madrid,Spain
 3389,2002,Spain,Deportivo La Coruña,Spain
 3390,2002,Spain,Mallorca,Spain
+3391,1994,Sweden,AIK,Sweden
 3391,2002,Sweden,Coventry City,England
 3392,2002,Sweden,Copenhagen,Denmark
+3393,1994,Sweden,Borussia Moenchengladbach,Germany
 3393,2002,Sweden,Barcelona,Spain
 3394,2002,Sweden,Celtic,Scotland
 3395,2002,Sweden,Troyes,France
@@ -4671,6 +4710,7 @@ player_id,world_cup_year,team,club,country_club
 3438,2002,Turkey,Galatasaray,Turkey
 3439,2002,Turkey,Real Sociedad,Spain
 3440,2002,Turkey,Besiktas,Turkey
+3441,1994,USA,USSF,USA
 3441,1998,USA,Liverpool,England
 3441,2002,USA,Blackburn Rovers,England
 3442,2002,USA,Kansas City Wizards,USA
@@ -4682,10 +4722,13 @@ player_id,world_cup_year,team,club,country_club
 3446,2002,USA,1. FC Nurnberg,Germany
 3447,1998,USA,Tampa Bay Mutiny,USA
 3447,2002,USA,Bayer Leverkusen,Germany
+3448,1994,USA,Willem II,Netherlands
 3448,1998,USA,NAC,Netherlands
 3448,2002,USA,NAC,Netherlands
+3449,1994,USA,USSF,USA
 3449,1998,USA,LA Galaxy,USA
 3449,2002,USA,LA Galaxy,USA
+3450,1994,USA,USSF,USA
 3450,1998,USA,New England Revolution,USA
 3450,2002,USA,Everton,England
 3451,2002,USA,Metrostars,USA
@@ -4760,10 +4803,13 @@ player_id,world_cup_year,team,club,country_club
 3512,1998,Belgium,Anderlecht,Belgium
 3513,1998,Belgium,Genk,Belgium
 3514,1998,Belgium,Fiorentina,Italy
+3515,1994,Belgium,Anderlecht,Belgium
 3515,1998,Belgium,PSV,Netherlands
 3516,1998,Belgium,Standard Liege,Belgium
+3517,1994,Brazil,Reggiana,Italy
 3517,1998,Brazil,Atletico Mineiro,Brazil
 3518,1998,Brazil,Vasco da Gama,Brazil
+3519,1994,Brazil,Roma,Italy
 3519,1998,Brazil,Roma,Italy
 3520,1998,Brazil,Flamengo,Brazil
 3521,1998,Brazil,São Paulo,Brazil
@@ -4771,29 +4817,40 @@ player_id,world_cup_year,team,club,country_club
 3523,1998,Brazil,AC Milan,Italy
 3524,1998,Brazil,Yokohama Flugels,Japan
 3525,1998,Brazil,Barcelona,Spain
+3526,1994,Brazil,VfB Stuttgart,Germany
 3526,1998,Brazil,Jubilo Iwata,Japan
 3527,1998,Brazil,Porto,Portugal
+3528,1994,Brazil,Sao Paulo,Brazil
 3528,1998,Brazil,AC Milan,Italy
+3529,1994,Brazil,Deportivo La Coruña,Spain
 3529,1998,Brazil,Botafogo,Brazil
 3530,1998,Brazil,Fiorentina,Italy
 3531,1998,Bulgaria,Istanbulspor,Turkey
+3532,1994,Bulgaria,Mulhouse,France
 3532,1998,Bulgaria,Slavia Sofia,Bulgaria
 3533,1998,Bulgaria,Litex Lovech,Bulgaria
+3534,1994,Bulgaria,Neuchatel Xamax,Switzerland
 3534,1998,Bulgaria,CSKA Sofia,Bulgaria
 3535,1998,Bulgaria,Litex Lovech,Bulgaria
 3536,1998,Bulgaria,Antalyaspor,Turkey
 3537,1998,Bulgaria,Arminia Bielefeld,Germany
 3538,1998,Bulgaria,Litex Lovech,Bulgaria
+3539,1994,Bulgaria,Sporting CP,Portugal
 3539,1998,Bulgaria,Sporting CP,Portugal
+3540,1994,Bulgaria,Levski Sofia,Bulgaria
 3540,1998,Bulgaria,Besiktas,Turkey
+3541,1994,Bulgaria,Sporting CP,Portugal
 3541,1998,Bulgaria,VfB Stuttgart,Germany
 3542,1998,Bulgaria,Bursaspor,Turkey
 3543,1998,Bulgaria,1. FC Kaiserslautern,Germany
 3544,1998,Bulgaria,Lokomotiv Sofia,Bulgaria
 3545,1998,Bulgaria,Litex Lovech,Bulgaria
+3546,1994,Bulgaria,Levski Sofia,Bulgaria
 3546,1998,Bulgaria,1860 Munich,Germany
 3547,1998,Bulgaria,CSKA Sofia,Bulgaria
+3548,1994,Bulgaria,Porto,Portugal
 3548,1998,Bulgaria,CSKA Sofia,Bulgaria
+3549,1994,Bulgaria,Barcelona,Spain
 3549,1998,Bulgaria,Barcelona,Spain
 3550,1998,Bulgaria,Compostela,Spain
 3551,1998,Bulgaria,Slavia Sofia,Bulgaria
@@ -4805,7 +4862,9 @@ player_id,world_cup_year,team,club,country_club
 3557,1998,Cameroon,Nice,France
 3558,1998,Cameroon,Saint-Étienne,France
 3559,1998,Cameroon,Montpellier,France
+3560,1994,Cameroon,Lens,France
 3560,1998,Cameroon,Sampdoria,Italy
+3561,1994,Cameroon,Odense,Denmark
 3561,1998,Cameroon,Hertha BSC,Germany
 3562,1998,Cameroon,Rapid Wien,Austria
 3563,1998,Chile,Universidad Católica,Chile
@@ -4830,6 +4889,7 @@ player_id,world_cup_year,team,club,country_club
 3582,1998,Chile,River Plate,Argentina
 3583,1998,Chile,Colo-Colo,Chile
 3584,1998,Chile,Universidad de Chile,Chile
+3585,1994,Colombia,America de Cali,Colombia
 3585,1998,Colombia,Boca Juniors,Argentina
 3586,1998,Colombia,Atletico Nacional,Colombia
 3587,1998,Colombia,San Lorenzo,Argentina
@@ -4838,17 +4898,24 @@ player_id,world_cup_year,team,club,country_club
 3590,1998,Colombia,Boca Juniors,Argentina
 3591,1998,Colombia,Millonarios,Colombia
 3592,1998,Colombia,Deportes Tolima,Colombia
+3593,1994,Colombia,Atletico Nacional,Colombia
 3593,1998,Colombia,Boca Juniors,Argentina
 3594,1998,Colombia,Valladolid,Spain
+3595,1994,Colombia,Atletico Junior,Colombia
 3595,1998,Colombia,Miami Fusion,United States
 3596,1998,Colombia,Atletico Junior,Colombia
 3597,1998,Colombia,Deportivo Cali,Colombia
 3598,1998,Colombia,Deportivo Cali,Colombia
+3599,1994,Colombia,Palmeiras,Brazil
 3599,1998,Colombia,Corinthians,Brazil
+3600,1994,Colombia,America de Cali,Colombia
 3600,1998,Colombia,Barcelona SC,Ecuador
+3601,1994,Colombia,Bayern Munich,Germany
 3601,1998,Colombia,Independiente Medellín,Colombia
+3602,1994,Colombia,Parma,Italy
 3602,1998,Colombia,Parma,Italy
-3603,1998,Colombia,São Paulo,Brazil
+3603,1994,Colombia,Valencia,Spain
+3603,1998,Colombia,Sao Paulo,Brazil
 3604,1998,Colombia,Middlesbrough,England
 3605,1998,Colombia,Santa Fe,Colombia
 3606,1998,Croatia,Croatia Zagreb,Croatia
@@ -4897,21 +4964,29 @@ player_id,world_cup_year,team,club,country_club
 3649,1998,France,Auxerre,France
 3650,1998,France,Real Madrid,Spain
 3651,1998,France,Auxerre,France
+3652,1994,Germany,1. FC Nurnberg,Germany
 3652,1998,Germany,Marseille,France
 3653,1998,Germany,Bayer Leverkusen,Germany
 3654,1998,Germany,Borussia Dortmund,Germany
+3655,1994,Germany,Juventus,Italy
 3655,1998,Germany,Borussia Dortmund,Germany
+3656,1994,Germany,Bayern Munich,Germany
 3656,1998,Germany,Bayern Munich,Germany
 3657,1998,Germany,Schalke 04,Germany
+3658,1994,Germany,Bayern Munich,Germany
 3658,1998,Germany,Bayern Munich,Germany
 3659,1998,Germany,Bayern Munich,Germany
 3660,1998,Germany,Borussia Dortmund,Germany
 3661,1998,Germany,Bayern Munich,Germany
+3662,1994,Germany,Juventus,Italy
 3662,1998,Germany,Borussia Dortmund,Germany
+3663,1994,Germany,Roma,Italy
 3663,1998,Germany,Karlsruher SC,Germany
 3664,1998,Germany,Borussia Dortmund,Germany
+3665,1994,Germany,Bayer Leverkusen,Germany
 3665,1998,Germany,Bayer Leverkusen,Germany
 3666,1998,Germany,1. FC Kaiserslautern,Germany
+3667,1994,Germany,Monaco,France
 3667,1998,Germany,Tottenham,England
 3668,1998,Iran,Persepolis,Iran
 3669,1998,Iran,Persepolis,Iran
@@ -4933,16 +5008,21 @@ player_id,world_cup_year,team,club,country_club
 3685,1998,Iran,1. FC Köln,Germany
 3686,1998,Iran,Bahman,Iran
 3687,1998,Iran,Sanat Naft,Iran
+3688,1994,Italy,Sampdoria,Italy
 3688,1998,Italy,Internazionale,Italy
 3689,1998,Italy,Internazionale,Italy
+3690,1994,Italy,AC Milan,Italy
 3690,1998,Italy,AC Milan,Italy
 3691,1998,Italy,Juventus,Italy
 3692,1998,Italy,Juventus,Italy
+3693,1994,Italy,AC Milan,Italy
 3693,1998,Italy,AC Milan,Italy
+3694,1994,Italy,Juventus,Italy
 3694,1998,Italy,Parma,Italy
 3695,1998,Italy,Fiorentina,Italy
 3696,1998,Italy,Chelsea,England
 3697,1998,Italy,Internazionale,Italy
+3698,1994,Italy,Juventus,Italy
 3698,1998,Italy,Bologna,Italy
 3699,1998,Italy,Parma,Italy
 3700,1998,Jamaica,Violet Kickers,Jamaica
@@ -4984,27 +5064,35 @@ player_id,world_cup_year,team,club,country_club
 3736,1998,Mexico,Guadalajara,Mexico
 3737,1998,Mexico,America,Mexico
 3738,1998,Mexico,America,Mexico
+3739,1994,Mexico,Toluca,Mexico
 3739,1998,Mexico,Monterrey,Mexico
 3740,1998,Mexico,Guadalajara,Mexico
 3741,1998,Mexico,America,Mexico
 3742,1998,Mexico,Toluca,Mexico
 3743,1998,Mexico,America,Mexico
+3744,1994,Mexico,Atletico Madrid,Spain
 3744,1998,Mexico,Atlante,Mexico
 3745,1998,Morocco,FAR Rabat,Morocco
 3746,1998,Morocco,RS Settat,Morocco
 3747,1998,Morocco,Raja Casablanca,Morocco
 3748,1998,Morocco,Sporting CP,Portugal
+3749,1994,Morocco,FAR Rabat,Morocco
 3749,1998,Morocco,Benfica,Portugal
 3750,1998,Morocco,Rennes,France
+3751,1994,Morocco,Chatearoux,France
 3751,1998,Morocco,Lausanne,Switzerland
 3752,1998,Morocco,Deportivo La Coruña,Spain
+3753,1994,Morocco,MC Oujda,Morocco
 3753,1998,Morocco,Bari,Italy
 3754,1998,Morocco,Wydad Casablanca,Morocco
 3755,1998,Morocco,Raja Casablanca,Morocco
+3756,1994,Morocco,KAC Marrakesh,Morocco
 3756,1998,Morocco,Benfica,Portugal
+3757,1994,Morocco,Nancy,France
 3757,1998,Morocco,Deportivo La Coruña,Spain
 3758,1998,Morocco,Compostela,Spain
 3759,1998,Morocco,Heerenveen,Netherlands
+3760,1994,Morocco,Duisburg,Germany
 3760,1998,Morocco,Greuther Furth,Germany
 3761,1998,Morocco,Mulhouse,France
 3762,1998,Morocco,Porto,Portugal
@@ -5012,58 +5100,87 @@ player_id,world_cup_year,team,club,country_club
 3764,1998,Morocco,1860 Munich,Germany
 3765,1998,Morocco,Deportivo La Coruña,Spain
 3766,1998,Morocco,Chabab Mohammédia,Morocco
+3767,1994,Netherlands,Feyenoord,Netherlands
 3767,1998,Netherlands,Chelsea,England
 3768,1998,Netherlands,Barcelona,Spain
 3769,1998,Netherlands,Barcelona,Spain
 3770,1998,Netherlands,PSV,Netherlands
+3771,1994,Netherlands,Ajax,Netherlands
 3771,1998,Netherlands,Ajax,Netherlands
+3772,1994,Netherlands,PSV,Netherlands
 3772,1998,Netherlands,PSV,Netherlands
 3773,1998,Netherlands,Barcelona,Spain
+3774,1994,Netherlands,Internazionale,Italy
 3774,1998,Netherlands,PSV,Netherlands
+3775,1994,Netherlands,Ajax,Netherlands
 3775,1998,Netherlands,Ajax,Netherlands
 3776,1998,Netherlands,Real Madrid,Spain
 3777,1998,Netherlands,PSV,Netherlands
+3778,1994,Netherlands,Ajax,Netherlands
 3778,1998,Netherlands,Arsenal,England
 3779,1998,Netherlands,Juventus,Italy
+3780,1994,Netherlands,Lazio,Italy
 3780,1998,Netherlands,Internazionale,Italy
+3781,1994,Netherlands,Internazionale,Italy
 3781,1998,Netherlands,Arsenal,England
 3782,1998,Netherlands,AC Milan,Italy
 3783,1998,Netherlands,Nottingham Forest,England
 3784,1998,Netherlands,Leeds United,England
+3785,1994,Nigeria,Go Ahead Eagles,Netherlands
 3785,1998,Nigeria,Deportivo La Coruña,Spain
 3786,1998,Nigeria,Orlando Pirates,South Africa
 3787,1998,Nigeria,Sion,Switzerland
 3788,1998,Nigeria,Kapellen,Belgium
+3789,1994,Nigeria,Fenerbahce,Turkey
 3789,1998,Nigeria,Fenerbahce,Turkey
+3790,1994,Nigeria,Hannover 96,Germany
 3790,1998,Nigeria,Kansas City Wizards,United States
+3791,1994,Nigeria,Kortkrijk,Belgium
 3791,1998,Nigeria,Torpedo Moscow,Russia
+3792,1994,Nigeria,Vitesse,Netherlands
 3792,1998,Nigeria,Elche,Spain
 3793,1998,Nigeria,Strasbourg,France
+3794,1994,Nigeria,Ajax,Netherlands
 3794,1998,Nigeria,Real Betis,Spain
 3795,1998,Nigeria,Ajax,Netherlands
+3796,1994,Nigeria,FC Liege,Belgium
 3796,1998,Nigeria,Ajax,Netherlands
 3797,1998,Nigeria,Lens,France
+3798,1994,Nigeria,Vitoria Setubal,Portugal
 3798,1998,Nigeria,Zurich,Switzerland
+3799,1994,Nigeria,Club Brugge,Belgium
 3799,1998,Nigeria,Besiktas,Turkey
+3800,1994,Nigeria,Monaco,France
 3800,1998,Nigeria,Monaco,France
+3801,1994,Norway,Lillestrom,Norway
 3801,1998,Norway,Tottenham,England
 3802,1998,Norway,Everton,England
 3803,1998,Norway,Tottenham,England
+3804,1994,Norway,Oldham Athletic,England
 3804,1998,Norway,Leeds United,England
 3805,1998,Norway,Manchester United,England
+3806,1994,Norway,Blackburn Rovers,England
 3806,1998,Norway,Manchester United,England
+3807,1994,Norway,Liverpool,England
 3807,1998,Norway,Liverpool,England
 3808,1998,Norway,Rosenborg,Norway
+3809,1994,Norway,Brondby,Denmark
 3809,1998,Norway,Celta de Vigo,Spain
 3810,1998,Norway,Rosenborg,Norway
 3811,1998,Norway,LASK,Austria
 3812,1998,Norway,AaB,Denmark
+3813,1994,Norway,Start,Norway
 3813,1998,Norway,Panathinaikos,Greece
+3814,1994,Norway,Rosenborg,Norway
 3814,1998,Norway,Liverpool,England
+3815,1994,Norway,Lierse,Belgium
 3815,1998,Norway,Hertha BSC,Germany
+3816,1994,Norway,Lierse,Belgium
 3816,1998,Norway,Rosenborg,Norway
+3817,1994,Norway,Rosenborg,Norway
 3817,1998,Norway,Rosenborg,Norway
 3818,1998,Norway,Chelsea,England
+3819,1994,Norway,Sheffield United,England
 3819,1998,Norway,Stromsgodset,Norway
 3820,1998,Norway,Werder Bremen,Germany
 3821,1998,Norway,Southampton,England
@@ -5081,39 +5198,58 @@ player_id,world_cup_year,team,club,country_club
 3833,1998,Paraguay,Argentinos Juniors,Argentina
 3834,1998,Paraguay,Sporting CP,Portugal
 3835,1998,Romania,Kocaelispor,Turkey
+3836,1994,Romania,Rapid Bucuresti,Romania
 3836,1998,Romania,Salamanca,Spain
+3837,1994,Romania,Dinamo Bucuresti,Romania
 3837,1998,Romania,Universitatea Cluj,Romania
+3838,1994,Romania,Genoa,Italy
 3838,1998,Romania,Chelsea,England
 3839,1998,Romania,Rapid Bucuresti,Romania
 3840,1998,Romania,AEK Athens,Greece
+3841,1994,Romania,PSV,Netherlands
 3841,1998,Romania,Galatasaray,Turkey
 3842,1998,Romania,National Bucuresti,Romania
+3843,1994,Romania,Cercle Brugge,Belgium
 3843,1998,Romania,Anderlecht,Belgium
+3844,1994,Romania,Steaua Bucuresti,Romania
 3844,1998,Romania,Espanyol,Spain
+3845,1994,Romania,Cercle Brugge,Belgium
 3845,1998,Romania,1. FC Köln,Germany
+3846,1994,Romania,Brescia,Italy
 3846,1998,Romania,Galatasaray,Turkey
 3847,1998,Romania,National Bucuresti,Romania
 3848,1998,Romania,Rapid Bucuresti,Romania
 3849,1998,Romania,Salamanca,Spain
 3850,1998,Romania,Galatasaray,Turkey
+3851,1994,Romania,Universitatea Craiova,Romania
 3851,1998,Romania,PSV,Netherlands
 3852,1998,Romania,Steaua Bucuresti,Romania
+3853,1994,Romania,Dinamo Bucuresti,Romania
 3853,1998,Romania,Coventry City,England
 3854,1998,Romania,Valencia,Spain
+3855,1994,Romania,Steaua Bucuresti,Romania
 3855,1998,Romania,Atlante,Mexico
 3856,1998,Romania,Real Sociedad,Spain
+3857,1994,Saudi Arabia,Al Qadsiah,Saudi Arabia
 3857,1998,Saudi Arabia,Al Qadsiah,Saudi Arabia
 3858,1998,Saudi Arabia,Al Ettifaq,Saudi Arabia
+3859,1994,Saudi Arabia,Al-Ittihad,Saudi Arabia
 3859,1998,Saudi Arabia,Al-Ittihad,Saudi Arabia
+3860,1994,Saudi Arabia,Al-Ittihad,Saudi Arabia
 3860,1998,Saudi Arabia,Al-Ittihad,Saudi Arabia
 3861,1998,Saudi Arabia,Al Nassr,Saudi Arabia
 3862,1998,Saudi Arabia,Al Ahli,Saudi Arabia
+3863,1994,Saudi Arabia,Al Shabab,Saudi Arabia
 3863,1998,Saudi Arabia,Al Shabab,Saudi Arabia
 3864,1998,Saudi Arabia,Al Nassr,Saudi Arabia
+3865,1994,Saudi Arabia,Al Ahli,Saudi Arabia
 3865,1998,Saudi Arabia,Al Ahli,Saudi Arabia
 3866,1998,Saudi Arabia,Al Hilal,Saudi Arabia
+3867,1994,Saudi Arabia,Al Ahli,Saudi Arabia
 3867,1998,Saudi Arabia,Al Ahli,Saudi Arabia
+3868,1994,Saudi Arabia,Al Shabab,Saudi Arabia
 3868,1998,Saudi Arabia,Al Shabab,Saudi Arabia
+3869,1994,Saudi Arabia,Al Shabab,Saudi Arabia
 3869,1998,Saudi Arabia,Al Shabab,Saudi Arabia
 3870,1998,Scotland,Aberdeen,Scotland
 3871,1998,Scotland,Wimbledon,England
@@ -5156,26 +5292,36 @@ player_id,world_cup_year,team,club,country_club
 3908,1998,South Africa,Orlando Pirates,South Africa
 3909,1998,South Korea,Sangmu,South Korea
 3910,1998,South Korea,Bucheon SK,South Korea
+3911,1994,South Korea,Ulsan Hyundai Horangi,South Korea
 3911,1998,South Korea,Busan Daewoo Royals,South Korea
 3912,1998,South Korea,Anyang LG Cheetahs,South Korea
 3913,1998,South Korea,Ulsan Hyundai Horangi,South Korea
 3914,1998,South Korea,Cheonan Ilhwa Chunma,South Korea
 3915,1998,South Korea,Jeonnam Dragons,South Korea
+3916,1994,South Korea,Sanfreece Hiroshima,Japan
 3916,1998,South Korea,NAC,Netherlands
 3917,1998,South Korea,Suwon Samsung Bluewings,South Korea
 3918,1998,South Korea,Cheonan Ilhwa Chunma,South Korea
+3919,1994,South Korea,Daewoo Royals,South Korea
 3919,1998,South Korea,Cerezo Osaka,Japan
 3920,1998,South Korea,Vissel Kobe,Japan
+3921,1994,South Korea,Sangmu FC,South Korea
 3921,1998,South Korea,Strasbourg,France
+3922,1994,Spain,Barcelona,Spain
 3922,1998,Spain,Valencia,Spain
 3923,1998,Spain,Atletico Madrid,Spain
+3924,1994,Spain,Barcelona,Spain
 3924,1998,Spain,Barcelona,Spain
 3925,1998,Spain,Real Sociedad,Spain
+3926,1994,Spain,Real Madrid,Spain
 3926,1998,Spain,Athletic Bilbao,Spain
+3927,1994,Spain,Sporting Gijon,Spain
 3927,1998,Spain,Barcelona,Spain
+3928,1994,Spain,Barcelona,Spain
 3928,1998,Spain,Barcelona,Spain
 3929,1998,Spain,Mallorca,Spain
 3930,1998,Spain,Atletico Madrid,Spain
+3931,1994,Spain,Athletic Bilbao,Spain
 3931,1998,Spain,Athletic Bilbao,Spain
 3932,1998,Spain,Barcelona,Spain
 3933,1998,Spain,Barcelona,Spain
@@ -5194,19 +5340,27 @@ player_id,world_cup_year,team,club,country_club
 3946,1998,Tunisia,Espérance de Tunis,Tunisia
 3947,1998,Tunisia,Étoile du Sahel,Tunisia
 3948,1998,Tunisia,SC Freiburg,Germany
-3949,1998,USA,Columbus Crew,United States
-3950,1998,USA,New England Revolution,United States
-3951,1998,USA,Colorado Rapids,United States
-3952,1998,USA,MetroStars,United States
-3953,1998,USA,Columbus Crew,United States
-3954,1998,USA,MetroStars,United States
-3955,1998,USA,Kansas City Wizards,United States
+3949,1994,USA,Luton Town,England
+3949,1998,USA,Columbus Crew,USA
+3950,1994,USA,USSF,USA
+3950,1998,USA,New England Revolution,USA
+3951,1994,USA,USSF,USA
+3951,1998,USA,Colorado Rapids,USA
+3952,1994,USA,USSF,USA
+3952,1998,USA,MetroStars,USA
+3953,1994,USA,USSF,USA
+3953,1998,USA,Columbus Crew,USA
+3954,1994,USA,Real Betis,Spain
+3954,1998,USA,MetroStars,USA
+3955,1998,USA,Kansas City Wizards,USA
 3956,1998,USA,VfL Wolfsburg,Germany
-3957,1998,USA,Columbus Crew,United States
-3958,1998,USA,Tampa Bay Mutiny,United States
-3959,1998,USA,San Jose Clash,United States
+3957,1998,USA,Columbus Crew,USA
+3958,1994,USA,Coventry City,England
+3958,1998,USA,Tampa Bay Mutiny,USA
+3959,1994,USA, 1. FC Saarbrucken,Germany
+3959,1998,USA,San Jose Clash,USA
 3960,1998,Yugoslavia,Partizan,Serbia
-3961,1998,Yugoslavia,Sporting Gijón,Spain
+3961,1998,Yugoslavia,Sporting Gijon,Spain
 3962,1998,Yugoslavia,Atalanta,Italy
 3963,1998,Yugoslavia,Celta de Vigo,Spain
 3964,1998,Yugoslavia,Valencia,Spain
@@ -5225,361 +5379,361 @@ player_id,world_cup_year,team,club,country_club
 3977,1998,Yugoslavia,Real Madrid,Spain
 3978,1998,Yugoslavia,Red Star Belgrade,Serbia
 3979,1998,Yugoslavia,Real Sociedad,Spain
-3980,1994,Argentina, River Plate,Argentina
-3981,1994,Argentina, Independiente,Argentina
-3982,1994,Argentina, Newell's Old Boys,Argentina
-3983,1994,Argentina, Universidad Católica,Chile
-3984,1994,Argentina, San Lorenzo,Argentina
-3985,1994,Argentina, Real Zaragoza,Spain
-3986,1994,Argentina, Racing,Argentina
-3987,1994,Argentina, River Plate,Argentina
-3988,1994,Argentina, Tenerife,Spain
-3989,1994,Argentina, Velez Sarsfield,Argentina
-3990,1994,Argentina, Newell's Old Boys,Argentina
-3991,1994,Argentina, Independiente,Argentina
-3992,1994,Argentina, Borussia Dortmund,Germany
-3993,1994,Argentina, Boca Juniors,Argentina
-3994,1994,Argentina, Yokohama F. Marinos,Japan
-3995,1994,Belgium, Mechelen,Belgium
-3996,1994,Belgium, Club Brugge,Belgium
-3997,1994,Belgium, Anderlecht,Belgium
-3998,1994,Belgium, Antwerp,Belgium
-3999,1994,Belgium, Parma,Italy
-4000,1994,Belgium, Anderlecht,Belgium
-4001,1994,Belgium, Club Brugge,Belgium
-4002,1994,Belgium, Anderlecht,Belgium
-4003,1994,Belgium, Club Brugge,Belgium
-4004,1994,Belgium, Anderlecht,Belgium
-4005,1994,Belgium, Mechelen,Belgium
-4006,1994,Belgium, Cercle Brugge,Belgium
-4007,1994,Bolivia, Bolívar,Bolivia
-4008,1994,Bolivia, Oriente Petrolero,Bolivia
-4009,1994,Bolivia, The Strongest,Bolivia
-4010,1994,Bolivia, Santa Fe,Colombia
-4011,1994,Bolivia, Bolívar,Bolivia
-4012,1994,Bolivia, Bolívar,Bolivia
-4013,1994,Bolivia, The Strongest,Bolivia
-4014,1994,Bolivia, Blooming,Bolivia
-4015,1994,Bolivia, Bolivar,Bolivia
-4016,1994,Bolivia, The Strongest,Bolivia
-4017,1994,Bolivia, Bolívar,Bolivia
-4018,1994,Bolivia, Oriente Petrolero,Bolivia
-4019,1994,Bolivia, Cobreloa,Chile
-4020,1994,Bolivia, Colo-Colo,Chile
-4021,1994,Bolivia, Guabirá,Bolivia
-4022,1994,Bolivia, Bolívar,Bolivia
-4023,1994,Bolivia, Platense,Argentina
-4024,1994,Bolivia, Boavista,Portugal
-4025,1994,Bolivia, Bolívar,Bolivia
-4026,1994,Bolivia, Deportes Temuco,Chile
-4027,1994,Bolivia, Blooming,Bolivia
-4028,1994,Bolivia, Oriente Petrolero,Bolivia
-4029,1994,Brazil, São Paulo,Brazil
-4030,1994,Brazil, Flamengo,Brazil
-4031,1994,Brazil, Bayern Munich,Germany
-4032,1994,Brazil, Vasco da Gama,Brazil
-4033,1994,Brazil, Shimizu S-Pulse,Japan
-4034,1994,Brazil, Bordeaux,France
-4035,1994,Brazil, Deportivo La Coruña,Spain
-4036,1994,Brazil, Palmeiras,Brazil
-4037,1994,Brazil, Paris Saint-Germain,France
-4038,1994,Brazil, Palmeiras,Brazil
-4039,1994,Brazil, Barcelona,Spain
-4040,1994,Brazil, Bayer Leverkusen,Germany
-4041,1994,Brazil, São Paulo,Brazil
-4042,1994,Brazil, Corinthians,Brazil
-4043,1994,Bulgaria, Levski SOFI Cretea,Bulgaria
-4044,1994,Bulgaria, Levski SOFI Cretea,Bulgaria
-4045,1994,Bulgaria, Levski SOFI Cretea,Bulgaria
-4046,1994,Bulgaria, Hamburger SV,Germany
-4047,1994,Bulgaria, Rennes,France
-4048,1994,Bulgaria, Mérida,Spain
-4049,1994,Bulgaria, Hamburger SV,Germany
-4050,1994,Bulgaria, Ipswich Town,England
-4051,1994,Bulgaria, Mulhouse,France
-4052,1994,Bulgaria, Levski SOFI Cretea,Bulgaria
-4053,1994,Bulgaria, Pirin Blagoevgrad,Bulgaria
-4054,1994,Bulgaria, Levski SOFI Cretea,Bulgaria
-4055,1994,Bulgaria, Espanyol,Spain
-4056,1994,Bulgaria, CSKA SOFI Cretea,Bulgaria
-4057,1994,Cameroon, Saint-Étienne,France
-4058,1994,Cameroon, L'Hospitalet,Spain
-4059,1994,Cameroon, Le Havre,France
-4060,1994,Cameroon, Canon Yaoundé,Cameroon
-4061,1994,Cameroon, Olympic Mvolyé,Cameroon
-4062,1994,Cameroon, Olympic Mvolyé,Cameroon
-4063,1994,Cameroon, Olympic Mvolyé,Cameroon
-4064,1994,Cameroon, Ohod,Saudi Arabia
-4065,1994,Cameroon, Nadi Qatar,Qatar
-4066,1994,Cameroon, Rio Ave,Portugal
-4067,1994,Cameroon, Prévoyance Yaoundé,Cameroon
-4068,1994,Cameroon, Canon Yaoundé,Cameroon
-4069,1994,Cameroon, Tonnerre Yaoundé,Cameroon
-4070,1994,Cameroon, Canon Yaoundé,Cameroon
-4071,1994,Cameroon, Belenenses,Portugal
-4072,1994,Cameroon, Troyes,France
-4073,1994,Colombia, Atlético Junior,Colombia
-4074,1994,Colombia, Atlético Nacional,Colombia
-4075,1994,Colombia, Atlético Junior,Colombia
-4076,1994,Colombia, Atlético Nacional,Colombia
-4077,1994,Colombia, Once Caldas,Colombia
-4078,1994,Colombia, Atlético Junior,Colombia
-4079,1994,Colombia, Millonarios,Colombia
-4080,1994,Colombia, América de Cali,Colombia
-4081,1994,Colombia, Atlético Nacional,Colombia
-4082,1994,Colombia, Atlético Nacional,Colombia
-4083,1994,Colombia, América de Cali,Colombia
-4084,1994,Colombia, América de Cali,Colombia
-4085,1994,Colombia, Atlético Junior,Colombia
-4086,1994,Germany, 1. FC Köln,Germany
-4087,1994,Germany, 1. FC Kaiserslautern,Germany
-4088,1994,Germany, VfB Stuttgart,Germany
-4089,1994,Germany, VfB Stuttgart,Germany
-4090,1994,Germany, Borussia Dortmund,Germany
-4091,1994,Germany, VfB Stuttgart,Germany
-4092,1994,Germany, Eintracht Frankfurt,Germany
-4093,1994,Germany, 1. FC Kaiserslautern,Germany
-4094,1994,Germany, Fiorentina,Italy
-4095,1994,Germany, Werder Bremen,Germany
-4096,1994,Germany, Borussia Dortmund,Germany
-4097,1994,Germany, 1. FC Kaiserslautern,Germany
-4098,1994,Germany, Marseille,France
-4099,1994,Greece, Apollon Athens,Greece
-4100,1994,Greece, Aris,Greece
-4101,1994,Greece, AEK Athens,Greece
-4102,1994,Greece, Panathinaikos,Greece
-4103,1994,Greece, Panathinaikos,Greece
-4104,1994,Greece, AEK Athens,Greece
-4105,1994,Greece, Panathinaikos,Greece
-4106,1994,Greece, AEK Athens,Greece
-4107,1994,Greece, Olympiacos,Greece
-4108,1994,Greece, PAOK,Greece
-4109,1994,Greece, Olympiacos,Greece
-4110,1994,Greece, Panathinaikos,Greece
-4111,1994,Greece, AEK Athens,Greece
-4112,1994,Greece, Olympiacos,Greece
-4113,1994,Greece, Panathinaikos,Greece
-4114,1994,Greece, Olympiacos,Greece
-4115,1994,Greece, Aris,Greece
-4116,1994,Greece, Panathinaikos,Greece
-4117,1994,Greece, OFI Crete,Greece
-4118,1994,Greece, AEK Athens,Greece
-4119,1994,Greece, OFI Crete,Greece
-4120,1994,Greece, Olympiacos,Greece
-4121,1994,Italy, Lazio,Italy
-4122,1994,Italy, Parma,Italy
-4123,1994,Italy, Parma,Italy
-4124,1994,Italy, Parma,Italy
-4125,1994,Italy, AC Milan,Italy
-4126,1994,Italy, Parma,Italy
-4127,1994,Italy, Torino,Italy
-4128,1994,Italy, AC Milan,Italy
-4129,1994,Italy, Internazionale,Italy
-4130,1994,Italy, Juventus,Italy
-4131,1994,Italy, AC Milan,Italy
-4132,1994,Italy, Sampdoria,Italy
-4133,1994,Italy, Lazio,Italy
-4134,1994,Italy, AC Milan,Italy
-4135,1994,Italy, Lazio,Italy
-4136,1994,Italy, Parma,Italy
-4137,1994,Mexico, Atlante,Mexico
-4138,1994,Mexico, América,Mexico
-4139,1994,Mexico, UNAM,Mexico
-4140,1994,Mexico, Necaxa,Mexico
-4141,1994,Mexico, Tecos UAG,Mexico
-4142,1994,Mexico, Atlante,Mexico
-4143,1994,Mexico, Santos Laguna,Mexico
-4144,1994,Mexico, Atlas,Mexico
-4145,1994,Mexico, Veracruz,Mexico
-4146,1994,Mexico, Guadalajara,Mexico
-4147,1994,Mexico, Guadalajara,Mexico
-4148,1994,Mexico, Toluca,Mexico
-4149,1994,Mexico, Cruz Azul,Mexico
-4150,1994,Mexico, Rayo Vallecano,Spain
-4151,1994,Mexico, América,Mexico
-4152,1994,Mexico, León,Mexico
-4153,1994,Mexico, Atlante,Mexico
-4154,1994,Morocco, Raja Casablanca,Morocco
-4155,1994,Morocco, CO Casablanca,Morocco
-4156,1994,Morocco, KAC Marrakech,Morocco
-4157,1994,Morocco, Waregem,Belgium
-4158,1994,Morocco, Nantes,France
-4159,1994,Morocco, KAC Marrakech,Morocco
-4160,1994,Morocco, Wydad AC,Morocco
-4161,1994,Morocco, OC Khouribga,Morocco
-4162,1994,Morocco, Nîmes,France
-4163,1994,Morocco, AS FAR,Morocco
-4164,1994,Morocco, Nice,France
-4165,1994,Morocco, KAC Marrakech,Morocco
-4166,1994,Morocco, Farense,Portugal
-4167,1994,Morocco, Raja Casablanca,Morocco
-4168,1994,Morocco, Wydad AC,Morocco
-4169,1994,Netherlands, Aberdeen,Scotland
-4170,1994,Netherlands, Barcelona,Spain
-4171,1994,Netherlands, Feyenoord,Netherlands
-4172,1994,Netherlands, Ajax,Netherlands
-4173,1994,Netherlands, Sporting CP,Portugal
-4174,1994,Netherlands, Feyenoord,Netherlands
-4175,1994,Netherlands, Ajax,Netherlands
-4176,1994,Netherlands, Feyenoord,Netherlands
-4177,1994,Netherlands, PSV Eindhoven,Netherlands
-4178,1994,Netherlands, Foggia,Italy
-4179,1994,Netherlands, Anderlecht,Belgium
-4180,1994,Netherlands, Feyenoord,Netherlands
-4181,1994,Netherlands, Ajax,Netherlands
-4182,1994,Nigeria, FC Liège,Belgium
-4183,1994,Nigeria, Rayo Vallecano,Spain
-4184,1994,Nigeria, Molenbeek,Belgium
-4185,1994,Nigeria, Anderlecht,Belgium
-4186,1994,Nigeria, Budapest Honvéd,Hungary
-4187,1994,Nigeria, Eintracht Trier,Germany
-4188,1994,Nigeria, Africa Sports,Ivory Coast
-4189,1994,Nigeria, Zamalek,Egypt
-4190,1994,Nigeria, Nantes,France
-4191,1994,Nigeria, Norwich City,England
-4192,1994,Norway, Tottenham,England
-4193,1994,Norway, Rosenborg,Norway
-4194,1994,Norway, Chelsea,England
-4195,1994,Norway, Werder Bremen,Germany
-4196,1994,Norway, Sheffield United,England
-4197,1994,Norway, Rosenborg,Norway
-4198,1994,Norway, Nottingham Forest,England
-4199,1994,Norway, Nottingham Forest,England
-4200,1994,Norway, Swindon Town,England
-4201,1994,Norway, Bursaspor,Turkey
-4202,1994,Norway, Tromsø,Norway
-4203,1994,Republic of Ireland, Celtic,Scotland
-4204,1994,Republic of Ireland, Manchester United,England
-4205,1994,Republic of Ireland, Manchester City,England
-4206,1994,Republic of Ireland, Blackburn Rovers,England
-4207,1994,Republic of Ireland, Aston Villa,England
-4208,1994,Republic of Ireland, Aston Villa,England
-4209,1994,Republic of Ireland, Manchester City,England
-4210,1994,Republic of Ireland, Coventry City,England
-4211,1994,Republic of Ireland, Aston Villa,England
-4212,1994,Republic of Ireland, Aston Villa,England
-4213,1994,Republic of Ireland, Sheffield Wednesday,England
-4214,1994,Republic of Ireland, Liverpool,England
-4215,1994,Republic of Ireland, Portsmouth,England
-4216,1994,Republic of Ireland, Tranmere Rovers,England
-4217,1994,Republic of Ireland, Motherwell,Scotland
-4218,1994,Republic of Ireland, Chelsea,England
-4219,1994,Republic of Ireland, Arsenal,England
-4220,1994,Republic of Ireland, Wolverhampton,England
-4221,1994,Romania, Petrolul Ploie?ti,Rumania
-4222,1994,Romania, Steaua Bucure?ti,Rumania
-4223,1994,Romania, Valencia,Spain
-4224,1994,Romania, Dinamo Bucure?ti,Rumania
-4225,1994,Romania, Universitatea Craiova,Rumania
-4226,1994,Romania, Bayer Leverkusen,Germany
-4227,1994,Romania, Rapid Bucure?ti,Rumania
-4228,1994,Romania, Steaua Bucure?ti,Belgium
-4229,1994,Romania, AC Milan,Italy
-4230,1994,Romania, Rapid Bucure?ti,Belgium
-4231,1994,Romania, Bra?ov,Belgium
-4232,1994,Russia, Chelsea,England
-4233,1994,Russia, Espanyol,Spain
-4234,1994,Russia, Bayer Uerdingen,Germany
-4235,1994,Russia, Espanyol,Spain
-4236,1994,Russia, Spartak Moscow,Russia
-4237,1994,Russia, Spartak Moscow,Russia
-4238,1994,Russia, Dynamo Moscow,Russia
-4239,1994,Russia, Spartak Moscow,Russia
-4240,1994,Russia, Racing Santander,Spain
-4241,1994,Russia, SC Freiburg,Germany
-4242,1994,Russia, Espanyol,Spain
-4243,1994,Russia, Spartak Moscow,Russia
-4244,1994,Russia, Spartak Moscow,Russia
-4245,1994,Russia, Spartak Moscow,Russia
-4246,1994,Russia, Logroñés,Spain
-4247,1994,Russia, Racing Santander,Spain
-4248,1994,Russia, Benfica,Portugal
-4249,1994,Saudi Arabia, Al-Riyadh,Saudi Arabia
-4250,1994,Saudi Arabia, Al-Ettifaq,Saudi Arabia
-4251,1994,Saudi Arabia, Al-Ahli,Saudi Arabia
-4252,1994,Saudi Arabia, Al Ahli,Saudi Arabia
-4253,1994,Saudi Arabia, Al Shabab,Saudi Arabia
-4254,1994,Saudi Arabia, Al-Riyadh,Saudi Arabia
-4255,1994,Saudi Arabia, Al Shabab,Saudi Arabia
-4256,1994,Saudi Arabia, Al Nassr,Saudi Arabia
-4257,1994,Saudi Arabia, Al-Riyadh,Saudi Arabia
-4258,1994,Saudi Arabia, Al Hilal,Saudi Arabia
-4259,1994,Saudi Arabia, Al Nassr,Saudi Arabia
-4260,1994,Saudi Arabia, Ohod,Saudi Arabia
-4261,1994,South Korea, Hyundai Horangi,South Korea
-4262,1994,South Korea, LG Cheetahs,South Korea
-4263,1994,South Korea, Ilhwa Chunma,South Korea
-4264,1994,South Korea, LG Cheetahs,South Korea
-4265,1994,South Korea, Daewoo Royals,South Korea
-4266,1994,South Korea, Hyundai Horangi,South Korea
-4267,1994,South Korea, Ilhwa Chunma,South Korea
-4268,1994,South Korea, Daewoo Royals,South Korea
-4269,1994,South Korea, Hyundai Horangi,South Korea
-4270,1994,South Korea, LG Cheetahs,South Korea
-4271,1994,South Korea, LG Cheetahs,South Korea
-4272,1994,South Korea, POSCO Atoms,South Korea
-4273,1994,South Korea, POSCO Atoms,South Korea
-4274,1994,South Korea, VfL Bochum,Germany
-4275,1994,South Korea, Ilhwa Chunma,South Korea
-4276,1994,Spain, Logroñés,Spain
-4277,1994,Spain, Celta Vigo,Spain
-4278,1994,Spain, Valencia,Spain
-4279,1994,Spain, Deportivo La Coruña,Spain
-4280,1994,Spain, Barcelona,Spain
-4281,1994,Spain, Barcelona,Spain
-4282,1994,Spain, Barcelona,Spain
-4283,1994,Spain, Atlético Madrid,Spain
-4284,1994,Spain, Tenerife,Spain
-4285,1994,Spain, Barcelona,Spain
-4286,1994,Spain, Sporting Gijón,Spain
-4287,1994,Spain, Barcelona,Spain
-4288,1994,Sweden, IFK Göteborg,Sweden
-4289,1994,Sweden, IFK Norrköping,Sweden
-4290,1994,Sweden, Sheffield Wednesday,England
-4291,1994,Sweden, IFK Göteborg,Sweden
-4292,1994,Sweden, Galatasaray,Turkey
-4293,1994,Sweden, IFK Göteborg,Sweden
-4294,1994,Sweden, IFK Göteborg,Sweden
-4295,1994,Sweden, Benfica,Portugal
-4296,1994,Sweden, PSV Eindhoven,Netherlands
-4297,1994,Sweden, Napoli,Italy
-4298,1994,Sweden, Everton,England
-4299,1994,Sweden, IFK Göteborg,Sweden
-4300,1994,Sweden, Servette,Switzerland
-4301,1994,Sweden, IFK Göteborg,Sweden
-4302,1994,Sweden, Borussia Mönchengladbach,Germany
-4303,1994,Sweden, Parma,Italy
-4304,1994,Sweden, Lille,France
-4305,1994,Switzerland, Servette,Switzerland
-4306,1994,Switzerland, Sion,Switzerland
-4307,1994,Switzerland, Grasshopper,Switzerland
-4308,1994,Switzerland, Sion,Switzerland
-4309,1994,Switzerland, Sion,Switzerland
-4310,1994,Switzerland, Sion,Switzerland
-4311,1994,Switzerland, Servette,Switzerland
-4312,1994,Switzerland, Servette,Switzerland
-4313,1994,Switzerland, Luzern,Switzerland
-4314,1994,Switzerland, Zürich,Switzerland
-4315,1994,Switzerland, Sion,Switzerland
-4316,1994,Switzerland, Young Boys,Switzerland
-4317,1994,Switzerland, 1. FC Nürnberg,Germany
-4318,1994,Switzerland, 1. FC Kaiserslautern,Germany
-4319,1994,Switzerland, Grasshopper,Switzerland
-4320,1994,Switzerland, Sion,Switzerland
-4321,1994,Switzerland, Lausanne,Switzerland
-4322,1994,Switzerland, Aarau,Switzerland
-4323,1994,Switzerland, VfB Stuttgart,Germany
-4324,1994,Switzerland, Borussia Dortmund,Germany
-4325,1994,Switzerland, Lugano,Switzerland
-4326,1994,Switzerland, Servette,Switzerland
-4327,1994,USA, USSF,USA
-4328,1994,USA, USSF,USA
-4329,1994,USA, Cruz Azul,Mexico
-4330,1994,USA, USSF,USA
-4331,1994,USA, USSF,USA
-4332,1994,USA, Derby County,England
-4333,1994,USA, Los Angeles Salsa,USA
-4334,1994,USA, USSF,USA
-4335,1994,USA, USSF,USA
-4336,1994,Morocco, Angers,France
-4337,1994,Sweden, IFK Göteborg,Sweden
+3980,1994,Argentina,River Plate,Argentina
+3981,1994,Argentina,Independiente,Argentina
+3982,1994,Argentina,Newell's Old Boys,Argentina
+3983,1994,Argentina,Universidad Católica,Chile
+3984,1994,Argentina,San Lorenzo,Argentina
+3985,1994,Argentina,Real Zaragoza,Spain
+3986,1994,Argentina,Racing,Argentina
+3987,1994,Argentina,River Plate,Argentina
+3988,1994,Argentina,Tenerife,Spain
+3989,1994,Argentina,Velez Sarsfield,Argentina
+3990,1994,Argentina,Newell's Old Boys,Argentina
+3991,1994,Argentina,Independiente,Argentina
+3992,1994,Argentina,Borussia Dortmund,Germany
+3993,1994,Argentina,Boca Juniors,Argentina
+3994,1994,Argentina,Yokohama F. Marinos,Japan
+3995,1994,Belgium,Mechelen,Belgium
+3996,1994,Belgium,Club Brugge,Belgium
+3997,1994,Belgium,Anderlecht,Belgium
+3998,1994,Belgium,Antwerp,Belgium
+3999,1994,Belgium,Parma,Italy
+4000,1994,Belgium,Anderlecht,Belgium
+4001,1994,Belgium,Club Brugge,Belgium
+4002,1994,Belgium,Anderlecht,Belgium
+4003,1994,Belgium,Club Brugge,Belgium
+4004,1994,Belgium,Anderlecht,Belgium
+4005,1994,Belgium,Mechelen,Belgium
+4006,1994,Belgium,Cercle Brugge,Belgium
+4007,1994,Bolivia,Bolívar,Bolivia
+4008,1994,Bolivia,Oriente Petrolero,Bolivia
+4009,1994,Bolivia,The Strongest,Bolivia
+4010,1994,Bolivia,Santa Fe,Colombia
+4011,1994,Bolivia,Bolívar,Bolivia
+4012,1994,Bolivia,Bolívar,Bolivia
+4013,1994,Bolivia,The Strongest,Bolivia
+4014,1994,Bolivia,Blooming,Bolivia
+4015,1994,Bolivia,Bolivar,Bolivia
+4016,1994,Bolivia,The Strongest,Bolivia
+4017,1994,Bolivia,Bolívar,Bolivia
+4018,1994,Bolivia,Oriente Petrolero,Bolivia
+4019,1994,Bolivia,Cobreloa,Chile
+4020,1994,Bolivia,Colo-Colo,Chile
+4021,1994,Bolivia,Guabirá,Bolivia
+4022,1994,Bolivia,Bolívar,Bolivia
+4023,1994,Bolivia,Platense,Argentina
+4024,1994,Bolivia,Boavista,Portugal
+4025,1994,Bolivia,Bolívar,Bolivia
+4026,1994,Bolivia,Deportes Temuco,Chile
+4027,1994,Bolivia,Blooming,Bolivia
+4028,1994,Bolivia,Oriente Petrolero,Bolivia
+4029,1994,Brazil,São Paulo,Brazil
+4030,1994,Brazil,Flamengo,Brazil
+4031,1994,Brazil,Bayern Munich,Germany
+4032,1994,Brazil,Vasco da Gama,Brazil
+4033,1994,Brazil,Shimizu S-Pulse,Japan
+4034,1994,Brazil,Bordeaux,France
+4035,1994,Brazil,Deportivo La Coruña,Spain
+4036,1994,Brazil,Palmeiras,Brazil
+4037,1994,Brazil,Paris Saint-Germain,France
+4038,1994,Brazil,Palmeiras,Brazil
+4039,1994,Brazil,Barcelona,Spain
+4040,1994,Brazil,Bayer Leverkusen,Germany
+4041,1994,Brazil,São Paulo,Brazil
+4042,1994,Brazil,Corinthians,Brazil
+4043,1994,Bulgaria,Levski Sofia,Bulgaria
+4044,1994,Bulgaria,Levski Sofia,Bulgaria
+4045,1994,Bulgaria,Levski Sofia,Bulgaria
+4046,1994,Bulgaria,Hamburger SV,Germany
+4047,1994,Bulgaria,Rennes,France
+4048,1994,Bulgaria,Mérida,Spain
+4049,1994,Bulgaria,Hamburger SV,Germany
+4050,1994,Bulgaria,Ipswich Town,England
+4051,1994,Bulgaria,Mulhouse,France
+4052,1994,Bulgaria,Levski Sofia,Bulgaria
+4053,1994,Bulgaria,Pirin Blagoevgrad,Bulgaria
+4054,1994,Bulgaria,Levski Sofia,Bulgaria
+4055,1994,Bulgaria,Espanyol,Spain
+4056,1994,Bulgaria,CSKA Sofia,Bulgaria
+4057,1994,Cameroon,Saint-Étienne,France
+4058,1994,Cameroon,L'Hospitalet,Spain
+4059,1994,Cameroon,Le Havre,France
+4060,1994,Cameroon,Canon Yaoundé,Cameroon
+4061,1994,Cameroon,Olympic Mvolyé,Cameroon
+4062,1994,Cameroon,Olympic Mvolyé,Cameroon
+4063,1994,Cameroon,Olympic Mvolyé,Cameroon
+4064,1994,Cameroon,Ohod,Saudi Arabia
+4065,1994,Cameroon,Nadi Qatar,Qatar
+4066,1994,Cameroon,Rio Ave,Portugal
+4067,1994,Cameroon,Prévoyance Yaoundé,Cameroon
+4068,1994,Cameroon,Canon Yaoundé,Cameroon
+4069,1994,Cameroon,Tonnerre Yaoundé,Cameroon
+4070,1994,Cameroon,Canon Yaoundé,Cameroon
+4071,1994,Cameroon,Belenenses,Portugal
+4072,1994,Cameroon,Troyes,France
+4073,1994,Colombia,Atletico Junior,Colombia
+4074,1994,Colombia,Atletico Nacional,Colombia
+4075,1994,Colombia,Atletico Junior,Colombia
+4076,1994,Colombia,Atlético Nacional,Colombia
+4077,1994,Colombia,Once Caldas,Colombia
+4078,1994,Colombia,Atlético Junior,Colombia
+4079,1994,Colombia,Millonarios,Colombia
+4080,1994,Colombia,América de Cali,Colombia
+4081,1994,Colombia,Atlético Nacional,Colombia
+4082,1994,Colombia,Atlético Nacional,Colombia
+4083,1994,Colombia,América de Cali,Colombia
+4084,1994,Colombia,América de Cali,Colombia
+4085,1994,Colombia,Atlético Junior,Colombia
+4086,1994,Germany,1. FC Köln,Germany
+4087,1994,Germany,1. FC Kaiserslautern,Germany
+4088,1994,Germany,VfB Stuttgart,Germany
+4089,1994,Germany,VfB Stuttgart,Germany
+4090,1994,Germany,Borussia Dortmund,Germany
+4091,1994,Germany,VfB Stuttgart,Germany
+4092,1994,Germany,Eintracht Frankfurt,Germany
+4093,1994,Germany,1. FC Kaiserslautern,Germany
+4094,1994,Germany,Fiorentina,Italy
+4095,1994,Germany,Werder Bremen,Germany
+4096,1994,Germany,Borussia Dortmund,Germany
+4097,1994,Germany,1. FC Kaiserslautern,Germany
+4098,1994,Germany,Marseille,France
+4099,1994,Greece,Apollon Athens,Greece
+4100,1994,Greece,Aris,Greece
+4101,1994,Greece,AEK Athens,Greece
+4102,1994,Greece,Panathinaikos,Greece
+4103,1994,Greece,Panathinaikos,Greece
+4104,1994,Greece,AEK Athens,Greece
+4105,1994,Greece,Panathinaikos,Greece
+4106,1994,Greece,AEK Athens,Greece
+4107,1994,Greece,Olympiacos,Greece
+4108,1994,Greece,PAOK,Greece
+4109,1994,Greece,Olympiacos,Greece
+4110,1994,Greece,Panathinaikos,Greece
+4111,1994,Greece,AEK Athens,Greece
+4112,1994,Greece,Olympiacos,Greece
+4113,1994,Greece,Panathinaikos,Greece
+4114,1994,Greece,Olympiacos,Greece
+4115,1994,Greece,Aris,Greece
+4116,1994,Greece,Panathinaikos,Greece
+4117,1994,Greece,OFI Crete,Greece
+4118,1994,Greece,AEK Athens,Greece
+4119,1994,Greece,OFI Crete,Greece
+4120,1994,Greece,Olympiacos,Greece
+4121,1994,Italy,Lazio,Italy
+4122,1994,Italy,Parma,Italy
+4123,1994,Italy,Parma,Italy
+4124,1994,Italy,Parma,Italy
+4125,1994,Italy,AC Milan,Italy
+4126,1994,Italy,Parma,Italy
+4127,1994,Italy,Torino,Italy
+4128,1994,Italy,AC Milan,Italy
+4129,1994,Italy,Internazionale,Italy
+4130,1994,Italy,Juventus,Italy
+4131,1994,Italy,AC Milan,Italy
+4132,1994,Italy,Sampdoria,Italy
+4133,1994,Italy,Lazio,Italy
+4134,1994,Italy,AC Milan,Italy
+4135,1994,Italy,Lazio,Italy
+4136,1994,Italy,Parma,Italy
+4137,1994,Mexico,Atlante,Mexico
+4138,1994,Mexico,América,Mexico
+4139,1994,Mexico,UNAM,Mexico
+4140,1994,Mexico,Necaxa,Mexico
+4141,1994,Mexico,Tecos UAG,Mexico
+4142,1994,Mexico,Atlante,Mexico
+4143,1994,Mexico,Santos Laguna,Mexico
+4144,1994,Mexico,Atlas,Mexico
+4145,1994,Mexico,Veracruz,Mexico
+4146,1994,Mexico,Guadalajara,Mexico
+4147,1994,Mexico,Guadalajara,Mexico
+4148,1994,Mexico,Toluca,Mexico
+4149,1994,Mexico,Cruz Azul,Mexico
+4150,1994,Mexico,Rayo Vallecano,Spain
+4151,1994,Mexico,América,Mexico
+4152,1994,Mexico,León,Mexico
+4153,1994,Mexico,Atlante,Mexico
+4154,1994,Morocco,Raja Casablanca,Morocco
+4155,1994,Morocco,CO Casablanca,Morocco
+4156,1994,Morocco,KAC Marrakech,Morocco
+4157,1994,Morocco,Waregem,Belgium
+4158,1994,Morocco,Nantes,France
+4159,1994,Morocco,KAC Marrakech,Morocco
+4160,1994,Morocco,Wydad AC,Morocco
+4161,1994,Morocco,OC Khouribga,Morocco
+4162,1994,Morocco,Nîmes,France
+4163,1994,Morocco,AS FAR,Morocco
+4164,1994,Morocco,Nice,France
+4165,1994,Morocco,KAC Marrakech,Morocco
+4166,1994,Morocco,Farense,Portugal
+4167,1994,Morocco,Raja Casablanca,Morocco
+4168,1994,Morocco,Wydad AC,Morocco
+4169,1994,Netherlands,Aberdeen,Scotland
+4170,1994,Netherlands,Barcelona,Spain
+4171,1994,Netherlands,Feyenoord,Netherlands
+4172,1994,Netherlands,Ajax,Netherlands
+4173,1994,Netherlands,Sporting CP,Portugal
+4174,1994,Netherlands,Feyenoord,Netherlands
+4175,1994,Netherlands,Ajax,Netherlands
+4176,1994,Netherlands,Feyenoord,Netherlands
+4177,1994,Netherlands,PSV Eindhoven,Netherlands
+4178,1994,Netherlands,Foggia,Italy
+4179,1994,Netherlands,Anderlecht,Belgium
+4180,1994,Netherlands,Feyenoord,Netherlands
+4181,1994,Netherlands,Ajax,Netherlands
+4182,1994,Nigeria,FC Liege,Belgium
+4183,1994,Nigeria,Rayo Vallecano,Spain
+4184,1994,Nigeria,Molenbeek,Belgium
+4185,1994,Nigeria,Anderlecht,Belgium
+4186,1994,Nigeria,Budapest Honved,Hungary
+4187,1994,Nigeria,Eintracht Trier,Germany
+4188,1994,Nigeria,Africa Sports,Ivory Coast
+4189,1994,Nigeria,Zamalek,Egypt
+4190,1994,Nigeria,Nantes,France
+4191,1994,Nigeria,Norwich City,England
+4192,1994,Norway,Tottenham,England
+4193,1994,Norway,Rosenborg,Norway
+4194,1994,Norway,Chelsea,England
+4195,1994,Norway,Werder Bremen,Germany
+4196,1994,Norway,Sheffield United,England
+4197,1994,Norway,Rosenborg,Norway
+4198,1994,Norway,Nottingham Forest,England
+4199,1994,Norway,Nottingham Forest,England
+4200,1994,Norway,Swindon Town,England
+4201,1994,Norway,Bursaspor,Turkey
+4202,1994,Norway,Tromso,Norway
+4203,1994,Republic of Ireland,Celtic,Scotland
+4204,1994,Republic of Ireland,Manchester United,England
+4205,1994,Republic of Ireland,Manchester City,England
+4206,1994,Republic of Ireland,Blackburn Rovers,England
+4207,1994,Republic of Ireland,Aston Villa,England
+4208,1994,Republic of Ireland,Aston Villa,England
+4209,1994,Republic of Ireland,Manchester City,England
+4210,1994,Republic of Ireland,Coventry City,England
+4211,1994,Republic of Ireland,Aston Villa,England
+4212,1994,Republic of Ireland,Aston Villa,England
+4213,1994,Republic of Ireland,Sheffield Wednesday,England
+4214,1994,Republic of Ireland,Liverpool,England
+4215,1994,Republic of Ireland,Portsmouth,England
+4216,1994,Republic of Ireland,Tranmere Rovers,England
+4217,1994,Republic of Ireland,Motherwell,Scotland
+4218,1994,Republic of Ireland,Chelsea,England
+4219,1994,Republic of Ireland,Arsenal,England
+4220,1994,Republic of Ireland,Wolverhampton,England
+4221,1994,Romania,Petrolul Ploiesti,Rumania
+4222,1994,Romania,Steaua Bucuresti,Rumania
+4223,1994,Romania,Valencia,Spain
+4224,1994,Romania,Dinamo Bucuresti,Rumania
+4225,1994,Romania,Universitatea Craiova,Rumania
+4226,1994,Romania,Bayer Leverkusen,Germany
+4227,1994,Romania,Rapid Bucuresti,Rumania
+4228,1994,Romania,Steaua Bucuresti,Belgium
+4229,1994,Romania,AC Milan,Italy
+4230,1994,Romania,Rapid Bucuresti,Belgium
+4231,1994,Romania,Brasov,Belgium
+4232,1994,Russia,Chelsea,England
+4233,1994,Russia,Espanyol,Spain
+4234,1994,Russia,Bayer Uerdingen,Germany
+4235,1994,Russia,Espanyol,Spain
+4236,1994,Russia,Spartak Moscow,Russia
+4237,1994,Russia,Spartak Moscow,Russia
+4238,1994,Russia,Dynamo Moscow,Russia
+4239,1994,Russia,Spartak Moscow,Russia
+4240,1994,Russia,Racing Santander,Spain
+4241,1994,Russia,SC Freiburg,Germany
+4242,1994,Russia,Espanyol,Spain
+4243,1994,Russia,Spartak Moscow,Russia
+4244,1994,Russia,Spartak Moscow,Russia
+4245,1994,Russia,Spartak Moscow,Russia
+4246,1994,Russia,Logroñes,Spain
+4247,1994,Russia,Racing Santander,Spain
+4248,1994,Russia,Benfica,Portugal
+4249,1994,Saudi Arabia,Al-Riyadh,Saudi Arabia
+4250,1994,Saudi Arabia,Al-Ettifaq,Saudi Arabia
+4251,1994,Saudi Arabia,Al-Ahli,Saudi Arabia
+4252,1994,Saudi Arabia,Al Ahli,Saudi Arabia
+4253,1994,Saudi Arabia,Al Shabab,Saudi Arabia
+4254,1994,Saudi Arabia,Al-Riyadh,Saudi Arabia
+4255,1994,Saudi Arabia,Al Shabab,Saudi Arabia
+4256,1994,Saudi Arabia,Al Nassr,Saudi Arabia
+4257,1994,Saudi Arabia,Al-Riyadh,Saudi Arabia
+4258,1994,Saudi Arabia,Al Hilal,Saudi Arabia
+4259,1994,Saudi Arabia,Al Nassr,Saudi Arabia
+4260,1994,Saudi Arabia,Ohod,Saudi Arabia
+4261,1994,South Korea,Hyundai Horangi,South Korea
+4262,1994,South Korea,LG Cheetahs,South Korea
+4263,1994,South Korea,Ilhwa Chunma,South Korea
+4264,1994,South Korea,LG Cheetahs,South Korea
+4265,1994,South Korea,Daewoo Royals,South Korea
+4266,1994,South Korea,Ulsan Hyundai Horangi,South Korea
+4267,1994,South Korea,Ilhwa Chunma,South Korea
+4268,1994,South Korea,Daewoo Royals,South Korea
+4269,1994,South Korea,Ulsan Hyundai Horangi,South Korea
+4270,1994,South Korea,LG Cheetahs,South Korea
+4271,1994,South Korea,LG Cheetahs,South Korea
+4272,1994,South Korea,POSCO Atoms,South Korea
+4273,1994,South Korea,POSCO Atoms,South Korea
+4274,1994,South Korea,VfL Bochum,Germany
+4275,1994,South Korea,Ilhwa Chunma,South Korea
+4276,1994,Spain,Logroñes,Spain
+4277,1994,Spain,Celta de Vigo,Spain
+4278,1994,Spain,Valencia,Spain
+4279,1994,Spain,Deportivo La Coruña,Spain
+4280,1994,Spain,Barcelona,Spain
+4281,1994,Spain,Barcelona,Spain
+4282,1994,Spain,Barcelona,Spain
+4283,1994,Spain,Atletico Madrid,Spain
+4284,1994,Spain,Tenerife,Spain
+4285,1994,Spain,Barcelona,Spain
+4286,1994,Spain,Sporting Gijon,Spain
+4287,1994,Spain,Barcelona,Spain
+4288,1994,Sweden,IFK Goteborg,Sweden
+4289,1994,Sweden,IFK Norrkoping,Sweden
+4290,1994,Sweden,Sheffield Wednesday,England
+4291,1994,Sweden,IFK Goteborg,Sweden
+4292,1994,Sweden,Galatasaray,Turkey
+4293,1994,Sweden,IFK Goteborg,Sweden
+4294,1994,Sweden,IFK Goteborg,Sweden
+4295,1994,Sweden,Benfica,Portugal
+4296,1994,Sweden,PSV,Netherlands
+4297,1994,Sweden,Napoli,Italy
+4298,1994,Sweden,Everton,England
+4299,1994,Sweden,IFK Goteborg,Sweden
+4300,1994,Sweden,Servette,Switzerland
+4301,1994,Sweden,IFK Goteborg,Sweden
+4302,1994,Sweden,Borussia Monchengladbach,Germany
+4303,1994,Sweden,Parma,Italy
+4304,1994,Sweden,Lille,France
+4305,1994,Switzerland,Servette,Switzerland
+4306,1994,Switzerland,Sion,Switzerland
+4307,1994,Switzerland,Grasshopper,Switzerland
+4308,1994,Switzerland,Sion,Switzerland
+4309,1994,Switzerland,Sion,Switzerland
+4310,1994,Switzerland,Sion,Switzerland
+4311,1994,Switzerland,Servette,Switzerland
+4312,1994,Switzerland,Servette,Switzerland
+4313,1994,Switzerland,Luzern,Switzerland
+4314,1994,Switzerland,Zurich,Switzerland
+4315,1994,Switzerland,Sion,Switzerland
+4316,1994,Switzerland,Young Boys,Switzerland
+4317,1994,Switzerland,1. FC Nurnberg,Germany
+4318,1994,Switzerland,1. FC Kaiserslautern,Germany
+4319,1994,Switzerland,Grasshopper,Switzerland
+4320,1994,Switzerland,Sion,Switzerland
+4321,1994,Switzerland,Lausanne,Switzerland
+4322,1994,Switzerland,Aarau,Switzerland
+4323,1994,Switzerland,VfB Stuttgart,Germany
+4324,1994,Switzerland,Borussia Dortmund,Germany
+4325,1994,Switzerland,Lugano,Switzerland
+4326,1994,Switzerland,Servette,Switzerland
+4327,1994,USA,USSF,USA
+4328,1994,USA,USSF,USA
+4329,1994,USA,Cruz Azul,Mexico
+4330,1994,USA,USSF,USA
+4331,1994,USA,USSF,USA
+4332,1994,USA,Derby County,England
+4333,1994,USA,Los Angeles Salsa,USA
+4334,1994,USA,USSF,USA
+4335,1994,USA,USSF,USA
+4336,1994,Morocco,Angers,France
+4337,1994,Sweden,IFK Goteborg,Sweden
