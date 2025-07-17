@@ -3733,6 +3733,7 @@ player_id,world_cup_year,team,club,country_club
 2698,2006,Paraguay,Bayern Munich,Germany
 2699,2006,Paraguay,Chiapas,Mexico
 2700,1998,Argentina,Lazio,Italy
+2700,2002,Argentina,AC Milan,Italy
 2701,2006,Paraguay,Genoa,Italy
 2702,2002,Paraguay,River Plate,Argentina
 2702,2006,Paraguay,Pachuca,Mexico
@@ -4068,7 +4069,7 @@ player_id,world_cup_year,team,club,country_club
 2956,1998,Argentina,Internazionale,Italy
 2956,2002,Argentina,Internazionale,Italy
 2957,2002,Argentina,Bayer Leverkusen,Germany
-2958,2002,Argentina,AC Milan,Italy
+
 2959,1998,Argentina,Lazio,Italy
 2959,2002,Argentina,Parma,Italy
 2960,1998,Argentina,Valencia,Spain
