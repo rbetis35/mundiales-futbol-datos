@@ -4072,8 +4072,10 @@ player_id,world_cup_year,team,club,country_club
 2958,1994,Brazil,Fluminense,Brazil
 2959,1998,Argentina,Lazio,Italy
 2959,2002,Argentina,Parma,Italy
+2960,1994,Argentina,River Plate,Argentina
 2960,1998,Argentina,Valencia,Spain
 2960,2002,Argentina,River Plate,Argentina
+2961,1994,Argentina,Sevilla,Spain
 2961,1998,Argentina,Internazionale,Italy
 2961,2002,Argentina,Lazio,Italy
 2962,2002,Argentina,River Plate,Argentina
@@ -4083,8 +4085,10 @@ player_id,world_cup_year,team,club,country_club
 2965,2002,Argentina,Monaco,France
 2966,1998,Argentina,Valencia,Spain
 2966,2002,Argentina,Lazio,Italy
+2967,1994,Argentina,Fiorentina,Italy
 2967,1998,Argentina,Fiorentina,Italy
 2967,2002,Argentina,Roma,Italy
+2968,1994,Argentina,Roma,Italy
 2968,2002,Argentina,Rangers,Scotland
 2969,2002,Belgium,Willem II,Netherlands
 2970,2002,Belgium,Mouscron,Belgium
@@ -4093,6 +4097,7 @@ player_id,world_cup_year,team,club,country_club
 2972,2002,Belgium,Lyon,France
 2973,1998,Belgium,Anderlecht,Belgium
 2973,2002,Belgium,Anderlecht,Belgium
+2974,1994,Belgium,Charleroi,Belgium
 2974,1998,Belgium,Lierse,Belgium
 2974,2002,Belgium,Standard Liege,Belgium
 2975,1998,Belgium,Lierse,Belgium
@@ -4108,6 +4113,7 @@ player_id,world_cup_year,team,club,country_club
 2984,2002,Belgium,Genk,Belgium
 2985,1998,Belgium,Metz,France
 2985,2002,Belgium,Sint-Truiden,Belgium
+2986,1994,Belgium,Standard Liege,Belgium
 2986,1998,Belgium,Schalke 04,Germany
 2986,2002,Belgium,Schalke 04,Germany
 2987,2002,Belgium,Genk,Belgium
@@ -4705,11 +4711,13 @@ player_id,world_cup_year,team,club,country_club
 3471,2002,Uruguay,Sevilla,Spain
 3472,2002,Uruguay,Nacional,Uruguay
 3473,1998,Argentina,Udinese,Italy
+3474,1994,Argentina,Parma,Italy
 3474,1998,Argentina,Parma,Italy
 3475,1998,Argentina,Tenerife,Spain
 3476,1998,Argentina,Lugano,Switzerland
 3477,1998,Argentina,River Plate,Argentina
 3478,1998,Argentina,River Plate,Argentina
+3479,1994,Argentina,Roma,Italy
 3479,1998,Argentina,Roma,Italy
 3480,1998,Argentina,Racing Club,Argentina
 3481,1998,Austria,Roma,Italy
@@ -4734,15 +4742,21 @@ player_id,world_cup_year,team,club,country_club
 3500,1998,Austria,Sturm Graz,Austria
 3501,1998,Austria,Sturm Graz,Austria
 3502,1998,Austria,1. FC Köln,Germany
+3503,1994,Belgium,Anderlecht,Belgium
 3503,1998,Belgium,Anderlecht,Belgium
 3504,1998,Belgium,Eendracht Aalst,Belgium
+3505,1994,Belgium,Club Brugge,Belgium
 3505,1998,Belgium,Club Brugge,Belgium
 3506,1998,Belgium,Napoli,Italy
+3507,1994,Belgium,Club Brugge,Belgium
 3507,1998,Belgium,Club Brugge,Belgium
 3508,1998,Belgium,Mouscron,Belgium
+3509,1994,Belgium,Club Brugge,Belgium
 3509,1998,Belgium,Club Brugge,Belgium
 3510,1998,Belgium,Germinal Ekeren,Belgium
+3511,1994,Belgium,Club Brugge,Belgium
 3511,1998,Belgium,Club Brugge,Belgium
+3512,1994,Belgium,Monaco,France
 3512,1998,Belgium,Anderlecht,Belgium
 3513,1998,Belgium,Genk,Belgium
 3514,1998,Belgium,Fiorentina,Italy
