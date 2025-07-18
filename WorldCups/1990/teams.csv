@@ -1,17 +1,25 @@
 team_id,team_name,group,coach
-1,Qatar,A,Félix Sánchez Bas
-2,Ecuador,A,Gustavo Alfaro
-3,Senegal,A,Aliou Cissé
-4,Netherlands,A,Louis van Gaal
-5,England,B,Gareth Southgate
-6,Iran,B,Carlos Queiroz
-7,USA,B,Gregg Berhalter
-8,Wales,B,Rob Page
-9,Argentina,C,Lionel Scaloni
-10,Saudi Arabia,C,Hervé Renard
-11,Mexico,C,Gerardo Martino
-12,Poland,C,Czesław Michniewicz
-13,France,D,Didier Deschamps
-14,Australia,D,Graham Arnold
-15,Denmark,D,Kasper Hjulmand
-16,Tunisia,D,Jalel Kadri
+1,Italy,A,Azeglio Vicini
+2,Austria,A,Josef Hickersberger
+3,United States,A,Bob Gansler
+4,Czechoslovakia,A,Jozef Venglos
+5,Argentina,B,Carlos Salvador Bilardo
+6,Cameroon,B,Valeri Nepomniachi
+7,Soviet Union,B,Valeriy Lobanovskyi
+8,Romania,B,Emerich Jenei
+9,Brazil,C,Sebastiao Lazaroni
+10,Sweden,C,Olle Nordin
+11,Costa Rica,C,Bora Milutinovic
+12,Scotland,C,Andy Roxburgh
+13,West Germany,D,Franz Beckenbauer
+14,Yugoslavia,D,Ivica Osim
+15,United Arab Emirates,D,Carlos Alberto Parreira
+16,Colombia,D,Francisco Maturana
+17,Belgium,E,Guy Thys
+18,South Korea,E,Lee Hoe-taik
+19,Uruguay,E,Óscar Tabarez
+20,Spain,E,Luis Suarez
+21,England,F,Bobby Robson
+22,Republic of Ireland,F,Jack Charlton
+23,Netherlands,F,Leo Beenhakker
+24,Egypt,F,Mahmoud El-Gohary
