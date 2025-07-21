@@ -1,11 +1,76 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Salvatore Schillaci,Italy,6,,536
+2,Tomáš Skuhravý,Czechoslovakia,5,,450
+3,Roger Milla,Cameroon,4,,241
+4,Gary Lineker,England,4,,712
+5,Míchel,Spain,4,,390
+6,Lothar Matthäus ,West Germany,4,,660
+7,David Platt,England,3,,411
+8,Andreas Brehme,West Germany,3,,570
+9,Rudi Völler,West Germany,3,,418
+10,Jürgen Klinsmann,West Germany,3,,627
+11,Claudio Caniggia,Argentina,2,,555
+12,Careca,Brazil,2,,352
+13,Müller,Brazil,2,,296
+14,Bernardo Redín,Colombia,2,,209
+15,Michal Bílek,Czechoslovakia,2,,426
+16,Roberto Baggio,Italy,2,,375
+17,Marius L?c?tu?,Romania,2,,266
+18,Gabi Balint,Romania,2,,230
+19,Davor Jozi?,Yugoslavia,2,,510
+20,Dragan Stojkovi?,Yugoslavia,2,,510
+21,Darko Pan?ev,Yugoslavia,2,,182
+22,Pedro Monzón,Argentina,1,,276
+23,Jorge Burruchaga,Argentina,1,,621
+24,Pedro Troglio,Argentina,1,,437
+25,Andreas Ogris,Austria,1,,225
+26,Gerhard Rodax,Austria,1,,173
+27,Lei Clijsters,Belgium,1,,255
+28,Michel De Wolf,Belgium,1,,390
+29,Enzo Scifo,Belgium,1,,390
+30,Jan Ceulemans ,Belgium,1,,345
+31,Patrick Vervoort,Belgium,1,,122
+32,Marc Degryse,Belgium,1,,333
+33,Emmanuel Kundé,Cameroon,1,,311
+34,François Omam-Biyik,Cameroon,1,,510
+35,Eugène Ekéké,Cameroon,1,,59
+36,Carlos Valderrama ,Colombia,1,,390
+37,Freddy Rincón,Colombia,1,,367
+38,Róger Flores ,Costa Rica,1,,360
+39,Rónald González Brenes,Costa Rica,1,,360
+40,Juan Cayasso,Costa Rica,1,,347
+41,Hernán Medford,Costa Rica,1,,81
+42,Luboš Kubík,Czechoslovakia,1,,349
+43,Ivan Hašek ,Czechoslovakia,1,,450
+44,Milan Luhový,Czechoslovakia,1,,15
+45,Magdi Abdelghani,Egypt,1,,270
+46,Mark Wright,England,1,,611
+47,Giuseppe Giannini,Italy,1,,582
+48,Aldo Serena,Italy,1,,111
+49,Ronald Koeman,Netherlands,1,,360
+50,Ruud Gullit ,Netherlands,1,,360
+51,Wim Kieft,Netherlands,1,,164
+52,Kevin Sheedy,Republic of Ireland,1,,451
+53,Niall Quinn,Republic of Ireland,1,,269
+54,Stuart McCall,Scotland,1,,270
+55,Mo Johnston,Scotland,1,,270
+56,Hwangbo Kwan,South Korea,1,,168
+57,Oleksandr Zavarov,Soviet Union,1,,214
+58,Andrei Zygmantovich,Soviet Union,1,,180
+59,Oleh Protasov,Soviet Union,1,,254
+60,Igor Dobrovolski,Soviet Union,1,,250
+61,Alberto Górriz,Spain,1,,312
+62,Julio Salinas,Spain,1,,297
+63,Glenn Strömberg,Sweden,1,,117
+64,Tomas Brolin,Sweden,1,,213
+65,Johnny Ekström,Sweden,1,,119
+66,Ali Thani Jumaa,United Arab Emirates,1,,225
+67,Khalid Ismail,United Arab Emirates,1,,171
+68,Paul Caligiuri,USA,1,,249
+69,Bruce Murray,USA,1,,247
+70,Pablo Bengoechea,Uruguay,1,,35
+71,Daniel Fonseca,Uruguay,1,,119
+72,Pierre Littbarski,West Germany,1,,376
+73,Uwe Bein,West Germany,1,,290
+74,Safet Suši?,Yugoslavia,1,,414
+75,Robert Prosine?ki,Yugoslavia,1,,169
