@@ -1,9 +1,13 @@
 stadium_id,stadium_name,city,capacity
-1,Al Bayt Stadium,Al Khor,68895
-2,Khalifa International Stadium,Doha,45857
-3,Al Thumama Stadium,Doha,44400
-4,Lusail Stadium,Lusail,88966
-5,Education City Stadium,Al Rayyan,45350
-6,Stadium 974,Doha,44950
-7,Al Janoub Stadium,Al Wakrah,40000
-8,Ahmad bin Ali Stadium,Al Rayyan,44740
+1,Estadio Azteca,Ciudad de México,114600
+2,Estadio Olímpico Universitario,Ciudad de México,72000
+3,Estadio Jalisco,Guadalajara,70000
+4,Estadio Tecnológico,Monterrey,38000
+5,Estadio Universitario,Monterrey,52000
+6,Estadio Cuauhtémoc,Puebla,42000
+7,Estadio La Corregidora,Querétaro,35000
+8,Estadio Neza 86,Ciudad Nezahualcóyotl,28000
+9,Estadio Sergio León Chávez,Irapuato,30000
+10,Estadio León,León,33000
+11,Estadio Tres de Marzo,Zapopan,30000
+12,"Estadio Luis ""Pirata"" Fuente",Veracruz,30000
