@@ -4083,6 +4083,7 @@ player_id,world_cup_year,team,club,country_club
 2956,1998,Argentina,Internazionale,Italy
 2956,2002,Argentina,Internazionale,Italy
 2957,2002,Argentina,Bayer Leverkusen,Germany
+2958,1990,Brazil,Porto,Portugal
 2958,1994,Brazil,Fluminense,Brazil
 2959,1998,Argentina,Lazio,Italy
 2959,2002,Argentina,Parma,Italy
@@ -4102,6 +4103,7 @@ player_id,world_cup_year,team,club,country_club
 2967,1994,Argentina,Fiorentina,Italy
 2967,1998,Argentina,Fiorentina,Italy
 2967,2002,Argentina,Roma,Italy
+2968,1990,Argentina,Atalanta,Italy
 2968,1994,Argentina,Roma,Italy
 2968,2002,Argentina,Rangers,Scotland
 2969,2002,Belgium,Willem II,Netherlands
@@ -4128,6 +4130,7 @@ player_id,world_cup_year,team,club,country_club
 2985,1994,Belgium,Anderlecht,Belgium
 2985,1998,Belgium,Metz,France
 2985,2002,Belgium,Sint-Truiden,Belgium
+2986,1990,Belgium,Mechelen,Belgium
 2986,1994,Belgium,Standard Liege,Belgium
 2986,1998,Belgium,Schalke 04,Germany
 2986,2002,Belgium,Schalke 04,Germany
@@ -4153,6 +4156,7 @@ player_id,world_cup_year,team,club,country_club
 3002,2002,Brazil,Grêmio,Brazil
 3003,1998,Cameroon,Samsunspor,Turkey
 3003,2002,Cameroon,Samsunspor,Turkey
+3004,1990,Cameroon,Toulon,France
 3004,1994,Cameroon,Metz,France
 3004,1998,Cameroon,Deportivo La Coruña,Spain
 3004,2002,Cameroon,Metz,France
@@ -4214,6 +4218,7 @@ player_id,world_cup_year,team,club,country_club
 3050,2002,Costa Rica,Alajuelense,Costa Rica
 3051,2002,Costa Rica,Alajuelense,Costa Rica
 3052,2002,Costa Rica,Alajuelense,Costa Rica
+3053,1990,Costa Rica,Saprissa,Costa Rica
 3053,2002,Costa Rica,Saprissa,Costa Rica
 3054,2002,Costa Rica,Herediano,Costa Rica
 3055,2002,Costa Rica,Alajuelense,Costa Rica
@@ -4275,6 +4280,7 @@ player_id,world_cup_year,team,club,country_club
 3098,2002,Ecuador,Emelec,Ecuador
 3099,2002,Ecuador,Barcelona SC,Ecuador
 3100,2002,Ecuador,El Nacional,Ecuador
+3101,1990,England,Queens Park Rangers,England
 3101,1998,England,Arsenal,England
 3101,2002,England,Arsenal,England
 3102,1998,England,Leeds United,England
@@ -4333,6 +4339,7 @@ player_id,world_cup_year,team,club,country_club
 3138,1998,Italy,Fiorentina,Italy
 3138,2002,Italy,Internazionale,Italy
 3139,2002,Italy,Roma,Italy
+3140,1990,Italy,AC Milan,Italy
 3140,1994,Italy,AC Milan,Italy
 3140,1998,Italy,AC Milan,Italy
 3140,2002,Italy,AC Milan,Italy
@@ -4754,25 +4761,32 @@ player_id,world_cup_year,team,club,country_club
 3471,2002,Uruguay,Sevilla,Spain
 3472,2002,Uruguay,Nacional,Uruguay
 3473,1998,Argentina,Udinese,Italy
+3474,1990,Argentina,Udinese,Italy
 3474,1994,Argentina,Parma,Italy
 3474,1998,Argentina,Parma,Italy
 3475,1998,Argentina,Tenerife,Spain
 3476,1998,Argentina,Lugano,Switzerland
 3477,1998,Argentina,River Plate,Argentina
 3478,1998,Argentina,River Plate,Argentina
+3479,1990,Argentina,Udinese,Italy
 3479,1994,Argentina,Roma,Italy
 3479,1998,Argentina,Roma,Italy
 3480,1998,Argentina,Racing Club,Argentina
+3481,1990,Austria,Rapid Wien,Austria
 3481,1998,Austria,Roma,Italy
 3482,1998,Austria,VfB Stuttgart,Germany
 3483,1998,Austria,Austria Wien,Austria
+3484,1990,Austria,Rapid Wien,Austria
 3484,1998,Austria,Rapid Wien,Austria
+3485,1990,Austria,Austria Wien,Austria
 3485,1998,Austria,Austria Wien,Austria
 3486,1998,Austria,Borussia Dortmund,Germany
 3487,1998,Austria,Cannes,France
 3488,1998,Austria,Leeds United,England
 3489,1998,Austria,Sturm Graz,Austria
+3490,1990,Austria,Rapid Wien,Austria
 3490,1998,Austria,Werder Bremen,Germany
+3491,1990,Austria,Rapid Wien,Austria
 3491,1998,Austria,Werder Bremen,Germany
 3492,1998,Austria,Austria Salzburg,Austria
 3493,1998,Austria,1860 Munich,Germany
@@ -4784,21 +4798,26 @@ player_id,world_cup_year,team,club,country_club
 3499,1998,Austria,Sturm Graz,Austria
 3500,1998,Austria,Sturm Graz,Austria
 3501,1998,Austria,Sturm Graz,Austria
+3502,1990,Austria,Sevilla,Spain
 3502,1998,Austria,1. FC Köln,Germany
+3503,1990,Belgium,Anderlecht,Belgium
 3503,1994,Belgium,Anderlecht,Belgium
 3503,1998,Belgium,Anderlecht,Belgium
 3504,1998,Belgium,Eendracht Aalst,Belgium
 3505,1994,Belgium,Club Brugge,Belgium
 3505,1998,Belgium,Club Brugge,Belgium
 3506,1998,Belgium,Napoli,Italy
+3507,1990,Belgium,Club Brugge,Belgium
 3507,1994,Belgium,Club Brugge,Belgium
 3507,1998,Belgium,Club Brugge,Belgium
 3508,1998,Belgium,Mouscron,Belgium
 3509,1994,Belgium,Club Brugge,Belgium
 3509,1998,Belgium,Club Brugge,Belgium
 3510,1998,Belgium,Germinal Ekeren,Belgium
+3511,1990,Belgium,Club Brugge,Belgium
 3511,1994,Belgium,Club Brugge,Belgium
 3511,1998,Belgium,Club Brugge,Belgium
+3512,1990,Belgium,Auxerre,France
 3512,1994,Belgium,Monaco,France
 3512,1998,Belgium,Anderlecht,Belgium
 3513,1998,Belgium,Genk,Belgium
@@ -4806,9 +4825,11 @@ player_id,world_cup_year,team,club,country_club
 3515,1994,Belgium,Anderlecht,Belgium
 3515,1998,Belgium,PSV,Netherlands
 3516,1998,Belgium,Standard Liege,Belgium
+3517,1990,Brazil,Internacional,Brazil
 3517,1994,Brazil,Reggiana,Italy
 3517,1998,Brazil,Atletico Mineiro,Brazil
 3518,1998,Brazil,Vasco da Gama,Brazil
+3519,1990,Brazil,Benfica,Portugal
 3519,1994,Brazil,Roma,Italy
 3519,1998,Brazil,Roma,Italy
 3520,1998,Brazil,Flamengo,Brazil
@@ -4817,11 +4838,13 @@ player_id,world_cup_year,team,club,country_club
 3523,1998,Brazil,AC Milan,Italy
 3524,1998,Brazil,Yokohama Flugels,Japan
 3525,1998,Brazil,Barcelona,Spain
+3526,1990,Brazil,Fiorentina,Italy
 3526,1994,Brazil,VfB Stuttgart,Germany
 3526,1998,Brazil,Jubilo Iwata,Japan
 3527,1998,Brazil,Porto,Portugal
 3528,1994,Brazil,Sao Paulo,Brazil
 3528,1998,Brazil,AC Milan,Italy
+3529,1990,Brazil,Vasco da Gama,Brazil
 3529,1994,Brazil,Deportivo La Coruña,Spain
 3529,1998,Brazil,Botafogo,Brazil
 3530,1998,Brazil,Fiorentina,Italy
@@ -4862,6 +4885,7 @@ player_id,world_cup_year,team,club,country_club
 3557,1998,Cameroon,Nice,France
 3558,1998,Cameroon,Saint-Étienne,France
 3559,1998,Cameroon,Montpellier,France
+3560,1990,Cameroon,Stade Lavallois,France
 3560,1994,Cameroon,Lens,France
 3560,1998,Cameroon,Sampdoria,Italy
 3561,1994,Cameroon,Odense,Denmark
@@ -4896,16 +4920,19 @@ player_id,world_cup_year,team,club,country_club
 3588,1998,Colombia,Deportivo Cali,Colombia
 3589,1998,Colombia,Atletico Nacional,Colombia
 3590,1998,Colombia,Boca Juniors,Argentina
+3591,1990,Colombia,America de Cali,Colombia
 3591,1998,Colombia,Millonarios,Colombia
 3592,1998,Colombia,Deportes Tolima,Colombia
 3593,1994,Colombia,Atletico Nacional,Colombia
 3593,1998,Colombia,Boca Juniors,Argentina
 3594,1998,Colombia,Valladolid,Spain
+3595,1990,Colombia,Montpellier,France
 3595,1994,Colombia,Atletico Junior,Colombia
 3595,1998,Colombia,Miami Fusion,USA
 3596,1998,Colombia,Atletico Junior,Colombia
 3597,1998,Colombia,Deportivo Cali,Colombia
 3598,1998,Colombia,Deportivo Cali,Colombia
+3599,1990,Colombia,America de Cali,Colombia
 3599,1994,Colombia,Palmeiras,Brazil
 3599,1998,Colombia,Corinthians,Brazil
 3600,1994,Colombia,America de Cali,Colombia
@@ -5008,8 +5035,10 @@ player_id,world_cup_year,team,club,country_club
 3685,1998,Iran,1. FC Köln,Germany
 3686,1998,Iran,Bahman,Iran
 3687,1998,Iran,Sanat Naft,Iran
+3688,1990,Italy,Sampdoria,Italy
 3688,1994,Italy,Sampdoria,Italy
 3688,1998,Italy,Internazionale,Italy
+3689,1990,Italy,Internazionale,Italy
 3689,1998,Italy,Internazionale,Italy
 3690,1994,Italy,AC Milan,Italy
 3690,1998,Italy,AC Milan,Italy
@@ -5022,6 +5051,7 @@ player_id,world_cup_year,team,club,country_club
 3695,1998,Italy,Fiorentina,Italy
 3696,1998,Italy,Chelsea,England
 3697,1998,Italy,Internazionale,Italy
+3698,1990,Italy,Fiorentina,Italy
 3698,1994,Italy,Juventus,Italy
 3698,1998,Italy,Bologna,Italy
 3699,1998,Italy,Parma,Italy
@@ -5379,30 +5409,40 @@ player_id,world_cup_year,team,club,country_club
 3977,1998,Yugoslavia,Real Madrid,Spain
 3978,1998,Yugoslavia,Red Star Belgrade,Serbia
 3979,1998,Yugoslavia,Real Sociedad,Spain
+3980,1990,Argentina,Millonarios,Colombia
 3980,1994,Argentina,River Plate,Argentina
 3981,1994,Argentina,Independiente,Argentina
 3982,1994,Argentina,Newell's Old Boys,Argentina
 3983,1994,Argentina,Universidad Católica,Chile
+3984,1990,Argentina,Real Madrid,Spain
 3984,1994,Argentina,San Lorenzo,Argentina
 3985,1994,Argentina,Real Zaragoza,Spain
 3986,1994,Argentina,Racing Club,Argentina
 3987,1994,Argentina,River Plate,Argentina
 3988,1994,Argentina,Tenerife,Spain
+3989,1990,Argentina,VfL Stuttgart,Germany
 3989,1994,Argentina,Velez Sarsfield,Argentina
+3990,1990,Argentina,Napoli,Italy
 3990,1994,Argentina,Newell's Old Boys,Argentina
 3991,1994,Argentina,Independiente,Argentina
 3992,1994,Argentina,Borussia Dortmund,Germany
 3993,1994,Argentina,Boca Juniors,Argentina
 3994,1994,Argentina,Yokohama F. Marinos,Japan
+3995,1990,Belgium,Mechelen,Belgium
 3995,1994,Belgium,Mechelen,Belgium
 3996,1994,Belgium,Club Brugge,Belgium
+3997,1990,Belgium,Mechelen,Belgium
 3997,1994,Belgium,Anderlecht,Belgium
 3998,1994,Belgium,Antwerp,Belgium
+3999,1990,Belgium,Anderlecht,Belgium
 3999,1994,Belgium,Parma,Italy
+4000,1990,Belgium,Kortrijk,Belgium
 4000,1994,Belgium,Anderlecht,Belgium
 4001,1994,Belgium,Club Brugge,Belgium
+4002,1990,Belgium,Mechelen,Belgium
 4002,1994,Belgium,Anderlecht,Belgium
 4003,1994,Belgium,Club Brugge,Belgium
+4004,1990,Belgium,Anderlecht,Belgium
 4004,1994,Belgium,Anderlecht,Belgium
 4005,1994,Belgium,Mechelen,Belgium
 4006,1994,Belgium,Cercle Brugge,Belgium
@@ -5430,17 +5470,22 @@ player_id,world_cup_year,team,club,country_club
 4028,1994,Bolivia,Oriente Petrolero,Bolivia
 4029,1994,Brazil,São Paulo,Brazil
 4030,1994,Brazil,Flamengo,Brazil
+4031,1990,Brazil,Bayer Leverkusen,Germany
 4031,1994,Brazil,Bayern Munich,Germany
+4032,1990,Brazil,Sao Paulo,Brazil
 4032,1994,Brazil,Vasco da Gama,Brazil
 4033,1994,Brazil,Shimizu S-Pulse,Japan
 4034,1994,Brazil,Bordeaux,France
 4035,1994,Brazil,Deportivo La Coruña,Spain
 4036,1994,Brazil,Palmeiras,Brazil
-4037,1994,Brazil,Paris Saint-Germain,France
+4037,1994,Brazil,PSG,France
+4038,1990,Brazil,Vasco da Gama,Brazil
 4038,1994,Brazil,Palmeiras,Brazil
+4039,1990,Brazil,PSV,Netherlands
 4039,1994,Brazil,Barcelona,Spain
 4040,1994,Brazil,Bayer Leverkusen,Germany
-4041,1994,Brazil,São Paulo,Brazil
+4041,1990,Brazil,Torino,Italy
+4041,1994,Brazil,Sao Paulo,Brazil
 4042,1994,Brazil,Corinthians,Brazil
 4043,1994,Bulgaria,Levski Sofia,Bulgaria
 4044,1994,Bulgaria,Levski Sofia,Bulgaria
@@ -5456,36 +5501,51 @@ player_id,world_cup_year,team,club,country_club
 4054,1994,Bulgaria,Levski Sofia,Bulgaria
 4055,1994,Bulgaria,Espanyol,Spain
 4056,1994,Bulgaria,CSKA Sofia,Bulgaria
+4057,1990,Cameroon,Bordeaux,France
 4057,1994,Cameroon,Saint-Étienne,France
+4058,1990,Cameroon,Espanyol,Spain
 4058,1994,Cameroon,L'Hospitalet,Spain
+4059,1990,Cameroon,Metz,France
 4059,1994,Cameroon,Le Havre,France
 4060,1994,Cameroon,Canon Yaoundé,Cameroon
+4061,1990,Cameroon,Canon Yaoundé,Cameroon
 4061,1994,Cameroon,Olympic Mvolyé,Cameroon
+4062,1990,Cameroon,Tonnerre Yaoundé,Cameroon
 4062,1994,Cameroon,Olympic Mvolyé,Cameroon
 4063,1994,Cameroon,Olympic Mvolyé,Cameroon
+4064,1990,Cameroon,Tonnerre Yaoundé,Cameroon
 4064,1994,Cameroon,Ohod,Saudi Arabia
 4065,1994,Cameroon,Nadi Qatar,Qatar
+4066,1990,Cameroon,Canon Yaoundé,Cameroon
 4066,1994,Cameroon,Rio Ave,Portugal
 4067,1994,Cameroon,Prévoyance Yaoundé,Cameroon
 4068,1994,Cameroon,Canon Yaoundé,Cameroon
+4069,1990,Cameroon,JS Saint-Pierroise,Reunion
 4069,1994,Cameroon,Tonnerre Yaoundé,Cameroon
+4070,1990,Cameroon,Canon Yaoundé,Cameroon
 4070,1994,Cameroon,Canon Yaoundé,Cameroon
 4071,1994,Cameroon,Belenenses,Portugal
 4072,1994,Cameroon,Troyes,France
 4073,1994,Colombia,Atletico Junior,Colombia
+4074,1990,Colombia,Young Boys,Switzerland
 4074,1994,Colombia,Atletico Nacional,Colombia
+4075,1990,Colombia,Atletico Junior,Colombia
 4075,1994,Colombia,Atletico Junior,Colombia
+4076,1990,Colombia,Atletico Nacional,Colombia
 4076,1994,Colombia,Atletico Nacional,Colombia
 4077,1994,Colombia,Once Caldas,Colombia
+4078,1990,Colombia,Atletico Nacional,Colombia
 4078,1994,Colombia,Atletico Junior,Colombia
 4079,1994,Colombia,Millonarios,Colombia
-4080,1994,Colombia,América de Cali,Colombia
+4080,1994,Colombia,America de Cali,Colombia
 4081,1994,Colombia,Atletico Nacional,Colombia
+4082,1990,Colombia,Independiente Medellin,Colombia
 4082,1994,Colombia,Atletico Nacional,Colombia
-4083,1994,Colombia,América de Cali,Colombia
-4084,1994,Colombia,América de Cali,Colombia
+4083,1994,Colombia,America de Cali,Colombia
+4084,1990,Colombia,Atletico Nacional,Colombia
+4084,1994,Colombia,America de Cali,Colombia
 4085,1994,Colombia,Atletico Junior,Colombia
-4086,1994,Germany,1. FC Köln,Germany
+4086,1994,Germany,1. FC Koln,Germany
 4087,1994,Germany,1. FC Kaiserslautern,Germany
 4088,1994,Germany,VfB Stuttgart,Germany
 4089,1994,Germany,VfB Stuttgart,Germany
@@ -5524,12 +5584,15 @@ player_id,world_cup_year,team,club,country_club
 4122,1994,Italy,Parma,Italy
 4123,1994,Italy,Parma,Italy
 4124,1994,Italy,Parma,Italy
+4125,1990,Italy,AC Milan,Italy
 4125,1994,Italy,AC Milan,Italy
 4126,1994,Italy,Parma,Italy
 4127,1994,Italy,Torino,Italy
 4128,1994,Italy,AC Milan,Italy
+4129,1990,Italy,Internazionale,Italy
 4129,1994,Italy,Internazionale,Italy
 4130,1994,Italy,Juventus,Italy
+4131,1990,Italy,AC Milan,Italy
 4131,1994,Italy,AC Milan,Italy
 4132,1994,Italy,Sampdoria,Italy
 4133,1994,Italy,Lazio,Italy
@@ -5755,20 +5818,20 @@ player_id,world_cup_year,team,club,country_club
 4353,1990,Argentina, Cremonese,Italy
 4354,1990,Austria, Swarovski Tirol,Austria
 4355,1990,Austria, Sturm Graz,Austria
-4356,1990,Austria, Austria Vienna,Austria
-4357,1990,Austria, Rapid Vienna,Austria
+4356,1990,Austria, Austria Wien,Austria
+4357,1990,Austria, Rapid Wien,Austria
 4358,1990,Austria, First Vienna FC,Austria
 4359,1990,Austria, Admira Wacker,Austria
 4360,1990,Austria, Swarovski Tirol,Austria
-4361,1990,Austria, Austria Vienna,Austria
+4361,1990,Austria, Austria Wien,Austria
 4362,1990,Austria, Swarovski Tirol,Austria
 4363,1990,Austria, Swarovski Tirol,Austria
 4364,1990,Austria, Swarovski Tirol,Austria
-4365,1990,Austria, Rapid Vienna,Austria
+4365,1990,Austria, Rapid Wien,Austria
 4366,1990,Austria, First Vienna FC,Austria
-4367,1990,Austria, Austria Vienna,Austria
+4367,1990,Austria, Austria Wien,Austria
 4368,1990,Austria, Admira Wacker,Austria
-4369,1990,Austria, Rapid Vienna,Austria
+4369,1990,Austria, Rapid Wien,Austria
 4370,1990,Belgium, Standard Liege,Belgium
 4371,1990,Belgium, PSV,Netherlands
 4372,1990,Belgium, Mechelen,Belgium
@@ -5909,7 +5972,7 @@ player_id,world_cup_year,team,club,country_club
 4506,1990,Italy, Napoli,Italy
 4507,1990,Italy, Internazionale,Italy
 4508,1990,Italy, Sampdoria,Italy
-4509,1990,Italy, Milan,Italy
+4509,1990,Italy, AC Milan,Italy
 4510,1990,Italy, Napoli,Italy
 4511,1990,Italy, Roma,Italy
 4512,1990,Italy, Juventus,Italy
@@ -5927,9 +5990,9 @@ player_id,world_cup_year,team,club,country_club
 4524,1990,Netherlands, Roda JC,Netherlands
 4525,1990,Netherlands, Mechelen,Belgium
 4526,1990,Netherlands, PSV,Netherlands
-4527,1990,Netherlands, Milan,Italy
+4527,1990,Netherlands, AC Milan,Italy
 4528,1990,Netherlands, Ajax,Netherlands
-4529,1990,Netherlands, Milan,Italy
+4529,1990,Netherlands, AC Milan,Italy
 4530,1990,Netherlands, PSV,Netherlands
 4531,1990,Netherlands, Ajax,Netherlands
 4532,1990,Netherlands, Aberdeen,Scotland
@@ -5943,21 +6006,21 @@ player_id,world_cup_year,team,club,country_club
 4540,1990,Republic of Ireland, Middlesbrough,England
 4541,1990,Republic of Ireland, Blackburn Rovers,England
 4542,1990,Republic of Ireland, Le Havre,France
-4543,1990,Romania, Steaua Bucure?ti,Romania
-4544,1990,Romania, Petrolul Ploie?ti,Romania
-4545,1990,Romania, Dinamo Bucure?ti,Romania
-4546,1990,Romania, Dinamo Bucure?ti,Romania
-4547,1990,Romania, Dinamo Bucure?ti,Romania
+4543,1990,Romania, Steaua Bucuresti,Romania
+4544,1990,Romania, Petrolul Ploiesti,Romania
+4545,1990,Romania, Dinamo Bucuresti,Romania
+4546,1990,Romania, Dinamo Bucuresti,Romania
+4547,1990,Romania, Dinamo Bucuresti,Romania
 4548,1990,Romania, Universitatea Craiova,Romania
 4549,1990,Romania, Universitatea Craiova,Romania
-4550,1990,Romania, Steaua Bucure?ti,Romania
-4551,1990,Romania, Dinamo Bucure?ti,Romania
-4552,1990,Romania, Dinamo Bucure?ti,Romania
-4553,1990,Romania, Dinamo Bucure?ti,Romania
-4554,1990,Romania, Dinamo Bucure?ti,Romania
-4555,1990,Romania, Steaua Bucure?ti,Romania
+4550,1990,Romania, Steaua Bucuresti,Romania
+4551,1990,Romania, Dinamo Bucuresti,Romania
+4552,1990,Romania, Dinamo Bucuresti,Romania
+4553,1990,Romania, Dinamo Bucuresti,Romania
+4554,1990,Romania, Dinamo Bucuresti,Romania
+4555,1990,Romania, Steaua Bucuresti,Romania
 4556,1990,Romania, Charleroi,Belgium
-4557,1990,Romania, Steaua Bucure?ti,Romania
+4557,1990,Romania, Steaua Bucuresti,Romania
 4558,1990,Scotland, Hibernian,Scotland
 4559,1990,Scotland, Norwich City,England
 4560,1990,Scotland, Aberdeen,Scotland
