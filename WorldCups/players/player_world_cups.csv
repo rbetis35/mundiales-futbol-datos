@@ -4231,9 +4231,11 @@ player_id,world_cup_year,team,club,country_club
 3060,2002,Croatia,Zagreb,Croatia
 3061,2002,Croatia,Bayer Leverkusen,Germany
 3062,2002,Croatia,Panathinaikos,Greece
+3063,1990,Yugoslavia,Hajduk Split,Croatia
 3063,1998,Croatia,Real Betis,Spain
 3063,2002,Croatia,Panathinaikos,Greece
 3064,2002,Croatia,Fenerbahce,Turkey
+3065,1990,Yugoslavia,Red Star Belgrade,Serbia
 3065,1998,Croatia,Croatia Zagreb,Croatia
 3065,2002,Croatia,Portsmouth,England
 3066,1998,Croatia,Parma,Italy
@@ -4241,6 +4243,7 @@ player_id,world_cup_year,team,club,country_club
 3067,1998,Croatia,VfB Stuttgart,Germany
 3067,2002,Croatia,VfB Stuttgart,Germany
 3068,2002,Croatia,Lecce,Italy
+3069,1990,Yugoslavia,Dinamo Zagreb,Croatia
 3069,1998,Croatia,Real Madrid,Spain
 3069,2002,Croatia,1860 Munich,Germany
 3070,2002,Croatia,Middlesbrough,England
@@ -4728,6 +4731,7 @@ player_id,world_cup_year,team,club,country_club
 3441,1998,USA,Liverpool,England
 3441,2002,USA,Blackburn Rovers,England
 3442,1990,USA,Virginia Cavaliers,USA
+3442,1994,USA,USSF,USA
 3442,2002,USA,Kansas City Wizards,USA
 3443,1998,USA,Karlsruher SC,Germany
 3443,2002,USA,Metz,France
@@ -4999,28 +5003,36 @@ player_id,world_cup_year,team,club,country_club
 3649,1998,France,Auxerre,France
 3650,1998,France,Real Madrid,Spain
 3651,1998,France,Auxerre,France
+3652,1990,West Germany,1. FC Nurnberg,Germany
 3652,1994,Germany,1. FC Nurnberg,Germany
 3652,1998,Germany,Marseille,France
 3653,1998,Germany,Bayer Leverkusen,Germany
 3654,1998,Germany,Borussia Dortmund,Germany
+3655,1990,West Germany,Bayern Munich,Germany
 3655,1994,Germany,Juventus,Italy
 3655,1998,Germany,Borussia Dortmund,Germany
 3656,1994,Germany,Bayern Munich,Germany
 3656,1998,Germany,Bayern Munich,Germany
+3657,1990,West Germany,Bayern Munich,Germany
 3657,1998,Germany,Schalke 04,Germany
+3658,1990,West Germany,Internazionale,Italy
 3658,1994,Germany,Bayern Munich,Germany
 3658,1998,Germany,Bayern Munich,Germany
 3659,1998,Germany,Bayern Munich,Germany
+3660,1990,West Germany,Bayern Munich,Germany
 3660,1998,Germany,Borussia Dortmund,Germany
 3661,1998,Germany,Bayern Munich,Germany
+3662,1990,West Germany,Borussia Dortmund,Germany
 3662,1994,Germany,Juventus,Italy
 3662,1998,Germany,Borussia Dortmund,Germany
+3663,1990,West Germany,1. FC Koln,Germany
 3663,1994,Germany,Roma,Italy
 3663,1998,Germany,Karlsruher SC,Germany
 3664,1998,Germany,Borussia Dortmund,Germany
 3665,1994,Germany,Bayer Leverkusen,Germany
 3665,1998,Germany,Bayer Leverkusen,Germany
 3666,1998,Germany,1. FC Kaiserslautern,Germany
+3667,1990,West Germany,Internazionale,Italy
 3667,1994,Germany,Monaco,France
 3667,1998,Germany,Tottenham,England
 3668,1998,Iran,Persepolis,Iran
@@ -5394,12 +5406,14 @@ player_id,world_cup_year,team,club,country_club
 3949,1998,USA,Columbus Crew,USA
 3950,1994,USA,USSF,USA
 3950,1998,USA,New England Revolution,USA
+3951,1990,USA,San Diego Nomads,USA
 3951,1994,USA,USSF,USA
 3951,1998,USA,Colorado Rapids,USA
 3952,1994,USA,USSF,USA
 3952,1998,USA,MetroStars,USA
 3953,1994,USA,USSF,USA
 3953,1998,USA,Columbus Crew,USA
+3954,1990,USA,Figueres,Spain
 3954,1994,USA,Real Betis,Spain
 3954,1998,USA,MetroStars,USA
 3955,1998,USA,Kansas City Wizards,USA
@@ -5407,9 +5421,11 @@ player_id,world_cup_year,team,club,country_club
 3957,1998,USA,Columbus Crew,USA
 3958,1994,USA,Coventry City,England
 3958,1998,USA,Tampa Bay Mutiny,USA
-3959,1994,USA, 1. FC Saarbrucken,Germany
+3959,1990,USA,San Francisco Bay Blackhawks,USA
+3959,1994,USA,1. FC Saarbrucken,Germany
 3959,1998,USA,San Jose Clash,USA
 3960,1998,Yugoslavia,Partizan,Serbia
+3961,1990,Yugoslavia,Buducnost Titograd,Montenegro
 3961,1998,Yugoslavia,Sporting Gijon,Spain
 3962,1998,Yugoslavia,Atalanta,Italy
 3963,1998,Yugoslavia,Celta de Vigo,Spain
@@ -5421,7 +5437,9 @@ player_id,world_cup_year,team,club,country_club
 3969,1998,Yugoslavia,Tenerife,Spain
 3970,1998,Yugoslavia,Espanyol,Spain
 3971,1998,Yugoslavia,Lazio,Italy
+3972,1990,Yugoslavia,Red Star Belgrade,Serbia
 3972,1998,Yugoslavia,AC Milan,Italy
+3973,1990,Yugoslavia,Red Star Belgrade,Serbia
 3973,1998,Yugoslavia,Nagoya Grampus Eight,Japan
 3974,1998,Yugoslavia,Porto,Portugal
 3975,1998,Yugoslavia,Lecce,Italy
@@ -5565,9 +5583,13 @@ player_id,world_cup_year,team,club,country_club
 4084,1990,Colombia,Atletico Nacional,Colombia
 4084,1994,Colombia,America de Cali,Colombia
 4085,1994,Colombia,Atletico Junior,Colombia
+4086,1990,West Germany,1. FC Koln,Germany
 4086,1994,Germany,1. FC Koln,Germany
+4087,1990,West Germany,Internazionale,Italy
 4087,1994,Germany,1. FC Kaiserslautern,Germany
+4088,1990,West Germany,VfB Stuttgart,Germany
 4088,1994,Germany,VfB Stuttgart,Germany
+4089,1990,West Germany,Roma,Italy
 4089,1994,Germany,VfB Stuttgart,Germany
 4090,1994,Germany,Borussia Dortmund,Germany
 4091,1994,Germany,VfB Stuttgart,Germany
@@ -5575,8 +5597,10 @@ player_id,world_cup_year,team,club,country_club
 4093,1994,Germany,1. FC Kaiserslautern,Germany
 4094,1994,Germany,Fiorentina,Italy
 4095,1994,Germany,Werder Bremen,Germany
+4096,1990,West Germany,Werder Bremen,Germany
 4096,1994,Germany,Borussia Dortmund,Germany
 4097,1994,Germany,1. FC Kaiserslautern,Germany
+4098,1990,West Germany,Roma,Italy
 4098,1994,Germany,Marseille,France
 4099,1994,Greece,Apollon Athens,Greece
 4100,1994,Greece,Aris,Greece
@@ -5845,8 +5869,10 @@ player_id,world_cup_year,team,club,country_club
 
 4328,1994,USA,USSF,USA
 4329,1994,USA,Cruz Azul,Mexico
+4330,1990,USA,SV Meppen,Germany
 4330,1994,USA,USSF,USA
 4331,1994,USA,USSF,USA
+4332,1990,USA,Albany Capitals,USA
 4332,1994,USA,Derby County,England
 4333,1994,USA,Los Angeles Salsa,USA
 4334,1994,USA,USSF,USA
