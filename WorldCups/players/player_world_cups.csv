@@ -4044,6 +4044,7 @@ player_id,world_cup_year,team,club,country_club
 2933,2006,Ukraine,Dynamo Kyiv,Ukraine
 2934,2006,Ukraine,Shakhtar Donetsk,Ukraine
 2935,2006,Ukraine,Shakhtar Donetsk,Ukraine
+2936,1990,USA,Portland Timbers,USA
 2936,1998,USA,Leicester City,England
 2936,2002,USA,Tottenham,England
 2936,2006,USA,Borussia Monchengladbach,Germany
@@ -4479,6 +4480,8 @@ player_id,world_cup_year,team,club,country_club
 3244,2002,Republic of Ireland,Fulham,England
 3245,2002,Republic of Ireland,Leeds United,England
 3246,2002,Republic of Ireland,Wimbledon,England
+3247,1990,Republic of Ireland,Liverpool,England
+3247,1994,Republic of Ireland,Aston Villa,England
 3247,2002,Republic of Ireland,Aston Villa,England
 3248,2002,Republic of Ireland,Coventry City,England
 3249,2002,Republic of Ireland,Manchester City,England
@@ -4497,6 +4500,7 @@ player_id,world_cup_year,team,club,country_club
 3259,2002,Republic of Ireland,Everton,England
 3260,2002,Republic of Ireland,Leeds United,England
 3261,2002,Republic of Ireland,Wimbledon,England
+3262,1990,Republic of Ireland,Manchester City,England
 3262,2002,Republic of Ireland,Sunderland,England
 3263,2002,Republic of Ireland,Crystal Palace,England
 3264,2002,Russia,Hellas Verona,Italy
@@ -4623,6 +4627,7 @@ player_id,world_cup_year,team,club,country_club
 3367,2002,South Korea,Jeonnam Dragons,South Korea
 3368,1998,South Korea,Busan Daewoo Royals,South Korea
 3368,2002,South Korea,Busan IPark,South Korea
+3369,1990,South Korea,Korea University,South Korea
 3369,1994,South Korea,POSCO Atoms,South Korea
 3369,1998,South Korea,Bellmare Hiratsuka,Japan
 3369,2002,South Korea,Pohang Steelers,South Korea
@@ -4632,12 +4637,14 @@ player_id,world_cup_year,team,club,country_club
 3372,2002,South Korea,Anyang LG Cheetahs,South Korea
 3373,1998,South Korea,Sangmu,South Korea
 3373,2002,South Korea,JEF United Ichihara,Japan
+3374,1990,South Korea,Konkuk University,South Korea
 3374,1994,South Korea,POSCO Atoms,South Korea
 3374,1998,South Korea,Pohang Steelers,South Korea
 3374,2002,South Korea,Kashiwa Reysol,Japan
 3375,2002,Spain,Valladolid,Spain
 3376,2002,Spain,Malaga,Spain
 3377,2002,Spain,Valencia,Spain
+3378,1990,Spain,Real Madrid,Spain
 3378,1994,Spain,Real Madrid,Spain
 3378,1998,Spain,Real Madrid,Spain
 3378,2002,Spain,Real Madrid,Spain
@@ -4720,6 +4727,7 @@ player_id,world_cup_year,team,club,country_club
 3441,1994,USA,USSF,USA
 3441,1998,USA,Liverpool,England
 3441,2002,USA,Blackburn Rovers,England
+3442,1990,USA,Virginia Cavaliers,USA
 3442,2002,USA,Kansas City Wizards,USA
 3443,1998,USA,Karlsruher SC,Germany
 3443,2002,USA,Metz,France
@@ -5149,6 +5157,7 @@ player_id,world_cup_year,team,club,country_club
 3778,1994,Netherlands,Ajax,Netherlands
 3778,1998,Netherlands,Arsenal,England
 3779,1998,Netherlands,Juventus,Italy
+3780,1990,Netherlands,Ajax,Netherlands
 3780,1994,Netherlands,Lazio,Italy
 3780,1998,Netherlands,Internazionale,Italy
 3781,1994,Netherlands,Internazionale,Italy
@@ -5228,6 +5237,7 @@ player_id,world_cup_year,team,club,country_club
 3833,1998,Paraguay,Argentinos Juniors,Argentina
 3834,1998,Paraguay,Sporting CP,Portugal
 3835,1998,Romania,Kocaelispor,Turkey
+3836,1990,Romania,Dinamo Bucuresti,Romania
 3836,1994,Romania,Rapid Bucuresti,Romania
 3836,1998,Romania,Salamanca,Spain
 3837,1994,Romania,Dinamo Bucuresti,Romania
@@ -5236,6 +5246,7 @@ player_id,world_cup_year,team,club,country_club
 3838,1998,Romania,Chelsea,England
 3839,1998,Romania,Rapid Bucuresti,Romania
 3840,1998,Romania,AEK Athens,Greece
+3841,1990,Romania,Universitatea Craiova,Romania
 3841,1994,Romania,PSV,Netherlands
 3841,1998,Romania,Galatasaray,Turkey
 3842,1998,Romania,National Bucuresti,Romania
@@ -5244,7 +5255,8 @@ player_id,world_cup_year,team,club,country_club
 3844,1994,Romania,Steaua Bucuresti,Romania
 3844,1998,Romania,Espanyol,Spain
 3845,1994,Romania,Cercle Brugge,Belgium
-3845,1998,Romania,1. FC Köln,Germany
+3845,1998,Romania,1. FC Koln,Germany
+3846,1990,Romania,Steaua Bucuresti,Romania
 3846,1994,Romania,Brescia,Italy
 3846,1998,Romania,Galatasaray,Turkey
 3847,1998,Romania,National Bucuresti,Romania
@@ -5253,10 +5265,12 @@ player_id,world_cup_year,team,club,country_club
 3850,1998,Romania,Galatasaray,Turkey
 3851,1994,Romania,Universitatea Craiova,Romania
 3851,1998,Romania,PSV,Netherlands
+3852,1990,Romania,Steaua Bucuresti,Romania
 3852,1998,Romania,Steaua Bucuresti,Romania
 3853,1994,Romania,Dinamo Bucuresti,Romania
 3853,1998,Romania,Coventry City,England
 3854,1998,Romania,Valencia,Spain
+3855,1990,Romania,Steaua Bucuresti,Romania
 3855,1994,Romania,Steaua Bucuresti,Romania
 3855,1998,Romania,Atlante,Mexico
 3856,1998,Romania,Real Sociedad,Spain
@@ -5281,6 +5295,7 @@ player_id,world_cup_year,team,club,country_club
 3868,1998,Saudi Arabia,Al Shabab,Saudi Arabia
 3869,1994,Saudi Arabia,Al Shabab,Saudi Arabia
 3869,1998,Saudi Arabia,Al Shabab,Saudi Arabia
+3870,1990,Scotland,Manchester United,England
 3870,1998,Scotland,Aberdeen,Scotland
 3871,1998,Scotland,Wimbledon,England
 3872,1998,Scotland,Celtic,Scotland
@@ -5294,11 +5309,13 @@ player_id,world_cup_year,team,club,country_club
 3880,1998,Scotland,Derby County,England
 3881,1998,Scotland,Celtic,Scotland
 3882,1998,Scotland,Celtic,Scotland
+3883,1990,Scotland,Hibernian,Scotland
 3883,1998,Scotland,Monaco,France
 3884,1998,Scotland,Celtic,Scotland
 3885,1998,Scotland,Nottingham Forest,England
 3886,1998,Scotland,Blackburn Rovers,England
 3887,1998,Scotland,Blackburn Rovers,England
+3888,1990,Scotland,Chelsea,England
 3888,1998,Scotland,Rangers,Scotland
 3889,1998,Scotland,Celtic,Scotland
 3890,1998,Scotland,Celtic,Scotland
@@ -5331,18 +5348,21 @@ player_id,world_cup_year,team,club,country_club
 3916,1994,South Korea,Sanfreece Hiroshima,Japan
 3916,1998,South Korea,NAC,Netherlands
 3917,1998,South Korea,Suwon Samsung Bluewings,South Korea
+3918,1990,South Korea,Cheonan Ilhwa Chunma,South Korea
 3918,1998,South Korea,Cheonan Ilhwa Chunma,South Korea
 3919,1994,South Korea,Daewoo Royals,South Korea
 3919,1998,South Korea,Cerezo Osaka,Japan
 3920,1998,South Korea,Vissel Kobe,Japan
 3921,1994,South Korea,Sangmu FC,South Korea
 3921,1998,South Korea,Strasbourg,France
+3922,1990,Spain,Barcelona,Spain
 3922,1994,Spain,Barcelona,Spain
 3922,1998,Spain,Valencia,Spain
 3923,1998,Spain,Atletico Madrid,Spain
 3924,1994,Spain,Barcelona,Spain
 3924,1998,Spain,Barcelona,Spain
 3925,1998,Spain,Real Sociedad,Spain
+3926,1990,Spain,Athletic Bilbao,Spain
 3926,1994,Spain,Real Madrid,Spain
 3926,1998,Spain,Athletic Bilbao,Spain
 3927,1994,Spain,Sporting Gijon,Spain
@@ -5632,14 +5652,19 @@ player_id,world_cup_year,team,club,country_club
 4167,1994,Morocco,Raja Casablanca,Morocco
 4168,1994,Morocco,Wydad AC,Morocco
 4169,1994,Netherlands,Aberdeen,Scotland
+4170,1990,Netherlands,Barcelona,Spain
 4170,1994,Netherlands,Barcelona,Spain
 4171,1994,Netherlands,Feyenoord,Netherlands
+4172,1990,Netherlands,Ajax,Netherlands
 4172,1994,Netherlands,Ajax,Netherlands
 4173,1994,Netherlands,Sporting CP,Portugal
 4174,1994,Netherlands,Feyenoord,Netherlands
+4175,1990,Netherlands,AC Milan,Italy
 4175,1994,Netherlands,Ajax,Netherlands
 4176,1994,Netherlands,Feyenoord,Netherlands
+4177,1990,Netherlands,Ajax,Netherlands
 4177,1994,Netherlands,PSV,Netherlands
+4178,1990,Netherlands,Ajax,Netherlands
 4178,1994,Netherlands,Foggia,Italy
 4179,1994,Netherlands,Anderlecht,Belgium
 4180,1994,Netherlands,Feyenoord,Netherlands
@@ -5665,37 +5690,51 @@ player_id,world_cup_year,team,club,country_club
 4200,1994,Norway,Swindon Town,England
 4201,1994,Norway,Bursaspor,Turkey
 4202,1994,Norway,Tromso,Norway
+4203,1990,Republic of Ireland,Celtic,Scotland
 4203,1994,Republic of Ireland,Celtic,Scotland
 4204,1994,Republic of Ireland,Manchester United,England
 4205,1994,Republic of Ireland,Manchester City,England
+4206,1990,Republic of Ireland,Blackburn Rovers,England
 4206,1994,Republic of Ireland,Blackburn Rovers,England
+4207,1990,Republic of Ireland,Aston Villa,England
 4207,1994,Republic of Ireland,Aston Villa,England
 4208,1990,Sweden,AIK,Sweden
 4209,1994,Republic of Ireland,Manchester City,England
 4210,1994,Republic of Ireland,Coventry City,England
+4211,1990,Republic of Ireland,Norwich City,England
 4211,1994,Republic of Ireland,Aston Villa,England
+4212,1990,Republic of Ireland,Liverpool,England
 4212,1994,Republic of Ireland,Aston Villa,England
+4213,1990,Republic of Ireland,Sheffield Wednesday,England
 4213,1994,Republic of Ireland,Sheffield Wednesday,England
+4214,1990,Republic of Ireland,Liverpool,England
 4214,1994,Republic of Ireland,Liverpool,England
+4215,1990,Republic of Ireland,Swindon Town,England
 4215,1994,Republic of Ireland,Portsmouth,England
+4216,1990,Republic of Ireland,Real Sociedad,Spain
 4216,1994,Republic of Ireland,Tranmere Rovers,England
 4217,1994,Republic of Ireland,Motherwell,Scotland
+4218,1990,Republic of Ireland,Aston Villa,England
 4218,1994,Republic of Ireland,Chelsea,England
 4219,1994,Republic of Ireland,Arsenal,England
+4220,1990,Republic of Ireland,Leicester City,England
 4220,1994,Republic of Ireland,Wolverhampton,England
-4221,1994,Romania,Petrolul Ploiesti,Rumania
-4222,1994,Romania,Steaua Bucuresti,Rumania
+4221,1994,Romania,Petrolul Ploiesti,Romania
+4222,1994,Romania,Steaua Bucuresti,Romania
 4223,1994,Romania,Valencia,Spain
-4224,1994,Romania,Dinamo Bucuresti,Rumania
-4225,1994,Romania,Universitatea Craiova,Rumania
+4224,1994,Romania,Dinamo Bucuresti,Romania
+4225,1994,Romania,Universitatea Craiova,Romania
+4226,1990,Romania,Dinamo Bucuresti,Romania
 4226,1994,Romania,Bayer Leverkusen,Germany
-4227,1994,Romania,Rapid Bucuresti,Rumania
+4227,1994,Romania,Rapid Bucuresti,Romania
 4228,1994,Romania,Steaua Bucuresti,Belgium
+4229,1990,Romania,Dinamo Bucuresti,Romania
 4229,1994,Romania,AC Milan,Italy
 4230,1994,Romania,Rapid Bucuresti,Belgium
 4231,1994,Romania,Brasov,Belgium
 4232,1994,Russia,Chelsea,England
 4233,1994,Russia,Espanyol,Spain
+4234,1990,Soviet Union,Borussia Dortmund,Germany
 4234,1994,Russia,Bayer Uerdingen,Germany
 4235,1994,Russia,Espanyol,Spain
 4236,1994,Russia,Spartak Moscow,Russia
@@ -5703,6 +5742,7 @@ player_id,world_cup_year,team,club,country_club
 4238,1994,Russia,Dynamo Moscow,Russia
 4239,1994,Russia,Spartak Moscow,Russia
 4240,1994,Russia,Racing de Santander,Spain
+4241,1990,Soviet Union,Schalke 04,Germany
 4241,1994,Russia,SC Freiburg,Germany
 4242,1994,Russia,Espanyol,Spain
 4243,1994,Russia,Spartak Moscow,Russia
@@ -5723,6 +5763,7 @@ player_id,world_cup_year,team,club,country_club
 4258,1994,Saudi Arabia,Al Hilal,Saudi Arabia
 4259,1994,Saudi Arabia,Al Nassr,Saudi Arabia
 4260,1994,Saudi Arabia,Ohod,Saudi Arabia
+4261,1990,South Korea,Hyundai Horangi,South Korea
 4261,1994,South Korea,Hyundai Horangi,South Korea
 4262,1994,South Korea,LG Cheetahs,South Korea
 4263,1994,South Korea,Ilhwa Chunma,South Korea
@@ -5730,12 +5771,15 @@ player_id,world_cup_year,team,club,country_club
 4265,1994,South Korea,Daewoo Royals,South Korea
 4266,1994,South Korea,Ulsan Hyundai Horangi,South Korea
 4267,1994,South Korea,Ilhwa Chunma,South Korea
+4268,1990,South Korea,Lucky-Goldstar Hwangso,South Korea
 4268,1994,South Korea,Daewoo Royals,South Korea
 4269,1994,South Korea,Ulsan Hyundai Horangi,South Korea
+4270,1990,South Korea,Lucky-Goldstar Hwangso,South Korea
 4270,1994,South Korea,LG Cheetahs,South Korea
 4271,1994,South Korea,LG Cheetahs,South Korea
 4272,1994,South Korea,POSCO Atoms,South Korea
 4273,1994,South Korea,POSCO Atoms,South Korea
+4274,1990,South Korea,Daewoo Royals,South Korea
 4274,1994,South Korea,VfL Bochum,Germany
 4275,1994,South Korea,Ilhwa Chunma,South Korea
 4276,1994,Spain,Logroñes,Spain
@@ -5749,22 +5793,31 @@ player_id,world_cup_year,team,club,country_club
 4284,1994,Spain,Tenerife,Spain
 4285,1994,Spain,Barcelona,Spain
 4286,1994,Spain,Sporting Gijon,Spain
+4287,1990,Spain,Barcelona,Spain
 4287,1994,Spain,Barcelona,Spain
+4288,1990,Sweden,IFK Goteborg,Sweden
 4288,1994,Sweden,IFK Goteborg,Sweden
 4289,1994,Sweden,IFK Norrkoping,Sweden
+4290,1990,Sweden,Sheffield Wednesday,England
 4290,1994,Sweden,Sheffield Wednesday,England
 4291,1994,Sweden,IFK Goteborg,Sweden
+4292,1990,Sweden,Young Boys,Switzerland
 4292,1994,Sweden,Galatasaray,Turkey
 4293,1994,Sweden,IFK Goteborg,Sweden
 4294,1994,Sweden,IFK Goteborg,Sweden
+4295,1990,Sweden,Malmo,Sweden
 4295,1994,Sweden,Benfica,Portugal
+4296,1990,Sweden,IFK Goteborg,Sweden
 4296,1994,Sweden,PSV,Netherlands
+4297,1990,Sweden,Benfica,Portugal
 4297,1994,Sweden,Napoli,Italy
+4298,1990,Sweden,Cremonese,Italy
 4298,1994,Sweden,Everton,England
 4299,1994,Sweden,IFK Goteborg,Sweden
 4300,1994,Sweden,Servette,Switzerland
 4301,1994,Sweden,IFK Goteborg,Sweden
 4302,1994,Sweden,Borussia Monchengladbach,Germany
+4303,1990,Sweden,IFK Norrkoping,Sweden
 4303,1994,Sweden,Parma,Italy
 4304,1994,Sweden,Lille,France
 4305,1994,Switzerland,Servette,Switzerland
