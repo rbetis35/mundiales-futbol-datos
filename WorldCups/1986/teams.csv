@@ -1,17 +1,25 @@
 team_id,team_name,group,coach
-1,Qatar,A,Félix Sánchez Bas
-2,Ecuador,A,Gustavo Alfaro
-3,Senegal,A,Aliou Cissé
-4,Netherlands,A,Louis van Gaal
-5,England,B,Gareth Southgate
-6,Iran,B,Carlos Queiroz
-7,USA,B,Gregg Berhalter
-8,Wales,B,Rob Page
-9,Argentina,C,Lionel Scaloni
-10,Saudi Arabia,C,Hervé Renard
-11,Mexico,C,Gerardo Martino
-12,Poland,C,Czesław Michniewicz
-13,France,D,Didier Deschamps
-14,Australia,D,Graham Arnold
-15,Denmark,D,Kasper Hjulmand
-16,Tunisia,D,Jalel Kadri
+1,Argentina,A,Carlos Bilardo
+2,Italy,A,Enzo Bearzot
+3,Bulgaria,A,Ivan Vutsov
+4,South Korea,A,Park Seong-hwa
+5,Mexico,B,Bora Milutinović
+6,Paraguay,B,Cayetano Ré
+7,Iraq,B,Evaristo de Macedo
+8,Belgium,B,Guy Thys
+9,France,C,Henri Michel
+10,Soviet Union,C,Valeriy Lobanovskyi
+11,Hungary,C,György Mezey
+12,Canada,C,Tony Waiters
+13,Brazil,D,Telê Santana
+14,Spain,D,Miguel Muñoz
+15,Northern Ireland,D,Billy Bingham
+16,Algeria,D,Rabah Saâdane
+17,West Germany,E,Franz Beckenbauer
+18,Uruguay,E,Omar Borrás
+19,Scotland,E,Alex Ferguson
+20,Denmark,E,Sepp Piontek
+21,Morocco,F,José Faria
+22,England,F,Bobby Robson
+23,Poland,F,Antoni Piechniczek
+24,Portugal,F,José Torres
