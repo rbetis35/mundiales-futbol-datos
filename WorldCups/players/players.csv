@@ -4337,3 +4337,392 @@ player_id,dorsal,player_name,Date of birth,position,nationality
 4335,14,Frank Klopas,01-09-1966,FW,USA
 4336,10,Mustafa El Haddaoui,28-07-1961,MF,Morocco
 4337,13,Jan Mikael Nilsson,28-09-1968,DF,Sweden
+4338,1,Nery Pumpido,30-07-1957,GK,Argentina
+4339,1,Ángel Comizzo,27-04-1962,GK,Argentina
+4340,22,Fabián Cancelarich,20-12-1965,GK,Argentina
+4341,5,Edgardo Bauza,26-01-1958,DF,Argentina
+4342,11,Néstor Fabbri,29-04-1968,DF,Argentina
+4343,13,Néstor Lorenzo,28-02-1966,DF,Argentina
+4344,15,Pedro Monzón,23-02-1962,DF,Argentina
+4345,16,Julio Olarticoechea,18-10-1958,DF,Argentina
+4346,18,José Serrizuela,16-06-1962,DF,Argentina
+4347,20,Juan Simón,02-03-1960,DF,Argentina
+4348,2,Sergio Batista,09-11-1962,MF,Argentina
+4349,7,Jorge Burruchaga,09-10-1962,MF,Argentina
+4350,14,Ricardo Giusti,11-12-1956,MF,Argentina
+4351,21,Pedro Troglio,28-07-1965,MF,Argentina
+4352,6,Gabriel Calderón,07-02-1960,FW,Argentina
+4353,9,Gustavo Dezotti,14-02-1964,FW,Argentina
+4354,1,Klaus Lindenberger,28-05-1957,GK,Austria
+4355,22,Otto Konrad,01-11-1964,GK,Austria
+4356,2,Ernst Aigner,31-10-1966,DF,Austria
+4357,3,Robert Pecl,15-11-1965,DF,Austria
+4358,7,Kurt Russ,23-11-1964,DF,Austria
+4359,8,Peter Artner,20-05-1966,DF,Austria
+4360,18,Michael Streiter,19-01-1966,DF,Austria
+4361,6,Manfred Zsak,22-12-1964,MF,Austria
+4362,10,Manfred Linzmaier,27-08-1962,MF,Austria
+4363,11,Alfred Hörtnagl,24-09-1966,MF,Austria
+4364,12,Michael Baur,16-04-1969,MF,Austria
+4365,16,Andreas Reisinger,14-10-1963,MF,Austria
+4366,19,Gerald Glatzmayer,14-12-1968,MF,Austria
+4367,13,Andreas Ogris,07-10-1964,FW,Austria
+4368,14,Gerhard Rodax,29-08-1965,FW,Austria
+4369,15,Christian Keglevits,29-01-1961,FW,Austria
+4370,12,Gilbert Bodart,02-09-1962,GK,Belgium
+4371,2,Eric Gerets,18-05-1954,DF,Belgium
+4372,4,Lei Clijsters,06-11-1956,DF,Belgium
+4373,7,Stéphane Demol,11-03-1966,DF,Belgium
+4374,15,Jean-François De Sart,18-12-1961,DF,Belgium
+4375,17,Pascal Plovie,07-05-1965,DF,Belgium
+4376,5,Bruno Versavel,27-08-1967,MF,Belgium
+4377,11,Jan Ceulemans ,28-02-1957,MF,Belgium
+4378,22,Patrick Vervoort,17-01-1965,MF,Belgium
+4379,14,Nico Claesen,07-10-1962,FW,Belgium
+4380,19,Marc Van Der Linden,04-02-1964,FW,Belgium
+4381,12,Acácio,20-01-1959,GK,Brazil
+4726,22,Ze Carlos,07-02-1962,GK,Brazil
+4382,3,Ricardo Gomes ,13-12-1964,DF,Brazil
+4383,13,Carlos Mozer,19-09-1960,DF,Brazil
+4384,21,Mauro Galvão,19-12-1961,DF,Brazil
+4385,5,Alemão,22-11-1961,MF,Brazil
+4386,7,Bismarck,11-09-1969,MF,Brazil
+4387,8,Valdo,12-01-1964,MF,Brazil
+4388,10,Paulo Silas,27-08-1965,MF,Brazil
+4389,20,Tita,01-04-1958,MF,Brazil
+4390,9,Careca,05-10-1960,FW,Brazil
+4391,17,Renato Gaúcho,09-09-1962,FW,Brazil
+4392,4,Benjamin Massing,20-06-1962,DF,Cameroon
+4393,5,Bertin Ebwellé,11-09-1962,DF,Cameroon
+4394,6,Emmanuel Kundé,15-07-1956,DF,Cameroon
+4395,12,Alphonse Yombi,30-06-1969,DF,Cameroon
+4396,13,Jean-Claude Pagal,15-09-1964,DF,Cameroon
+4397,3,Jules Onana,12-06-1964,MF,Cameroon
+4398,8,Émile Mbouh,30-05-1966,MF,Cameroon
+4399,19,Roger Feutmba,31-10-1968,MF,Cameroon
+4400,20,Cyrille Makanaky,28-06-1965,MF,Cameroon
+4401,11,Eugène Ekéké,30-05-1960,FW,Cameroon
+4402,18,Bonaventure Djonkep,20-08-1961,FW,Cameroon
+4403,1,René Higuita,27-08-1966,GK,Colombia
+4404,12,Eduardo Niño,08-08-1967,GK,Colombia
+4405,3,Gildardo Gómez,13-10-1963,DF,Colombia
+4406,6,José Ricardo Pérez,24-10-1963,DF,Colombia
+4407,13,Carlos Hoyos,28-02-1962,DF,Colombia
+4408,17,Geovanis Cassiani,10-01-1970,DF,Colombia
+4409,5,León Villa,12-01-1960,MF,Colombia
+4410,11,Bernardo Redín,26-02-1963,MF,Colombia
+4411,20,Luis Fajardo,18-08-1963,MF,Colombia
+4412,7,Carlos Estrada,01-11-1961,FW,Colombia
+4413,9,Miguel Guerrero,07-09-1967,FW,Colombia
+4414,16,Arnoldo Iguarán,18-01-1957,FW,Colombia
+4415,22,Rubén Darío Hernández,19-02-1965,FW,Colombia
+4416,1,Luis Gabelo Conejo,01-01-1960,GK,Costa Rica
+4417,21,Hermidio Barrantes,02-09-1964,GK,Costa Rica
+4418,22,Miguel Segura,02-09-1963,GK,Costa Rica
+4419,2,Vladimir Quesada,12-05-1966,DF,Costa Rica
+4420,3,Róger Flores ,26-05-1959,DF,Costa Rica
+4421,4,Rónald González Brenes,08-08-1970,DF,Costa Rica
+4422,5,Marvin Obando,04-04-1960,DF,Costa Rica
+4423,15,Rónald Marín,02-11-1962,DF,Costa Rica
+4424,18,Geovanny Jara,20-07-1967,DF,Costa Rica
+4425,19,Héctor Marchena,04-01-1965,DF,Costa Rica
+4426,20,Mauricio Montero,19-10-1963,DF,Costa Rica
+4427,6,José Carlos Chaves,03-09-1958,MF,Costa Rica
+4428,8,Germán Chavarría,19-03-1958,MF,Costa Rica
+4429,9,Alexandre Guimarães,07-11-1959,MF,Costa Rica
+4430,10,Oscar Ramírez,08-12-1964,MF,Costa Rica
+4431,12,Róger Gómez,07-02-1965,MF,Costa Rica
+4432,13,Miguel Davis,18-06-1966,MF,Costa Rica
+4433,14,Juan Cayasso,24-06-1961,MF,Costa Rica
+4434,17,Roy Myers,13-04-1969,MF,Costa Rica
+4435,11,Claudio Jara,06-05-1959,FW,Costa Rica
+4436,16,José Jaikel,03-04-1966,FW,Costa Rica
+4437,1,Jan Stejskal,15-01-1962,GK,Czechoslovakia
+4438,21,Lud?k Mikloško,09-12-1961,GK,Czechoslovakia
+4439,22,Peter Palúch,17-02-1958,GK,Czechoslovakia
+4440,2,Július Bielik,08-03-1962,DF,Czechoslovakia
+4441,3,Miroslav Kadlec,22-06-1964,DF,Czechoslovakia
+4442,5,Ján Kocian,13-03-1958,DF,Czechoslovakia
+4443,6,František Straka,21-05-1958,DF,Czechoslovakia
+4444,9,Luboš Kubík,20-01-1964,DF,Czechoslovakia
+4445,12,Peter Fieber,16-05-1964,DF,Czechoslovakia
+4446,15,Vladimír Kinier,06-04-1958,DF,Czechoslovakia
+4447,4,Ivan Hašek ,06-09-1963,MF,Czechoslovakia
+4448,7,Michal Bílek,13-04-1965,MF,Czechoslovakia
+4449,8,Jozef Chovanec,07-03-1960,MF,Czechoslovakia
+4450,11,?ubomír Morav?ík,22-06-1965,MF,Czechoslovakia
+4451,13,Ji?í N?mec,15-05-1966,MF,Czechoslovakia
+4452,14,Vladimír Weiss,22-09-1964,MF,Czechoslovakia
+4453,20,Václav N?me?ek,25-01-1967,MF,Czechoslovakia
+4454,10,Tomáš Skuhravý,07-09-1965,FW,Czechoslovakia
+4455,16,Viliam Hýravý,26-11-1962,FW,Czechoslovakia
+4456,17,Ivo Knoflí?ek,23-02-1962,FW,Czechoslovakia
+4457,18,Milan Luhový,01-01-1963,FW,Czechoslovakia
+4458,19,Stanislav Griga,04-11-1961,FW,Czechoslovakia
+4459,1,Ahmed Shobair,28-09-1960,GK,Egypt
+4460,21,Ayman Taher,07-01-1966,GK,Egypt
+4461,22,Thabet El-Batal,16-09-1953,GK,Egypt
+4462,2,Ibrahim Hassan,10-08-1966,DF,Egypt
+4463,3,Rabie Yassin,07-09-1960,DF,Egypt
+4464,4,Hany Ramzy,10-03-1969,DF,Egypt
+4465,5,Hesham Yakan,10-08-1962,DF,Egypt
+4466,6,Ashraf Kasem,25-07-1966,DF,Egypt
+4467,13,Ahmed Ramzy,25-10-1965,DF,Egypt
+4468,7,Ismail Youssef,28-06-1964,MF,Egypt
+4469,8,Magdi Abdelghani,27-07-1959,MF,Egypt
+4470,10,Gamal Abdel-Hamid ,24-11-1957,MF,Egypt
+4471,11,Tarek Soliman,24-01-1962,MF,Egypt
+4472,12,Taher Abouzeid,10-04-1962,MF,Egypt
+4473,14,Alaa Maihoub,19-01-1963,MF,Egypt
+4474,15,Saber Eid,01-05-1959,MF,Egypt
+4475,16,Magdy Tolba,24-02-1964,MF,Egypt
+4476,18,Osama Orabi,22-01-1962,MF,Egypt
+4477,9,Hossam Hassan,10-08-1966,FW,Egypt
+4478,17,Ayman Shawky,09-12-1962,FW,Egypt
+4479,19,Adel Abdel Rahman,11-12-1967,FW,Egypt
+4480,20,Ahmed El-Kass,08-07-1965,FW,Egypt
+4481,1,Peter Shilton,18-09-1949,GK,England
+4482,13,Chris Woods,14-11-1959,GK,England
+4483,22,Dave Beasant,20-03-1959,GK,England
+4484,2,Gary Stevens,27-03-1963,DF,England
+4485,3,Stuart Pearce,24-04-1962,DF,England
+4486,5,Des Walker,26-11-1965,DF,England
+4487,6,Terry Butcher,28-12-1958,DF,England
+4488,12,Paul Parker,04-04-1964,DF,England
+4489,14,Mark Wright,01-08-1963,DF,England
+4490,15,Tony Dorigo,31-12-1965,DF,England
+4491,4,Neil Webb,30-07-1963,MF,England
+4492,7,Bryan Robson ,11-01-1957,MF,England
+4493,8,Chris Waddle,14-12-1960,MF,England
+4494,11,John Barnes,07-11-1963,MF,England
+4495,16,Steve McMahon,20-08-1961,MF,England
+4496,17,David Platt,10-06-1966,MF,England
+4497,18,Steve Hodge,25-10-1962,MF,England
+4498,19,Paul Gascoigne,27-05-1967,MF,England
+4499,20,Trevor Steven,21-09-1963,MF,England
+4500,9,Peter Beardsley,18-01-1961,FW,England
+4501,10,Gary Lineker,30-11-1960,FW,England
+4502,21,Steve Bull,28-03-1965,FW,England
+4503,1,Walter Zenga,28-04-1960,GK,Italy
+4504,12,Stefano Tacconi,13-05-1957,GK,Italy
+4505,4,Luigi De Agostini,07-04-1961,DF,Italy
+4506,5,Ciro Ferrara,11-02-1967,DF,Italy
+4507,6,Riccardo Ferri,20-08-1963,DF,Italy
+4508,8,Pietro Vierchowod,06-04-1959,DF,Italy
+4509,9,Carlo Ancelotti,10-06-1959,MF,Italy
+4510,11,Fernando De Napoli,15-03-1964,MF,Italy
+4511,13,Giuseppe Giannini,20-08-1964,MF,Italy
+4512,14,Giancarlo Marocchi,04-07-1965,MF,Italy
+4513,16,Andrea Carnevale,12-01-1961,FW,Italy
+4514,18,Roberto Mancini,27-11-1964,FW,Italy
+4515,19,Salvatore Schillaci,01-12-1964,FW,Italy
+4516,20,Aldo Serena,25-06-1960,FW,Italy
+4517,21,Gianluca Vialli,09-07-1964,FW,Italy
+4518,1,Hans van Breukelen,04-10-1956,GK,Netherlands
+4519,16,Joop Hiele,25-12-1958,GK,Netherlands
+4520,22,Stanley Menzo,15-10-1963,GK,Netherlands
+4521,2,Berry van Aerle,08-12-1962,DF,Netherlands
+4522,5,Adri van Tiggelen,16-06-1957,DF,Netherlands
+4523,13,Graeme Rutjes,26-03-1960,DF,Netherlands
+4524,18,Henk Fraser,07-07-1966,DF,Netherlands
+4525,7,Erwin Koeman,20-09-1961,MF,Netherlands
+4526,8,Gerald Vanenburg,05-03-1964,MF,Netherlands
+4527,10,Ruud Gullit ,01-09-1962,MF,Netherlands
+4528,11,Richard Witschge,20-09-1969,MF,Netherlands
+4529,9,Marco van Basten,31-10-1964,FW,Netherlands
+4530,12,Wim Kieft,12-11-1962,FW,Netherlands
+4531,14,John van 't Schip,30-11-1963,FW,Netherlands
+4532,17,Hans Gillhaus,05-11-1963,FW,Netherlands
+4533,19,John van Loen,04-02-1965,FW,Netherlands
+4534,22,Gerry Peyton,20-05-1960,GK,Republic of Ireland
+4535,2,Chris Morris,24-12-1963,DF,Republic of Ireland
+4536,4,Mick McCarthy ,07-02-1959,DF,Republic of Ireland
+4537,12,David O'Leary,02-05-1958,DF,Republic of Ireland
+4538,14,Chris Hughton,11-12-1958,DF,Republic of Ireland
+4539,11,Kevin Sheedy,21-10-1959,MF,Republic of Ireland
+4540,15,Bernie Slaven,13-11-1960,FW,Republic of Ireland
+4541,18,Frank Stapleton,10-07-1956,FW,Republic of Ireland
+4542,20,John Byrne,01-02-1961,FW,Republic of Ireland
+4543,1,Silviu Lung ,09-09-1956,GK,Romania
+4544,22,Gheorghe Liliac,22-04-1959,GK,Romania
+4545,2,Mircea Rednic,09-04-1962,DF,Romania
+4546,3,Michael Klein,10-10-1959,DF,Romania
+4547,4,Ioan Andone,15-03-1960,DF,Romania
+4548,13,Adrian Popescu,26-06-1960,DF,Romania
+4549,19,Emil S?ndoi,01-03-1965,DF,Romania
+4550,5,Iosif Rotariu,27-09-1962,MF,Romania
+4551,8,Ioan Sab?u,12-02-1968,MF,Romania
+4552,11,D?nu? Lupu,27-02-1967,MF,Romania
+4553,15,Dorin Mateu?,05-08-1965,MF,Romania
+4554,16,Daniel Timofte,01-10-1967,MF,Romania
+4555,20,Zsolt Muzsnay,20-08-1965,MF,Romania
+4556,9,Rodion C?m?taru,22-06-1958,FW,Romania
+4557,18,Gabi Balint,03-01-1963,FW,Romania
+4558,12,Andy Goram,13-04-1964,GK,Scotland
+4559,22,Bryan Gunn,22-12-1963,GK,Scotland
+4560,2,Alex McLeish,21-01-1959,DF,Scotland
+4561,3,Roy Aitken ,24-11-1958,DF,Scotland
+4562,4,Richard Gough,05-04-1962,DF,Scotland
+4563,6,Maurice Malpas,03-08-1962,DF,Scotland
+4564,11,Gary Gillespie,05-07-1960,DF,Scotland
+4565,15,Craig Levein,22-10-1964,DF,Scotland
+4566,17,Stewart McKimmie,27-10-1962,DF,Scotland
+4567,19,David McPherson,28-01-1964,DF,Scotland
+4568,5,Paul McStay,22-10-1964,MF,Scotland
+4569,8,Jim Bett,25-11-1959,MF,Scotland
+4570,10,Murdo MacLeod,24-09-1958,MF,Scotland
+4571,16,Stuart McCall,10-06-1964,MF,Scotland
+4572,20,Gary McAllister,25-12-1964,MF,Scotland
+4573,7,Mo Johnston,13-04-1963,FW,Scotland
+4574,9,Ally McCoist,24-09-1962,FW,Scotland
+4575,14,Alan McInally,10-02-1963,FW,Scotland
+4576,21,Robert Fleck,11-08-1965,FW,Scotland
+4577,1,Kim Poong-joo,01-10-1961,GK,South Korea
+4578,19,Jeong Gi-dong,13-05-1961,GK,South Korea
+4579,2,Park Kyung-hoon,19-01-1961,DF,South Korea
+4580,3,Choi Kang-hee,12-04-1959,DF,South Korea
+4581,4,Yoon Deok-yeo,25-03-1961,DF,South Korea
+4582,5,Chung Yong-hwan ,10-02-1960,DF,South Korea
+4583,13,Chung Jong-soo,27-03-1961,DF,South Korea
+4584,15,Cho Min-kook,05-07-1963,DF,South Korea
+4585,7,Noh Soo-jin,10-02-1962,MF,South Korea
+4586,9,Hwangbo Kwan,01-03-1965,MF,South Korea
+4587,12,Lee Heung-sil,10-07-1961,MF,South Korea
+4588,6,Lee Tae-ho,29-01-1961,FW,South Korea
+4589,8,Chung Hae-won,01-07-1959,FW,South Korea
+4590,11,Byun Byung-joo,26-04-1961,FW,South Korea
+4591,14,Choi Soon-ho,10-01-1962,FW,South Korea
+4592,1,Rinat Dasayev ,13-06-1957,GK,Soviet Union
+4593,16,Viktor Chanov,21-07-1959,GK,Soviet Union
+4594,22,Aleksandr Uvarov,13-01-1960,GK,Soviet Union
+4595,2,Volodymyr Bezsonov,05-03-1958,DF,Soviet Union
+4596,3,Vagiz Khidiyatullin,03-03-1959,DF,Soviet Union
+4597,4,Oleh Kuznetsov,22-03-1963,DF,Soviet Union
+4598,5,Anatoliy Demyanenko,19-02-1959,DF,Soviet Union
+4599,13,Akhrik Tsveiba,10-09-1966,DF,Soviet Union
+4600,19,Sergei Fokin,26-07-1961,DF,Soviet Union
+4601,6,Vasyl Rats,25-04-1961,MF,Soviet Union
+4602,7,Sergei Aleinikov,07-11-1961,MF,Soviet Union
+4603,8,Gennadiy Lytovchenko,11-09-1963,MF,Soviet Union
+4604,9,Oleksandr Zavarov,20-04-1961,MF,Soviet Union
+4605,15,Ivan Yaremchuk,19-03-1962,MF,Soviet Union
+4606,17,Andrei Zygmantovich,02-12-1962,MF,Soviet Union
+4607,18,Igor Shalimov,02-02-1969,MF,Soviet Union
+4608,21,Valeri Broshin,19-10-1962,MF,Soviet Union
+4609,10,Oleh Protasov,04-02-1964,FW,Soviet Union
+4610,11,Igor Dobrovolski,27-08-1967,FW,Soviet Union
+4611,14,Volodymyr Lyutyi,24-04-1962,FW,Soviet Union
+4612,13,Juan Carlos Ablanedo,02-09-1963,GK,Spain
+4613,22,José Manuel Ochotorena,16-01-1961,GK,Spain
+4614,2,Chendo,12-10-1961,DF,Spain
+4615,3,Manolo Jiménez,21-01-1964,DF,Spain
+4616,4,Genar Andrinúa,09-05-1964,DF,Spain
+4617,5,Manolo Sanchís,23-05-1965,DF,Spain
+4618,8,Quique Sánchez Flores,02-02-1965,DF,Spain
+4619,14,Alberto Górriz,16-02-1958,DF,Spain
+4620,6,Rafael Martín Vázquez,25-09-1965,MF,Spain
+4621,10,Fernando,11-09-1965,MF,Spain
+4622,11,Francisco Villarroya,06-08-1966,MF,Spain
+4623,15,Roberto,05-07-1962,MF,Spain
+4624,16,José Mari Bakero,11-02-1963,MF,Spain
+4625,18,Rafael Paz,02-08-1965,MF,Spain
+4626,21,Míchel,23-03-1963,MF,Spain
+4627,7,Miguel Pardeza,08-02-1965,FW,Spain
+4628,9,Emilio Butragueño ,22-07-1963,FW,Spain
+4629,20,Manolo,17-01-1965,FW,Spain
+4630,1,Sven Andersson,06-10-1963,GK,Sweden
+4631,12,Lars Eriksson,21-09-1965,GK,Sweden
+4632,3,Glenn Hysén ,30-10-1959,DF,Sweden
+4633,4,Peter Larsson,08-03-1961,DF,Sweden
+4634,19,Mats Gren,20-12-1963,DF,Sweden
+4635,7,Niklas Nyhlén,21-03-1966,MF,Sweden
+4636,9,Leif Engqvist,30-07-1962,MF,Sweden
+4637,11,Ulrik Jansson,02-02-1968,MF,Sweden
+4638,14,Joakim Nilsson,31-03-1966,MF,Sweden
+4639,15,Glenn Strömberg,05-01-1960,MF,Sweden
+4640,18,Johnny Ekström,05-03-1965,FW,Sweden
+4641,20,Mats Magnusson,10-07-1963,FW,Sweden
+4642,21,Stefan Pettersson,22-03-1963,FW,Sweden
+4643,1,Abdullah Musa,02-03-1958,GK,United Arab Emirates
+4644,17,Muhsin Musabah,01-10-1964,GK,United Arab Emirates
+4645,22,Abdulqadir Hassan,15-04-1962,GK,United Arab Emirates
+4646,2,Khalil Ghanim,12-11-1964,DF,United Arab Emirates
+4647,4,Mubarak Ghanim,03-09-1963,DF,United Arab Emirates
+4648,6,Abdulrahman Mohamed,01-10-1963,DF,United Arab Emirates
+4649,15,Ibrahim Meer,16-07-1967,DF,United Arab Emirates
+4650,16,Mohamed Salim,13-01-1968,DF,United Arab Emirates
+4651,19,Eissa Meer,16-07-1967,DF,United Arab Emirates
+4652,20,Yousuf Hussain,08-07-1965,DF,United Arab Emirates
+4653,21,Abdulrahman Al-Haddad,23-03-1966,DF,United Arab Emirates
+4654,3,Ali Thani Jumaa,18-08-1968,MF,United Arab Emirates
+4655,5,Abdualla Sultan,01-10-1963,MF,United Arab Emirates
+4656,8,Khalid Ismail,07-07-1965,MF,United Arab Emirates
+4657,13,Hassan Mohamed,23-08-1962,MF,United Arab Emirates
+4658,14,Nasir Khamees,02-08-1965,MF,United Arab Emirates
+4659,18,Fahad Abdulrahman,10-10-1962,MF,United Arab Emirates
+4660,7,Fahad Khamees ,24-01-1962,FW,United Arab Emirates
+4661,9,Abdulaziz Mohamed,12-12-1965,FW,United Arab Emirates
+4662,10,Adnan Al Talyani,30-10-1964,FW,United Arab Emirates
+4663,11,Zuhair Bakheet,13-07-1967,FW,United Arab Emirates
+4664,12,Hussain Ghuloum,24-09-1969,FW,United Arab Emirates
+4665,22,David Vanole,06-02-1963,GK,USA
+4666,2,Steve Trittschuh,24-04-1965,DF,USA
+4667,3,John Doyle,16-03-1966,DF,USA
+4668,4,Jimmy Banks,02-09-1964,DF,USA
+4669,5,Mike Windischmann ,06-12-1965,DF,USA
+4670,8,Brian Bliss,28-09-1965,DF,USA
+4671,12,Paul Krumpe,04-03-1963,DF,USA
+4672,15,Desmond Armstrong,02-11-1964,DF,USA
+4673,14,John Stollmeyer,25-10-1962,MF,USA
+4674,19,Chris Henderson,11-12-1970,MF,USA
+4675,21,Neil Covone,31-08-1969,MF,USA
+4676,9,Christopher Sullivan,18-04-1965,FW,USA
+4677,10,Peter Vermes,21-11-1966,FW,USA
+4678,13,Eric Eichmann,07-05-1965,FW,USA
+4679,16,Bruce Murray,25-01-1966,FW,USA
+4680,1,Fernando Álvez,04-09-1959,GK,Uruguay
+4681,12,Eduardo Pereira,21-03-1954,GK,Uruguay
+4682,22,Javier Zeoli,02-05-1962,GK,Uruguay
+4683,2,Nelson Gutiérrez,13-04-1962,DF,Uruguay
+4684,3,Hugo de León,27-02-1958,DF,Uruguay
+4685,4,José Oscar Herrera,17-06-1965,DF,Uruguay
+4686,6,Alfonso Domínguez,24-09-1965,DF,Uruguay
+4687,13,Daniel Revelez,30-09-1959,DF,Uruguay
+4688,14,José Pintos Saldanha,25-03-1964,DF,Uruguay
+4689,5,José Perdomo,05-01-1965,MF,Uruguay
+4690,8,Santiago Ostolaza,10-07-1962,MF,Uruguay
+4691,10,Rubén Paz,08-08-1959,MF,Uruguay
+4692,15,Gabriel Correa,13-01-1968,MF,Uruguay
+4693,16,Pablo Bengoechea,27-06-1965,MF,Uruguay
+4694,20,Ruben Pereira,28-01-1968,MF,Uruguay
+4695,21,William Castro,22-05-1962,MF,Uruguay
+4696,7,Antonio Alzamendi,07-06-1956,FW,Uruguay
+4697,9,Enzo Francescoli ,12-11-1961,FW,Uruguay
+4698,11,Rubén Sosa,25-04-1966,FW,Uruguay
+4699,17,Sergio Martínez,15-02-1969,FW,Uruguay
+4700,18,Carlos Aguilera Nova,21-09-1964,FW,Uruguay
+4701,19,Daniel Fonseca,13-09-1969,FW,Uruguay
+4702,12,Raimond Aumann,12-10-1963,GK,West Germany
+4703,5,Klaus Augenthaler,26-09-1957,DF,West Germany
+4704,16,Paul Steiner,23-01-1957,DF,West Germany
+4705,19,Hans Pflügler,27-03-1960,DF,West Germany
+4706,7,Pierre Littbarski,16-04-1960,MF,West Germany
+4707,15,Uwe Bein,26-09-1960,MF,West Germany
+4708,21,Günter Hermann,05-12-1960,MF,West Germany
+4709,11,Frank Mill,23-07-1958,FW,West Germany
+4710,1,Tomislav Ivkovi?,11-08-1960,GK,Yugoslavia
+4711,12,Fahrudin Omerovi?,26-08-1961,GK,Yugoslavia
+4712,2,Vujadin Stanojkovi?,10-09-1963,DF,Yugoslavia
+4713,3,Predrag Spasi?,13-05-1965,DF,Yugoslavia
+4714,4,Zoran Vuli?,04-10-1961,DF,Yugoslavia
+4715,5,Faruk Hadžibegi?,07-10-1957,DF,Yugoslavia
+4716,6,Davor Jozi?,22-09-1960,DF,Yugoslavia
+4717,18,Mirsad Balji?,04-03-1962,DF,Yugoslavia
+4718,21,Andrej Panadi?,09-03-1969,DF,Yugoslavia
+4719,7,Dragoljub Brnovi?,02-11-1963,MF,Yugoslavia
+4720,8,Safet Suši?,13-04-1955,MF,Yugoslavia
+4721,13,Sre?ko Katanec,16-07-1963,MF,Yugoslavia
+4722,16,Refik Šabanadžovi?,02-08-1965,MF,Yugoslavia
+4723,9,Darko Pan?ev,07-09-1965,FW,Yugoslavia
+4724,11,Zlatko Vujovi? ,26-08-1958,FW,Yugoslavia
+4725,14,Alen Bokši?,21-01-1970,FW,Yugoslavia
