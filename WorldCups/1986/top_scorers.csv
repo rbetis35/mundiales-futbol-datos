@@ -1,11 +1,81 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Gary Lineker,England,6,,445
+2,Diego Maradona ,Argentina,5,,630
+3,Careca,Brazil,5,,480
+4,Emilio Butragueño,Spain,5,,435
+5,Jorge Valdano,Argentina,4,,630
+6,Preben Elkjær,Denmark,4,,315
+7,Alessandro Altobelli,Italy,4,,360
+8,Igor Belanov,Soviet Union,4,,312
+9,Jan Ceulemans ,Belgium,3,,720
+10,Nico Claesen,Belgium,3,,661
+11,Jesper Olsen,Denmark,3,,229
+12,Rudi Völler,West Germany,3,,421
+13,Jorge Burruchaga,Argentina,2,,607
+14,Enzo Scifo,Belgium,2,,639
+15,Josimar,Brazil,2,,300
+16,Sócrates,Brazil,2,,435
+17,Michel Platini ,France,2,,564
+18,Jean-Pierre Papin,France,2,,345
+19,Yannick Stopyra,France,2,,481
+20,Fernando Quirarte,Mexico,2,,480
+21,Abderrazak Khairi,Morocco,2,,273
+22,Julio César Romero,Paraguay,2,,360
+23,Roberto Cabañas,Paraguay,2,,360
+24,Ramón Calderé,Spain,2,,337
+25,Klaus Allofs,West Germany,2,,615
+26,Djamel Zidane,Algeria,1,,138
+27,José Luis Brown,Argentina,1,,630
+28,Oscar Ruggeri,Argentina,1,,630
+29,Pedro Pasculli,Argentina,1,,163
+30,Stéphane Demol,Belgium,1,,633
+31,Franky Vercauteren,Belgium,1,,584
+32,Erwin Vandenbergh,Belgium,1,,65
+33,Daniel Veyt,Belgium,1,,501
+34,Edinho ,Brazil,1,,480
+35,Plamen Getov,Bulgaria,1,,295
+36,Nasko Sirakov,Bulgaria,1,,282
+37,Søren Lerby,Denmark,1,,360
+38,Michael Laudrup,Denmark,1,,350
+39,John Eriksen,Denmark,1,,76
+40,Peter Beardsley,England,1,,254
+41,Manuel Amoros,France,1,,690
+42,Luis Fernandez,France,1,,552
+43,Jean-Marc Ferreri,France,1,,183
+44,Bernard Genghini,France,1,,120
+45,Jean Tigana,France,1,,652
+46,Dominique Rocheteau,France,1,,287
+47,Lajos Détári,Hungary,1,,270
+48,Márton Esterházy,Hungary,1,,270
+49,Ahmed Radhi,Iraq,1,,270
+50,Raúl Servín,Mexico,1,,480
+51,Manuel Negrete,Mexico,1,,480
+52,Hugo Sánchez,Mexico,1,,390
+53,Luis Flores,Mexico,1,,244
+54,"Abdelkrim Merry ""Krimau""",Morocco,1,,360
+55,Norman Whiteside,Northern Ireland,1,,236
+56,Colin Clarke,Northern Ireland,1,,190
+57,W?odzimierz Smolarek,Poland,1,,343
+58,Carlos Manuel,Portugal,1,,270
+59,Diamantino,Portugal,1,,193
+60,Gordon Strachan,Scotland,1,,253
+61,Park Chang-sun ,South Korea,1,,270
+62,Huh Jung-moo,South Korea,1,,270
+63,Kim Jong-boo,South Korea,1,,66
+64,Choi Soon-ho,South Korea,1,,180
+65,Ivan Yaremchuk,Soviet Union,1,,300
+66,Pavel Yakovenko,Soviet Union,1,,216
+67,Aleksandr Zavarov,Soviet Union,1,,247
+68,Sergei Aleinikov,Soviet Union,1,,390
+69,Vasiliy Rats,Soviet Union,1,,300
+70,Oleg Blokhin,Soviet Union,1,,94
+71,Sergey Rodionov,Soviet Union,1,,184
+72,Andoni Goikoetxea,Spain,1,,360
+73,Juan Antonio Señor,Spain,1,,125
+74,Julio Salinas,Spain,1,,364
+75,Eloy,Spain,1,,148
+76,Antonio Alzamendi,Uruguay,1,,142
+77,Enzo Francescoli,Uruguay,1,,353
+78,Andreas Brehme,West Germany,1,,435
+79,Lothar Matthäus,West Germany,1,,639
+80,Karl-Heinz Rummenigge ,West Germany,1,,349
