@@ -4726,3 +4726,443 @@ player_id,dorsal,player_name,Date of birth,position,nationality
 4723,9,Darko Pan?ev,07-09-1965,FW,Yugoslavia
 4724,11,Zlatko Vujovi? ,26-08-1958,FW,Yugoslavia
 4725,14,Alen Bokši?,21-01-1970,FW,Yugoslavia
+4726,21,Larbi El Hadi,27-05-1961,GK,Algeria
+4727,22,Mourad Amara,19-02-1959,GK,Algeria
+4728,2,Mahmoud Guendouz ,24-02-1953,DF,Algeria
+4729,4,Noureddine Kourichi,12-04-1954,DF,Algeria
+4730,5,Abdellah Medjadi Liegeon,01-12-1957,DF,Algeria
+4731,15,Abdelhamid Sadmi,01-01-1961,DF,Algeria
+4732,16,Faouzi Mansouri,17-01-1956,DF,Algeria
+4733,19,Mohamed Chaïb,20-05-1957,DF,Algeria
+4734,20,Fodil Megharia,23-05-1961,DF,Algeria
+4735,3,Fathi Chebel,19-08-1956,MF,Algeria
+4736,6,Mohamed Kaci-Saïd,02-05-1958,MF,Algeria
+4737,8,Karim Maroc,05-03-1958,MF,Algeria
+4738,10,Lakhdar Belloumi,29-12-1958,MF,Algeria
+4739,17,Fawzi Benkhalidi,03-02-1963,MF,Algeria
+4740,18,Halim Benmabrouk,25-06-1960,MF,Algeria
+4741,7,Salah Assad,13-03-1958,FW,Algeria
+4742,9,Djamel Menad,22-07-1960,FW,Algeria
+4743,11,Rabah Madjer,15-12-1958,FW,Algeria
+4744,12,Tedj Bensaoula,01-12-1954,FW,Algeria
+4745,13,Rachid Harkouk,16-05-1956,FW,Algeria
+4746,14,Djamel Zidane,28-04-1955,FW,Algeria
+4747,22,Héctor Zelada,30-04-1957,GK,Argentina
+4748,5,José Luis Brown,10-11-1956,DF,Argentina
+4749,6,Daniel Passarella,25-05-1953,DF,Argentina
+4750,8,Néstor Clausen,29-09-1962,DF,Argentina
+4751,9,José Luis Cuciuffo,01-02-1961,DF,Argentina
+4752,13,Oscar Garré,09-12-1956,DF,Argentina
+4753,3,Ricardo Bochini,25-01-1954,MF,Argentina
+4754,4,Claudio Borghi,28-09-1964,MF,Argentina
+4755,12,Héctor Enrique,26-04-1962,MF,Argentina
+4756,20,Carlos Tapia,20-08-1962,MF,Argentina
+4757,21,Marcelo Trobbiani,17-02-1955,MF,Argentina
+4758,1,Sergio Almirón,18-11-1958,FW,Argentina
+4759,11,Jorge Valdano,04-10-1955,FW,Argentina
+4760,17,Pedro Pasculli,17-05-1960,FW,Argentina
+4761,1,Jean-Marie Pfaff,04-12-1953,GK,Belgium
+4762,12,Jacky Munaron,08-09-1956,GK,Belgium
+4763,5,Michel Renquin,03-11-1955,DF,Belgium
+4764,14,Leo Clijsters,06-11-1956,DF,Belgium
+4765,19,Hugo Broos,10-04-1952,DF,Belgium
+4766,6,Franky Vercauteren,28-10-1956,MF,Belgium
+4767,7,René Vandereycken,22-07-1953,MF,Belgium
+4768,10,Philippe Desmet,29-11-1958,MF,Belgium
+4769,15,Leo Van Der Elst,07-01-1962,MF,Belgium
+4770,9,Erwin Vandenbergh,26-01-1959,FW,Belgium
+4771,17,Raymond Mommens,27-12-1958,FW,Belgium
+4772,18,Daniel Veyt,09-12-1956,FW,Belgium
+4773,1,Carlos,04-03-1956,GK,Brazil
+4774,12,Paulo Vítor,07-06-1957,GK,Brazil
+4775,22,Leão,11-07-1949,GK,Brazil
+4776,2,Édson,03-07-1959,DF,Brazil
+4777,3,Oscar,20-06-1954,DF,Brazil
+4778,4,Edinho ,05-06-1955,DF,Brazil
+4779,13,Josimar,19-09-1961,DF,Brazil
+4780,14,Júlio César,08-03-1963,DF,Brazil
+4781,5,Falcão,16-10-1953,MF,Brazil
+4782,6,Júnior,29-06-1954,MF,Brazil
+4783,10,Zico,03-03-1953,MF,Brazil
+4784,18,Sócrates,19-02-1954,MF,Brazil
+4785,19,Elzo,22-01-1961,MF,Brazil
+4786,20,Silas,27-08-1965,MF,Brazil
+4787,8,Casagrande,15-04-1963,FW,Brazil
+4788,11,Edivaldo,13-04-1962,FW,Brazil
+4789,22,Iliya Valov,29-12-1961,GK,Bulgaria
+4790,3,Nikolay Arabov,21-02-1953,DF,Bulgaria
+4791,4,Petar Petrov,20-02-1961,DF,Bulgaria
+4792,5,Georgi Dimitrov ,14-01-1959,DF,Bulgaria
+4793,13,Aleksandar Markov,17-08-1961,DF,Bulgaria
+4794,21,Iliya Dyakov,28-09-1963,DF,Bulgaria
+4795,7,Bozhidar Iskrenov,01-08-1962,MF,Bulgaria
+4796,8,Ayan Sadakov,28-09-1961,MF,Bulgaria
+4797,10,Zhivko Gospodinov,06-09-1957,MF,Bulgaria
+4798,11,Plamen Getov,04-03-1959,MF,Bulgaria
+4799,12,Radoslav Zdravkov,30-07-1956,MF,Bulgaria
+4800,14,Plamen Markov,11-09-1957,MF,Bulgaria
+4801,15,Georgi Yordanov,21-07-1963,MF,Bulgaria
+4802,17,Hristo Kolev,21-09-1964,MF,Bulgaria
+4803,6,Andrey Zhelyazkov,09-07-1952,FW,Bulgaria
+4804,9,Stoycho Mladenov,24-04-1957,FW,Bulgaria
+4805,16,Vasil Dragolov,17-08-1962,FW,Bulgaria
+4806,18,Boycho Velichkov,13-08-1958,FW,Bulgaria
+4807,19,Atanas Pashev,21-11-1963,FW,Bulgaria
+4808,20,Kostadin Kostadinov,25-06-1959,FW,Bulgaria
+4809,1,Tino Lettieri,27-09-1957,GK,Canada
+4810,21,Sven Habermann,03-11-1961,GK,Canada
+4811,22,Paul Dolan,16-04-1966,GK,Canada
+4812,2,Bob Lenarduzzi,01-05-1955,DF,Canada
+4813,3,Bruce Wilson ,20-06-1951,DF,Canada
+4814,5,Terry Moore,02-06-1958,DF,Canada
+4815,6,Ian Bridge,18-09-1959,DF,Canada
+4816,12,Randy Samuel,23-12-1963,DF,Canada
+4817,19,Pasquale De Luca,26-05-1962,DF,Canada
+4818,20,Colin Miller,04-10-1964,DF,Canada
+4819,4,Randy Ragan,07-06-1959,MF,Canada
+4820,8,Gerry Gray,20-01-1961,MF,Canada
+4821,11,Mike Sweeney,25-12-1959,MF,Canada
+4822,15,Paul James,11-11-1963,MF,Canada
+4823,16,Greg Ion,12-03-1963,MF,Canada
+4824,17,David Norman,06-05-1962,MF,Canada
+4825,18,Jamie Lowery,15-01-1961,MF,Canada
+4826,7,Carl Valentine,04-07-1958,FW,Canada
+4827,9,Branko Šegota,08-06-1961,FW,Canada
+4828,10,Igor Vrablic,19-07-1965,FW,Canada
+4829,13,George Pakos,14-08-1952,FW,Canada
+4830,14,Dale Mitchell,21-04-1958,FW,Canada
+4831,1,Troels Rasmussen,04-07-1961,GK,Denmark
+4832,16,Ole Qvist,25-02-1950,GK,Denmark
+4833,22,Lars Høgh,14-01-1959,GK,Denmark
+4834,2,John Sivebæk,25-10-1961,DF,Denmark
+4835,3,Søren Busk,10-04-1953,DF,Denmark
+4836,4,Morten Olsen ,14-08-1949,DF,Denmark
+4837,5,Ivan Nielsen,09-10-1956,DF,Denmark
+4838,17,Kent Nielsen,28-12-1961,DF,Denmark
+4839,21,Henrik Andersen,07-05-1965,DF,Denmark
+4840,6,Søren Lerby,01-02-1958,MF,Denmark
+4841,7,Jan Mølby,04-07-1963,MF,Denmark
+4842,8,Jesper Olsen,20-03-1961,MF,Denmark
+4843,9,Klaus Berggreen,03-02-1958,MF,Denmark
+4844,12,Jens Jørn Bertelsen,15-02-1952,MF,Denmark
+4845,13,Per Frimann,04-06-1962,MF,Denmark
+4846,15,Frank Arnesen,30-09-1956,MF,Denmark
+4847,20,Jan Bartram,06-03-1962,MF,Denmark
+4848,10,Preben Elkjær,11-09-1957,FW,Denmark
+4849,14,Allan Simonsen,15-12-1952,FW,Denmark
+4850,18,Flemming Christensen,10-04-1958,FW,Denmark
+4851,19,John Eriksen,20-11-1957,FW,Denmark
+4852,22,Gary Bailey,09-08-1958,GK,England
+4853,2,Gary M. Stevens,27-03-1963,DF,England
+4854,3,Kenny Sansom,26-09-1958,DF,England
+4855,5,Alvin Martin,29-07-1958,DF,England
+4856,12,Viv Anderson,29-07-1956,DF,England
+4857,14,Terry Fenwick,17-11-1959,DF,England
+4858,15,Gary A. Stevens,30-03-1962,DF,England
+4859,4,Glenn Hoddle,27-10-1957,MF,England
+4860,8,Ray Wilkins,14-09-1956,MF,England
+4861,16,Peter Reid,20-06-1956,MF,England
+4862,9,Mark Hateley,07-11-1961,FW,England
+4863,21,Kerry Dixon,24-07-1961,FW,England
+4864,1,Joël Bats,04-01-1957,GK,France
+4865,21,Philippe Bergeroo,13-01-1954,GK,France
+4866,22,Albert Rust,10-10-1953,GK,France
+4867,2,Manuel Amoros,01-02-1962,DF,France
+4868,3,William Ayache,10-01-1961,DF,France
+4869,4,Patrick Battiston,12-03-1957,DF,France
+4870,5,Michel Bibard,30-11-1958,DF,France
+4871,6,Maxime Bossis,26-06-1955,DF,France
+4872,7,Yvon Le Roux,19-04-1960,DF,France
+4873,8,Thierry Tusseau,19-01-1958,DF,France
+4874,9,Luis Fernandez,02-10-1959,MF,France
+4875,10,Michel Platini ,21-06-1955,MF,France
+4876,11,Jean-Marc Ferreri,26-12-1962,MF,France
+4877,12,Alain Giresse,02-09-1952,MF,France
+4878,13,Bernard Genghini,18-01-1958,MF,France
+4879,14,Jean Tigana,23-06-1955,MF,France
+4880,15,Philippe Vercruysse,28-01-1962,MF,France
+4881,16,Bruno Bellone,14-03-1962,FW,France
+4882,17,Jean-Pierre Papin,05-11-1963,FW,France
+4883,18,Dominique Rocheteau,14-01-1955,FW,France
+4884,19,Yannick Stopyra,09-01-1961,FW,France
+4885,20,Daniel Xuereb,22-06-1959,FW,France
+4886,1,Péter Disztl,30-03-1960,GK,Hungary
+4887,18,József Szendrei,25-04-1954,GK,Hungary
+4888,22,József Andrusch,31-03-1956,GK,Hungary
+4889,2,Sándor Sallai,26-03-1960,DF,Hungary
+4890,3,Antal Róth,14-09-1960,DF,Hungary
+4891,4,József Varga,09-10-1954,DF,Hungary
+4892,5,József Kardos,22-03-1960,DF,Hungary
+4893,6,Imre Garaba,29-07-1958,DF,Hungary
+4894,8,Antal Nagy ,17-10-1956,DF,Hungary
+4895,12,József Csuhay,12-07-1957,DF,Hungary
+4896,13,László Disztl,04-06-1962,DF,Hungary
+4897,14,Zoltán Péter,23-03-1958,DF,Hungary
+4898,10,Lajos Détári,24-04-1963,MF,Hungary
+4899,15,Péter Hannich,30-03-1957,MF,Hungary
+4900,16,József Nagy,20-10-1960,MF,Hungary
+4901,17,Gy?z? Burcsa,13-03-1954,MF,Hungary
+4902,19,György Bognár,05-11-1961,MF,Hungary
+4903,21,Gyula Hajszán,09-10-1961,MF,Hungary
+4904,7,József Kiprich,06-09-1963,FW,Hungary
+4905,9,László Dajka,29-04-1959,FW,Hungary
+4906,11,Márton Esterházy,09-04-1956,FW,Hungary
+4907,20,Kálmán Kovács,11-09-1965,FW,Hungary
+4908,1,Raad Hammoudi ,30-04-1953,GK,Iraq
+4909,20,Fatah Nsaief,02-02-1951,GK,Iraq
+4910,21,Ahmad Jassim,04-05-1960,GK,Iraq
+4911,2,Maad Ibrahim,30-06-1960,DF,Iraq
+4912,3,Khalil Allawi,06-09-1958,DF,Iraq
+4913,4,Nadhim Shaker,13-04-1958,DF,Iraq
+4914,5,Samir Shaker,28-02-1958,DF,Iraq
+4915,13,Karim Allawi,01-04-1960,DF,Iraq
+4916,19,Basim Qasim,22-03-1963,DF,Iraq
+4917,22,Ghanim Oraibi,16-08-1961,DF,Iraq
+4918,6,Ali Hussein Shihab,05-05-1961,MF,Iraq
+4919,7,Haris Mohammed,03-03-1958,MF,Iraq
+4920,12,Jamal Ali,02-02-1956,MF,Iraq
+4921,14,Basil Gorgis,15-01-1961,MF,Iraq
+4922,15,Natiq Hashim,15-01-1960,MF,Iraq
+4923,16,Shaker Mahmoud,05-05-1963,MF,Iraq
+4924,18,Ismail Mohammed Sharif,19-01-1962,MF,Iraq
+4925,8,Ahmed Radhi,21-03-1964,FW,Iraq
+4926,9,Karim Saddam,26-05-1960,FW,Iraq
+4927,10,Hussein Saeed,21-01-1958,FW,Iraq
+4928,11,Rahim Hameed,23-05-1963,FW,Iraq
+4929,17,Anad Abid,03-08-1955,FW,Iraq
+4930,1,Giovanni Galli,29-04-1958,GK,Italy
+4931,12,Franco Tancredi,10-01-1955,GK,Italy
+4932,3,Antonio Cabrini,08-10-1957,DF,Italy
+4933,4,Fulvio Collovati,09-05-1957,DF,Italy
+4934,5,Sebastiano Nela,13-03-1961,DF,Italy
+4935,6,Gaetano Scirea ,25-05-1953,DF,Italy
+4936,7,Roberto Tricella,18-03-1959,DF,Italy
+4937,10,Salvatore Bagni,25-09-1956,MF,Italy
+4938,11,Giuseppe Baresi,07-02-1958,MF,Italy
+4939,14,Antonio Di Gennaro,05-10-1958,MF,Italy
+4940,15,Marco Tardelli,24-09-1954,MF,Italy
+4941,16,Bruno Conti,13-03-1955,FW,Italy
+4942,18,Alessandro Altobelli,28-11-1955,FW,Italy
+4943,19,Giuseppe Galderisi,22-03-1963,FW,Italy
+4944,20,Paolo Rossi,23-09-1956,FW,Italy
+4945,1,Pablo Larios,31-07-1960,GK,Mexico
+4946,12,Ignacio Rodríguez,13-08-1956,GK,Mexico
+4947,20,Olaf Heredia,19-10-1957,GK,Mexico
+4948,2,Mario Trejo,11-02-1956,DF,Mexico
+4949,3,Fernando Quirarte,17-05-1956,DF,Mexico
+4950,4,Armando Manzo,16-10-1958,DF,Mexico
+4951,14,Felix Cruz,04-04-1961,DF,Mexico
+4952,17,Raúl Servín,29-04-1963,DF,Mexico
+4953,18,Rafael Amador,16-02-1959,DF,Mexico
+4954,6,Carlos de los Cobos,10-12-1958,MF,Mexico
+4955,7,Miguel España,31-01-1964,MF,Mexico
+4956,8,Alejandro Domínguez,09-02-1961,MF,Mexico
+4957,10,Tomás Boy ,28-06-1951,MF,Mexico
+4958,13,Javier Aguirre,01-12-1958,MF,Mexico
+4959,16,Carlos Muñoz,08-09-1962,MF,Mexico
+4960,19,Javier Hernández,01-08-1961,MF,Mexico
+4961,22,Manuel Negrete,15-05-1959,MF,Mexico
+4962,5,Francisco Javier Cruz,24-05-1966,FW,Mexico
+4963,15,Luis Flores,18-07-1961,FW,Mexico
+4964,21,Cristóbal Ortega,25-07-1956,FW,Mexico
+4965,1,Ezzaki Badou ,02-04-1959,GK,Morocco
+4966,12,Salahdine Hmied,01-09-1961,GK,Morocco
+4967,22,Abdelfettah Mouddani,30-07-1956,GK,Morocco
+4968,2,Labid Khalifa,01-01-1955,DF,Morocco
+4969,3,Abdelmajid Lamriss,12-02-1959,DF,Morocco
+4970,4,Mustapha El Biyaz,12-12-1960,DF,Morocco
+4971,5,Noureddine Bouyahyaoui,07-01-1955,DF,Morocco
+4972,14,Lahcen Ouadani,14-07-1959,DF,Morocco
+4973,20,Abdellah Bidane,10-09-1965,DF,Morocco
+4974,6,Abdelmajid Dolmy,19-04-1953,MF,Morocco
+4975,8,Aziz Bouderbala,26-12-1960,MF,Morocco
+4976,10,Mohamed Timoumi,15-01-1960,MF,Morocco
+4977,15,Mouncif El Haddaoui,21-10-1964,MF,Morocco
+4978,16,Azzedine Amanallah,07-04-1956,MF,Morocco
+4979,18,Mohammed Sahil,11-10-1963,MF,Morocco
+4980,19,Fadel Jilal,04-03-1964,MF,Morocco
+4981,21,Abdelaziz Souleimani,30-04-1958,MF,Morocco
+4982,9,"Abdelkrim Merry ""Krimau""",13-01-1955,FW,Morocco
+4983,11,Mustafa Merry,21-04-1958,FW,Morocco
+4984,13,Abdelfettah Rhiati,25-02-1963,FW,Morocco
+4985,17,Abderrazak Khairi,20-11-1962,FW,Morocco
+4986,1,Pat Jennings,12-06-1945,GK,Northern Ireland
+4987,12,Jim Platt,26-01-1951,GK,Northern Ireland
+4988,13,Philip Hughes,19-11-1964,GK,Northern Ireland
+4989,2,Jimmy Nicholl,28-12-1956,DF,Northern Ireland
+4990,3,Mal Donaghy,13-09-1957,DF,Northern Ireland
+4991,4,John O'Neill,11-03-1958,DF,Northern Ireland
+4992,5,Alan McDonald,12-10-1963,DF,Northern Ireland
+4993,15,Nigel Worthington,04-11-1961,DF,Northern Ireland
+4994,18,John McClelland,07-12-1955,DF,Northern Ireland
+4995,6,David McCreery,16-09-1957,MF,Northern Ireland
+4996,7,Steve Penney,16-01-1964,MF,Northern Ireland
+4997,8,Sammy McIlroy ,02-08-1954,MF,Northern Ireland
+4998,10,Norman Whiteside,07-05-1965,MF,Northern Ireland
+4999,16,Paul Ramsey,03-09-1962,MF,Northern Ireland
+5000,20,Bernard McNally,17-02-1963,MF,Northern Ireland
+5001,21,David Campbell,02-06-1965,MF,Northern Ireland
+5002,9,Jimmy Quinn,18-11-1959,FW,Northern Ireland
+5003,11,Ian Stewart,10-09-1961,FW,Northern Ireland
+5004,14,Gerry Armstrong,23-05-1954,FW,Northern Ireland
+5005,17,Colin Clarke,30-10-1962,FW,Northern Ireland
+5006,19,Billy Hamilton,09-05-1957,FW,Northern Ireland
+5007,22,Mark Caughey,31-08-1960,FW,Northern Ireland
+5008,1,Roberto Fernández,09-07-1954,GK,Paraguay
+5009,12,Jorge Battaglia,12-05-1960,GK,Paraguay
+5010,22,Julián Coronel,23-10-1958,GK,Paraguay
+5011,2,Juan Torales,09-05-1956,DF,Paraguay
+5012,3,César Zabala,03-06-1961,DF,Paraguay
+5013,4,Vladimiro Schettina,08-10-1955,DF,Paraguay
+5014,5,Rogelio Delgado ,12-10-1959,DF,Paraguay
+5015,13,Virginio Cáceres,21-05-1962,DF,Paraguay
+5016,14,Luis Caballero,17-09-1962,DF,Paraguay
+5017,6,Jorge Amado Nunes,18-10-1961,MF,Paraguay
+5018,7,Buenaventura Ferreira,04-07-1960,MF,Paraguay
+5019,8,Julio César Romero,28-08-1960,MF,Paraguay
+5020,10,Adolfino Cañete,13-09-1956,MF,Paraguay
+5021,16,Jorge Guasch,17-01-1961,MF,Paraguay
+5022,19,Rolando Chilavert,22-05-1961,MF,Paraguay
+5023,9,Roberto Cabañas,11-04-1961,FW,Paraguay
+5024,11,Alfredo Mendoza,31-12-1963,FW,Paraguay
+5025,15,Eufemio Cabral,21-03-1955,FW,Paraguay
+5026,17,Francisco Alcaraz,04-10-1960,FW,Paraguay
+5027,18,Evaristo Isasi,26-10-1955,FW,Paraguay
+5028,20,Ramón Hicks,30-05-1959,FW,Paraguay
+5029,21,Faustino Alonso,15-02-1961,FW,Paraguay
+5030,1,Józef M?ynarczyk,20-09-1953,GK,Poland
+5031,12,Jacek Kazimierski,17-08-1959,GK,Poland
+5032,19,Józef Wandzik,13-08-1963,GK,Poland
+5033,2,Kazimierz Przyby?,11-07-1960,DF,Poland
+5034,3,W?adys?aw ?muda,06-06-1954,DF,Poland
+5035,4,Marek Ostrowski,22-11-1959,DF,Poland
+5036,5,Roman Wójcicki,08-01-1958,DF,Poland
+5037,10,Stefan Majewski,31-01-1956,DF,Poland
+5038,14,Dariusz Kubicki,06-06-1963,DF,Poland
+5039,18,Krzysztof Pawlak,12-02-1958,DF,Poland
+5040,6,Waldemar Matysik,27-09-1961,MF,Poland
+5041,7,Ryszard Tarasiewicz,27-04-1962,MF,Poland
+5042,9,Jan Kara?,17-03-1959,MF,Poland
+5043,11,W?odzimierz Smolarek,16-07-1957,MF,Poland
+5044,13,Ryszard Komornicki,14-08-1959,MF,Poland
+5045,15,Andrzej Buncol,21-09-1959,MF,Poland
+5046,16,Andrzej Pa?asz,22-07-1960,MF,Poland
+5047,20,Zbigniew Boniek ,03-03-1956,MF,Poland
+5048,8,Jan Urban,14-05-1962,FW,Poland
+5049,17,Andrzej Zgutczy?ski,01-01-1958,FW,Poland
+5050,21,Dariusz Dziekanowski,30-09-1962,FW,Poland
+5051,22,Jan Furtok,09-03-1962,FW,Poland
+5052,1,Manuel Bento ,25-06-1948,GK,Portugal
+5053,12,Jorge Martins,22-08-1954,GK,Portugal
+5054,22,Vítor Damas,08-10-1947,GK,Portugal
+5055,2,João Pinto,21-11-1961,DF,Portugal
+5056,5,Álvaro,03-01-1961,DF,Portugal
+5057,8,Frederico,06-04-1957,DF,Portugal
+5058,11,Fernando Bandeirinha,26-11-1962,DF,Portugal
+5059,13,António Morato,06-11-1964,DF,Portugal
+5060,15,António Oliveira,08-06-1958,DF,Portugal
+5061,16,José António,29-10-1957,DF,Portugal
+5062,18,Luís Sobrinho,05-05-1961,DF,Portugal
+5063,20,Augusto Inácio,01-02-1955,DF,Portugal
+5064,3,António Sousa,28-04-1957,MF,Portugal
+5065,4,José Ribeiro,02-11-1957,MF,Portugal
+5066,6,Carlos Manuel,15-01-1958,MF,Portugal
+5067,7,Jaime Pacheco,22-07-1958,MF,Portugal
+5068,14,Jaime Magalhães,10-07-1962,MF,Portugal
+5069,17,Diamantino,03-08-1959,MF,Portugal
+5070,21,António André,24-12-1957,MF,Portugal
+5071,9,Fernando Gomes,22-11-1956,FW,Portugal
+5072,10,Paulo Futre,28-02-1966,FW,Portugal
+5073,19,Rui Águas,28-04-1960,FW,Portugal
+5074,22,Alan Rough,25-11-1951,GK,Scotland
+5075,6,Willie Miller,02-05-1955,DF,Scotland
+5076,13,Steve Nicol,11-12-1961,DF,Scotland
+5077,14,David Narey,12-06-1956,DF,Scotland
+5078,15,Arthur Albiston,14-07-1957,DF,Scotland
+5079,4,Graeme Souness ,06-05-1953,MF,Scotland
+5080,7,Gordon Strachan,09-02-1957,MF,Scotland
+5081,9,Eamonn Bannon,18-04-1958,MF,Scotland
+5082,16,Frank McAvennie,22-11-1959,FW,Scotland
+5083,17,Steve Archibald,27-09-1956,FW,Scotland
+5084,18,Graeme Sharp,16-10-1960,FW,Scotland
+5085,19,Charlie Nicholas,30-12-1961,FW,Scotland
+5086,20,Paul Sturrock,10-10-1956,FW,Scotland
+5087,21,Davie Cooper,25-02-1956,FW,Scotland
+5088,1,Cho Byung-deuk,26-05-1958,GK,South Korea
+5089,21,Oh Yun-kyo,25-05-1960,GK,South Korea
+5090,8,Cho Young-jeung,18-08-1954,DF,South Korea
+5091,12,Kim Pyung-seok,22-09-1958,DF,South Korea
+5092,15,Yoo Byung-ok,02-03-1964,DF,South Korea
+5093,4,Cho Kwang-rae,19-03-1954,MF,South Korea
+5094,10,Park Chang-sun ,02-02-1954,MF,South Korea
+5095,17,Huh Jung-moo,13-01-1955,MF,South Korea
+5096,18,Kim Sam-soo,08-02-1963,MF,South Korea
+5097,22,Kang Deuk-soo,16-08-1961,MF,South Korea
+5098,7,Kim Jong-boo,03-11-1965,FW,South Korea
+5099,11,Cha Bum-kun,21-05-1953,FW,South Korea
+5100,20,Kim Yong-se,21-04-1960,FW,South Korea
+5101,22,Serhiy Krakovskiy,11-08-1960,GK,Soviet Union
+5102,3,Aleksandr Chivadze,08-04-1955,DF,Soviet Union
+5103,4,Gennady Morozov,30-12-1962,DF,Soviet Union
+5104,6,Aleksandr Bubnov,10-10-1955,DF,Soviet Union
+5105,15,Nikolay Larionov,19-01-1957,DF,Soviet Union
+5106,8,Pavel Yakovenko,19-12-1964,MF,Soviet Union
+5107,9,Aleksandr Zavarov,24-04-1961,MF,Soviet Union
+5108,12,Andriy Bal,16-02-1958,MF,Soviet Union
+5109,13,Gennadiy Litovchenko,11-09-1963,MF,Soviet Union
+5110,17,Vadym Yevtushenko,01-01-1958,MF,Soviet Union
+5111,19,Igor Belanov,25-09-1960,MF,Soviet Union
+5112,21,Vasiliy Rats,25-04-1961,MF,Soviet Union
+5113,11,Oleg Blokhin,05-11-1952,FW,Soviet Union
+5114,14,Sergey Rodionov,03-09-1962,FW,Soviet Union
+5115,13,Urruti,17-02-1952,GK,Spain
+5116,2,Tomás,09-08-1960,DF,Spain
+5117,3,José Antonio Camacho ,08-06-1955,DF,Spain
+5118,4,Antonio Maceda,16-05-1957,DF,Spain
+5119,6,Rafael Gordillo,24-02-1957,DF,Spain
+5120,8,Andoni Goikoetxea,23-08-1956,DF,Spain
+5121,11,Julio Alberto,07-10-1958,DF,Spain
+5122,5,Víctor,15-03-1957,MF,Spain
+5123,7,Juan Antonio Señor,26-08-1958,MF,Spain
+5124,10,Francisco José Carrasco,06-03-1959,MF,Spain
+5125,12,Quique Setién,27-09-1958,MF,Spain
+5126,14,Ricardo Gallego,08-02-1959,MF,Spain
+5127,17,Francisco,01-11-1962,MF,Spain
+5128,18,Ramón Calderé,16-01-1959,MF,Spain
+5129,21,Míchel,23-03-1963,MF,Spain
+5130,16,Hipólito Rincón,28-04-1957,FW,Spain
+5131,20,Eloy,10-07-1964,FW,Spain
+5132,1,Rodolfo Rodríguez,20-01-1956,GK,Uruguay
+5133,12,Fernando Álvez,04-09-1959,GK,Uruguay
+5134,22,Celso Otero,01-02-1958,GK,Uruguay
+5135,2,Nelson Gutiérrez,13-04-1962,DF,Uruguay
+5136,3,Eduardo Mario Acevedo,25-09-1959,DF,Uruguay
+5137,4,Víctor Diogo,09-04-1958,DF,Uruguay
+5138,6,José Batista,06-03-1962,DF,Uruguay
+5139,13,César Vega,02-09-1959,DF,Uruguay
+5140,14,Darío Pereyra,19-10-1956,DF,Uruguay
+5141,15,Eliseo Rivero,27-12-1957,DF,Uruguay
+5142,5,Miguel Bossio,10-02-1960,MF,Uruguay
+5143,8,Jorge Barrios ,24-01-1961,MF,Uruguay
+5144,11,Sergio Santín,06-08-1956,MF,Uruguay
+5145,16,Mario Saralegui,24-04-1959,MF,Uruguay
+5146,17,José Zalazar,26-10-1963,MF,Uruguay
+5147,18,Rubén Paz,08-08-1959,MF,Uruguay
+5148,9,Jorge da Silva,11-12-1961,FW,Uruguay
+5149,19,Venancio Ramos,20-06-1959,FW,Uruguay
+5150,21,Wilmar Cabrera,31-07-1959,FW,Uruguay
+5151,1,Harald Schumacher,06-03-1954,GK,West Germany
+5152,12,Uli Stein,23-10-1954,GK,West Germany
+5153,22,Eike Immel,27-11-1960,GK,West Germany
+5154,2,Hans-Peter Briegel,11-10-1955,DF,West Germany
+5155,4,Karlheinz Förster,25-07-1958,DF,West Germany
+5156,5,Matthias Herget,14-11-1955,DF,West Germany
+5157,6,Norbert Eder,07-11-1955,DF,West Germany
+5158,17,Ditmar Jakobs,28-08-1953,DF,West Germany
+5159,10,Felix Magath,26-07-1953,MF,West Germany
+5160,13,Karl Allgöwer,05-01-1957,MF,West Germany
+5161,18,Uwe Rahn,21-05-1962,MF,West Germany
+5162,21,Wolfgang Rolff,26-12-1959,MF,West Germany
+5163,11,Karl-Heinz Rummenigge ,25-09-1955,FW,West Germany
+5164,19,Klaus Allofs,05-12-1956,FW,West Germany
+5165,20,Dieter Hoeneß,07-01-1953,FW,West Germany
