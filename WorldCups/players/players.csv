@@ -2950,7 +2950,6 @@ player_id,dorsal,player_name,birth_date,position,nationality
 2949,16,Josh Wolff,25-02-1977,FW,USA
 2950,20,Brian McBride,19-06-1972,FW,USA
 2951,21,Fred,03-10-1983,FW,Brazil
-player_id,dorsal,player_name,Date of birth,position,nationality
 2952,1,Germán Burgos,16-04-1969,GK,Argentina
 2953,12,Pablo Cavallero,13-04-1974,GK,Argentina
 2954,23,Roberto Bonano,24-01-1970,GK,Argentina
@@ -5166,3 +5165,4 @@ player_id,dorsal,player_name,Date of birth,position,nationality
 5163,11,Karl-Heinz Rummenigge ,25-09-1955,FW,West Germany
 5164,19,Klaus Allofs,05-12-1956,FW,West Germany
 5165,20,Dieter Hoeneß,07-01-1953,FW,West Germany
+
