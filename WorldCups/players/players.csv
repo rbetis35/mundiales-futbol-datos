@@ -4380,7 +4380,6 @@ player_id,dorsal,player_name,birth_date,position,nationality
 4379,14,Nico Claesen,07-10-1962,FW,Belgium
 4380,19,Marc Van Der Linden,04-02-1964,FW,Belgium
 4381,12,Acácio,20-01-1959,GK,Brazil
-4726,22,Ze Carlos,07-02-1962,GK,Brazil
 4382,3,Ricardo Gomes ,13-12-1964,DF,Brazil
 4383,13,Carlos Mozer,19-09-1960,DF,Brazil
 4384,21,Mauro Galvão,19-12-1961,DF,Brazil
@@ -5165,4 +5164,5 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5163,11,Karl-Heinz Rummenigge ,25-09-1955,FW,West Germany
 5164,19,Klaus Allofs,05-12-1956,FW,West Germany
 5165,20,Dieter Hoeneß,07-01-1953,FW,West Germany
+
 
