@@ -6709,3 +6709,408 @@ player_id,world_cup_year,team,club,country_club
 5163,1986,West Germany,Internazionale,Italy
 5164,1986,West Germany,1. FC Köln,Germany
 5165,1986,West Germany,Bayern Munich,Germany
+player_id,world_cup_year,team,club,country_club
+5166,1982,Algeria, RS Kouba,Algeria
+5167,1982,Algeria, MA Hussein Dey,Algeria
+5168,1982,Algeria, MA Hussein Dey,Algeria
+5169,1982,Algeria, MA Hussein Dey,Algeria
+5170,1982,Algeria, JE Tizi Ouzou,Algeria
+5171,1982,Algeria, JE Tizi Ouzou,Algeria
+5172,1982,Algeria, CM Belcourt,Algeria
+5173,1982,Algeria, PSG,France
+5174,1982,Algeria, Reims,France
+5175,1982,Algeria, MP Alger,Algeria
+5176,1982,Algeria, Laval,France
+5177,1982,Argentina, Talleres de Córdoba,Argentina
+5178,1982,Argentina, River Plate,Argentina
+5179,1982,Argentina, Talleres de Córdoba,Argentina
+5180,1982,Argentina, Independiente,Argentina
+5181,1982,Argentina, River Plate,Argentina
+5182,1982,Argentina, Independiente,Argentina
+5183,1982,Argentina, Racing,Argentina
+5184,1982,Argentina, Tottenham,England
+5185,1982,Argentina, Racing,Argentina
+5186,1982,Argentina, River Plate,Argentina
+5187,1982,Argentina, Estudiantes,Argentina
+5188,1982,Argentina, Talleres de Córdoba,Argentina
+5189,1982,Argentina, Fiorentina,Italy
+5190,1982,Argentina, River Plate,Argentina
+5191,1982,Argentina, River Plate,Argentina
+5192,1982,Argentina, Newell's Old Boys,Argentina
+5193,1982,Austria, Austria Wien,Austria
+5194,1982,Austria, Rapid Wien,Austria
+5568,1982,Austria, Rapid Wien,Austria
+5195,1982,Austria, Austria Wien,Austria
+5196,1982,Austria, Admira/Wacker,Austria
+5197,1982,Austria, Eintracht Frankfurt,Germany
+5198,1982,Austria, Sturm Graz,Austria
+5199,1982,Austria, Admira/Wacker,Austria
+5200,1982,Austria, Rapid Wien,Austria
+5201,1982,Austria, Rapid Wien,Austria
+5202,1982,Austria, SSW Innsbruck,Austria
+5203,1982,Austria, Internazionale,Italy
+5204,1982,Austria, 1. FC Nürnberg,Germany
+5205,1982,Austria, Grasshopper,Switzerland
+5206,1982,Austria, Austria Wien,Austria
+5207,1982,Austria, Austria Wien,Austria
+5208,1982,Austria, Cesena,Italy
+5209,1982,Austria, Rapid Wien,Austria
+5210,1982,Austria, VÖEST Linz,Austria
+5211,1982,Austria, Sturm Graz,Austria
+5212,1982,Austria, Valencia,Spain
+5213,1982,Belgium, Espanyol,Spain
+5214,1982,Belgium, KSV Waregem,Belgium
+5215,1982,Belgium, Standard Liège,Belgium
+5216,1982,Belgium, Beveren,Belgium
+5217,1982,Belgium, Lokeren,Belgium
+5218,1982,Belgium, Standard Liège,Belgium
+5219,1982,Belgium, Standard Liège,Belgium
+5220,1982,Belgium, Beveren,Belgium
+5221,1982,Belgium, Anderlecht,Belgium
+5222,1982,Belgium, Lokeren,Belgium
+5223,1982,Belgium, KSV Waregem,Belgium
+5224,1982,Belgium, Standard Liège,Belgium
+5225,1982,Belgium, West Ham,England
+5226,1982,Brazil, São Paulo,Brazil
+5227,1982,Brazil, Botafogo,Brazil
+5228,1982,Brazil, Flamengo,Brazil
+5229,1982,Brazil, São Paulo,Brazil
+5230,1982,Brazil, Atlético Mineiro,Brazil
+5231,1982,Brazil, Internacional,Brazil
+5232,1982,Brazil, Ponte Preta,Brazil
+5233,1982,Brazil, Vasco da Gama,Brazil
+5234,1982,Brazil, Atlético Mineiro,Brazil
+5235,1982,Brazil, Grêmio,Brazil
+5236,1982,Brazil, Grêmio,Brazil
+5237,1982,Brazil, São Paulo,Belgium
+5238,1982,Brazil, Atlético Madrid,Spain
+5239,1982,Brazil, São Paulo,Brazil
+5240,1982,Brazil, Atlético Mineiro,Brazil
+5241,1982,Brazil, Vasco da Gama,Brazil
+5242,1982,Cameroon, Dynamo Douala,Cameroon
+5243,1982,Cameroon, Stade Quimperois,France
+5244,1982,Cameroon, Dragon Douala,Cameroon
+5245,1982,Cameroon, Union Douala,Cameroon
+5246,1982,Cameroon, Fédéral SFC du Noun,Cameroon
+5247,1982,Cameroon, Union Douala,Cameroon
+5248,1982,Cameroon, Cannes,France
+5249,1982,Cameroon, Canon Yaoundé,Cameroon
+5250,1982,Cameroon, Canon Yaoundé,Cameroon
+5251,1982,Cameroon, Philadelphia Fever,USA
+5252,1982,Cameroon, Tonnerre Yaoundé,Cameroon
+5253,1982,Cameroon, Canon Yaoundé,Cameroon
+5254,1982,Cameroon, Union Douala,Cameroon
+5255,1982,Cameroon, Union Douala,Cameroon
+5256,1982,Cameroon, Cannes,France
+5257,1982,Cameroon, Canon Yaoundé,Cameroon
+5258,1982,Cameroon, Dynamo Douala,Cameroon
+5259,1982,Cameroon, Tonnerre Yaoundé,Cameroon
+5260,1982,Chile, Cobreloa,Chile
+5261,1982,Chile, Palestino,Chile
+5262,1982,Chile, Colo-Colo,Chile
+5263,1982,Chile, Colo-Colo,Chile
+5264,1982,Chile, Universidad Católica,Chile
+5265,1982,Chile, Universidad de Chile,Chile
+5266,1982,Chile, Colo-Colo,Chile
+5267,1982,Chile, Cobreloa,Chile
+5268,1982,Chile, Colo-Colo,Chile
+5269,1982,Chile, Colo-Colo,Chile
+5270,1982,Chile, Cobreloa,Chile
+5271,1982,Chile, Palestino,Chile
+5272,1982,Chile, Universidad Católica,Chile
+5273,1982,Chile, Colo-Colo,Chile
+5274,1982,Chile, Colo-Colo,Chile
+5275,1982,Chile, Universidad Católica,Chile
+5276,1982,Chile, Universidad Católica,Chile
+5277,1982,Chile, Cobreloa,Chile
+5278,1982,Chile, Universidad Católica,Chile
+5279,1982,Chile, Colo-Colo,Chile
+5280,1982,Chile, San Luis,Chile
+5281,1982,Chile, Universidad de Chile,Chile
+5282,1982,Czechoslovakia, Lokomotiva Košice,Slovakia
+5283,1982,Czechoslovakia, Bohemians Praha,Czech Republic
+5284,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5285,1982,Czechoslovakia, Bohemians Praha,Czech Republic
+5286,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5287,1982,Czechoslovakia, Inter Bratislava,Slovakia
+5288,1982,Czechoslovakia, Inter Bratislava,Slovakia
+5289,1982,Czechoslovakia, Baník Ostrava,Czech Republic
+5290,1982,Czechoslovakia, Baník Ostrava,Czech Republic
+5291,1982,Czechoslovakia, Plastika Nitra,Slovakia
+5292,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5293,1982,Czechoslovakia, Rapid Wien,Austria
+5294,1982,Czechoslovakia, Bohemians Praha,Czech Republic
+5295,1982,Czechoslovakia, Sparta Prague,Czech Republic
+5296,1982,Czechoslovakia, Bohemians Praha,Czech Republic
+5297,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5298,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5299,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5300,1982,Czechoslovakia, Dukla Prague,Czech Republic
+5301,1982,Czechoslovakia, Zbrojovka Brno,Czech Republic
+5302,1982,Czechoslovakia, Slovan Bratislava,Slovakia
+5303,1982,Czechoslovakia, Slavia Prague,Czech Republic
+5304,1982,El Salvador, Platense Municipal,El Salvador
+5305,1982,El Salvador, Santiagueño,El Salvador
+5306,1982,El Salvador, FAS,El Salvador
+5307,1982,El Salvador, Santiagueño,El Salvador
+5308,1982,El Salvador, Águila,El Salvador
+5309,1982,El Salvador, FAS,El Salvador
+5310,1982,El Salvador, Atlético Marte,El Salvador
+5311,1982,El Salvador, Santiagueño,El Salvador
+5312,1982,El Salvador, Bayer Uerdingen,Germany
+5313,1982,El Salvador, CD Chalatenango,El Salvador
+5314,1982,El Salvador, Santiagueño,El Salvador
+5315,1982,El Salvador, Deportivo Jalapa,Guatemala
+5316,1982,El Salvador, Atlético Marte,El Salvador
+5317,1982,El Salvador, Atlético Marte,El Salvador
+5318,1982,El Salvador, Platense Municipal,El Salvador
+5319,1982,El Salvador, Santiagueño,El Salvador
+5320,1982,El Salvador, FAS,El Salvador
+5321,1982,El Salvador, Independiente de San Vicente,El Salvador
+5322,1982,El Salvador, Atlético Marte,El Salvador
+5323,1982,El Salvador, Atlético Marte,El Salvador
+5324,1982,England, Tottenham,England
+5325,1982,England, Manchester City,England
+5326,1982,England, Brighton,England
+5327,1982,England, Ipswich Town,England
+5328,1982,England, Liverpool,England
+5329,1982,England, Liverpool,England
+5330,1982,England, West Ham,England
+5331,1982,England, Manchester United,England
+5332,1982,England, Liverpool,England
+5333,1982,England, Arsenal,England
+5334,1982,England, Southampton,England
+5335,1982,England, Manchester City,England
+5336,1982,England, Ipswich Town,England
+5337,1982,England, Aston Villa,England
+5338,1982,England, 1. FC Köln,Germany
+5339,1982,France, PSG,France
+5340,1982,France, Saint-Étienne,France
+5341,1982,France, Monaco,France
+5342,1982,France, Saint-Étienne,France
+5343,1982,France, Saint-Étienne,France
+5344,1982,France, Metz,France
+5345,1982,France, Bordeaux,France
+5346,1982,France, Bordeaux,France
+5347,1982,France, Saint-Étienne,France
+5348,1982,France, Monaco,France
+5349,1982,France, Bordeaux,France
+5350,1982,France, VfB Stuttgart,Germany
+5351,1982,France, Bordeaux,France
+5352,1982,Honduras, Universidad,Honduras
+5353,1982,Honduras, Real España,Honduras
+5354,1982,Honduras, Real España,Honduras
+5355,1982,Honduras, Universidad,Honduras
+5356,1982,Honduras, Real España,Honduras
+5357,1982,Honduras, Olimpia,Honduras
+5358,1982,Honduras, Real España,Honduras
+5359,1982,Honduras, Platense,Honduras
+5360,1982,Honduras, Motagua,Honduras
+5361,1982,Honduras, Motagua,Honduras
+5362,1982,Honduras, Motagua,Honduras
+5363,1982,Honduras, Marathón,Honduras
+5364,1982,Honduras, Motagua,Honduras
+5365,1982,Honduras, Olimpia,Honduras
+5366,1982,Honduras, Universidad,Honduras
+5367,1982,Honduras, Real España,Honduras
+5368,1982,Honduras, Valladolid,Spain
+5369,1982,Honduras, Platense,Honduras
+5370,1982,Honduras, Real España,Honduras
+5371,1982,Honduras, Vida,Honduras
+5372,1982,Honduras, Marathón,Honduras
+5373,1982,Honduras, Marathón,Honduras
+5374,1982,Hungary, Sporting CP,Portugal
+5375,1982,Hungary, Pécs,Hungary
+5376,1982,Hungary, Tatabányai Bányász,Hungary
+5377,1982,Hungary, Waterschei Thor,Belgium
+5378,1982,Hungary, Toulouse,France
+5379,1982,Hungary, Újpest,Hungary
+5380,1982,Hungary, Ferencváros,Hungary
+5381,1982,Hungary, Békéscsabai El?re,Hungary
+5382,1982,Hungary, Hércules,Spain
+5383,1982,Hungary, Videoton,Hungary
+5384,1982,Hungary, Tatabányai Bányász,Hungary
+5385,1982,Hungary, Antwerp,Belgium
+5386,1982,Hungary, Ferencváros,Hungary
+5387,1982,Hungary, Újpest,Hungary
+5388,1982,Hungary, Vasas,Hungary
+5389,1982,Hungary, Ferencváros,Hungary
+5390,1982,Hungary, Gy?r,Hungary
+5391,1982,Hungary, Budapest Honvéd,Hungary
+5392,1982,Italy, Juventus,Italy
+5393,1982,Italy, Internazionale,Italy
+5394,1982,Italy, Juventus,Italy
+5395,1982,Italy, Fiorentina,Italy
+5396,1982,Italy, Torino,Italy
+5397,1982,Italy, Internazionale,Italy
+5398,1982,Italy, Internazionale,Italy
+5399,1982,Italy, Udinese,Italy
+5400,1982,Italy, Fiorentina,Italy
+5401,1982,Italy, Cagliari,Italy
+5402,1982,Kuwait, Kuwait SC,Kuwait
+5403,1982,Kuwait, Kazma,Kuwait
+5404,1982,Kuwait, Al-Qadsia,Kuwait
+5405,1982,Kuwait, Al Tadamun,Kuwait
+5406,1982,Kuwait, Al-Salmiya,Kuwait
+5407,1982,Kuwait, Kazma,Kuwait
+5408,1982,Kuwait, Kuwait SC,Kuwait
+5409,1982,Kuwait, Al Tadamun,Kuwait
+5410,1982,Kuwait, Kazma,Kuwait
+5411,1982,Kuwait, Al-Arabi,Kuwait
+5412,1982,Kuwait, Kazma,Kuwait
+5413,1982,Kuwait, Kuwait SC,Kuwait
+5414,1982,Kuwait, Kazma,Kuwait
+5415,1982,Kuwait, Kazma,Kuwait
+5416,1982,Kuwait, Al-Arabi,Kuwait
+5417,1982,Kuwait, Al Tadamun,Kuwait
+5418,1982,Kuwait, Al-Arabi,Kuwait
+5419,1982,Kuwait, Al-Qadsia,Kuwait
+5420,1982,Kuwait, Kuwait SC,Kuwait
+5421,1982,Kuwait, Al-Qadsia,Kuwait
+5422,1982,Kuwait, Khaitan,Kuwait
+5423,1982,Kuwait, Al-Qadsia,Kuwait
+5424,1982,New Zealand, Preston Macedonia,Australia
+5425,1982,New Zealand, Miramar Rangers,New Zealand
+5426,1982,New Zealand, Manurewa,New Zealand
+5427,1982,New Zealand, Adelaide City,Australia
+5428,1982,New Zealand, Mount Wellington,Australia
+5429,1982,New Zealand, Manurewa,New Zealand
+5430,1982,New Zealand, Invercargill Thistle,New Zealand
+5431,1982,New Zealand, East Coast Bays,New Zealand
+5432,1982,New Zealand, Hanimex United,New Zealand
+5433,1982,New Zealand, Gisborne City,New Zealand
+5434,1982,New Zealand, Mount Wellington,New Zealand
+5435,1982,New Zealand, Gisborne City,New Zealand
+5436,1982,New Zealand, Hanimex United,New Zealand
+5437,1982,New Zealand, West Adelaide Hellas,Australia
+5438,1982,New Zealand, Gisborne City,New Zealand
+5439,1982,New Zealand, Gisborne City,New Zealand
+5440,1982,New Zealand, West Adelaide Hellas,Australia
+5441,1982,New Zealand, Manurewa,New Zealand
+5442,1982,New Zealand, Mount Wellington,New Zealand
+5443,1982,New Zealand, Gisborne City,New Zealand
+5444,1982,New Zealand, Miramar Rangers,New Zealand
+5445,1982,New Zealand, South Melbourne,Australia
+5446,1982,Northern Ireland, Linfield,Northern Ireland
+5447,1982,Northern Ireland, Southampton,England
+5448,1982,Northern Ireland, Brighton,England
+5449,1982,Northern Ireland, Norwich City,England
+5450,1982,Northern Ireland, Burnley,England
+5451,1982,Northern Ireland, Cambridge United,England
+5452,1982,Northern Ireland, Glentoran,Northern Ireland
+5453,1982,Northern Ireland, Glentoran,Northern Ireland
+5454,1982,Northern Ireland, Blackburn Rovers,England
+5455,1982,Northern Ireland, Coleraine,Northern Ireland
+5456,1982,Northern Ireland, Bradford City,England
+5457,1982,Peru, Universitario,Peru
+5458,1982,Peru, Alianza Lima,Peru
+5459,1982,Peru, Sporting Cristal,Peru
+5460,1982,Peru, Alianza Lima,Peru
+5461,1982,Peru, Alianza Lima,Peru
+5462,1982,Peru, Universitario,Peru
+5463,1982,Peru, Sporting Cristal,Peru
+5464,1982,Peru, Alianza Lima,Peru
+5465,1982,Peru, Universitario,Peru
+5466,1982,Peru, Independiente Medellín,Colombia
+5467,1982,Peru, Atlético Nacional,Colombia
+5468,1982,Peru, Sporting Cristal,Peru
+5469,1982,Peru, Fort Lauderdale Strikers,USA
+5470,1982,Peru, Atlético Chalaco,Peru
+5471,1982,Peru, Sporting Cristal,Peru
+5472,1982,Peru, Deportivo Municipal,Peru
+5473,1982,Peru, Sporting Cristal,Peru
+5474,1982,Peru, UANL,Mexico
+5475,1982,Peru, Seraing,Belgium
+5476,1982,Peru, Deportivo Municipal,Peru
+5477,1982,Peru, Atlético Nacional,Colombia
+5478,1982,Peru, Seraing,Belgium
+5479,1982,Poland, Lech Pozna?,Poland
+5480,1982,Poland, ?KS ?ód?,Poland
+5481,1982,Poland, Górnik Zabrze,Poland
+5482,1982,Poland, Legia Warsaw,Poland
+5483,1982,Poland, Wis?a Kraków,Poland
+5484,1982,Poland, Wis?a Kraków,Poland
+5485,1982,Poland, Arka Gdynia,Poland
+5486,1982,Poland, Stal Mielec,Poland
+5487,1982,Poland, Lokeren,Belgium
+5488,1982,Poland, Auxerre,France
+5489,1982,Poland, Legia Warsaw,Poland
+5490,1982,Poland, Wis?a Kraków,Poland
+5491,1982,Poland, Widzew ?ód?,Poland
+5492,1982,Scotland, Arsenal,England
+5493,1982,Scotland, Celtic,Scotland
+5494,1982,Scotland, Leeds United,England
+5495,1982,Scotland, Liverpool,England
+5496,1982,Scotland, Aston Villa,England
+5497,1982,Scotland, Ipswich Town,England
+5498,1982,Scotland, Ipswich Town,England
+5499,1982,Scotland, Nottingham Forest,England
+5500,1982,Scotland, Manchester City,England
+5501,1982,Scotland, Celtic,Scotland
+5502,1982,Scotland, Liverpool,England
+5503,1982,Scotland, Ipswich Town,England
+5504,1982,Scotland, AC Milan,Italy
+5505,1982,Soviet Union, Torpedo Moscow,Russia
+5506,1982,Soviet Union, Dinamo Tbilisi,Georgia
+5507,1982,Soviet Union, Dynamo Kyiv,Ukraine
+5569,1982,Soviet Union, Dinamo Minsk,Belarus
+5508,1982,Soviet Union, Torpedo Moscow,Russia
+5509,1982,Soviet Union, Spartak Moscow,Russia
+5510,1982,Soviet Union, Spartak Moscow,Russia
+5511,1982,Soviet Union, Ararat Yerevan,Armenia
+5512,1982,Soviet Union, Dinamo Tbilisi,Georgia
+5513,1982,Soviet Union, Dynamo Kyiv,Ukraine
+5514,1982,Soviet Union, Dinamo Tbilisi,Georgia
+5515,1982,Soviet Union, SKA Rostov,Russia
+5516,1982,Spain, Real Sociedad,Spain
+5517,1982,Spain, Real Madrid,Spain
+5518,1982,Spain, Valencia,Spain
+5519,1982,Spain, Barcelona,Spain
+5520,1982,Spain, Athletic Bilbao,Spain
+5521,1982,Spain, Sporting Gijón,Spain
+5522,1982,Spain, Real Sociedad,Spain
+5523,1982,Spain, Sporting Gijón,Spain
+5524,1982,Spain, Real Sociedad,Spain
+5525,1982,Spain, Valencia,Spain
+5526,1982,Spain, Barcelona,Spain
+5527,1982,Spain, Real Madrid,Spain
+5528,1982,Spain, Real Sociedad,Spain
+5529,1982,Spain, Real Sociedad,Spain
+5530,1982,Spain, Real Sociedad,Spain
+5531,1982,Spain, Real Madrid,Spain
+5532,1982,Spain, Barcelona,Spain
+5533,1982,West Germany, Eintracht Braunschweig,Germany
+5534,1982,West Germany, Bayern Munich,Germany
+5535,1982,West Germany, VfB Stuttgart,Germany
+5536,1982,West Germany, Borussia Mönchengladbach,Germany
+5537,1982,West Germany, Real Madrid,Spain
+5538,1982,West Germany, Hamburger SV,Germany
+5539,1982,West Germany, Hamburger SV,Germany
+5540,1982,West Germany, Bayern Munich,Germany
+5541,1982,West Germany, VfB Stuttgart,Germany
+5542,1982,West Germany, 1. FC Köln,Germany
+5543,1982,West Germany, 1. FC Köln,Germany
+5544,1982,West Germany, Hamburger SV,Germany
+5545,1982,West Germany, Werder Bremen,Germany
+5546,1982,West Germany, Fortuna Düsseldorf,Germany
+5547,1982,Yugoslavia, Bordeaux,France
+5548,1982,Yugoslavia, Hajduk Split,Croatia
+5549,1982,Yugoslavia, Antwerp,Belgium
+5550,1982,Yugoslavia, Rijeka,Croatia
+5551,1982,Yugoslavia, Dinamo Zagreb,Croatia
+5552,1982,Yugoslavia, Partizan,Serbia
+5553,1982,Yugoslavia, Red Star Belgrade,Serbia
+5554,1982,Yugoslavia, Hajduk Split,Croatia
+5555,1982,Yugoslavia, Budu?nost Titograd,Montenegro
+5556,1982,Yugoslavia, Rijeka,Croatia
+5557,1982,Yugoslavia, Hajduk Split,Croatia
+5558,1982,Yugoslavia, Red Star Belgrade,Serbia
+5559,1982,Yugoslavia, Nice,France
+5560,1982,Yugoslavia, Zürich,Switzerland
+5561,1982,Yugoslavia, PSG,France
+5562,1982,Yugoslavia, Sarajevo,Bosnia & Herzegovina
+5563,1982,Yugoslavia, Partizan,Serbia
+5564,1982,Yugoslavia, Red Star Belgrade,Serbia
+5565,1982,Yugoslavia, Dinamo Zagreb,Croatia
+5566,1982,Yugoslavia, Nantes,France
+5567,1982,Algeria, DNC Alger,Algeria
