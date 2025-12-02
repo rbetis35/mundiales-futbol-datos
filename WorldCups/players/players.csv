@@ -5168,7 +5168,6 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5167,22,Yacine Bentalaa,24-09-1955,GK,Algeria
 5168,3,Mustapha Kouici,16-04-1954,DF,Algeria
 5169,5,Chaâbane Merzekane,08-03-1959,DF,Algeria
-5567,17,Abdelkader Horr,10-11-1953,DF,Algeria
 5170,8,Ali Fergani ,21-09-1952,MF,Algeria
 5171,12,Salah Larbès,16-09-1952,MF,Algeria
 5172,13,Hocine Yahi,25-04-1960,MF,Algeria
@@ -5568,5 +5567,4 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5564,16,Miloš Šesti?,08-08-1956,FW,Yugoslavia
 5565,18,Stjepan Deveri?,20-08-1961,FW,Yugoslavia
 5566,19,Vahid Halilhodži?,15-10-1952,FW,Yugoslavia
-
-
+5567,17,Abdelkader Horr,10-11-1953,DF,Algeria
