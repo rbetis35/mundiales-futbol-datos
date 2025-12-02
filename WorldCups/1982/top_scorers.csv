@@ -1,11 +1,100 @@
-player_id,player_name,team,goals
-1,Kylian Mbappé,France,8
-2,Lionel Messi,Argentina,7
-3,Olivier Giroud,France,4
-4,Julián Álvarez,Argentina,4
-5,Bukayo Saka,England,3
-6,Marcus Rashford,England,3
-7,Richarlison,Brazil,3
-8,Enner Valencia,Ecuador,3
-9,Cody Gakpo,Netherlands,3
-10,Gonçalo Ramos,Portugal,3
+player_id,player_name,team,goals,assists,min.tot
+1,Paolo Rossi,Italy,6,,574
+2,Karl-Heinz Rummenigge ,West Germany,5,,473
+3,Zico,Brazil,4,,442
+4,Zbigniew Boniek,Poland,4,,540
+5,Falcão,Brazil,3,,450
+6,Alain Giresse,France,3,,570
+7,László Kiss,Hungary,3,,164
+8,Gerry Armstrong,Northern Ireland,3,,450
+9,Salah Assad,Algeria,2,,270
+10,Daniel Passarella ,Argentina,2,,450
+11,Diego Maradona,Argentina,2,,444
+12,Daniel Bertoni,Argentina,2,,399
+13,Walter Schachner,Austria,2,,450
+14,Sócrates ,Brazil,2,,450
+15,Serginho Chulapa,Brazil,2,,401
+16,Éder Aleixo de Assis,Brazil,2,,450
+17,Antonín Panenka,Czechoslovakia,2,,111
+18,Bryan Robson,England,2,,315
+19,Trevor Francis,England,2,,436
+20,Bernard Genghini,France,2,,403
+21,Michel Platini ,France,2,,470
+22,Dominique Rocheteau,France,2,,348
+23,Didier Six,France,2,,446
+24,László Fazekas,Hungary,2,,225
+25,Tibor Nyilasi ,Hungary,2,,270
+26,Gábor Pölöskei,Hungary,2,,270
+27,Marco Tardelli,Italy,2,,614
+28,Billy Hamilton,Northern Ireland,2,,450
+29,John Wark,Scotland,2,,270
+30,Pierre Littbarski,West Germany,2,,586
+31,Klaus Fischer,West Germany,2,,347
+32,Lakhdar Belloumi,Algeria,1,,154
+33,Tedj Bensaoula,Algeria,1,,143
+34,Rabah Madjer,Algeria,1,,267
+35,Osvaldo Ardiles,Argentina,1,,450
+36,Ramón Díaz,Argentina,1,,188
+37,Bruno Pezzey,Austria,1,,450
+38,Reinhold Hintermaier,Austria,1,,405
+39,Hans Krankl,Austria,1,,360
+40,Ludo Coeck,Belgium,1,,450
+41,Erwin Vandenbergh,Belgium,1,,450
+42,Alexandre Czerniatynski,Belgium,1,,384
+43,Oscar Bernardi,Brazil,1,,434
+44,Leo Júnior,Brazil,1,,450
+45,Grégoire M'Bida,Cameroon,1,,270
+46,Miguel Ángel Neira,Chile,1,,185
+47,Juan Carlos Letelier,Chile,1,,78
+48,Gustavo Moscoso,Chile,1,,248
+49,Luis Ramírez Zapata,El Salvador,1,,245
+50,Paul Mariner,England,1,,450
+51,Maxime Bossis,France,1,,570
+52,Marius Trésor,France,1,,660
+53,René Girard,France,1,,198
+54,Alain Couriol,France,1,,119
+55,Gérard Soler,France,1,,510
+56,Héctor Zelaya,Honduras,1,,270
+57,Antonio Laing,Honduras,1,,59
+58,József Tóth,Hungary,1,,180
+59,József Varga,Hungary,1,,180
+60,Lázár Szentes,Hungary,1,,53
+61,Antonio Cabrini,Italy,1,,630
+62,Bruno Conti,Italy,1,,630
+63,Alessandro Altobelli,Italy,1,,114
+64,Francesco Graziani,Italy,1,,525
+65,Faisal Al-Dakhil,Kuwait,1,,270
+66,Abdulaziz Al-Buloushi,Kuwait,1,,270
+67,Steve Sumner ,New Zealand,1,,270
+68,Steve Wooddin,New Zealand,1,,270
+69,Rubén Toribio Díaz ,Peru,1,,270
+70,Guillermo La Rosa,Peru,1,,150
+71,Stefan Majewski,Poland,1,,630
+72,Janusz Kupcewicz,Poland,1,,402
+73,Andrzej Buncol,Poland,1,,630
+74,W?odzimierz Smolarek,Poland,1,,509
+75,W?odzimierz Cio?ek,Poland,1,,110
+76,Grzegorz Lato,Poland,1,,630
+77,Andrzej Szarmach,Poland,1,,156
+78,David Narey,Scotland,1,,188
+79,Graeme Souness,Scotland,1,,270
+80,John Robertson,Scotland,1,,270
+81,Kenny Dalglish,Scotland,1,,116
+82,Joe Jordan,Scotland,1,,70
+83,Steve Archibald,Scotland,1,,218
+84,Aleksandr Chivadze ,Soviet Union,1,,450
+85,Sergei Baltacha,Soviet Union,1,,450
+86,Yuri Gavrilov,Soviet Union,1,,408
+87,Khoren Hovhannisyan,Soviet Union,1,,225
+88,Andriy Bal,Soviet Union,1,,356
+89,Ramaz Shengelia,Soviet Union,1,,408
+90,Oleg Blokhin,Soviet Union,1,,450
+91,Jesús María Zamora,Spain,1,,360
+92,Enrique Saura,Spain,1,,229
+93,Juanito Gonzalez,Spain,1,,270
+94,Roberto López Ufarte,Spain,1,,302
+95,Paul Breitner,West Germany,1,,630
+96,Horst Hrubesch,West Germany,1,,325
+97,Uwe Reinders,West Germany,1,,119
+98,Ivan Gudelj,Yugoslavia,1,,270
+99,Vladimir Petrovi?,Yugoslavia,1,,270
