@@ -5460,6 +5460,8 @@ player_id,world_cup_year,team,club,country_club
 3988,1994,Argentina,Tenerife,Spain
 3989,1990,Argentina,VfL Stuttgart,Germany
 3989,1994,Argentina,Velez Sarsfield,Argentina
+3990,1982,Argentina,Boca Juniors,Argentina
+3990,1986,Argentina,Napoli,Italy
 3990,1990,Argentina,Napoli,Italy
 3990,1994,Argentina,Newell's Old Boys,Argentina
 3991,1994,Argentina,Independiente,Argentina
@@ -5482,6 +5484,7 @@ player_id,world_cup_year,team,club,country_club
 4003,1994,Belgium,Club Brugge,Belgium
 4004,1990,Belgium,Anderlecht,Belgium
 4004,1994,Belgium,Anderlecht,Belgium
+4005,1982,Belgium,Antwerp,Belgium
 4005,1994,Belgium,Mechelen,Belgium
 4006,1994,Belgium,Cercle Brugge,Belgium
 4007,1994,Bolivia,Bolívar,Bolivia
@@ -5879,419 +5882,435 @@ player_id,world_cup_year,team,club,country_club
 4335,1994,USA,USSF,USA
 4336,1994,Morocco,Angers,France
 4337,1994,Sweden,IFK Goteborg,Sweden
-4338,1990,Argentina, Real Betis,Spain
-4339,1990,Argentina, River Plate,Argentina
-4340,1990,Argentina, Ferro Carril Oeste,Argentina
-4341,1990,Argentina, Veracruz,Mexico
-4342,1990,Argentina, Racing Club,Argentina
-4343,1990,Argentina, Bari,Italy
-4344,1990,Argentina, Independiente,Argentina
-4345,1990,Argentina, Racing Club,Argentina
-4346,1990,Argentina, River Plate,Argentina
-4347,1990,Argentina, Boca Juniors,Argentina
-4348,1990,Argentina, River Plate,Argentina
-4349,1990,Argentina, Nantes,France
-4350,1990,Argentina, Independiente,Argentina
-4351,1990,Argentina, Lazio,Italy
-4352,1990,Argentina, PSG,France
-4353,1990,Argentina, Cremonese,Italy
-4354,1990,Austria, Swarovski Tirol,Austria
-4355,1990,Austria, Sturm Graz,Austria
-4356,1990,Austria, Austria Wien,Austria
-4357,1990,Austria, Rapid Wien,Austria
-4358,1990,Austria, First Vienna FC,Austria
-4359,1990,Austria, Admira Wacker,Austria
-4360,1990,Austria, Swarovski Tirol,Austria
-4361,1990,Austria, Austria Wien,Austria
-4362,1990,Austria, Swarovski Tirol,Austria
-4363,1990,Austria, Swarovski Tirol,Austria
-4364,1990,Austria, Swarovski Tirol,Austria
-4365,1990,Austria, Rapid Wien,Austria
-4366,1990,Austria, First Vienna FC,Austria
-4367,1990,Austria, Austria Wien,Austria
-4368,1990,Austria, Admira Wacker,Austria
-4369,1990,Austria, Rapid Wien,Austria
-4370,1990,Belgium, Standard Liege,Belgium
-4371,1990,Belgium, PSV,Netherlands
-4372,1990,Belgium, Mechelen,Belgium
-4373,1990,Belgium, Porto,Portugal
-4374,1990,Belgium, FC Liege,Belgium
-4375,1990,Belgium, Club Brugge,Belgium
-4376,1990,Belgium, Mechelen,Belgium
-4377,1990,Belgium, Club Brugge,Belgium
-4378,1990,Belgium, Anderlecht,Belgium
-4379,1990,Belgium, Royal Antwerp,Belgium
-4380,1990,Belgium, Anderlecht,Belgium
-4381,1990,Brazil, Vasco da Gama,Brazil
-4726,1990,Brazil, Flamengo,Brazil
-4382,1990,Brazil, Benfica,Portugal
-4383,1990,Brazil, Marseille,France
-4384,1990,Brazil, Botafogo,Brazil
-4385,1990,Brazil, Napoli,Italy
-4386,1990,Brazil, Vasco da Gama,Brazil
-4387,1990,Brazil, Benfica,Portugal
-4388,1990,Brazil, Sporting CP,Portugal
-4389,1990,Brazil, Vasco da Gama,Brazil
-4390,1990,Brazil, Napoli,Italy
-4391,1990,Brazil, Flamengo,Brazil
-4392,1990,Cameroon, Créteil,France
-4393,1990,Cameroon, Tonnerre Yaoundé,Cameroon
-4394,1990,Cameroon, Prévoyance Yaoundé,Cameroon
-4395,1990,Cameroon, Canon Yaoundé,Cameroon
-4396,1990,Cameroon, La Roche Vendée,France
-4397,1990,Cameroon, Canon Yaoundé,Cameroon
-4398,1990,Cameroon, Chênois,Switzerland
-4399,1990,Cameroon, Union Douala,Cameroon
-4400,1990,Cameroon, Toulon,France
-4401,1990,Cameroon, Valenciennes,France
-4402,1990,Cameroon, Union Douala,Cameroon
-4403,1990,Colombia, Atletico Nacional,Colombia
-4404,1990,Colombia, Independiente Santa Fe,Colombia
-4405,1990,Colombia, Atletico Nacional,Colombia
-4406,1990,Colombia, Atletico Nacional,Colombia
-4407,1990,Colombia, Atletico Junior,Colombia
-4408,1990,Colombia, Atletico Nacional,Colombia
-4409,1990,Colombia, Atletico Nacional,Colombia
-4410,1990,Colombia, Deportivo Cali,Colombia
-4411,1990,Colombia, Atletico Nacional,Colombia
-4412,1990,Colombia, Millonarios,Colombia
-4413,1990,Colombia, America de Cali,Colombia
-4414,1990,Colombia, Millonarios,Colombia
-4415,1990,Colombia, Millonarios,Colombia
-4416,1990,Costa Rica, Ramonense,Costa Rica
-4417,1990,Costa Rica, Municipal Puntarenas,Costa Rica
-4418,1990,Costa Rica, Saprissa,Costa Rica
-4419,1990,Costa Rica, Saprissa,Costa Rica
-4420,1990,Costa Rica, Saprissa,Costa Rica
-4421,1990,Costa Rica, Saprissa,Costa Rica
-4422,1990,Costa Rica, Herediano,Costa Rica
-4423,1990,Costa Rica, Herediano,Costa Rica
-4424,1990,Costa Rica, Herediano,Costa Rica
-4425,1990,Costa Rica, Cartaginés,Costa Rica
-4426,1990,Costa Rica, Alajuelense,Costa Rica
-4427,1990,Costa Rica, Alajuelense,Costa Rica
-4428,1990,Costa Rica, Herediano,Costa Rica
-4429,1990,Costa Rica, Saprissa,Costa Rica
-4430,1990,Costa Rica, Alajuelense,Costa Rica
-4431,1990,Costa Rica, Cartaginés,Costa Rica
-4432,1990,Costa Rica, Alajuelense,Costa Rica
-4433,1990,Costa Rica, Saprissa,Costa Rica
-4434,1990,Costa Rica, Limonense,Costa Rica
-4435,1990,Costa Rica, Herediano,Costa Rica
-4436,1990,Costa Rica, Saprissa,Costa Rica
-4437,1990,Czechoslovakia, Sparta Prague,Czech Republic
-4438,1990,Czechoslovakia, West Ham,England
-4439,1990,Czechoslovakia, Plastika Nitra,Slovakia
-4440,1990,Czechoslovakia, Sparta Prague,Czech Republic
-4441,1990,Czechoslovakia, TJ Vítkovice,Czech Republic
-4442,1990,Czechoslovakia, FC St. Pauli,Germany
-4443,1990,Czechoslovakia, Borussia Monchengladbach,Germany
-4444,1990,Czechoslovakia, Fiorentina,Italy
-4445,1990,Czechoslovakia, Dunajská Streda,Slovakia
-4446,1990,Czechoslovakia, Slovan Bratislava,Slovakia
-4447,1990,Czechoslovakia, Sparta Prague,Czech Republic
-4448,1990,Czechoslovakia, Sparta Prague,Czech Republic
-4449,1990,Czechoslovakia, PSV,Netherlands
-4450,1990,Czechoslovakia, Plastika Nitra,Slovakia
-4451,1990,Czechoslovakia, Dukla Prague,Czech Republic
-4452,1990,Czechoslovakia, Inter Bratislava,Slovakia
-4453,1990,Czechoslovakia, Sparta Prague,Czech Republic
-4454,1990,Czechoslovakia, Sparta Prague,Czech Republic
-4455,1990,Czechoslovakia, Baník Ostrava,Czech Republic
-4456,1990,Czechoslovakia, FC St. Pauli,Germany
-4457,1990,Czechoslovakia, Sporting Gijon,Spain
-4458,1990,Czechoslovakia, Feyenoord,Netherlands
-4459,1990,Egypt, Al Ahly,Egypt
-4460,1990,Egypt, Zamalek,Egypt
-4461,1990,Egypt, Al Ahly,Egypt
-4462,1990,Egypt, Al Ahly,Egypt
-4463,1990,Egypt, Al Ahly,Egypt
-4464,1990,Egypt, Al Ahly,Egypt
-4465,1990,Egypt, Zamalek,Egypt
-4466,1990,Egypt, Zamalek,Egypt
-4467,1990,Egypt, Zamalek,Egypt
-4468,1990,Egypt, Zamalek,Egypt
-4469,1990,Egypt, Beira-Mar,Portugal
-4470,1990,Egypt, Zamalek,Egypt
-4471,1990,Egypt, Al-Masry,Egypt
-4472,1990,Egypt, Al Ahly,Egypt
-4473,1990,Egypt, Al Ahly,Egypt
-4474,1990,Egypt, Ghazl El-Mehalla,Egypt
-4475,1990,Egypt, PAOK,Greece
-4476,1990,Egypt, Al Ahly,Egypt
-4477,1990,Egypt, Al Ahly,Egypt
-4478,1990,Egypt, Al Ahly,Egypt
-4479,1990,Egypt, Al Ahly,Egypt
-4480,1990,Egypt, El-Olympi Alexandria,Egypt
-4481,1990,England, Derby County,England
-4482,1990,England, Rangers,Scotland
-4483,1990,England, Chelsea,England
-4484,1990,England, Rangers,Scotland
-4485,1990,England, Nottingham Forest,England
-4486,1990,England, Nottingham Forest,England
-4487,1990,England, Rangers,Scotland
-4488,1990,England, Queens Park Rangers,England
-4489,1990,England, Derby County,England
-4490,1990,England, Chelsea,England
-4491,1990,England, Manchester United,England
-4492,1990,England, Manchester United,England
-4493,1990,England, Marseille,France
-4494,1990,England, Liverpool,England
-4495,1990,England, Liverpool,England
-4496,1990,England, Aston Villa,England
-4497,1990,England, Nottingham Forest,England
-4498,1990,England, Tottenham,England
-4499,1990,England, Rangers,Scotland
-4500,1990,England, Liverpool,England
-4501,1990,England, Tottenham,England
-4502,1990,England, Wolverhampton,England
-4503,1990,Italy, Internazionale,Italy
-4504,1990,Italy, Juventus,Italy
-4505,1990,Italy, Juventus,Italy
-4506,1990,Italy, Napoli,Italy
-4507,1990,Italy, Internazionale,Italy
-4508,1990,Italy, Sampdoria,Italy
-4509,1990,Italy, AC Milan,Italy
-4510,1990,Italy, Napoli,Italy
-4511,1990,Italy, Roma,Italy
-4512,1990,Italy, Juventus,Italy
-4513,1990,Italy, Napoli,Italy
-4514,1990,Italy, Sampdoria,Italy
-4515,1990,Italy, Juventus,Italy
-4516,1990,Italy, Internazionale,Italy
-4517,1990,Italy, Sampdoria,Italy
-4518,1990,Netherlands, PSV,Netherlands
-4519,1990,Netherlands, Feyenoord,Netherlands
-4520,1990,Netherlands, Ajax,Netherlands
-4521,1990,Netherlands, PSV,Netherlands
-4522,1990,Netherlands, Anderlecht,Belgium
-4523,1990,Netherlands, Mechelen,Belgium
-4524,1990,Netherlands, Roda JC,Netherlands
-4525,1990,Netherlands, Mechelen,Belgium
-4526,1990,Netherlands, PSV,Netherlands
-4527,1990,Netherlands, AC Milan,Italy
-4528,1990,Netherlands, Ajax,Netherlands
-4529,1990,Netherlands, AC Milan,Italy
-4530,1990,Netherlands, PSV,Netherlands
-4531,1990,Netherlands, Ajax,Netherlands
-4532,1990,Netherlands, Aberdeen,Scotland
-4533,1990,Netherlands, Roda JC,Netherlands
-4534,1990,Republic of Ireland, AFC Bournemouth,England
-4535,1990,Republic of Ireland, Celtic,Scotland
-4536,1990,Republic of Ireland, Millwall,England
-4537,1990,Republic of Ireland, Arsenal,England
-4538,1990,Republic of Ireland, Tottenham,England
-4539,1990,Republic of Ireland, Everton,England
-4540,1990,Republic of Ireland, Middlesbrough,England
-4541,1990,Republic of Ireland, Blackburn Rovers,England
-4542,1990,Republic of Ireland, Le Havre,France
-4543,1990,Romania, Steaua Bucuresti,Romania
-4544,1990,Romania, Petrolul Ploiesti,Romania
-4545,1990,Romania, Dinamo Bucuresti,Romania
-4546,1990,Romania, Dinamo Bucuresti,Romania
-4547,1990,Romania, Dinamo Bucuresti,Romania
-4548,1990,Romania, Universitatea Craiova,Romania
-4549,1990,Romania, Universitatea Craiova,Romania
-4550,1990,Romania, Steaua Bucuresti,Romania
-4551,1990,Romania, Dinamo Bucuresti,Romania
-4552,1990,Romania, Dinamo Bucuresti,Romania
-4553,1990,Romania, Dinamo Bucuresti,Romania
-4554,1990,Romania, Dinamo Bucuresti,Romania
-4555,1990,Romania, Steaua Bucuresti,Romania
-4556,1990,Romania, Charleroi,Belgium
-4557,1990,Romania, Steaua Bucuresti,Romania
-4558,1990,Scotland, Hibernian,Scotland
-4559,1990,Scotland, Norwich City,England
-4560,1990,Scotland, Aberdeen,Scotland
-4561,1990,Scotland, Newcastle United,England
-4562,1990,Scotland, Rangers,Scotland
-4563,1990,Scotland, Dundee United,Scotland
-4564,1990,Scotland, Liverpool,England
-4565,1990,Scotland, Hearts,Scotland
-4566,1990,Scotland, Aberdeen,Scotland
-4567,1990,Scotland, Hearts,Scotland
-4568,1990,Scotland, Celtic,Scotland
-4569,1990,Scotland, Aberdeen,Scotland
-4570,1990,Scotland, Borussia Dortmund,Germany
-4571,1990,Scotland, Everton,England
-4572,1990,Scotland, Leicester City,England
-4573,1990,Scotland, Rangers,Scotland
-4574,1990,Scotland, Rangers,Scotland
-4575,1990,Scotland, Bayern Munich,Germany
-4576,1990,Scotland, Norwich City,England
-4577,1990,South Korea, Daewoo Royals,South Korea
-4578,1990,South Korea, POSCO Atoms,South Korea
-4579,1990,South Korea, POSCO Atoms,South Korea
-4580,1990,South Korea, Hyundai Horangi,South Korea
-4581,1990,South Korea, Hyundai Horangi,South Korea
-4582,1990,South Korea, Daewoo Royals,South Korea
-4583,1990,South Korea, Hyundai Horangi,South Korea
-4584,1990,South Korea, Lucky-Goldstar Hwangso,South Korea
-4585,1990,South Korea, Yukong Elephants,South Korea
-4586,1990,South Korea, Yukong Elephants,South Korea
-4587,1990,South Korea, POSCO Atoms,South Korea
-4588,1990,South Korea, Daewoo Royals,South Korea
-4589,1990,South Korea, Daewoo Royals,South Korea
-4590,1990,South Korea, Hyundai Horangi,South Korea
-4591,1990,South Korea, Lucky-Goldstar Hwangso,South Korea
-4592,1990,Soviet Union, Sevilla,Spain
-4593,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4594,1990,Soviet Union, Dynamo Moscow,Russia
-4595,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4596,1990,Soviet Union, Toulouse,France
-4597,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4598,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4599,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4600,1990,Soviet Union, CSKA Moscow,Russia
-4601,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4602,1990,Soviet Union, Juventus,Italy
-4603,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4604,1990,Soviet Union, Juventus,Italy
-4605,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4606,1990,Soviet Union, Dynamo Minsk,Belarus
-4607,1990,Soviet Union, Spartak Moscow,Russia
-4608,1990,Soviet Union, CSKA Moscow,Russia
-4609,1990,Soviet Union, Dynamo Kyiv,Ukraine
-4610,1990,Soviet Union, Dynamo Moscow,Russia
-4611,1990,Soviet Union, Schalke 04,Germany
-4612,1990,Spain, Sporting Gijon,Spain
-4613,1990,Spain, Valencia,Spain
-4614,1990,Spain, Real Madrid,Spain
-4615,1990,Spain, Sevilla,Spain
-4616,1990,Spain, Athletic Bilbao,Spain
-4617,1990,Spain, Real Madrid,Spain
-4618,1990,Spain, Valencia,Spain
-4619,1990,Spain, Real Sociedad,Spain
-4620,1990,Spain, Real Madrid,Spain
-4621,1990,Spain, Valencia,Spain
-4622,1990,Spain, Real Zaragoza,Spain
-4623,1990,Spain, Barcelona,Spain
-4624,1990,Spain, Barcelona,Spain
-4625,1990,Spain, Sevilla,Spain
-4626,1990,Spain, Real Madrid,Spain
-4627,1990,Spain, Real Zaragoza,Spain
-4628,1990,Spain, Real Madrid,Spain
-4629,1990,Spain, Atletico Madrid,Spain
-4630,1990,Sweden, Orgryte,Sweden
-4631,1990,Sweden, IFK Norrkoping,Sweden
-4632,1990,Sweden, Liverpool,England
-4633,1990,Sweden, Ajax,Netherlands
-4634,1990,Sweden, Grasshopper,Switzerland
-4635,1990,Sweden, Malmo,Sweden
-4636,1990,Sweden, Malmo,Sweden
-4637,1990,Sweden, Osters,Sweden
-4638,1990,Sweden, Malmo,Sweden
-4639,1990,Sweden, Atalanta,Italy
-4640,1990,Sweden, Cannes,France
-4641,1990,Sweden, Benfica,Portugal
-4642,1990,Sweden, Ajax,Netherlands
-4643,1990,United Arab Emirates, Al-Ahli,United Arab Emirates
-4644,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4645,1990,United Arab Emirates, Al Shabab,United Arab Emirates
-4646,1990,United Arab Emirates, Al Khaleej Club,United Arab Emirates
-4647,1990,United Arab Emirates, Al Khaleej Club,United Arab Emirates
-4648,1990,United Arab Emirates, Al-Nasr,United Arab Emirates
-4649,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4650,1990,United Arab Emirates, Al-Ahli,United Arab Emirates
-4651,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4652,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4653,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4654,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4655,1990,United Arab Emirates, Al Khaleej Club,United Arab Emirates
-4656,1990,United Arab Emirates, Al-Nasr,United Arab Emirates
-4657,1990,United Arab Emirates, Al-Wasl,United Arab Emirates
-4658,1990,United Arab Emirates, Al-Wasl,United Arab Emirates
-4659,1990,United Arab Emirates, Al-Wasl,United Arab Emirates
-4660,1990,United Arab Emirates, Al-Wasl,United Arab Emirates
-4661,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4662,1990,United Arab Emirates, Al Shaab,United Arab Emirates
-4663,1990,United Arab Emirates, Al-Wasl,United Arab Emirates
-4664,1990,United Arab Emirates, Sharjah,United Arab Emirates
-4665,1990,USA, Los Angeles Heat,USA
-4666,1990,USA, Tampa Bay Rowdies,USA
-4667,1990,USA, San Francisco Bay Blackhawks,USA
-4668,1990,USA, Milwaukee Wave,USA
-4669,1990,USA, Albany Capitals,USA
-4670,1990,USA, Albany Capitals,USA
-4671,1990,USA, Real Santa Barbara,USA
-4672,1990,USA, Baltimore Blast,USA
-4673,1990,USA, Washington Stars,USA
-4674,1990,USA, UCLA Bruins,USA
-4675,1990,USA, Wake Forest Demon Deacons,USA
-4676,1990,USA, Gy?ri,Hungary
-4677,1990,USA, Volendam,Netherlands
-4678,1990,USA, Fort Lauderdale Strikers,USA
-4679,1990,USA, Washington Stars,USA
-4680,1990,Uruguay, Peñarol,Uruguay
-4681,1990,Uruguay, Independiente,Argentina
-4682,1990,Uruguay, Tenerife,Spain
-4683,1990,Uruguay, Hellas Verona,Italy
-4684,1990,Uruguay, River Plate,Argentina
-4685,1990,Uruguay, Figueres,Spain
-4686,1990,Uruguay, Peñarol,Uruguay
-4687,1990,Uruguay, Nacional,Uruguay
-4688,1990,Uruguay, Nacional,Uruguay
-4689,1990,Uruguay, Genoa,Italy
-4690,1990,Uruguay, Cruz Azul,Mexico
-4691,1990,Uruguay, Genoa,Italy
-4692,1990,Uruguay, Peñarol,Uruguay
-4693,1990,Uruguay, Sevilla,Spain
-4694,1990,Uruguay, Danubio,Uruguay
-4695,1990,Uruguay, Nacional,Uruguay
-4696,1990,Uruguay, Logroñés,Spain
-4697,1990,Uruguay, Marseille,France
-4698,1990,Uruguay, Lazio,Italy
-4699,1990,Uruguay, Defensor Sporting,Uruguay
-4700,1990,Uruguay, Genoa,Italy
-4701,1990,Uruguay, Nacional,Uruguay
-4702,1990,West Germany, Bayern Munich,Germany
-4703,1990,West Germany, Bayern Munich,Germany
-4704,1990,West Germany, 1. FC Köln,Germany
-4705,1990,West Germany, Bayern Munich,Germany
-4706,1990,West Germany, 1. FC Köln,Germany
-4707,1990,West Germany, Eintracht Frankfurt,Germany
-4708,1990,West Germany, Werder Bremen,Germany
-4709,1990,West Germany, Borussia Dortmund,Germany
-4710,1990,Yugoslavia, Sporting CP,Portugal
-4711,1990,Yugoslavia, Partizan,Serbia
-4712,1990,Yugoslavia, Partizan,Serbia
-4713,1990,Yugoslavia, Partizan,Serbia
-4714,1990,Yugoslavia, Mallorca,Spain
-4715,1990,Yugoslavia, Sochaux,France
-4716,1990,Yugoslavia, Cesena,Italy
-4717,1990,Yugoslavia, Sion,Switzerland
-4718,1990,Yugoslavia, Dinamo Zagreb,Croatia
-4719,1990,Yugoslavia, Metz,France
-4720,1990,Yugoslavia, PSG,France
-4721,1990,Yugoslavia, Sampdoria,Italy
-4722,1990,Yugoslavia, Red Star Belgrade,Serbia
-4723,1990,Yugoslavia, Red Star Belgrade,Serbia
-4724,1990,Yugoslavia, PSG,France
-4725,1990,Yugoslavia, Hajduk Split,Croatia
-player_id,world_cup_year,team,club,country_club
+4338,1990,Argentina,Real Betis,Spain
+4339,1990,Argentina,River Plate,Argentina
+4340,1990,Argentina,Ferro Carril Oeste,Argentina
+4341,1990,Argentina,Veracruz,Mexico
+4342,1990,Argentina,Racing Club,Argentina
+4343,1990,Argentina,Bari,Italy
+4344,1990,Argentina,Independiente,Argentina
+4345,1982,Argentina,River Plate,Argentina
+4345,1990,Argentina,Racing Club,Argentina
+4346,1990,Argentina,River Plate,Argentina
+4347,1990,Argentina,Boca Juniors,Argentina
+4348,1982,Argentina,Velez Sarsfield,Argentina
+4348,1990,Argentina,River Plate,Argentina
+4349,1990,Argentina,Nantes,France
+4350,1990,Argentina,Independiente,Argentina
+4351,1990,Argentina,Lazio,Italy
+4352,1982,Argentina,Independiente,Argentina
+4352,1990,Argentina,PSG,France
+4353,1990,Argentina,Cremonese,Italy
+4354,1982,Austria,LASK,Austria
+4354,1990,Austria,Swarovski Tirol,Austria
+4355,1990,Austria,Sturm Graz,Austria
+4356,1990,Austria,Austria Wien,Austria
+4357,1990,Austria,Rapid Wien,Austria
+4358,1990,Austria,First Vienna FC,Austria
+4359,1990,Austria,Admira Wacker,Austria
+4360,1990,Austria,Swarovski Tirol,Austria
+4361,1990,Austria,Austria Wien,Austria
+4362,1990,Austria,Swarovski Tirol,Austria
+4363,1990,Austria,Swarovski Tirol,Austria
+4364,1990,Austria,Swarovski Tirol,Austria
+4365,1990,Austria,Rapid Wien,Austria
+4366,1990,Austria,First Vienna FC,Austria
+4367,1990,Austria,Austria Wien,Austria
+4368,1990,Austria,Admira Wacker,Austria
+4369,1990,Austria,Rapid Wien,Austria
+4370,1990,Belgium,Standard Liege,Belgium
+4371,1982,Belgium,Standard Liege,Belgium
+4371,1990,Belgium,PSV,Netherlands
+4372,1990,Belgium,Mechelen,Belgium
+4373,1990,Belgium,Porto,Portugal
+4374,1990,Belgium,FC Liege,Belgium
+4375,1990,Belgium,Club Brugge,Belgium
+4376,1990,Belgium,Mechelen,Belgium
+4377,1982,Belgium,Club Brugge,Belgium
+4377,1990,Belgium,Club Brugge,Belgium
+4378,1990,Belgium,Anderlecht,Belgium
+4379,1990,Belgium,Royal Antwerp,Belgium
+4380,1990,Belgium,Anderlecht,Belgium
+4381,1990,Brazil,Vasco da Gama,Brazil
+4726,1990,Brazil,Flamengo,Brazil
+4382,1990,Brazil,Benfica,Portugal
+4383,1990,Brazil,Marseille,France
+4384,1990,Brazil,Botafogo,Brazil
+4385,1990,Brazil,Napoli,Italy
+4386,1990,Brazil,Vasco da Gama,Brazil
+4387,1990,Brazil,Benfica,Portugal
+4388,1990,Brazil,Sporting CP,Portugal
+4389,1990,Brazil,Vasco da Gama,Brazil
+4390,1990,Brazil,Napoli,Italy
+4391,1990,Brazil,Flamengo,Brazil
+4392,1990,Cameroon,Créteil,France
+4393,1990,Cameroon,Tonnerre Yaoundé,Cameroon
+4394,1990,Cameroon,Prévoyance Yaoundé,Cameroon
+4395,1990,Cameroon,Canon Yaoundé,Cameroon
+4396,1990,Cameroon,La Roche Vendée,France
+4397,1990,Cameroon,Canon Yaoundé,Cameroon
+4398,1990,Cameroon,Chênois,Switzerland
+4399,1990,Cameroon,Union Douala,Cameroon
+4400,1990,Cameroon,Toulon,France
+4401,1990,Cameroon,Valenciennes,France
+4402,1990,Cameroon,Union Douala,Cameroon
+4403,1990,Colombia,tletico Nacional,Colombia
+4404,1990,Colombia,Independiente Santa Fe,Colombia
+4405,1990,Colombia,Atletico Nacional,Colombia
+4406,1990,Colombia,Atletico Nacional,Colombia
+4407,1990,Colombia,Atletico Junior,Colombia
+4408,1990,Colombia,Atletico Nacional,Colombia
+4409,1990,Colombia,Atletico Nacional,Colombia
+4410,1990,Colombia,Deportivo Cali,Colombia
+4411,1990,Colombia,Atletico Nacional,Colombia
+4412,1990,Colombia,Millonarios,Colombia
+4413,1990,Colombia,America de Cali,Colombia
+4414,1990,Colombia,Millonarios,Colombia
+4415,1990,Colombia,Millonarios,Colombia
+4416,1990,Costa Rica,Ramonense,Costa Rica
+4417,1990,Costa Rica,Municipal Puntarenas,Costa Rica
+4418,1990,Costa Rica,Saprissa,Costa Rica
+4419,1990,Costa Rica,Saprissa,Costa Rica
+4420,1990,Costa Rica,Saprissa,Costa Rica
+4421,1990,Costa Rica,Saprissa,Costa Rica
+4422,1990,Costa Rica,Herediano,Costa Rica
+4423,1990,Costa Rica,Herediano,Costa Rica
+4424,1990,Costa Rica,Herediano,Costa Rica
+4425,1990,Costa Rica,Cartaginés,Costa Rica
+4426,1990,Costa Rica,Alajuelense,Costa Rica
+4427,1990,Costa Rica,Alajuelense,Costa Rica
+4428,1990,Costa Rica,Herediano,Costa Rica
+4429,1990,Costa Rica,Saprissa,Costa Rica
+4430,1990,Costa Rica,Alajuelense,Costa Rica
+4431,1990,Costa Rica,Cartaginés,Costa Rica
+4432,1990,Costa Rica,Alajuelense,Costa Rica
+4433,1990,Costa Rica,Saprissa,Costa Rica
+4434,1990,Costa Rica,Limonense,Costa Rica
+4435,1990,Costa Rica,Herediano,Costa Rica
+4436,1990,Costa Rica,Saprissa,Costa Rica
+4437,1990,Czechoslovakia,Sparta Prague,Czech Republic
+4438,1990,Czechoslovakia,West Ham,England
+4439,1990,Czechoslovakia,Plastika Nitra,Slovakia
+4440,1990,Czechoslovakia,Sparta Prague,Czech Republic
+4441,1990,Czechoslovakia,TJ Vítkovice,Czech Republic
+4442,1990,Czechoslovakia,FC St. Pauli,Germany
+4443,1990,Czechoslovakia,Borussia Monchengladbach,Germany
+4444,1990,Czechoslovakia,Fiorentina,Italy
+4445,1990,Czechoslovakia,Dunajská Streda,Slovakia
+4446,1990,Czechoslovakia,Slovan Bratislava,Slovakia
+4447,1990,Czechoslovakia,Sparta Prague,Czech Republic
+4448,1990,Czechoslovakia,Sparta Prague,Czech Republic
+4449,1990,Czechoslovakia,PSV,Netherlands
+4450,1990,Czechoslovakia,Plastika Nitra,Slovakia
+4451,1990,Czechoslovakia,Dukla Prague,Czech Republic
+4452,1990,Czechoslovakia,Inter Bratislava,Slovakia
+4453,1990,Czechoslovakia,Sparta Prague,Czech Republic
+4454,1990,Czechoslovakia,Sparta Prague,Czech Republic
+4455,1990,Czechoslovakia,Baník Ostrava,Czech Republic
+4456,1990,Czechoslovakia,FC St. Pauli,Germany
+4457,1990,Czechoslovakia,Sporting Gijon,Spain
+4458,1990,Czechoslovakia,Feyenoord,Netherlands
+4459,1990,Egypt,Al Ahly,Egypt
+4460,1990,Egypt,Zamalek,Egypt
+4461,1990,Egypt,Al Ahly,Egypt
+4462,1990,Egypt,Al Ahly,Egypt
+4463,1990,Egypt,Al Ahly,Egypt
+4464,1990,Egypt,Al Ahly,Egypt
+4465,1990,Egypt,Zamalek,Egypt
+4466,1990,Egypt,Zamalek,Egypt
+4467,1990,Egypt,Zamalek,Egypt
+4468,1990,Egypt,Zamalek,Egypt
+4469,1990,Egypt,Beira-Mar,Portugal
+4470,1990,Egypt,Zamalek,Egypt
+4471,1990,Egypt,Al-Masry,Egypt
+4472,1990,Egypt,Al Ahly,Egypt
+4473,1990,Egypt,Al Ahly,Egypt
+4474,1990,Egypt,Ghazl El-Mehalla,Egypt
+4475,1990,Egypt,PAOK,Greece
+4476,1990,Egypt,Al Ahly,Egypt
+4477,1990,Egypt,Al Ahly,Egypt
+4478,1990,Egypt,Al Ahly,Egypt
+4479,1990,Egypt,Al Ahly,Egypt
+4480,1990,Egypt,El-Olympi Alexandria,Egypt
+4481,1990,England,Derby County,England
+4482,1990,England,Rangers,Scotland
+4483,1990,England,Chelsea,England
+4484,1990,England,Rangers,Scotland
+4485,1990,England,Nottingham Forest,England
+4486,1990,England,Nottingham Forest,England
+4487,1990,England,Rangers,Scotland
+4488,1990,England,Queens Park Rangers,England
+4489,1990,England,Derby County,England
+4490,1990,England,Chelsea,England
+4491,1990,England,Manchester United,England
+4492,1990,England,Manchester United,England
+4493,1990,England,Marseille,France
+4494,1990,England,Liverpool,England
+4495,1990,England,Liverpool,England
+4496,1990,England,Aston Villa,England
+4497,1990,England,Nottingham Forest,England
+4498,1990,England,Tottenham,England
+4499,1990,England,Rangers,Scotland
+4500,1990,England,Liverpool,England
+4501,1990,England,Tottenham,England
+4502,1990,England,Wolverhampton,England
+4503,1990,Italy,Internazionale,Italy
+4504,1990,Italy,Juventus,Italy
+4505,1990,Italy,Juventus,Italy
+4506,1990,Italy,Napoli,Italy
+4507,1990,Italy,Internazionale,Italy
+4508,1990,Italy,Sampdoria,Italy
+4509,1990,Italy,AC Milan,Italy
+4510,1990,Italy,Napoli,Italy
+4511,1990,Italy,Roma,Italy
+4512,1990,Italy,Juventus,Italy
+4513,1990,Italy,Napoli,Italy
+4514,1990,Italy,Sampdoria,Italy
+4515,1990,Italy,Juventus,Italy
+4516,1990,Italy,Internazionale,Italy
+4517,1990,Italy,Sampdoria,Italy
+4518,1990,Netherlands,PSV,Netherlands
+4519,1990,Netherlands,Feyenoord,Netherlands
+4520,1990,Netherlands,Ajax,Netherlands
+4521,1990,Netherlands,PSV,Netherlands
+4522,1990,Netherlands,Anderlecht,Belgium
+4523,1990,Netherlands,Mechelen,Belgium
+4524,1990,Netherlands,Roda JC,Netherlands
+4525,1990,Netherlands,Mechelen,Belgium
+4526,1990,Netherlands,PSV,Netherlands
+4527,1990,Netherlands,AC Milan,Italy
+4528,1990,Netherlands,Ajax,Netherlands
+4529,1990,Netherlands,AC Milan,Italy
+4530,1990,Netherlands,PSV,Netherlands
+4531,1990,Netherlands,Ajax,Netherlands
+4532,1990,Netherlands,Aberdeen,Scotland
+4533,1990,Netherlands,Roda JC,Netherlands
+4534,1990,Republic of Ireland,AFC Bournemouth,England
+4535,1990,Republic of Ireland,Celtic,Scotland
+4536,1990,Republic of Ireland,Millwall,England
+4537,1990,Republic of Ireland,Arsenal,England
+4538,1990,Republic of Ireland,Tottenham,England
+4539,1990,Republic of Ireland,Everton,England
+4540,1990,Republic of Ireland,Middlesbrough,England
+4541,1990,Republic of Ireland,Blackburn Rovers,England
+4542,1990,Republic of Ireland,Le Havre,France
+4543,1990,Romania,Steaua Bucuresti,Romania
+4544,1990,Romania,Petrolul Ploiesti,Romania
+4545,1990,Romania,Dinamo Bucuresti,Romania
+4546,1990,Romania,Dinamo Bucuresti,Romania
+4547,1990,Romania,Dinamo Bucuresti,Romania
+4548,1990,Romania,Universitatea Craiova,Romania
+4549,1990,Romania,Universitatea Craiova,Romania
+4550,1990,Romania,Steaua Bucuresti,Romania
+4551,1990,Romania,Dinamo Bucuresti,Romania
+4552,1990,Romania,Dinamo Bucuresti,Romania
+4553,1990,Romania,Dinamo Bucuresti,Romania
+4554,1990,Romania,Dinamo Bucuresti,Romania
+4555,1990,Romania,Steaua Bucuresti,Romania
+4556,1990,Romania,Charleroi,Belgium
+4557,1990,Romania,Steaua Bucuresti,Romania
+4558,1990,Scotland,Hibernian,Scotland
+4559,1990,Scotland,Norwich City,England
+4560,1990,Scotland,Aberdeen,Scotland
+4561,1990,Scotland,Newcastle United,England
+4562,1990,Scotland,Rangers,Scotland
+4563,1990,Scotland,Dundee United,Scotland
+4564,1990,Scotland,Liverpool,England
+4565,1990,Scotland,Hearts,Scotland
+4566,1990,Scotland,Aberdeen,Scotland
+4567,1990,Scotland,Hearts,Scotland
+4568,1990,Scotland,Celtic,Scotland
+4569,1990,Scotland,Aberdeen,Scotland
+4570,1990,Scotland,Borussia Dortmund,Germany
+4571,1990,Scotland,Everton,England
+4572,1990,Scotland,Leicester City,England
+4573,1990,Scotland,Rangers,Scotland
+4574,1990,Scotland,Rangers,Scotland
+4575,1990,Scotland,Bayern Munich,Germany
+4576,1990,Scotland,Norwich City,England
+4577,1990,South Korea,Daewoo Royals,South Korea
+4578,1990,South Korea,POSCO Atoms,South Korea
+4579,1990,South Korea,POSCO Atoms,South Korea
+4580,1990,South Korea,Hyundai Horangi,South Korea
+4581,1990,South Korea,Hyundai Horangi,South Korea
+4582,1990,South Korea,Daewoo Royals,South Korea
+4583,1990,South Korea,Hyundai Horangi,South Korea
+4584,1990,South Korea,Lucky-Goldstar Hwangso,South Korea
+4585,1990,South Korea,Yukong Elephants,South Korea
+4586,1990,South Korea,Yukong Elephants,South Korea
+4587,1990,South Korea,POSCO Atoms,South Korea
+4588,1990,South Korea,Daewoo Royals,South Korea
+4589,1990,South Korea,Daewoo Royals,South Korea
+4590,1990,South Korea,Hyundai Horangi,South Korea
+4591,1990,South Korea,Lucky-Goldstar Hwangso,South Korea
+4592,1990,Soviet Union,Sevilla,Spain
+4593,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4594,1990,Soviet Union,Dynamo Moscow,Russia
+4595,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4596,1990,Soviet Union,Toulouse,France
+4597,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4598,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4599,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4600,1990,Soviet Union,CSKA Moscow,Russia
+4601,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4602,1990,Soviet Union,Juventus,Italy
+4603,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4604,1990,Soviet Union,Juventus,Italy
+4605,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4606,1990,Soviet Union,Dynamo Minsk,Belarus
+4607,1990,Soviet Union,Spartak Moscow,Russia
+4608,1990,Soviet Union,CSKA Moscow,Russia
+4609,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4610,1990,Soviet Union,Dynamo Moscow,Russia
+4611,1990,Soviet Union,Schalke 04,Germany
+4612,1990,Spain,Sporting Gijon,Spain
+4613,1990,Spain,Valencia,Spain
+4614,1990,Spain,Real Madrid,Spain
+4615,1990,Spain,Sevilla,Spain
+4616,1990,Spain,Athletic Bilbao,Spain
+4617,1990,Spain,Real Madrid,Spain
+4618,1990,Spain,Valencia,Spain
+4619,1990,Spain,Real Sociedad,Spain
+4620,1990,Spain,Real Madrid,Spain
+4621,1990,Spain,Valencia,Spain
+4622,1990,Spain,Real Zaragoza,Spain
+4623,1990,Spain,Barcelona,Spain
+4624,1990,Spain,Barcelona,Spain
+4625,1990,Spain,Sevilla,Spain
+4626,1990,Spain,Real Madrid,Spain
+4627,1990,Spain,Real Zaragoza,Spain
+4628,1990,Spain,Real Madrid,Spain
+4629,1990,Spain,Atletico Madrid,Spain
+4630,1990,Sweden,Orgryte,Sweden
+4631,1990,Sweden,IFK Norrkoping,Sweden
+4632,1990,Sweden,Liverpool,England
+4633,1990,Sweden,Ajax,Netherlands
+4634,1990,Sweden,Grasshopper,Switzerland
+4635,1990,Sweden,Malmo,Sweden
+4636,1990,Sweden,Malmo,Sweden
+4637,1990,Sweden,Osters,Sweden
+4638,1990,Sweden,Malmo,Sweden
+4639,1990,Sweden,Atalanta,Italy
+4640,1990,Sweden,Cannes,France
+4641,1990,Sweden,Benfica,Portugal
+4642,1990,Sweden,Ajax,Netherlands
+4643,1990,United Arab Emirates,Al-Ahli,United Arab Emirates
+4644,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4645,1990,United Arab Emirates,Al Shabab,United Arab Emirates
+4646,1990,United Arab Emirates,Al Khaleej Club,United Arab Emirates
+4647,1990,United Arab Emirates,Al Khaleej Club,United Arab Emirates
+4648,1990,United Arab Emirates,Al-Nasr,United Arab Emirates
+4649,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4650,1990,United Arab Emirates,Al-Ahli,United Arab Emirates
+4651,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4652,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4653,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4654,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4655,1990,United Arab Emirates,Al Khaleej Club,United Arab Emirates
+4656,1990,United Arab Emirates,Al-Nasr,United Arab Emirates
+4657,1990,United Arab Emirates,Al-Wasl,United Arab Emirates
+4658,1990,United Arab Emirates,Al-Wasl,United Arab Emirates
+4659,1990,United Arab Emirates,Al-Wasl,United Arab Emirates
+4660,1990,United Arab Emirates,Al-Wasl,United Arab Emirates
+4661,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4662,1990,United Arab Emirates,Al Shaab,United Arab Emirates
+4663,1990,United Arab Emirates,Al-Wasl,United Arab Emirates
+4664,1990,United Arab Emirates,Sharjah,United Arab Emirates
+4665,1990,USA,Los Angeles Heat,USA
+4666,1990,USA,Tampa Bay Rowdies,USA
+4667,1990,USA,San Francisco Bay Blackhawks,USA
+4668,1990,USA,Milwaukee Wave,USA
+4669,1990,USA,Albany Capitals,USA
+4670,1990,USA,Albany Capitals,USA
+4671,1990,USA,Real Santa Barbara,USA
+4672,1990,USA,Baltimore Blast,USA
+4673,1990,USA,Washington Stars,USA
+4674,1990,USA,UCLA Bruins,USA
+4675,1990,USA,Wake Forest Demon Deacons,USA
+4676,1990,USA,Gyori,Hungary
+4677,1990,USA,Volendam,Netherlands
+4678,1990,USA,Fort Lauderdale Strikers,USA
+4679,1990,USA,Washington Stars,USA
+4680,1990,Uruguay,Peñarol,Uruguay
+4681,1990,Uruguay,Independiente,Argentina
+4682,1990,Uruguay,Tenerife,Spain
+4683,1990,Uruguay,Hellas Verona,Italy
+4684,1990,Uruguay,River Plate,Argentina
+4685,1990,Uruguay,Figueres,Spain
+4686,1990,Uruguay,Peñarol,Uruguay
+4687,1990,Uruguay,Nacional,Uruguay
+4688,1990,Uruguay,Nacional,Uruguay
+4689,1990,Uruguay,Genoa,Italy
+4690,1990,Uruguay,Cruz Azul,Mexico
+4691,1990,Uruguay,Genoa,Italy
+4692,1990,Uruguay,Peñarol,Uruguay
+4693,1990,Uruguay,Sevilla,Spain
+4694,1990,Uruguay,Danubio,Uruguay
+4695,1990,Uruguay,Nacional,Uruguay
+4696,1990,Uruguay,Logroñés,Spain
+4697,1990,Uruguay,Marseille,France
+4698,1990,Uruguay,Lazio,Italy
+4699,1990,Uruguay,Defensor Sporting,Uruguay
+4700,1990,Uruguay,Genoa,Italy
+4701,1990,Uruguay,Nacional,Uruguay
+4702,1990,West Germany,Bayern Munich,Germany
+4703,1990,West Germany,Bayern Munich,Germany
+4704,1990,West Germany,1. FC Köln,Germany
+4705,1990,West Germany,Bayern Munich,Germany
+4706,1990,West Germany,1. FC Köln,Germany
+4707,1990,West Germany,Eintracht Frankfurt,Germany
+4708,1990,West Germany,Werder Bremen,Germany
+4709,1990,West Germany,Borussia Dortmund,Germany
+4710,1990,Yugoslavia,Sporting CP,Portugal
+4711,1990,Yugoslavia,Partizan,Serbia
+4712,1990,Yugoslavia,Partizan,Serbia
+4713,1990,Yugoslavia,Partizan,Serbia
+4714,1990,Yugoslavia,Mallorca,Spain
+4715,1990,Yugoslavia,Sochaux,France
+4716,1990,Yugoslavia,Cesena,Italy
+4717,1990,Yugoslavia,Sion,Switzerland
+4718,1990,Yugoslavia,Dinamo Zagreb,Croatia
+4719,1990,Yugoslavia,Metz,France
+4720,1990,Yugoslavia,PSG,France
+4721,1990,Yugoslavia,Sampdoria,Italy
+4722,1990,Yugoslavia,Red Star Belgrade,Serbia
+4723,1990,Yugoslavia,Red Star Belgrade,Serbia
+4724,1990,Yugoslavia,PSG,France
+4725,1990,Yugoslavia,Hajduk Split,Croatia
 4726,1986,Algeria,WKF Boufarik,Algeria
+4727,1982,Algeria,JE Tizi-Ouzou,Algeria
 4727,1986,Algeria,JE Tizi-Ouzou,Algeria
+4728,1982,Algeria,MA Hussein Dey,Algeria
 4728,1986,Algeria,JS El Biar,Algeria
+4729,1982,Algeria,Bordeaux,France
 4729,1986,Algeria,Lille,France
 4730,1986,Algeria,Monaco,France
 4731,1986,Algeria,JE Tizi-Ouzou,Algeria
+4732,1982,Algeria,Montpellier,France
 4732,1986,Algeria,Montpellier,France
 4733,1986,Algeria,RS Kouba,Algeria
 4734,1986,Algeria,ASO Chlef,Algeria
 4735,1986,Algeria,Rouen,France
 4736,1986,Algeria,RS Kouba,Algeria
+4737,1982,Algeria,Tours,France
 4737,1986,Algeria,Montpellier,France
+4738,1982,Algeria,GCR Mascara,Algeria
 4738,1986,Algeria,GCR Mascara,Algeria
 4739,1986,Algeria,WKF Boufarik,Algeria
 4740,1986,Algeria,Racing Paris,France
+4741,1982,Algeria,RS Kouba,Algeria
 4741,1986,Algeria,Mulhouse,France
 4742,1986,Algeria,JE Tizi-Ouzou,Algeria
+4743,1982,Algeria,MA Hussein Dey,Algeria
 4743,1986,Algeria,Porto,Portugal
+4744,1982,Algeria,MP Oran,Algeria
 4744,1986,Algeria,Le Havre,France
 4745,1986,Algeria,Notts County,England
+4746,1982,Algeria,Kortrijk,Belgium
 4746,1986,Algeria,Waterschei Thor,Belgium
 4747,1986,Argentina,America,Mexico
 4748,1986,Argentina,Deportivo Español,Argentina
+4749,1982,Argentina,River Plate,Argentina
 4749,1986,Argentina,Fiorentina,Italy
 4750,1986,Argentina,Independiente,Argentina
 4751,1986,Argentina,Velez Sarsfield,Argentina
@@ -6302,18 +6321,24 @@ player_id,world_cup_year,team,club,country_club
 4756,1986,Argentina,Boca Juniors,Argentina
 4757,1986,Argentina,Elche,Spain
 4758,1986,Argentina,Newell's Old Boys,Argentina
+4759,1982,Argentina,Real Zaragoza,Spain
 4759,1986,Argentina,Real Madrid,Spain
 4760,1986,Argentina,Lecce,Italy
+4761,1982,Belgium,Beveren,Belgium
 4761,1986,Belgium,Bayern Munich,Germany
+4762,1982,Belgium,Anderlecht,Belgium
 4762,1986,Belgium,Anderlecht,Belgium
+4763,1982,Belgium,Anderlecht,Belgium
 4763,1986,Belgium,Standard Liège,Belgium
 4764,1986,Belgium,Waterschei Thor,Belgium
 4765,1986,Belgium,Club Brugge,Belgium
+4766,1982,Belgium,Lierse,Belgium
 4766,1986,Belgium,Anderlecht,Belgium
 4767,1986,Belgium,Anderlecht,Belgium
 4768,1986,Belgium,Waregem,Belgium
 4769,1986,Belgium,Club Brugge,Belgium
 4770,1986,Belgium,Anderlecht,Belgium
+4771,1982,Belgium,Lokeren,Belgium
 4771,1986,Belgium,Lokeren,Belgium
 4772,1986,Belgium,Waregem,Belgium
 4773,1986,Brazil,Corinthians,Brazil
@@ -7114,3 +7139,4 @@ player_id,world_cup_year,team,club,country_club
 5565,1982,Yugoslavia, Dinamo Zagreb,Croatia
 5566,1982,Yugoslavia, Nantes,France
 5567,1982,Algeria, DNC Alger,Algeria
+
