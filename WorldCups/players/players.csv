@@ -18,7 +18,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 17,20,Alexis Mac Allister,24-12-1998,MF,Argentina
 18,24,Enzo Fernandez,17-01-2001,MF,Argentina
 19,17,Alejandro Gomez,26-04-2001,MF,Argentina
-20,10,Lionel Messi ??,24-06-1987,FW,Argentina
+20,10,Lionel Messi,24-06-1987,FW,Argentina
 21,22,Lautaro Martinez,22-08-1997,FW,Argentina
 22,21,Paulo Dybala,15-11-1993,FW,Argentina
 23,16,Thiago Almada,26-04-2001,FW,Argentina
@@ -539,7 +539,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 538,14,William Carvalho,07-04-1992,MF,Portugal
 539,16,Vitinha,13-02-2000,MF,Portugal
 540,24,Andre Silva,06-11-1995,FW,Portugal
-541,7,Cristiano Ronaldo ??,05-02-1985,FW,Portugal
+541,7,Cristiano Ronaldo,05-02-1985,FW,Portugal
 542,26,Goncalo Ramos,20-06-2001,FW,Portugal
 543,11,Joao Felix,10-11-1999,FW,Portugal
 544,15,Rafael Leao,10-06-1999,FW,Portugal
@@ -5568,3 +5568,4 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5565,18,Stjepan Deveri?,20-08-1961,FW,Yugoslavia
 5566,19,Vahid Halilhodži?,15-10-1952,FW,Yugoslavia
 5567,17,Abdelkader Horr,10-11-1953,DF,Algeria
+
