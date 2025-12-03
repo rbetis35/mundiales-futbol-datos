@@ -4084,6 +4084,7 @@ player_id,world_cup_year,team,club,country_club
 2956,1998,Argentina,Internazionale,Italy
 2956,2002,Argentina,Internazionale,Italy
 2957,2002,Argentina,Bayer Leverkusen,Germany
+2958,1986,Brazil,Fluminense,Brazil
 2958,1990,Brazil,Porto,Portugal
 2958,1994,Brazil,Fluminense,Brazil
 2959,1998,Argentina,Lazio,Italy
@@ -4826,9 +4827,11 @@ player_id,world_cup_year,team,club,country_club
 3509,1994,Belgium,Club Brugge,Belgium
 3509,1998,Belgium,Club Brugge,Belgium
 3510,1998,Belgium,Germinal Ekeren,Belgium
+3511,1986,Belgium,Club Brugge,Belgium
 3511,1990,Belgium,Club Brugge,Belgium
 3511,1994,Belgium,Club Brugge,Belgium
 3511,1998,Belgium,Club Brugge,Belgium
+3512,1986,Belgium,Anderlecht,Belgium
 3512,1990,Belgium,Auxerre,France
 3512,1994,Belgium,Monaco,France
 3512,1998,Belgium,Anderlecht,Belgium
@@ -4861,6 +4864,7 @@ player_id,world_cup_year,team,club,country_club
 3529,1998,Brazil,Botafogo,Brazil
 3530,1998,Brazil,Fiorentina,Italy
 3531,1998,Bulgaria,Istanbulspor,Turkey
+3532,1986,Bulgaria,Vitosha Sofia,Bulgaria
 3532,1994,Bulgaria,Mulhouse,France
 3532,1998,Bulgaria,Slavia Sofia,Bulgaria
 3533,1998,Bulgaria,Litex Lovech,Bulgaria
@@ -4978,6 +4982,7 @@ player_id,world_cup_year,team,club,country_club
 3624,1998,Denmark,Derby County,England
 3625,1998,Denmark,Tottenham,England
 3626,1998,Denmark,Bolton Wanderers,England
+3627,1986,Denmark,Juventus,Italy
 3627,1998,Denmark,Ajax,Netherlands
 3628,1998,Denmark,Celtic,Scotland
 3629,1998,Denmark,Copenhagen,Denmark
@@ -5013,9 +5018,11 @@ player_id,world_cup_year,team,club,country_club
 3655,1998,Germany,Borussia Dortmund,Germany
 3656,1994,Germany,Bayern Munich,Germany
 3656,1998,Germany,Bayern Munich,Germany
+3657,1986,West Germany,Schalke 04,Germany
 3657,1990,West Germany,Bayern Munich,Germany
 3657,1998,Germany,Schalke 04,Germany
 3658,1982,West Germany,Borussia Moenchengladbach,Germany
+3658,1986,West Germany,Bayern Munich,Germany
 3658,1990,West Germany,Internazionale,Italy
 3658,1994,Germany,Bayern Munich,Germany
 3658,1998,Germany,Bayern Munich,Germany
@@ -5060,6 +5067,7 @@ player_id,world_cup_year,team,club,country_club
 3688,1994,Italy,Sampdoria,Italy
 3688,1998,Italy,Internazionale,Italy
 3689,1982,Italy,Internazionale,Italy
+3689,1986,Italy,Internazionale,Italy
 3689,1990,Italy,Internazionale,Italy
 3689,1998,Italy,Internazionale,Italy
 3690,1994,Italy,AC Milan,Italy
@@ -5310,6 +5318,7 @@ player_id,world_cup_year,team,club,country_club
 3869,1994,Saudi Arabia,Al Shabab,Saudi Arabia
 3869,1998,Saudi Arabia,Al Shabab,Saudi Arabia
 3870,1982,Scotland,Aberdeen,Scotland
+3870,1986,Scotland,Aberdeen,Scotland
 3870,1990,Scotland,Manchester United,England
 3870,1998,Scotland,Aberdeen,Scotland
 3871,1998,Scotland,Wimbledon,England
@@ -5370,6 +5379,7 @@ player_id,world_cup_year,team,club,country_club
 3920,1998,South Korea,Vissel Kobe,Japan
 3921,1994,South Korea,Sangmu FC,South Korea
 3921,1998,South Korea,Strasbourg,France
+3922,1986,Spain,Athletic Bilbao,Spain
 3922,1990,Spain,Barcelona,Spain
 3922,1994,Spain,Barcelona,Spain
 3922,1998,Spain,Valencia,Spain
@@ -5452,9 +5462,11 @@ player_id,world_cup_year,team,club,country_club
 3979,1998,Yugoslavia,Real Sociedad,Spain
 3980,1990,Argentina,Millonarios,Colombia
 3980,1994,Argentina,River Plate,Argentina
+3981,1986,Argentina,Estudiantes,Argentina
 3981,1994,Argentina,Independiente,Argentina
 3982,1994,Argentina,Newell's Old Boys,Argentina
 3983,1994,Argentina,Universidad Católica,Chile
+3984,1986,Argentina,River Plate,Argentina
 3984,1990,Argentina,Real Madrid,Spain
 3984,1994,Argentina,San Lorenzo,Argentina
 3985,1994,Argentina,Real Zaragoza,Spain
@@ -5477,8 +5489,10 @@ player_id,world_cup_year,team,club,country_club
 3997,1990,Belgium,Mechelen,Belgium
 3997,1994,Belgium,Anderlecht,Belgium
 3998,1994,Belgium,Antwerp,Belgium
+3999,1986,Belgium,Anderlecht,Belgium
 3999,1990,Belgium,Anderlecht,Belgium
 3999,1994,Belgium,Parma,Italy
+4000,1986,Belgium,Gent,Belgium
 4000,1990,Belgium,Kortrijk,Belgium
 4000,1994,Belgium,Anderlecht,Belgium
 4001,1994,Belgium,Club Brugge,Belgium
@@ -5528,6 +5542,7 @@ player_id,world_cup_year,team,club,country_club
 4039,1990,Brazil,PSV,Netherlands
 4039,1994,Brazil,Barcelona,Spain
 4040,1994,Brazil,Bayer Leverkusen,Germany
+4041,1986,Brazil,Sao Paulo,Brazil
 4041,1990,Brazil,Torino,Italy
 4041,1994,Brazil,Sao Paulo,Brazil
 4042,1994,Brazil,Corinthians,Brazil
@@ -5540,6 +5555,7 @@ player_id,world_cup_year,team,club,country_club
 4049,1994,Bulgaria,Hamburger SV,Germany
 4050,1994,Bulgaria,Ipswich Town,England
 4051,1994,Bulgaria,Mulhouse,France
+4052,1986,Bulgaria,Vitosha Sofia,Bulgaria
 4052,1994,Bulgaria,Levski Sofia,Bulgaria
 4053,1994,Bulgaria,Pirin Blagoevgrad,Bulgaria
 4054,1994,Bulgaria,Levski Sofia,Bulgaria
@@ -5594,10 +5610,12 @@ player_id,world_cup_year,team,club,country_club
 4085,1994,Colombia,Atletico Junior,Colombia
 4086,1990,West Germany,1. FC Koln,Germany
 4086,1994,Germany,1. FC Koln,Germany
+4087,1986,West Germany,1. FC Kaiserslautern,Germany
 4087,1990,West Germany,Internazionale,Italy
 4087,1994,Germany,1. FC Kaiserslautern,Germany
 4088,1990,West Germany,VfB Stuttgart,Germany
 4088,1994,Germany,VfB Stuttgart,Germany
+4089,1986,West Germany,Eintracht Frankfurt,Germany
 4089,1990,West Germany,Roma,Italy
 4089,1994,Germany,VfB Stuttgart,Germany
 4090,1994,Germany,Borussia Dortmund,Germany
@@ -5609,6 +5627,7 @@ player_id,world_cup_year,team,club,country_club
 4096,1990,West Germany,Werder Bremen,Germany
 4096,1994,Germany,Borussia Dortmund,Germany
 4097,1994,Germany,1. FC Kaiserslautern,Germany
+4098,1986,West Germany,Werder Bremen,Germany
 4098,1990,West Germany,Roma,Italy
 4098,1994,Germany,Marseille,France
 4099,1994,Greece,Apollon Athens,Greece
@@ -5666,7 +5685,9 @@ player_id,world_cup_year,team,club,country_club
 4146,1994,Mexico,Guadalajara,Mexico
 4147,1994,Mexico,Guadalajara,Mexico
 4148,1994,Mexico,Toluca,Mexico
+4149,1986,Mexico,America,Mexico
 4149,1994,Mexico,Cruz Azul,Mexico
+4150,1986,Mexico,Real Madrud,Spain
 4150,1994,Mexico,Rayo Vallecano,Spain
 4151,1994,Mexico,América,Mexico
 4152,1994,Mexico,León,Mexico
@@ -5814,6 +5835,7 @@ player_id,world_cup_year,team,club,country_club
 4271,1994,South Korea,LG Cheetahs,South Korea
 4272,1994,South Korea,POSCO Atoms,South Korea
 4273,1994,South Korea,POSCO Atoms,South Korea
+4274,1986,South Korea,Chosun University,South Korea
 4274,1990,South Korea,Daewoo Royals,South Korea
 4274,1994,South Korea,VfL Bochum,Germany
 4275,1994,South Korea,Ilhwa Chunma,South Korea
@@ -5828,6 +5850,7 @@ player_id,world_cup_year,team,club,country_club
 4284,1994,Spain,Tenerife,Spain
 4285,1994,Spain,Barcelona,Spain
 4286,1994,Spain,Sporting Gijon,Spain
+4287,1986,Spain,Athletic Bilbao,Spain
 4287,1990,Spain,Barcelona,Spain
 4287,1994,Spain,Barcelona,Spain
 4288,1990,Sweden,IFK Goteborg,Sweden
@@ -5888,8 +5911,10 @@ player_id,world_cup_year,team,club,country_club
 4333,1994,USA,Los Angeles Salsa,USA
 4334,1994,USA,USSF,USA
 4335,1994,USA,USSF,USA
+4336,1986,Morocco,Lausanne Sport,Switzerland
 4336,1994,Morocco,Angers,France
 4337,1994,Sweden,IFK Goteborg,Sweden
+4338,1986,Argentina,River Plate,Argentina
 4338,1990,Argentina,Real Betis,Spain
 4339,1990,Argentina,River Plate,Argentina
 4340,1990,Argentina,Ferro Carril Oeste,Argentina
@@ -5898,12 +5923,16 @@ player_id,world_cup_year,team,club,country_club
 4343,1990,Argentina,Bari,Italy
 4344,1990,Argentina,Independiente,Argentina
 4345,1982,Argentina,River Plate,Argentina
+4345,1986,Argentina,Boca Juniors,Argentina
 4345,1990,Argentina,Racing Club,Argentina
 4346,1990,Argentina,River Plate,Argentina
 4347,1990,Argentina,Boca Juniors,Argentina
 4348,1982,Argentina,Velez Sarsfield,Argentina
+4348,1986,Argentina,Argentinos Juniors,Argentina
 4348,1990,Argentina,River Plate,Argentina
+4349,1986,Argentina,Nantes,France
 4349,1990,Argentina,Nantes,France
+4350,1986,Argentina,Independiente,Argentina
 4350,1990,Argentina,Independiente,Argentina
 4351,1990,Argentina,Lazio,Italy
 4352,1982,Argentina,Independiente,Argentina
@@ -5926,29 +5955,39 @@ player_id,world_cup_year,team,club,country_club
 4367,1990,Austria,Austria Wien,Austria
 4368,1990,Austria,Admira Wacker,Austria
 4369,1990,Austria,Rapid Wien,Austria
+4370,1986,Belgium,Standard Liege,Belgium
 4370,1990,Belgium,Standard Liege,Belgium
 4371,1982,Belgium,Standard Liege,Belgium
+4371,1986,Belgium,PSV,Netherlands
 4371,1990,Belgium,PSV,Netherlands
 4372,1990,Belgium,Mechelen,Belgium
+4373,1986,Belgium,Anderlecht,Belgium
 4373,1990,Belgium,Porto,Portugal
 4374,1990,Belgium,FC Liege,Belgium
 4375,1990,Belgium,Club Brugge,Belgium
 4376,1990,Belgium,Mechelen,Belgium
 4377,1982,Belgium,Club Brugge,Belgium
+4377,1986,Belgium,Club Brugge,Belgium
 4377,1990,Belgium,Club Brugge,Belgium
+4378,1986,Belgium,Beerschot,Belgium
 4378,1990,Belgium,Anderlecht,Belgium
+4379,1986,Belgium,Standard Liege,Belgium
 4379,1990,Belgium,Royal Antwerp,Belgium
 4380,1990,Belgium,Anderlecht,Belgium
 4381,1990,Brazil,Vasco da Gama,Brazil
 4726,1990,Brazil,Flamengo,Brazil
 4382,1990,Brazil,Benfica,Portugal
 4383,1990,Brazil,Marseille,France
+4384,1986,Brazil,Internacional,Brazil
 4384,1990,Brazil,Botafogo,Brazil
+4385,1986,Brazil,Botafogo,Brazil
 4385,1990,Brazil,Napoli,Italy
 4386,1990,Brazil,Vasco da Gama,Brazil
+4387,1986,Brazil,Gremio,Brazil
 4387,1990,Brazil,Benfica,Portugal
 4388,1990,Brazil,Sporting CP,Portugal
 4389,1990,Brazil,Vasco da Gama,Brazil
+4390,1986,Brazil,Sao Paulo,Brazil
 4390,1990,Brazil,Napoli,Italy
 4391,1990,Brazil,Flamengo,Brazil
 4392,1990,Cameroon,Créteil,France
@@ -6042,45 +6081,61 @@ player_id,world_cup_year,team,club,country_club
 4479,1990,Egypt,Al Ahly,Egypt
 4480,1990,Egypt,El-Olympi Alexandria,Egypt
 4481,1982,England,Nottingham Forest,England
+4481,1986,England,Southampton,England
 4481,1990,England,Derby County,England
+4482,1986,England,Norwich City,England
 4482,1990,England,Rangers,Scotland
 4483,1990,England,Chelsea,England
 4484,1990,England,Rangers,Scotland
 4485,1990,England,Nottingham Forest,England
 4486,1990,England,Nottingham Forest,England
 4487,1982,England,Ipswich Town,England
+4487,1986,England,Ipswich Town,England
 4487,1990,England,Rangers,Scotland
 4488,1990,England,Queens Park Rangers,England
 4489,1990,England,Derby County,England
 4490,1990,England,Chelsea,England
 4491,1990,England,Manchester United,England
 4492,1982,England,Manchester United,England
+4492,1986,England,Manchester United,England
 4492,1990,England,Manchester United,England
+4493,1986,England,Tottenham,England
 4493,1990,England,Marseille,France
+4494,1986,England,Watford,England
 4494,1990,England,Liverpool,England
 4495,1990,England,Liverpool,England
 4496,1990,England,Aston Villa,England
+4497,1986,England,Aston Villa,England
 4497,1990,England,Nottingham Forest,England
 4498,1990,England,Tottenham,England
+4499,1986,England,Everton,England
 4499,1990,England,Rangers,Scotland
+4500,1986,England,Newcastle United,England
 4500,1990,England,Liverpool,England
+4501,1986,England,Everton,England
 4501,1990,England,Tottenham,England
 4502,1990,England,Wolverhampton,England
+4503,1986,Italy,Internazionale,Italy
 4503,1990,Italy,Internazionale,Italy
 4504,1990,Italy,Juventus,Italy
 4505,1990,Italy,Juventus,Italy
 4506,1990,Italy,Napoli,Italy
 4507,1990,Italy,Internazionale,Italy
 4508,1982,Italy,Fiorentina,Italy
+4508,1986,Italy,Sampdoria,Italy
 4508,1990,Italy,Sampdoria,Italy
+4509,1986,Italy,Roma,Italy
 4509,1990,Italy,AC Milan,Italy
+4510,1986,Italy,Avellino,Italy
 4510,1990,Italy,Napoli,Italy
 4511,1990,Italy,Roma,Italy
 4512,1990,Italy,Juventus,Italy
 4513,1990,Italy,Napoli,Italy
 4514,1990,Italy,Sampdoria,Italy
 4515,1990,Italy,Juventus,Italy
+4516,1986,Italy,Juventus,Italy
 4516,1990,Italy,Internazionale,Italy
+4517,1986,Italy,Sampdoria,Italy
 4517,1990,Italy,Sampdoria,Italy
 4518,1990,Netherlands,PSV,Netherlands
 4519,1990,Netherlands,Feyenoord,Netherlands
@@ -6122,18 +6177,25 @@ player_id,world_cup_year,team,club,country_club
 4555,1990,Romania,Steaua Bucuresti,Romania
 4556,1990,Romania,Charleroi,Belgium
 4557,1990,Romania,Steaua Bucuresti,Romania
+4558,1986,Scotland,Oldham Athletic,England
 4558,1990,Scotland,Hibernian,Scotland
 4559,1990,Scotland,Norwich City,England
 4560,1982,Scotland,Aberdeen,Scotland
+4560,1986,Scotland,Aberdeen,Scotland
 4560,1990,Scotland,Aberdeen,Scotland
+4561,1986,Scotland,Celtic,Scotland
 4561,1990,Scotland,Newcastle United,England
+4562,1986,Scotland,Dundee United,Scotland
 4562,1990,Scotland,Rangers,Scotland
+4563,1986,Scotland,Dundee United,Scotland
 4563,1990,Scotland,Dundee United,Scotland
 4564,1990,Scotland,Liverpool,England
 4565,1990,Scotland,Hearts,Scotland
 4566,1990,Scotland,Aberdeen,Scotland
 4567,1990,Scotland,Hearts,Scotland
+4568,1986,Scotland,Celtic,Scotland
 4568,1990,Scotland,Celtic,Scotland
+4569,1986,Scotland,Aberdeen,Scotland
 4569,1990,Scotland,Aberdeen,Scotland
 4570,1990,Scotland,Borussia Dortmund,Germany
 4571,1990,Scotland,Everton,England
@@ -6144,46 +6206,64 @@ player_id,world_cup_year,team,club,country_club
 4576,1990,Scotland,Norwich City,England
 4577,1990,South Korea,Daewoo Royals,South Korea
 4578,1990,South Korea,POSCO Atoms,South Korea
+4579,1986,South Korea,POSCO Atoms,South Korea
 4579,1990,South Korea,POSCO Atoms,South Korea
 4580,1990,South Korea,Hyundai Horangi,South Korea
 4581,1990,South Korea,Hyundai Horangi,South Korea
+4582,1986,South Korea,Daewoo Royals,South Korea
 4582,1990,South Korea,Daewoo Royals,South Korea
+4583,1986,South Korea,Yukong Elephants,South Korea
 4583,1990,South Korea,Hyundai Horangi,South Korea
+4584,1986,South Korea,Lucky-Goldstar Hwangso,South Korea
 4584,1990,South Korea,Lucky-Goldstar Hwangso,South Korea
+4585,1986,South Korea,Yukong Elephants,South Korea
 4585,1990,South Korea,Yukong Elephants,South Korea
 4586,1990,South Korea,Yukong Elephants,South Korea
 4587,1990,South Korea,POSCO Atoms,South Korea
+4588,1986,South Korea,Daewoo Royals,South Korea
 4588,1990,South Korea,Daewoo Royals,South Korea
 4589,1990,South Korea,Daewoo Royals,South Korea
+4590,1986,South Korea,Daewoo Royals,South Korea
 4590,1990,South Korea,Hyundai Horangi,South Korea
+4591,1986,South Korea,POSCO Atoms,South Korea
 4591,1990,South Korea,Lucky-Goldstar Hwangso,South Korea
 4592,1982,Soviet Union,Spartak Moscow,Russia
+4592,1986,Soviet Union,Spartak Moscow,Russia
 4592,1990,Soviet Union,Sevilla,Spain
 4593,1982,Soviet Union,Dynamo Kyiv,Ukraine
+4593,1986,Soviet Union,Dynamo Kyiv,Ukraine
 4593,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4594,1990,Soviet Union,Dynamo Moscow,Russia
 4595,1982,Soviet Union,Dynamo Kyiv,Ukraine
+4595,1986,Soviet Union,Dynamo Kyiv,Ukraine
 4595,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4596,1982,Soviet Union,CSKA Moscow,Russia
 4596,1990,Soviet Union,Toulouse,France
+4597,1986,Soviet Union,Dynamo Kyiv,Ukraine
 4597,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4598,1982,Soviet Union,Dynamo Kyiv,Ukraine
+4598,1986,Soviet Union,Dynamo Kyiv,Ukraine
 4598,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4599,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4600,1990,Soviet Union,CSKA Moscow,Russia
 4601,1990,Soviet Union,Dynamo Kyiv,Ukraine
+4602,1986,Soviet Union,Dynamo Minsk,Belarus
 4602,1990,Soviet Union,Juventus,Italy
 4603,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4604,1990,Soviet Union,Juventus,Italy
+4605,1986,Soviet Union,Dynamo Kyiv,Ukraine
 4605,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4606,1990,Soviet Union,Dynamo Minsk,Belarus
 4607,1990,Soviet Union,Spartak Moscow,Russia
 4608,1990,Soviet Union,CSKA Moscow,Russia
+4609,1986,Soviet Union,Dnipro Dnipropetrovsk,Ukraine
 4609,1990,Soviet Union,Dynamo Kyiv,Ukraine
 4610,1990,Soviet Union,Dynamo Moscow,Russia
 4611,1990,Soviet Union,Schalke 04,Germany
+4612,1986,Spain,Sporting Gijon,Spain
 4612,1990,Spain,Sporting Gijon,Spain
 4613,1990,Spain,Valencia,Spain
+4614,1986,Spain,Real Madrid,Spain
 4614,1990,Spain,Real Madrid,Spain
 4615,1990,Spain,Sevilla,Spain
 4616,1990,Spain,Athletic Bilbao,Spain
@@ -6198,6 +6278,7 @@ player_id,world_cup_year,team,club,country_club
 4625,1990,Spain,Sevilla,Spain
 4626,1990,Spain,Real Madrid,Spain
 4627,1990,Spain,Real Zaragoza,Spain
+4628,1986,Spain,Real Madrid,Spain
 4628,1990,Spain,Real Madrid,Spain
 4629,1990,Spain,Atletico Madrid,Spain
 4630,1990,Sweden,Orgryte,Sweden
@@ -6266,17 +6347,22 @@ player_id,world_cup_year,team,club,country_club
 4693,1990,Uruguay,Sevilla,Spain
 4694,1990,Uruguay,Danubio,Uruguay
 4695,1990,Uruguay,Nacional,Uruguay
+4696,1986,Uruguay,River Plate,Argentina
 4696,1990,Uruguay,Logroñés,Spain
+4697,1986,Uruguay,River Plate,Argentina
 4697,1990,Uruguay,Marseille,France
 4698,1990,Uruguay,Lazio,Italy
 4699,1990,Uruguay,Defensor Sporting,Uruguay
+4700,1986,Uruguay,Nacional,Uruguay
 4700,1990,Uruguay,Genoa,Italy
 4701,1990,Uruguay,Nacional,Uruguay
 4702,1990,West Germany,Bayern Munich,Germany
+4703,1986,West Germany,Bayern Munich,Germany
 4703,1990,West Germany,Bayern Munich,Germany
 4704,1990,West Germany,1. FC Köln,Germany
 4705,1990,West Germany,Bayern Munich,Germany
 4706,1982,West Germany,1. FC Köln,Germany
+4706,1986,West Germany,1. FC Köln,Germany
 4706,1990,West Germany,1. FC Köln,Germany
 4707,1990,West Germany,Eintracht Frankfurt,Germany
 4708,1990,West Germany,Werder Bremen,Germany
@@ -6831,409 +6917,407 @@ player_id,world_cup_year,team,club,country_club
 5163,1986,West Germany,Internazionale,Italy
 5164,1986,West Germany,1. FC Köln,Germany
 5165,1986,West Germany,Bayern Munich,Germany
-5166,1982,Algeria, RS Kouba,Algeria
-5167,1982,Algeria, MA Hussein Dey,Algeria
-5168,1982,Algeria, MA Hussein Dey,Algeria
-5169,1982,Algeria, MA Hussein Dey,Algeria
-5170,1982,Algeria, JE Tizi Ouzou,Algeria
-5171,1982,Algeria, JE Tizi Ouzou,Algeria
-5172,1982,Algeria, CM Belcourt,Algeria
-5173,1982,Algeria, PSG,France
-5174,1982,Algeria, Reims,France
-5175,1982,Algeria, MP Alger,Algeria
-5176,1982,Algeria, Laval,France
-5177,1982,Argentina, Talleres de Córdoba,Argentina
-5178,1982,Argentina, River Plate,Argentina
-5179,1982,Argentina, Talleres de Córdoba,Argentina
-5180,1982,Argentina, Independiente,Argentina
-5181,1982,Argentina, River Plate,Argentina
-5182,1982,Argentina, Independiente,Argentina
-5183,1982,Argentina, Racing,Argentina
-5184,1982,Argentina, Tottenham,England
-5185,1982,Argentina, Racing,Argentina
-5186,1982,Argentina, River Plate,Argentina
-5187,1982,Argentina, Estudiantes,Argentina
-5188,1982,Argentina, Talleres de Córdoba,Argentina
-5189,1982,Argentina, Fiorentina,Italy
-5190,1982,Argentina, River Plate,Argentina
-5191,1982,Argentina, River Plate,Argentina
-5192,1982,Argentina, Newell's Old Boys,Argentina
-5193,1982,Austria, Austria Wien,Austria
-5194,1982,Austria, Rapid Wien,Austria
-5568,1982,Austria, Rapid Wien,Austria
-5195,1982,Austria, Austria Wien,Austria
-5196,1982,Austria, Admira/Wacker,Austria
-5197,1982,Austria, Eintracht Frankfurt,Germany
-5198,1982,Austria, Sturm Graz,Austria
-5199,1982,Austria, Admira/Wacker,Austria
-5200,1982,Austria, Rapid Wien,Austria
-5201,1982,Austria, Rapid Wien,Austria
-5202,1982,Austria, SSW Innsbruck,Austria
-5203,1982,Austria, Internazionale,Italy
-5204,1982,Austria, 1. FC Nürnberg,Germany
-5205,1982,Austria, Grasshopper,Switzerland
-5206,1982,Austria, Austria Wien,Austria
-5207,1982,Austria, Austria Wien,Austria
-5208,1982,Austria, Cesena,Italy
-5209,1982,Austria, Rapid Wien,Austria
-5210,1982,Austria, VÖEST Linz,Austria
-5211,1982,Austria, Sturm Graz,Austria
-5212,1982,Austria, Valencia,Spain
-5213,1982,Belgium, Espanyol,Spain
-5214,1982,Belgium, KSV Waregem,Belgium
-5215,1982,Belgium, Standard Liège,Belgium
-5216,1982,Belgium, Beveren,Belgium
-5217,1982,Belgium, Lokeren,Belgium
-5218,1982,Belgium, Standard Liège,Belgium
-5219,1982,Belgium, Standard Liège,Belgium
-5220,1982,Belgium, Beveren,Belgium
-5221,1982,Belgium, Anderlecht,Belgium
-5222,1982,Belgium, Lokeren,Belgium
-5223,1982,Belgium, KSV Waregem,Belgium
-5224,1982,Belgium, Standard Liège,Belgium
-5225,1982,Belgium, West Ham,England
-5226,1982,Brazil, São Paulo,Brazil
-5227,1982,Brazil, Botafogo,Brazil
-5228,1982,Brazil, Flamengo,Brazil
-5229,1982,Brazil, São Paulo,Brazil
-5230,1982,Brazil, Atlético Mineiro,Brazil
-5231,1982,Brazil, Internacional,Brazil
-5232,1982,Brazil, Ponte Preta,Brazil
-5233,1982,Brazil, Vasco da Gama,Brazil
-5234,1982,Brazil, Atlético Mineiro,Brazil
-5235,1982,Brazil, Grêmio,Brazil
-5236,1982,Brazil, Grêmio,Brazil
-5237,1982,Brazil, São Paulo,Belgium
-5238,1982,Brazil, Atlético Madrid,Spain
-5239,1982,Brazil, São Paulo,Brazil
-5240,1982,Brazil, Atlético Mineiro,Brazil
-5241,1982,Brazil, Vasco da Gama,Brazil
-5242,1982,Cameroon, Dynamo Douala,Cameroon
-5243,1982,Cameroon, Stade Quimperois,France
-5244,1982,Cameroon, Dragon Douala,Cameroon
-5245,1982,Cameroon, Union Douala,Cameroon
-5246,1982,Cameroon, Fédéral SFC du Noun,Cameroon
-5247,1982,Cameroon, Union Douala,Cameroon
-5248,1982,Cameroon, Cannes,France
-5249,1982,Cameroon, Canon Yaoundé,Cameroon
-5250,1982,Cameroon, Canon Yaoundé,Cameroon
-5251,1982,Cameroon, Philadelphia Fever,USA
-5252,1982,Cameroon, Tonnerre Yaoundé,Cameroon
-5253,1982,Cameroon, Canon Yaoundé,Cameroon
-5254,1982,Cameroon, Union Douala,Cameroon
-5255,1982,Cameroon, Union Douala,Cameroon
-5256,1982,Cameroon, Cannes,France
-5257,1982,Cameroon, Canon Yaoundé,Cameroon
-5258,1982,Cameroon, Dynamo Douala,Cameroon
-5259,1982,Cameroon, Tonnerre Yaoundé,Cameroon
-5260,1982,Chile, Cobreloa,Chile
-5261,1982,Chile, Palestino,Chile
-5262,1982,Chile, Colo-Colo,Chile
-5263,1982,Chile, Colo-Colo,Chile
-5264,1982,Chile, Universidad Católica,Chile
-5265,1982,Chile, Universidad de Chile,Chile
-5266,1982,Chile, Colo-Colo,Chile
-5267,1982,Chile, Cobreloa,Chile
-5268,1982,Chile, Colo-Colo,Chile
-5269,1982,Chile, Colo-Colo,Chile
-5270,1982,Chile, Cobreloa,Chile
-5271,1982,Chile, Palestino,Chile
-5272,1982,Chile, Universidad Católica,Chile
-5273,1982,Chile, Colo-Colo,Chile
-5274,1982,Chile, Colo-Colo,Chile
-5275,1982,Chile, Universidad Católica,Chile
-5276,1982,Chile, Universidad Católica,Chile
-5277,1982,Chile, Cobreloa,Chile
-5278,1982,Chile, Universidad Católica,Chile
-5279,1982,Chile, Colo-Colo,Chile
-5280,1982,Chile, San Luis,Chile
-5281,1982,Chile, Universidad de Chile,Chile
-5282,1982,Czechoslovakia, Lokomotiva Košice,Slovakia
-5283,1982,Czechoslovakia, Bohemians Praha,Czech Republic
-5284,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5285,1982,Czechoslovakia, Bohemians Praha,Czech Republic
-5286,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5287,1982,Czechoslovakia, Inter Bratislava,Slovakia
-5288,1982,Czechoslovakia, Inter Bratislava,Slovakia
-5289,1982,Czechoslovakia, Baník Ostrava,Czech Republic
-5290,1982,Czechoslovakia, Baník Ostrava,Czech Republic
-5291,1982,Czechoslovakia, Plastika Nitra,Slovakia
-5292,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5293,1982,Czechoslovakia, Rapid Wien,Austria
-5294,1982,Czechoslovakia, Bohemians Praha,Czech Republic
-5295,1982,Czechoslovakia, Sparta Prague,Czech Republic
-5296,1982,Czechoslovakia, Bohemians Praha,Czech Republic
-5297,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5298,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5299,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5300,1982,Czechoslovakia, Dukla Prague,Czech Republic
-5301,1982,Czechoslovakia, Zbrojovka Brno,Czech Republic
-5302,1982,Czechoslovakia, Slovan Bratislava,Slovakia
-5303,1982,Czechoslovakia, Slavia Prague,Czech Republic
-5304,1982,El Salvador, Platense Municipal,El Salvador
-5305,1982,El Salvador, Santiagueño,El Salvador
-5306,1982,El Salvador, FAS,El Salvador
-5307,1982,El Salvador, Santiagueño,El Salvador
-5308,1982,El Salvador, Águila,El Salvador
-5309,1982,El Salvador, FAS,El Salvador
-5310,1982,El Salvador, Atlético Marte,El Salvador
-5311,1982,El Salvador, Santiagueño,El Salvador
-5312,1982,El Salvador, Bayer Uerdingen,Germany
-5313,1982,El Salvador, CD Chalatenango,El Salvador
-5314,1982,El Salvador, Santiagueño,El Salvador
-5315,1982,El Salvador, Deportivo Jalapa,Guatemala
-5316,1982,El Salvador, Atlético Marte,El Salvador
-5317,1982,El Salvador, Atlético Marte,El Salvador
-5318,1982,El Salvador, Platense Municipal,El Salvador
-5319,1982,El Salvador, Santiagueño,El Salvador
-5320,1982,El Salvador, FAS,El Salvador
-5321,1982,El Salvador, Independiente de San Vicente,El Salvador
-5322,1982,El Salvador, Atlético Marte,El Salvador
-5323,1982,El Salvador, Atlético Marte,El Salvador
-5324,1982,England, Tottenham,England
-5325,1982,England, Manchester City,England
-5326,1982,England, Brighton,England
-5327,1982,England, Ipswich Town,England
-5328,1982,England, Liverpool,England
-5329,1982,England, Liverpool,England
-5330,1982,England, West Ham,England
-5331,1982,England, Manchester United,England
-5332,1982,England, Liverpool,England
-5333,1982,England, Arsenal,England
-5334,1982,England, Southampton,England
-5335,1982,England, Manchester City,England
-5336,1982,England, Ipswich Town,England
-5337,1982,England, Aston Villa,England
-5338,1982,England, 1. FC Köln,Germany
-5339,1982,France, PSG,France
-5340,1982,France, Saint-Étienne,France
-5341,1982,France, Monaco,France
-5342,1982,France, Saint-Étienne,France
-5343,1982,France, Saint-Étienne,France
-5344,1982,France, Metz,France
-5345,1982,France, Bordeaux,France
-5346,1982,France, Bordeaux,France
-5347,1982,France, Saint-Étienne,France
-5348,1982,France, Monaco,France
-5349,1982,France, Bordeaux,France
-5350,1982,France, VfB Stuttgart,Germany
-5351,1982,France, Bordeaux,France
-5352,1982,Honduras, Universidad,Honduras
-5353,1982,Honduras, Real España,Honduras
-5354,1982,Honduras, Real España,Honduras
-5355,1982,Honduras, Universidad,Honduras
-5356,1982,Honduras, Real España,Honduras
-5357,1982,Honduras, Olimpia,Honduras
-5358,1982,Honduras, Real España,Honduras
-5359,1982,Honduras, Platense,Honduras
-5360,1982,Honduras, Motagua,Honduras
-5361,1982,Honduras, Motagua,Honduras
-5362,1982,Honduras, Motagua,Honduras
-5363,1982,Honduras, Marathón,Honduras
-5364,1982,Honduras, Motagua,Honduras
-5365,1982,Honduras, Olimpia,Honduras
-5366,1982,Honduras, Universidad,Honduras
-5367,1982,Honduras, Real España,Honduras
-5368,1982,Honduras, Valladolid,Spain
-5369,1982,Honduras, Platense,Honduras
-5370,1982,Honduras, Real España,Honduras
-5371,1982,Honduras, Vida,Honduras
-5372,1982,Honduras, Marathón,Honduras
-5373,1982,Honduras, Marathón,Honduras
-5374,1982,Hungary, Sporting CP,Portugal
-5375,1982,Hungary, Pécs,Hungary
-5376,1982,Hungary, Tatabányai Bányász,Hungary
-5377,1982,Hungary, Waterschei Thor,Belgium
-5378,1982,Hungary, Toulouse,France
-5379,1982,Hungary, Újpest,Hungary
-5380,1982,Hungary, Ferencváros,Hungary
-5381,1982,Hungary, Békéscsabai El?re,Hungary
-5382,1982,Hungary, Hércules,Spain
-5383,1982,Hungary, Videoton,Hungary
-5384,1982,Hungary, Tatabányai Bányász,Hungary
-5385,1982,Hungary, Antwerp,Belgium
-5386,1982,Hungary, Ferencváros,Hungary
-5387,1982,Hungary, Újpest,Hungary
-5388,1982,Hungary, Vasas,Hungary
-5389,1982,Hungary, Ferencváros,Hungary
-5390,1982,Hungary, Gy?r,Hungary
-5391,1982,Hungary, Budapest Honvéd,Hungary
-5392,1982,Italy, Juventus,Italy
-5393,1982,Italy, Internazionale,Italy
-5394,1982,Italy, Juventus,Italy
-5395,1982,Italy, Fiorentina,Italy
-5396,1982,Italy, Torino,Italy
-5397,1982,Italy, Internazionale,Italy
-5398,1982,Italy, Internazionale,Italy
-5399,1982,Italy, Udinese,Italy
-5400,1982,Italy, Fiorentina,Italy
-5401,1982,Italy, Cagliari,Italy
-5402,1982,Kuwait, Kuwait SC,Kuwait
-5403,1982,Kuwait, Kazma,Kuwait
-5404,1982,Kuwait, Al-Qadsia,Kuwait
-5405,1982,Kuwait, Al Tadamun,Kuwait
-5406,1982,Kuwait, Al-Salmiya,Kuwait
-5407,1982,Kuwait, Kazma,Kuwait
-5408,1982,Kuwait, Kuwait SC,Kuwait
-5409,1982,Kuwait, Al Tadamun,Kuwait
-5410,1982,Kuwait, Kazma,Kuwait
-5411,1982,Kuwait, Al-Arabi,Kuwait
-5412,1982,Kuwait, Kazma,Kuwait
-5413,1982,Kuwait, Kuwait SC,Kuwait
-5414,1982,Kuwait, Kazma,Kuwait
-5415,1982,Kuwait, Kazma,Kuwait
-5416,1982,Kuwait, Al-Arabi,Kuwait
-5417,1982,Kuwait, Al Tadamun,Kuwait
-5418,1982,Kuwait, Al-Arabi,Kuwait
-5419,1982,Kuwait, Al-Qadsia,Kuwait
-5420,1982,Kuwait, Kuwait SC,Kuwait
-5421,1982,Kuwait, Al-Qadsia,Kuwait
-5422,1982,Kuwait, Khaitan,Kuwait
-5423,1982,Kuwait, Al-Qadsia,Kuwait
-5424,1982,New Zealand, Preston Macedonia,Australia
-5425,1982,New Zealand, Miramar Rangers,New Zealand
-5426,1982,New Zealand, Manurewa,New Zealand
-5427,1982,New Zealand, Adelaide City,Australia
-5428,1982,New Zealand, Mount Wellington,Australia
-5429,1982,New Zealand, Manurewa,New Zealand
-5430,1982,New Zealand, Invercargill Thistle,New Zealand
-5431,1982,New Zealand, East Coast Bays,New Zealand
-5432,1982,New Zealand, Hanimex United,New Zealand
-5433,1982,New Zealand, Gisborne City,New Zealand
-5434,1982,New Zealand, Mount Wellington,New Zealand
-5435,1982,New Zealand, Gisborne City,New Zealand
-5436,1982,New Zealand, Hanimex United,New Zealand
-5437,1982,New Zealand, West Adelaide Hellas,Australia
-5438,1982,New Zealand, Gisborne City,New Zealand
-5439,1982,New Zealand, Gisborne City,New Zealand
-5440,1982,New Zealand, West Adelaide Hellas,Australia
-5441,1982,New Zealand, Manurewa,New Zealand
-5442,1982,New Zealand, Mount Wellington,New Zealand
-5443,1982,New Zealand, Gisborne City,New Zealand
-5444,1982,New Zealand, Miramar Rangers,New Zealand
-5445,1982,New Zealand, South Melbourne,Australia
-5446,1982,Northern Ireland, Linfield,Northern Ireland
-5447,1982,Northern Ireland, Southampton,England
-5448,1982,Northern Ireland, Brighton,England
-5449,1982,Northern Ireland, Norwich City,England
-5450,1982,Northern Ireland, Burnley,England
-5451,1982,Northern Ireland, Cambridge United,England
-5452,1982,Northern Ireland, Glentoran,Northern Ireland
-5453,1982,Northern Ireland, Glentoran,Northern Ireland
-5454,1982,Northern Ireland, Blackburn Rovers,England
-5455,1982,Northern Ireland, Coleraine,Northern Ireland
-5456,1982,Northern Ireland, Bradford City,England
-5457,1982,Peru, Universitario,Peru
-5458,1982,Peru, Alianza Lima,Peru
-5459,1982,Peru, Sporting Cristal,Peru
-5460,1982,Peru, Alianza Lima,Peru
-5461,1982,Peru, Alianza Lima,Peru
-5462,1982,Peru, Universitario,Peru
-5463,1982,Peru, Sporting Cristal,Peru
-5464,1982,Peru, Alianza Lima,Peru
-5465,1982,Peru, Universitario,Peru
-5466,1982,Peru, Independiente Medellín,Colombia
-5467,1982,Peru, Atlético Nacional,Colombia
-5468,1982,Peru, Sporting Cristal,Peru
-5469,1982,Peru, Fort Lauderdale Strikers,USA
-5470,1982,Peru, Atlético Chalaco,Peru
-5471,1982,Peru, Sporting Cristal,Peru
-5472,1982,Peru, Deportivo Municipal,Peru
-5473,1982,Peru, Sporting Cristal,Peru
-5474,1982,Peru, UANL,Mexico
-5475,1982,Peru, Seraing,Belgium
-5476,1982,Peru, Deportivo Municipal,Peru
-5477,1982,Peru, Atlético Nacional,Colombia
-5478,1982,Peru, Seraing,Belgium
-5479,1982,Poland, Lech Pozna?,Poland
-5480,1982,Poland, ?KS ?ód?,Poland
-5481,1982,Poland, Górnik Zabrze,Poland
-5482,1982,Poland, Legia Warsaw,Poland
-5483,1982,Poland, Wis?a Kraków,Poland
-5484,1982,Poland, Wis?a Kraków,Poland
-5485,1982,Poland, Arka Gdynia,Poland
-5486,1982,Poland, Stal Mielec,Poland
-5487,1982,Poland, Lokeren,Belgium
-5488,1982,Poland, Auxerre,France
-5489,1982,Poland, Legia Warsaw,Poland
-5490,1982,Poland, Wis?a Kraków,Poland
-5491,1982,Poland, Widzew ?ód?,Poland
-5492,1982,Scotland, Arsenal,England
-5493,1982,Scotland, Celtic,Scotland
-5494,1982,Scotland, Leeds United,England
-5495,1982,Scotland, Liverpool,England
-5496,1982,Scotland, Aston Villa,England
-5497,1982,Scotland, Ipswich Town,England
-5498,1982,Scotland, Ipswich Town,England
-5499,1982,Scotland, Nottingham Forest,England
-5500,1982,Scotland, Manchester City,England
-5501,1982,Scotland, Celtic,Scotland
-5502,1982,Scotland, Liverpool,England
-5503,1982,Scotland, Ipswich Town,England
-5504,1982,Scotland, AC Milan,Italy
-5505,1982,Soviet Union, Torpedo Moscow,Russia
-5506,1982,Soviet Union, Dinamo Tbilisi,Georgia
-5507,1982,Soviet Union, Dynamo Kyiv,Ukraine
-5569,1982,Soviet Union, Dinamo Minsk,Belarus
-5508,1982,Soviet Union, Torpedo Moscow,Russia
-5509,1982,Soviet Union, Spartak Moscow,Russia
-5510,1982,Soviet Union, Spartak Moscow,Russia
-5511,1982,Soviet Union, Ararat Yerevan,Armenia
-5512,1982,Soviet Union, Dinamo Tbilisi,Georgia
-5513,1982,Soviet Union, Dynamo Kyiv,Ukraine
-5514,1982,Soviet Union, Dinamo Tbilisi,Georgia
-5515,1982,Soviet Union, SKA Rostov,Russia
-5516,1982,Spain, Real Sociedad,Spain
-5517,1982,Spain, Real Madrid,Spain
-5518,1982,Spain, Valencia,Spain
-5519,1982,Spain, Barcelona,Spain
-5520,1982,Spain, Athletic Bilbao,Spain
-5521,1982,Spain, Sporting Gijón,Spain
-5522,1982,Spain, Real Sociedad,Spain
-5523,1982,Spain, Sporting Gijón,Spain
-5524,1982,Spain, Real Sociedad,Spain
-5525,1982,Spain, Valencia,Spain
-5526,1982,Spain, Barcelona,Spain
-5527,1982,Spain, Real Madrid,Spain
-5528,1982,Spain, Real Sociedad,Spain
-5529,1982,Spain, Real Sociedad,Spain
-5530,1982,Spain, Real Sociedad,Spain
-5531,1982,Spain, Real Madrid,Spain
-5532,1982,Spain, Barcelona,Spain
-5533,1982,West Germany, Eintracht Braunschweig,Germany
-5534,1982,West Germany, Bayern Munich,Germany
-5535,1982,West Germany, VfB Stuttgart,Germany
-5536,1982,West Germany, Borussia Mönchengladbach,Germany
-5537,1982,West Germany, Real Madrid,Spain
-5538,1982,West Germany, Hamburger SV,Germany
-5539,1982,West Germany, Hamburger SV,Germany
-5540,1982,West Germany, Bayern Munich,Germany
-5541,1982,West Germany, VfB Stuttgart,Germany
-5542,1982,West Germany, 1. FC Köln,Germany
-5543,1982,West Germany, 1. FC Köln,Germany
-5544,1982,West Germany, Hamburger SV,Germany
-5545,1982,West Germany, Werder Bremen,Germany
+5166,1982,Algeria,RS Kouba,Algeria
+5167,1982,Algeria,MA Hussein Dey,Algeria
+5168,1982,Algeria,MA Hussein Dey,Algeria
+5169,1982,Algeria,MA Hussein Dey,Algeria
+5170,1982,Algeria,JE Tizi Ouzou,Algeria
+5171,1982,Algeria,JE Tizi Ouzou,Algeria
+5172,1982,Algeria,CM Belcourt,Algeria
+5173,1982,Algeria,PSG,France
+5174,1982,Algeria,Reims,France
+5175,1982,Algeria,MP Alger,Algeria
+5176,1982,Algeria,Laval,France
+5177,1982,Argentina,Talleres de Córdoba,Argentina
+5178,1982,Argentina,River Plate,Argentina
+5179,1982,Argentina,Talleres de Córdoba,Argentina
+5180,1982,Argentina,Independiente,Argentina
+5181,1982,Argentina,River Plate,Argentina
+5182,1982,Argentina,Independiente,Argentina
+5183,1982,Argentina,Racing,Argentina
+5184,1982,Argentina,Tottenham,England
+5185,1982,Argentina,Racing,Argentina
+5186,1982,Argentina,River Plate,Argentina
+5187,1982,Argentina,Estudiantes,Argentina
+5188,1982,Argentina,Talleres de Córdoba,Argentina
+5189,1982,Argentina,Fiorentina,Italy
+5190,1982,Argentina,River Plate,Argentina
+5191,1982,Argentina,River Plate,Argentina
+5192,1982,Argentina,Newell's Old Boys,Argentina
+5193,1982,Austria,Austria Wien,Austria
+5194,1982,Austria,Rapid Wien,Austria
+5568,1982,Austria,Rapid Wien,Austria
+5195,1982,Austria,Austria Wien,Austria
+5196,1982,Austria,Admira/Wacker,Austria
+5197,1982,Austria,Eintracht Frankfurt,Germany
+5198,1982,Austria,Sturm Graz,Austria
+5199,1982,Austria,Admira/Wacker,Austria
+5200,1982,Austria,Rapid Wien,Austria
+5201,1982,Austria,Rapid Wien,Austria
+5202,1982,Austria,SSW Innsbruck,Austria
+5203,1982,Austria,Internazionale,Italy
+5204,1982,Austria,1. FC Nürnberg,Germany
+5205,1982,Austria,Grasshopper,Switzerland
+5206,1982,Austria,Austria Wien,Austria
+5207,1982,Austria,Austria Wien,Austria
+5208,1982,Austria,Cesena,Italy
+5209,1982,Austria,Rapid Wien,Austria
+5210,1982,Austria,VÖEST Linz,Austria
+5211,1982,Austria,Sturm Graz,Austria
+5212,1982,Austria,Valencia,Spain
+5213,1982,Belgium,Espanyol,Spain
+5214,1982,Belgium,KSV Waregem,Belgium
+5215,1982,Belgium,Standard Liège,Belgium
+5216,1982,Belgium,Beveren,Belgium
+5217,1982,Belgium,Lokeren,Belgium
+5218,1982,Belgium,Standard Liège,Belgium
+5219,1982,Belgium,Standard Liège,Belgium
+5220,1982,Belgium,Beveren,Belgium
+5221,1982,Belgium,Anderlecht,Belgium
+5222,1982,Belgium,Lokeren,Belgium
+5223,1982,Belgium,KSV Waregem,Belgium
+5224,1982,Belgium,Standard Liège,Belgium
+5225,1982,Belgium,West Ham,England
+5226,1982,Brazil,São Paulo,Brazil
+5227,1982,Brazil,Botafogo,Brazil
+5228,1982,Brazil,Flamengo,Brazil
+5229,1982,Brazil,São Paulo,Brazil
+5230,1982,Brazil,Atlético Mineiro,Brazil
+5231,1982,Brazil,Internacional,Brazil
+5232,1982,Brazil,Ponte Preta,Brazil
+5233,1982,Brazil,Vasco da Gama,Brazil
+5234,1982,Brazil,Atlético Mineiro,Brazil
+5235,1982,Brazil,Grêmio,Brazil
+5236,1982,Brazil,Grêmio,Brazil
+5237,1982,Brazil,São Paulo,Belgium
+5238,1982,Brazil,Atlético Madrid,Spain
+5239,1982,Brazil,São Paulo,Brazil
+5240,1982,Brazil,Atlético Mineiro,Brazil
+5241,1982,Brazil,Vasco da Gama,Brazil
+5242,1982,Cameroon,Dynamo Douala,Cameroon
+5243,1982,Cameroon,Stade Quimperois,France
+5244,1982,Cameroon,Dragon Douala,Cameroon
+5245,1982,Cameroon,Union Douala,Cameroon
+5246,1982,Cameroon,Fédéral SFC du Noun,Cameroon
+5247,1982,Cameroon,Union Douala,Cameroon
+5248,1982,Cameroon,Cannes,France
+5249,1982,Cameroon,Canon Yaoundé,Cameroon
+5250,1982,Cameroon,Canon Yaoundé,Cameroon
+5251,1982,Cameroon,Philadelphia Fever,USA
+5252,1982,Cameroon,Tonnerre Yaoundé,Cameroon
+5253,1982,Cameroon,Canon Yaoundé,Cameroon
+5254,1982,Cameroon,Union Douala,Cameroon
+5255,1982,Cameroon,Union Douala,Cameroon
+5256,1982,Cameroon,Cannes,France
+5257,1982,Cameroon,Canon Yaoundé,Cameroon
+5258,1982,Cameroon,Dynamo Douala,Cameroon
+5259,1982,Cameroon,Tonnerre Yaoundé,Cameroon
+5260,1982,Chile,Cobreloa,Chile
+5261,1982,Chile,Palestino,Chile
+5262,1982,Chile,Colo-Colo,Chile
+5263,1982,Chile,Colo-Colo,Chile
+5264,1982,Chile,Universidad Católica,Chile
+5265,1982,Chile,Universidad de Chile,Chile
+5266,1982,Chile,Colo-Colo,Chile
+5267,1982,Chile,Cobreloa,Chile
+5268,1982,Chile,Colo-Colo,Chile
+5269,1982,Chile,Colo-Colo,Chile
+5270,1982,Chile,Cobreloa,Chile
+5271,1982,Chile,Palestino,Chile
+5272,1982,Chile,Universidad Católica,Chile
+5273,1982,Chile,Colo-Colo,Chile
+5274,1982,Chile,Colo-Colo,Chile
+5275,1982,Chile,Universidad Católica,Chile
+5276,1982,Chile,Universidad Católica,Chile
+5277,1982,Chile,Cobreloa,Chile
+5278,1982,Chile,Universidad Católica,Chile
+5279,1982,Chile,Colo-Colo,Chile
+5280,1982,Chile,San Luis,Chile
+5281,1982,Chile,Universidad de Chile,Chile
+5282,1982,Czechoslovakia,Lokomotiva Košice,Slovakia
+5283,1982,Czechoslovakia,Bohemians Praha,Czech Republic
+5284,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5285,1982,Czechoslovakia,Bohemians Praha,Czech Republic
+5286,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5287,1982,Czechoslovakia,Inter Bratislava,Slovakia
+5288,1982,Czechoslovakia,Inter Bratislava,Slovakia
+5289,1982,Czechoslovakia,Baník Ostrava,Czech Republic
+5290,1982,Czechoslovakia,Baník Ostrava,Czech Republic
+5291,1982,Czechoslovakia,Plastika Nitra,Slovakia
+5292,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5293,1982,Czechoslovakia,Rapid Wien,Austria
+5294,1982,Czechoslovakia,Bohemians Praha,Czech Republic
+5295,1982,Czechoslovakia,Sparta Prague,Czech Republic
+5296,1982,Czechoslovakia,Bohemians Praha,Czech Republic
+5297,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5298,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5299,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5300,1982,Czechoslovakia,Dukla Prague,Czech Republic
+5301,1982,Czechoslovakia,Zbrojovka Brno,Czech Republic
+5302,1982,Czechoslovakia,Slovan Bratislava,Slovakia
+5303,1982,Czechoslovakia,Slavia Prague,Czech Republic
+5304,1982,El Salvador,Platense Municipal,El Salvador
+5305,1982,El Salvador,Santiagueño,El Salvador
+5306,1982,El Salvador,FAS,El Salvador
+5307,1982,El Salvador,Santiagueño,El Salvador
+5308,1982,El Salvador,Águila,El Salvador
+5309,1982,El Salvador,FAS,El Salvador
+5310,1982,El Salvador,Atlético Marte,El Salvador
+5311,1982,El Salvador,Santiagueño,El Salvador
+5312,1982,El Salvador,Bayer Uerdingen,Germany
+5313,1982,El Salvador,CD Chalatenango,El Salvador
+5314,1982,El Salvador,Santiagueño,El Salvador
+5315,1982,El Salvador,Deportivo Jalapa,Guatemala
+5316,1982,El Salvador,Atlético Marte,El Salvador
+5317,1982,El Salvador,Atlético Marte,El Salvador
+5318,1982,El Salvador,Platense Municipal,El Salvador
+5319,1982,El Salvador,Santiagueño,El Salvador
+5320,1982,El Salvador,FAS,El Salvador
+5321,1982,El Salvador,Independiente de San Vicente,El Salvador
+5322,1982,El Salvador,Atlético Marte,El Salvador
+5323,1982,El Salvador,Atlético Marte,El Salvador
+5324,1982,England,Tottenham,England
+5325,1982,England,Manchester City,England
+5326,1982,England,Brighton,England
+5327,1982,England,Ipswich Town,England
+5328,1982,England,Liverpool,England
+5329,1982,England,Liverpool,England
+5330,1982,England,West Ham,England
+5331,1982,England,Manchester United,England
+5332,1982,England,Liverpool,England
+5333,1982,England,Arsenal,England
+5334,1982,England,Southampton,England
+5335,1982,England,Manchester City,England
+5336,1982,England,Ipswich Town,England
+5337,1982,England,Aston Villa,England
+5338,1982,England,1. FC Köln,Germany
+5339,1982,France,PSG,France
+5340,1982,France,Saint-Étienne,France
+5341,1982,France,Monaco,France
+5342,1982,France,Saint-Étienne,France
+5343,1982,France,Saint-Étienne,France
+5344,1982,France,Metz,France
+5345,1982,France,Bordeaux,France
+5346,1982,France,ordeaux,France
+5347,1982,France,Saint-Étienne,France
+5348,1982,France,Monaco,France
+5349,1982,France,Bordeaux,France
+5350,1982,France,VfB Stuttgart,Germany
+5351,1982,France,Bordeaux,France
+5352,1982,Honduras,Universidad,Honduras
+5353,1982,Honduras,Real España,Honduras
+5354,1982,Honduras,Real España,Honduras
+5355,1982,Honduras,Universidad,Honduras
+5356,1982,Honduras,Real España,Honduras
+5357,1982,Honduras,Olimpia,Honduras
+5358,1982,Honduras,Real España,Honduras
+5359,1982,Honduras,Platense,Honduras
+5360,1982,Honduras,Motagua,Honduras
+5361,1982,Honduras,Motagua,Honduras
+5362,1982,Honduras,Motagua,Honduras
+5363,1982,Honduras,Marathón,Honduras
+5364,1982,Honduras,Motagua,Honduras
+5365,1982,Honduras,Olimpia,Honduras
+5366,1982,Honduras,Universidad,Honduras
+5367,1982,Honduras,Real España,Honduras
+5368,1982,Honduras,Valladolid,Spain
+5369,1982,Honduras,Platense,Honduras
+5370,1982,Honduras,Real España,Honduras
+5371,1982,Honduras,Vida,Honduras
+5372,1982,Honduras,Marathón,Honduras
+5373,1982,Honduras,Marathón,Honduras
+5374,1982,Hungary,Sporting CP,Portugal
+5375,1982,Hungary,Pécs,Hungary
+5376,1982,Hungary,Tatabányai Bányász,Hungary
+5377,1982,Hungary,Waterschei Thor,Belgium
+5378,1982,Hungary,Toulouse,France
+5379,1982,Hungary,Újpest,Hungary
+5380,1982,Hungary,Ferencváros,Hungary
+5381,1982,Hungary,Békéscsabai El?re,Hungary
+5382,1982,Hungary,Hércules,Spain
+5383,1982,Hungary,Videoton,Hungary
+5384,1982,Hungary,Tatabányai Bányász,Hungary
+5385,1982,Hungary,Antwerp,Belgium
+5386,1982,Hungary,Ferencváros,Hungary
+5387,1982,Hungary,Újpest,Hungary
+5388,1982,Hungary,Vasas,Hungary
+5389,1982,Hungary,Ferencváros,Hungary
+5390,1982,Hungary,Gyor,Hungary
+5391,1982,Hungary,Budapest Honvéd,Hungary
+5392,1982,Italy,Juventus,Italy
+5393,1982,Italy,Internazionale,Italy
+5394,1982,Italy,Juventus,Italy
+5395,1982,Italy,Fiorentina,Italy
+5396,1982,Italy,Torino,Italy
+5397,1982,Italy,Internazionale,Italy
+5398,1982,Italy,Internazionale,Italy
+5399,1982,Italy,Udinese,Italy
+5400,1982,Italy,Fiorentina,Italy
+5401,1982,Italy,Cagliari,Italy
+5402,1982,Kuwait,Kuwait SC,Kuwait
+5403,1982,Kuwait,Kazma,Kuwait
+5404,1982,Kuwait,Al-Qadsia,Kuwait
+5405,1982,Kuwait,Al Tadamun,Kuwait
+5406,1982,Kuwait,Al-Salmiya,Kuwait
+5407,1982,Kuwait,Kazma,Kuwait
+5408,1982,Kuwait,Kuwait SC,Kuwait
+5409,1982,Kuwait,Al Tadamun,Kuwait
+5410,1982,Kuwait,Kazma,Kuwait
+5411,1982,Kuwait,Al-Arabi,Kuwait
+5412,1982,Kuwait,Kazma,Kuwait
+5413,1982,Kuwait,Kuwait SC,Kuwait
+5414,1982,Kuwait,Kazma,Kuwait
+5415,1982,Kuwait,Kazma,Kuwait
+5416,1982,Kuwait,Al-Arabi,Kuwait
+5417,1982,Kuwait,Al Tadamun,Kuwait
+5418,1982,Kuwait,Al-Arabi,Kuwait
+5419,1982,Kuwait,Al-Qadsia,Kuwait
+5420,1982,Kuwait,Kuwait SC,Kuwait
+5421,1982,Kuwait,Al-Qadsia,Kuwait
+5422,1982,Kuwait,Khaitan,Kuwait
+5423,1982,Kuwait,Al-Qadsia,Kuwait
+5424,1982,New Zealand,Preston Macedonia,Australia
+5425,1982,New Zealand,Miramar Rangers,New Zealand
+5426,1982,New Zealand,Manurewa,New Zealand
+5427,1982,New Zealand,Adelaide City,Australia
+5428,1982,New Zealand,Mount Wellington,Australia
+5429,1982,New Zealand,Manurewa,New Zealand
+5430,1982,New Zealand,Invercargill Thistle,New Zealand
+5431,1982,New Zealand,East Coast Bays,New Zealand
+5432,1982,New Zealand,Hanimex United,New Zealand
+5433,1982,New Zealand,Gisborne City,New Zealand
+5434,1982,New Zealand,Mount Wellington,New Zealand
+5435,1982,New Zealand,Gisborne City,New Zealand
+5436,1982,New Zealand,Hanimex United,New Zealand
+5437,1982,New Zealand,West Adelaide Hellas,Australia
+5438,1982,New Zealand,Gisborne City,New Zealand
+5439,1982,New Zealand,Gisborne City,New Zealand
+5440,1982,New Zealand,West Adelaide Hellas,Australia
+5441,1982,New Zealand,Manurewa,New Zealand
+5442,1982,New Zealand,Mount Wellington,New Zealand
+5443,1982,New Zealand,Gisborne City,New Zealand
+5444,1982,New Zealand,Miramar Rangers,New Zealand
+5445,1982,New Zealand,South Melbourne,Australia
+5446,1982,Northern Ireland,Linfield,Northern Ireland
+5447,1982,Northern Ireland,Southampton,England
+5448,1982,Northern Ireland,Brighton,England
+5449,1982,Northern Ireland,Norwich City,England
+5450,1982,Northern Ireland,Burnley,England
+5451,1982,Northern Ireland,Cambridge United,England
+5452,1982,Northern Ireland,Glentoran,Northern Ireland
+5453,1982,Northern Ireland,Glentoran,Northern Ireland
+5454,1982,Northern Ireland,Blackburn Rovers,England
+5455,1982,Northern Ireland,Coleraine,Northern Ireland
+5456,1982,Northern Ireland,Bradford City,England
+5457,1982,Peru,Universitario,Peru
+5458,1982,Peru,Alianza Lima,Peru
+5459,1982,Peru,Sporting Cristal,Peru
+5460,1982,Peru,Alianza Lima,Peru
+5461,1982,Peru,Alianza Lima,Peru
+5462,1982,Peru,Universitario,Peru
+5463,1982,Peru,Sporting Cristal,Peru
+5464,1982,Peru,Alianza Lima,Peru
+5465,1982,Peru,Universitario,Peru
+5466,1982,Peru,Independiente Medellín,Colombia
+5467,1982,Peru,Atlético Nacional,Colombia
+5468,1982,Peru,Sporting Cristal,Peru
+5469,1982,Peru,Fort Lauderdale Strikers,USA
+5470,1982,Peru,Atlético Chalaco,Peru
+5471,1982,Peru,Sporting Cristal,Peru
+5472,1982,Peru,Deportivo Municipal,Peru
+5473,1982,Peru,Sporting Cristal,Peru
+5474,1982,Peru,UANL,Mexico
+5475,1982,Peru,Seraing,Belgium
+5476,1982,Peru,Deportivo Municipal,Peru
+5477,1982,Peru,Atlético Nacional,Colombia
+5478,1982,Peru,Seraing,Belgium
+5479,1982,Poland,Lech Pozna?,Poland
+5480,1982,Poland,?KS ?ód?,Poland
+5481,1982,Poland,Górnik Zabrze,Poland
+5482,1982,Poland,Legia Warsaw,Poland
+5483,1982,Poland,Wisla Kraków,Poland
+5484,1982,Poland,Wisla Kraków,Poland
+5485,1982,Poland,Arka Gdynia,Poland
+5486,1982,Poland,Stal Mielec,Poland
+5487,1982,Poland,Lokeren,Belgium
+5488,1982,Poland,Auxerre,France
+5489,1982,Poland,Legia Warsaw,Poland
+5490,1982,Poland,Wis?a Kraków,Poland
+5491,1982,Poland,Widzew ?ód?,Poland
+5492,1982,Scotland,Arsenal,England
+5493,1982,Scotland,Celtic,Scotland
+5494,1982,Scotland,Leeds United,England
+5495,1982,Scotland,Liverpool,England
+5496,1982,Scotland,Aston Villa,England
+5497,1982,Scotland,Ipswich Town,England
+5498,1982,Scotland,Ipswich Town,England
+5499,1982,Scotland,Nottingham Forest,England
+5500,1982,Scotland,Manchester City,England
+5501,1982,Scotland,Celtic,Scotland
+5502,1982,Scotland,Liverpool,England
+5503,1982,Scotland,Ipswich Town,England
+5504,1982,Scotland,AC Milan,Italy
+5505,1982,Soviet Union,Torpedo Moscow,Russia
+5506,1982,Soviet Union,Dinamo Tbilisi,Georgia
+5507,1982,Soviet Union,Dynamo Kyiv,Ukraine
+5569,1982,Soviet Union,Dinamo Minsk,Belarus
+5508,1982,Soviet Union,Torpedo Moscow,Russia
+5509,1982,Soviet Union,Spartak Moscow,Russia
+5510,1982,Soviet Union,Spartak Moscow,Russia
+5511,1982,Soviet Union,Ararat Yerevan,Armenia
+5512,1982,Soviet Union,Dinamo Tbilisi,Georgia
+5513,1982,Soviet Union,Dynamo Kyiv,Ukraine
+5514,1982,Soviet Union,Dinamo Tbilisi,Georgia
+5515,1982,Soviet Union,SKA Rostov,Russia
+5516,1982,Spain,Real Sociedad,Spain
+5517,1982,Spain,Real Madrid,Spain
+5518,1982,Spain,Valencia,Spain
+5519,1982,Spain,Barcelona,Spain
+5520,1982,Spain,Athletic Bilbao,Spain
+5521,1982,Spain,Sporting Gijón,Spain
+5522,1982,Spain,Real Sociedad,Spain
+5523,1982,Spain,Sporting Gijón,Spain
+5524,1982,Spain,Real Sociedad,Spain
+5525,1982,Spain,Valencia,Spain
+5526,1982,Spain,Barcelona,Spain
+5527,1982,Spain,Real Madrid,Spain
+5528,1982,Spain,Real Sociedad,Spain
+5529,1982,Spain,Real Sociedad,Spain
+5530,1982,Spain,Real Sociedad,Spain
+5531,1982,Spain,Real Madrid,Spain
+5532,1982,Spain,Barcelona,Spain
+5533,1982,West Germany,Eintracht Braunschweig,Germany
+5534,1982,West Germany,Bayern Munich,Germany
+5535,1982,West Germany,VfB Stuttgart,Germany
+5536,1982,West Germany,Borussia Mönchengladbach,Germany
+5537,1982,West Germany,Real Madrid,Spain
+5538,1982,West Germany,Hamburger SV,Germany
+5539,1982,West Germany,Hamburger SV,Germany
+5540,1982,West Germany,Bayern Munich,Germany
+5541,1982,West Germany,VfB Stuttgart,Germany
+5542,1982,West Germany,1. FC Köln,Germany
+5543,1982,West Germany,1. FC Köln,Germany
+5544,1982,West Germany,Hamburger SV,Germany
+5545,1982,West Germany,Werder Bremen,Germany
 5546,1982,West Germany, Fortuna Düsseldorf,Germany
-5547,1982,Yugoslavia, Bordeaux,France
-5548,1982,Yugoslavia, Hajduk Split,Croatia
-5549,1982,Yugoslavia, Antwerp,Belgium
-5550,1982,Yugoslavia, Rijeka,Croatia
-5551,1982,Yugoslavia, Dinamo Zagreb,Croatia
-5552,1982,Yugoslavia, Partizan,Serbia
-5553,1982,Yugoslavia, Red Star Belgrade,Serbia
-5554,1982,Yugoslavia, Hajduk Split,Croatia
-5555,1982,Yugoslavia, Budu?nost Titograd,Montenegro
-5556,1982,Yugoslavia, Rijeka,Croatia
-5557,1982,Yugoslavia, Hajduk Split,Croatia
-5558,1982,Yugoslavia, Red Star Belgrade,Serbia
-5559,1982,Yugoslavia, Nice,France
-5560,1982,Yugoslavia, Zürich,Switzerland
-5561,1982,Yugoslavia, PSG,France
-5562,1982,Yugoslavia, Sarajevo,Bosnia & Herzegovina
-5563,1982,Yugoslavia, Partizan,Serbia
-5564,1982,Yugoslavia, Red Star Belgrade,Serbia
-5565,1982,Yugoslavia, Dinamo Zagreb,Croatia
-5566,1982,Yugoslavia, Nantes,France
-5567,1982,Algeria, DNC Alger,Algeria
-
-
+5547,1982,Yugoslavia,Bordeaux,France
+5548,1982,Yugoslavia,Hajduk Split,Croatia
+5549,1982,Yugoslavia,Antwerp,Belgium
+5550,1982,Yugoslavia,Rijeka,Croatia
+5551,1982,Yugoslavia,Dinamo Zagreb,Croatia
+5552,1982,Yugoslavia,Partizan,Serbia
+5553,1982,Yugoslavia,Red Star Belgrade,Serbia
+5554,1982,Yugoslavia,Hajduk Split,Croatia
+5555,1982,Yugoslavia,Buducnost Titograd,Montenegro
+5556,1982,Yugoslavia,Rijeka,Croatia
+5557,1982,Yugoslavia,Hajduk Split,Croatia
+5558,1982,Yugoslavia,Red Star Belgrade,Serbia
+5559,1982,Yugoslavia,Nice,France
+5560,1982,Yugoslavia,Zurich,Switzerland
+5561,1982,Yugoslavia,PSG,France
+5562,1982,Yugoslavia,Sarajevo,Bosnia & Herzegovina
+5563,1982,Yugoslavia,Partizan,Serbia
+5564,1982,Yugoslavia,Red Star Belgrade,Serbia
+5565,1982,Yugoslavia,Dinamo Zagreb,Croatia
+5566,1982,Yugoslavia,Nantes,France
+5567,1982,Algeria,DNC Alger,Algeria
