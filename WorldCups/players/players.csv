@@ -5490,7 +5490,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5488,17,Andrzej Szarmach,03-10-1950,FW,Poland
 5489,18,Marek Kusto,29-04-1954,FW,Poland
 5490,19,Andrzej Iwan,10-11-1959,FW,Poland
-5491,20,Zbigniew Boniek,03-03-1956,FW,Poland
+
 5492,12,George Wood,26-09-1952,GK,Scotland
 5493,2,Danny McGrain ,01-05-1950,DF,Scotland
 5494,3,Frank Gray,27-10-1954,DF,Scotland
@@ -5568,4 +5568,5 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5565,18,Stjepan Deveri?,20-08-1961,FW,Yugoslavia
 5566,19,Vahid Halilhodži?,15-10-1952,FW,Yugoslavia
 5567,17,Abdelkader Horr,10-11-1953,DF,Algeria
+
 
