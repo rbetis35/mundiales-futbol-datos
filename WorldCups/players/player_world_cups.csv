@@ -6775,6 +6775,7 @@ player_id,world_cup_year,team,club,country_club
 5045,1986,Poland,Legia Warsaw,Poland
 5046,1982,Poland,Górnik Zabrze,Poland
 5046,1986,Poland,Górnik Zabrze,Poland
+5047,1982,Poland,Widzew Łódź,Poland
 5047,1986,Poland,Roma,Italy
 5048,1986,Poland,Górnik Zabrze,Poland
 5049,1986,Poland,Górnik Zabrze,Poland
@@ -7243,7 +7244,7 @@ player_id,world_cup_year,team,club,country_club
 5488,1982,Poland,Auxerre,France
 5489,1982,Poland,Legia Warsaw,Poland
 5490,1982,Poland,Wis?a Kraków,Poland
-5491,1982,Poland,Widzew ?ód?,Poland
+
 5492,1982,Scotland,Arsenal,England
 5493,1982,Scotland,Celtic,Scotland
 5494,1982,Scotland,Leeds United,England
@@ -7321,3 +7322,4 @@ player_id,world_cup_year,team,club,country_club
 5565,1982,Yugoslavia,Dinamo Zagreb,Croatia
 5566,1982,Yugoslavia,Nantes,France
 5567,1982,Algeria,DNC Alger,Algeria
+
