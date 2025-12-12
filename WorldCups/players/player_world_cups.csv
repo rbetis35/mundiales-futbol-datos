@@ -5687,6 +5687,7 @@ player_id,world_cup_year,team,club,country_club
 4148,1994,Mexico,Toluca,Mexico
 4149,1986,Mexico,America,Mexico
 4149,1994,Mexico,Cruz Azul,Mexico
+4150,1978,Mexico,UNAM,Mexico
 4150,1986,Mexico,Real Madrud,Spain
 4150,1994,Mexico,Rayo Vallecano,Spain
 4151,1994,Mexico,América,Mexico
@@ -6418,6 +6419,7 @@ player_id,world_cup_year,team,club,country_club
 4746,1986,Algeria,Waterschei Thor,Belgium
 4747,1986,Argentina,America,Mexico
 4748,1986,Argentina,Deportivo Español,Argentina
+4749,1978,Argentina,River Plate,Argentina
 4749,1982,Argentina,River Plate,Argentina
 4749,1986,Argentina,Fiorentina,Italy
 4750,1986,Argentina,Independiente,Argentina
@@ -6450,12 +6452,14 @@ player_id,world_cup_year,team,club,country_club
 4771,1982,Belgium,Lokeren,Belgium
 4771,1986,Belgium,Lokeren,Belgium
 4772,1986,Belgium,Waregem,Belgium
+4773,1978,Brazil,Ponte Preta,Brazil
 4773,1982,Brazil,Ponte Preta,Brazil
 4773,1986,Brazil,Corinthians,Brazil
 4774,1986,Brazil,Fluminense,Brazil
 4775,1986,Brazil,Palmeiras,Brazil
 4776,1986,Brazil,Corinthians,Brazil
 4777,1986,Brazil,Sao Paulo,Brazil
+4778,1978,Brazil,Fluminense,Brazil
 4778,1982,Brazil,Fluminense,Brazil
 4778,1986,Brazil,Udinese,Italy
 4779,1986,Brazil,Botafogo,Brazil
@@ -6464,6 +6468,7 @@ player_id,world_cup_year,team,club,country_club
 4781,1986,Brazil,Sao Paulo,Brazil
 4782,1982,Brazil,Flamengo,Brazil
 4782,1986,Brazil,Torino,Italy
+4783,1978,Brazil,Flamengo,Brazil
 4783,1982,Brazil,Flamengo,Brazil
 4783,1986,Brazil,Flamengo,Brazil
 4784,1982,Brazil,Corinthians,Brazil
@@ -6557,14 +6562,17 @@ player_id,world_cup_year,team,club,country_club
 4867,1982,France,Monaco,France
 4867,1986,France,Monaco,France
 4868,1986,France,Nantes,France
+4869,1978,France,Metz,France
 4869,1982,France,Saint-Etienne,France
 4869,1986,France,Bordeaux,France
 4870,1986,France,PSG,France
+4871,1978,France,Nantes,France
 4871,1982,France,Nantes,France
 4871,1986,France,Racing Paris,France
 4872,1986,France,Nantes,France
 4873,1986,France,Bordeaux,France
 4874,1986,France,PSG,France
+4875,1978,France,Nancy,France
 4875,1982,France,Saint-Etienne,France
 4875,1986,France,Juventus,Italy
 4876,1986,France,Auxerre,France
@@ -6578,6 +6586,7 @@ player_id,world_cup_year,team,club,country_club
 4881,1982,France,Monaco,France
 4881,1986,France,Monaco,France
 4882,1986,France,Club Brugge,Belgium
+4883,1978,France,Saint-Etienne,France
 4883,1982,France,PSG,France
 4883,1986,France,PSG,France
 4884,1986,France,Toulouse,France
@@ -6633,17 +6642,20 @@ player_id,world_cup_year,team,club,country_club
 4930,1982,Italy,Fiorentina,Italy
 4930,1986,Italy,Fiorentina,Italy
 4931,1986,Italy,Roma,Italy
+4932,1978,Italy,Juventus,Italy
 4932,1982,Italy,Juventus,Italy
 4932,1986,Italy,Juventus,Italy
 4933,1982,Italy,AC Milan,Italy
 4933,1986,Italy,Internazionale,Italy
 4934,1986,Italy,Roma,Italy
+4935,1978,Italy,Juventus,Italy
 4935,1982,Italy,Juventus,Italy
 4935,1986,Italy,Juventus,Italy
 4936,1986,Italy,Hellas Verona,Italy
 4937,1986,Italy,Napoli,Italy
 4938,1986,Italy,Internazionale,Italy
 4939,1986,Italy,Hellas Verona,Italy
+4940,1978,Italy,Juventus,Italy
 4940,1982,Italy,Juventus,Italy
 4940,1986,Italy,Internazionale,Italy
 4941,1982,Italy,Roma,Italy
@@ -6651,6 +6663,7 @@ player_id,world_cup_year,team,club,country_club
 4942,1982,Italy,Internazionale,Italy
 4942,1986,Italy,Internazionale,Italy
 4943,1986,Italy,Hellas Verona,Italy
+4944,1978,Italy,Vicenza,Italy
 4944,1982,Italy,Juventus,Italy
 4944,1986,Italy,AC Milan,Italy
 4945,1986,Mexico,Cruz Azul,Mexico
@@ -6755,9 +6768,11 @@ player_id,world_cup_year,team,club,country_club
 5031,1986,Poland,Legia Warsaw,Poland
 5032,1986,Poland,Górnik Zabrze,Poland
 5033,1986,Poland,Widzew Lodz,Poland
+5034,1978,Poland,Slask Wroclaw,Poland
 5034,1982,Poland,Widzew Lodz,Poland
 5034,1986,Poland,Cremonese,Italy
 5035,1986,Poland,Pogoń Szczecin,Poland
+5036,1978,Poland,Odra Opole,Poland
 5036,1982,Poland,Slask Wroclaw,Poland
 5036,1986,Poland,Widzew Lodz,Poland
 5037,1982,Poland,Legia Warsaw,Poland
@@ -6775,6 +6790,7 @@ player_id,world_cup_year,team,club,country_club
 5045,1986,Poland,Legia Warsaw,Poland
 5046,1982,Poland,Górnik Zabrze,Poland
 5046,1986,Poland,Górnik Zabrze,Poland
+5047,1978,Poland,Widzew Łódź,Poland
 5047,1982,Poland,Widzew Łódź,Poland
 5047,1986,Poland,Roma,Italy
 5048,1986,Poland,Górnik Zabrze,Poland
@@ -6803,6 +6819,7 @@ player_id,world_cup_year,team,club,country_club
 5071,1986,Portugal,Porto,Portugal
 5072,1986,Portugal,Porto,Portugal
 5073,1986,Portugal,Benfica,Portugal
+5074,1978,Scotland,Partick Thistle,Scotland
 5074,1982,Scotland,Partick Thistle,Scotland
 5074,1986,Scotland,Hibernian,Scotland
 5075,1982,Scotland,Aberdeen,Scotland
@@ -6811,6 +6828,7 @@ player_id,world_cup_year,team,club,country_club
 5077,1982,Scotland,Dundee United,Scotland
 5077,1986,Scotland,Dundee United,Scotland
 5078,1986,Scotland,Manchester United,England
+5079,1978,Scotland,Liverpool,England
 5079,1982,Scotland,Liverpool,England
 5079,1986,Scotland,Sampdoria,Italy
 5080,1982,Scotland,Aberdeen,Scotland
@@ -6856,6 +6874,7 @@ player_id,world_cup_year,team,club,country_club
 5113,1986,Soviet Union,Dynamo Kyiv,Ukraine
 5114,1982,Soviet Union,Spartak Moscow,Russia
 5114,1986,Soviet Union,Spartak Moscow,Russia
+5115,1978,Spain,Espanyol,Spain
 5115,1982,Spain,Barcelona,Spain
 5115,1986,Spain,Barcelona,Spain
 5116,1986,Spain,Atletico Madrid,Spain
@@ -6914,6 +6933,7 @@ player_id,world_cup_year,team,club,country_club
 5160,1986,West Germany,VfB Stuttgart,Germany
 5161,1986,West Germany,Borussia Mönchengladbach,Germany
 5162,1986,West Germany,Hamburger SV,Germany
+5163,1978,West Germany,Bayern Munich,Germany
 5163,1982,West Germany,Bayern Munich,Germany
 5163,1986,West Germany,Internazionale,Italy
 5164,1986,West Germany,1. FC Köln,Germany
@@ -6929,22 +6949,33 @@ player_id,world_cup_year,team,club,country_club
 5174,1982,Algeria,Reims,France
 5175,1982,Algeria,MP Alger,Algeria
 5176,1982,Algeria,Laval,France
+5177,1978,Argentina,Huracan,Argentina
 5177,1982,Argentina,Talleres de Córdoba,Argentina
+5178,1978,Argentina,River Plate,Argentina
 5178,1982,Argentina,River Plate,Argentina
+5179,1978,Argentina,Talleres de Córdoba,Argentina
 5179,1982,Argentina,Talleres de Córdoba,Argentina
+5180,1978,Argentina,San Lorenzo,Argentina
 5180,1982,Argentina,Independiente,Argentina
+5181,1978,Argentina,Free Agent,
 5181,1982,Argentina,River Plate,Argentina
 5182,1982,Argentina,Independiente,Argentina
 5183,1982,Argentina,Racing,Argentina
+5184,1978,Argentina,Huracan,Argentina
 5184,1982,Argentina,Tottenham,England
 5185,1982,Argentina,Racing,Argentina
+5186,1978,Argentina,Newell's Old Boys,Argentina
 5186,1982,Argentina,River Plate,Argentina
 5187,1982,Argentina,Estudiantes,Argentina
+5188,1978,Argentina,Talleres de Córdoba,Argentina
 5188,1982,Argentina,Talleres de Córdoba,Argentina
+5189,1978,Argentina,Independiente,Argentina
 5189,1982,Argentina,Fiorentina,Italy
 5190,1982,Argentina,River Plate,Argentina
+5191,1978,Argentina,Valencia,Spain
 5191,1982,Argentina,River Plate,Argentina
 5192,1982,Argentina,Newell's Old Boys,Argentina
+5193,1978,Austria,SSW Innsbruck,Austria
 5193,1982,Austria,Austria Wien,Austria
 5194,1982,Austria,Rapid Wien,Austria
 5568,1982,Austria,Rapid Wien,Austria
@@ -7592,3 +7623,4 @@ player_id,world_cup_year,team,club,country_club
 5835,1978,West Germany,1. FC Köln,Germany
 5836,1978,West Germany,Eintracht Frankfurt,Germany
 5837,1978,West Germany,MSV Duisburg,Germany
+
