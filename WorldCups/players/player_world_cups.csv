@@ -6978,7 +6978,7 @@ player_id,world_cup_year,team,club,country_club
 5193,1978,Austria,SSW Innsbruck,Austria
 5193,1982,Austria,Austria Wien,Austria
 5194,1982,Austria,Rapid Wien,Austria
-5568,1982,Austria,Rapid Wien,Austria
+
 5195,1982,Austria,Austria Wien,Austria
 5196,1982,Austria,Admira/Wacker,Austria
 5197,1982,Austria,Eintracht Frankfurt,Germany
@@ -7275,7 +7275,7 @@ player_id,world_cup_year,team,club,country_club
 5488,1982,Poland,Auxerre,France
 5489,1982,Poland,Legia Warsaw,Poland
 5490,1982,Poland,Wis?a Kraków,Poland
-
+5491,1978,Argentina,San Lorenzo,Argentina
 5492,1982,Scotland,Arsenal,England
 5493,1982,Scotland,Celtic,Scotland
 5494,1982,Scotland,Leeds United,England
@@ -7292,7 +7292,7 @@ player_id,world_cup_year,team,club,country_club
 5505,1982,Soviet Union,Torpedo Moscow,Russia
 5506,1982,Soviet Union,Dinamo Tbilisi,Georgia
 5507,1982,Soviet Union,Dynamo Kyiv,Ukraine
-5569,1982,Soviet Union,Dinamo Minsk,Belarus
+
 5508,1982,Soviet Union,Torpedo Moscow,Russia
 5509,1982,Soviet Union,Spartak Moscow,Russia
 5510,1982,Soviet Union,Spartak Moscow,Russia
@@ -7353,8 +7353,8 @@ player_id,world_cup_year,team,club,country_club
 5565,1982,Yugoslavia,Dinamo Zagreb,Croatia
 5566,1982,Yugoslavia,Nantes,France
 5567,1982,Algeria,DNC Alger,Algeria
-5568,1978,Argentina,San Lorenzo,Argentina
-5569,1978,Argentina,Racing Club,Argentina
+5568,1982,Austria,Rapid Wien,Austria
+5569,1982,Soviet Union,Dinamo Minsk,Belarus
 5570,1978,Argentina,Independiente,Argentina
 5571,1978,Argentina,River Plate,Argentina
 5572,1978,Argentina,Independiente,Argentina
@@ -7623,4 +7623,4 @@ player_id,world_cup_year,team,club,country_club
 5835,1978,West Germany,1. FC Köln,Germany
 5836,1978,West Germany,Eintracht Frankfurt,Germany
 5837,1978,West Germany,MSV Duisburg,Germany
-
+5838,1978,Argentina,Racing Club,Argentina
