@@ -6978,21 +6978,29 @@ player_id,world_cup_year,team,club,country_club
 5193,1978,Austria,SSW Innsbruck,Austria
 5193,1982,Austria,Austria Wien,Austria
 5194,1982,Austria,Rapid Wien,Austria
-
+5195,1978,Austria,Austria Wien,Austria
 5195,1982,Austria,Austria Wien,Austria
 5196,1982,Austria,Admira/Wacker,Austria
+5197,1978,Austria,SSW Innsbruck,Austria
 5197,1982,Austria,Eintracht Frankfurt,Germany
 5198,1982,Austria,Sturm Graz,Austria
 5199,1982,Austria,Admira/Wacker,Austria
 5200,1982,Austria,Rapid Wien,Austria
+5201,1978,Austria,Sturm Graz,Austria
 5201,1982,Austria,Rapid Wien,Austria
+5202,1978,Austria,VfB Stuttgart,Germany
 5202,1982,Austria,SSW Innsbruck,Austria
+5203,1978,Austria,Austria Wien,Austria
 5203,1982,Austria,Internazionale,Italy
 5204,1982,Austria,1. FC Nürnberg,Germany
+5205,1978,Austria,MSV Duisburg,Germany
 5205,1982,Austria,Grasshopper,Switzerland
+5206,1978,Austria,Austria Wien,Austria
 5206,1982,Austria,Austria Wien,Austria
 5207,1982,Austria,Austria Wien,Austria
+5208,1978,Austria,DSV Alpine Donawitz,Austria
 5208,1982,Austria,Cesena,Italy
+5209,1978,Austria,Rapid Wien,Austria
 5209,1982,Austria,Rapid Wien,Austria
 5210,1982,Austria,VÖEST Linz,Austria
 5211,1982,Austria,Sturm Graz,Austria
@@ -7010,21 +7018,27 @@ player_id,world_cup_year,team,club,country_club
 5223,1982,Belgium,KSV Waregem,Belgium
 5224,1982,Belgium,Standard Liège,Belgium
 5225,1982,Belgium,West Ham,England
+5226,1978,Brazil,São Paulo,Brazil
 5226,1982,Brazil,São Paulo,Brazil
 5227,1982,Brazil,Botafogo,Brazil
 5228,1982,Brazil,Flamengo,Brazil
+5229,1978,Brazil,Ponte Preta,Brazil
 5229,1982,Brazil,São Paulo,Brazil
 5230,1982,Brazil,Atlético Mineiro,Brazil
 5231,1982,Brazil,Internacional,Brazil
 5232,1982,Brazil,Ponte Preta,Brazil
 5233,1982,Brazil,Vasco da Gama,Brazil
+5234,1978,Brazil,Atlético Mineiro,Brazil
 5234,1982,Brazil,Atlético Mineiro,Brazil
 5235,1982,Brazil,Grêmio,Brazil
+5236,1978,Brazil,Internacional,Brazil
 5236,1982,Brazil,Grêmio,Brazil
 5237,1982,Brazil,São Paulo,Belgium
+5238,1978,Brazil,Vasco da Gama,Brazil
 5238,1982,Brazil,Atlético Madrid,Spain
 5239,1982,Brazil,São Paulo,Brazil
 5240,1982,Brazil,Atlético Mineiro,Brazil
+5241,1978,Brazil,Vasco da Gama,Brazil
 5241,1982,Brazil,Vasco da Gama,Brazil
 5242,1982,Cameroon,Dynamo Douala,Cameroon
 5243,1982,Cameroon,Stade Quimperois,France
@@ -7123,17 +7137,21 @@ player_id,world_cup_year,team,club,country_club
 5336,1982,England,Ipswich Town,England
 5337,1982,England,Aston Villa,England
 5338,1982,England,1. FC Köln,Germany
+5339,1978,France,Nice,France
 5339,1982,France,PSG,France
 5340,1982,France,Saint-Étienne,France
 5341,1982,France,Monaco,France
 5342,1982,France,Saint-Étienne,France
+5343,1978,France,Saint-Étienne,France
 5343,1982,France,Saint-Étienne,France
 5344,1982,France,Metz,France
 5345,1982,France,Bordeaux,France
-5346,1982,France,ordeaux,France
+5346,1982,France,Bordeaux,France
 5347,1982,France,Saint-Étienne,France
 5348,1982,France,Monaco,France
+5349,1978,France,Lyon,France
 5349,1982,France,Bordeaux,France
+5350,1978,France,Lens,France
 5350,1982,France,VfB Stuttgart,Germany
 5351,1982,France,Bordeaux,France
 5352,1982,Honduras,Universidad,Honduras
@@ -7164,26 +7182,34 @@ player_id,world_cup_year,team,club,country_club
 5377,1982,Hungary,Waterschei Thor,Belgium
 5378,1982,Hungary,Toulouse,France
 5379,1982,Hungary,Újpest,Hungary
+5380,1978,Hungary,Ferencváros,Hungary
 5380,1982,Hungary,Ferencváros,Hungary
 5381,1982,Hungary,Békéscsabai El?re,Hungary
 5382,1982,Hungary,Hércules,Spain
 5383,1982,Hungary,Videoton,Hungary
 5384,1982,Hungary,Tatabányai Bányász,Hungary
 5385,1982,Hungary,Antwerp,Belgium
+5386,1978,Hungary,Ferencváros,Hungary
 5386,1982,Hungary,Ferencváros,Hungary
 5387,1982,Hungary,Újpest,Hungary
 5388,1982,Hungary,Vasas,Hungary
 5389,1982,Hungary,Ferencváros,Hungary
 5390,1982,Hungary,Gyor,Hungary
 5391,1982,Hungary,Budapest Honvéd,Hungary
+5392,1978,Italy,Juventus,Italy
 5392,1982,Italy,Juventus,Italy
+5393,1978,Italy,Internazionale,Italy
 5393,1982,Italy,Internazionale,Italy
+5394,1978,Italy,Juventus,Italy
 5394,1982,Italy,Juventus,Italy
+5395,1978,Italy,Fiorentina,Italy
 5395,1982,Italy,Fiorentina,Italy
 5396,1982,Italy,Torino,Italy
 5397,1982,Italy,Internazionale,Italy
 5398,1982,Italy,Internazionale,Italy
+5399,1978,Italy,Juventus,Italy
 5399,1982,Italy,Udinese,Italy
+5400,1978,Italy,Torino,Italy
 5400,1982,Italy,Fiorentina,Italy
 5401,1982,Italy,Cagliari,Italy
 5402,1982,Kuwait,Kuwait SC,Kuwait
@@ -7243,25 +7269,34 @@ player_id,world_cup_year,team,club,country_club
 5456,1982,Northern Ireland,Bradford City,England
 5457,1982,Peru,Universitario,Peru
 5458,1982,Peru,Alianza Lima,Peru
+5459,1978,Peru,Sporting Cristal,Peru
 5459,1982,Peru,Sporting Cristal,Peru
+5460,1978,Peru,Alianza Lima,Peru
 5460,1982,Peru,Alianza Lima,Peru
 5461,1982,Peru,Alianza Lima,Peru
 5462,1982,Peru,Universitario,Peru
 5463,1982,Peru,Sporting Cristal,Peru
 5464,1982,Peru,Alianza Lima,Peru
+5465,1978,Peru,Deportivo Municipal,Peru
 5465,1982,Peru,Universitario,Peru
+5466,1978,Peru,Alianza Lima,Peru
 5466,1982,Peru,Independiente Medellín,Colombia
+5467,1978,Peru,Alianza Lima,Peru
 5467,1982,Peru,Atlético Nacional,Colombia
 5468,1982,Peru,Sporting Cristal,Peru
+5469,1978,Peru,Alianza Lima,Peru
 5469,1982,Peru,Fort Lauderdale Strikers,USA
 5470,1982,Peru,Atlético Chalaco,Peru
 5471,1982,Peru,Sporting Cristal,Peru
 5472,1982,Peru,Deportivo Municipal,Peru
 5473,1982,Peru,Sporting Cristal,Peru
 5474,1982,Peru,UANL,Mexico
+5475,1978,Peru,Sporting Cristal,Peru
 5475,1982,Peru,Seraing,Belgium
 5476,1982,Peru,Deportivo Municipal,Peru
+5477,1978,Peru,Alianza Lima,Peru
 5477,1982,Peru,Atlético Nacional,Colombia
+5478,1978,Peru,Sporting Cristal,Peru
 5478,1982,Peru,Seraing,Belgium
 5479,1982,Poland,Lech Pozna?,Poland
 5480,1982,Poland,?KS ?ód?,Poland
@@ -7269,12 +7304,16 @@ player_id,world_cup_year,team,club,country_club
 5482,1982,Poland,Legia Warsaw,Poland
 5483,1982,Poland,Wisla Kraków,Poland
 5484,1982,Poland,Wisla Kraków,Poland
+5485,1978,Poland,Arka Gdynia,Poland
 5485,1982,Poland,Arka Gdynia,Poland
 5486,1982,Poland,Stal Mielec,Poland
+5487,1978,Poland,Stal Mielec,Poland
 5487,1982,Poland,Lokeren,Belgium
 5488,1982,Poland,Auxerre,France
+5489,1978,Poland,Legia Warsaw,Poland
 5489,1982,Poland,Legia Warsaw,Poland
-5490,1982,Poland,Wis?a Kraków,Poland
+5490,1978,Poland,Wisla Kraków,Poland
+5490,1982,Poland,Wisla Kraków,Poland
 5491,1978,Argentina,San Lorenzo,Argentina
 5492,1982,Scotland,Arsenal,England
 5493,1982,Scotland,Celtic,Scotland
@@ -7283,16 +7322,19 @@ player_id,world_cup_year,team,club,country_club
 5496,1982,Scotland,Aston Villa,England
 5497,1982,Scotland,Ipswich Town,England
 5498,1982,Scotland,Ipswich Town,England
+5499,1978,Scotland,Nottingham Forest,England
 5499,1982,Scotland,Nottingham Forest,England
+5500,1978,Scotland,Manchester City,England
 5500,1982,Scotland,Manchester City,England
 5501,1982,Scotland,Celtic,Scotland
+5502,1978,Scotland,Liverpool,England
 5502,1982,Scotland,Liverpool,England
 5503,1982,Scotland,Ipswich Town,England
+5504,1978,Scotland,Manchester United,England
 5504,1982,Scotland,AC Milan,Italy
 5505,1982,Soviet Union,Torpedo Moscow,Russia
 5506,1982,Soviet Union,Dinamo Tbilisi,Georgia
 5507,1982,Soviet Union,Dynamo Kyiv,Ukraine
-
 5508,1982,Soviet Union,Torpedo Moscow,Russia
 5509,1982,Soviet Union,Spartak Moscow,Russia
 5510,1982,Soviet Union,Spartak Moscow,Russia
@@ -7301,6 +7343,7 @@ player_id,world_cup_year,team,club,country_club
 5513,1982,Soviet Union,Dynamo Kyiv,Ukraine
 5514,1982,Soviet Union,Dinamo Tbilisi,Georgia
 5515,1982,Soviet Union,SKA Rostov,Russia
+5516,1978,Spain,Real Sociedad,Spain
 5516,1982,Spain,Real Sociedad,Spain
 5517,1982,Spain,Real Madrid,Spain
 5518,1982,Spain,Valencia,Spain
@@ -7312,11 +7355,14 @@ player_id,world_cup_year,team,club,country_club
 5524,1982,Spain,Real Sociedad,Spain
 5525,1982,Spain,Valencia,Spain
 5526,1982,Spain,Barcelona,Spain
+5527,1978,Spain,Real Madrid,Spain
 5527,1982,Spain,Real Madrid,Spain
 5528,1982,Spain,Real Sociedad,Spain
 5529,1982,Spain,Real Sociedad,Spain
 5530,1982,Spain,Real Sociedad,Spain
+5531,1978,Spain,Real Madrid,Spain
 5531,1982,Spain,Real Madrid,Spain
+5532,1978,Spain,Sporting Gijón,Spain
 5532,1982,Spain,Barcelona,Spain
 5533,1982,West Germany,Eintracht Braunschweig,Germany
 5534,1982,West Germany,Bayern Munich,Germany
@@ -7324,10 +7370,12 @@ player_id,world_cup_year,team,club,country_club
 5536,1982,West Germany,Borussia Mönchengladbach,Germany
 5537,1982,West Germany,Real Madrid,Spain
 5538,1982,West Germany,Hamburger SV,Germany
+5539,1978,West Germany,Hamburger SV,Germany
 5539,1982,West Germany,Hamburger SV,Germany
 5540,1982,West Germany,Bayern Munich,Germany
 5541,1982,West Germany,VfB Stuttgart,Germany
 5542,1982,West Germany,1. FC Köln,Germany
+5543,1978,West Germany,Schalke 04,Germany
 5543,1982,West Germany,1. FC Köln,Germany
 5544,1982,West Germany,Hamburger SV,Germany
 5545,1982,West Germany,Werder Bremen,Germany
