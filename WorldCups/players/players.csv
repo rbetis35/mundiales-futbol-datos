@@ -5193,7 +5193,6 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5192,17,Santiago Santamaría,22-08-1952,FW,Argentina
 5193,1,Friedrich Koncilia,25-02-1948,GK,Austria
 5194,21,Herbert Feurer,14-01-1954,GK,Austria
-5568,2,Bernd Krauss,08-05-1957,DF,Austria
 5195,3,Erich Obermayer ,23-01-1953,DF,Austria
 5196,4,Josef Degeorgi,19-01-1960,DF,Austria
 5197,5,Bruno Pezzey,03-02-1955,DF,Austria
@@ -5490,7 +5489,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5488,17,Andrzej Szarmach,03-10-1950,FW,Poland
 5489,18,Marek Kusto,29-04-1954,FW,Poland
 5490,19,Andrzej Iwan,10-11-1959,FW,Poland
-
+5491,13,Ricardo La Volpe,06-02-1952,GK,Argentina
 5492,12,George Wood,26-09-1952,GK,Scotland
 5493,2,Danny McGrain ,01-05-1950,DF,Scotland
 5494,3,Frank Gray,27-10-1954,DF,Scotland
@@ -5507,7 +5506,6 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5505,22,Vyacheslav Chanov,23-10-1951,GK,Soviet Union
 5506,2,Tengiz Sulakvelidze,23-07-1956,DF,Soviet Union
 5507,5,Sergei Baltacha,17-02-1958,DF,Soviet Union
-5569,14,Sergei Borovsky,29-01-1956,DF,Soviet Union
 5508,18,Yuri Susloparov,14-08-1958,DF,Soviet Union
 5509,20,Oleg Romantsev,04-01-1954,DF,Soviet Union
 5510,9,Yuri Gavrilov,03-05-1953,MF,Soviet Union
@@ -5568,8 +5566,8 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5565,18,Stjepan Deveri?,20-08-1961,FW,Yugoslavia
 5566,19,Vahid Halilhodži?,15-10-1952,FW,Yugoslavia
 5567,17,Abdelkader Horr,10-11-1953,DF,Algeria
-5568,13,Ricardo La Volpe,06-02-1952,GK,Argentina
-5569,11,Daniel Killer,21-12-1949,DF,Argentina
+5568,2,Bernd Krauss,08-05-1957,DF,Austria
+5569,14,Sergei Borovsky,29-01-1956,DF,Soviet Union
 5570,18,Rubén Pagnanini,31-01-1949,DF,Argentina
 5571,1,Norberto Alonso,04-01-1953,MF,Argentina
 5572,8,Rubén Galván,07-04-1952,MF,Argentina
@@ -5838,3 +5836,4 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5835,14,Dieter Müller,01-04-1954,FW,West Germany
 5836,17,Bernd Hölzenbein,09-03-1946,FW,West Germany
 5837,19,Ronald Worm,07-10-1953,FW,West Germany
+5838,11,Daniel Killer,21-12-1949,DF,Argentina
