@@ -5837,3 +5837,300 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5836,17,Bernd Hölzenbein,09-03-1946,FW,West Germany
 5837,19,Ronald Worm,07-10-1953,FW,West Germany
 5838,11,Daniel Killer,21-12-1949,DF,Argentina
+5839,1,Daniel Carnevali,04-12-1946,GK,Argentina
+5840,21,Miguel Ángel Santoro,27-02-1942,GK,Argentina
+5841,5,Ángel Bargas,29-10-1946,DF,Argentina
+5842,7,Jorge Carrascosa,15-08-1948,DF,Argentina
+5843,9,Rubén Glaria,10-03-1948,DF,Argentina
+5844,10,Ramón Heredia,26-02-1951,DF,Argentina
+5845,14,Roberto Perfumo,03-10-1942,DF,Argentina
+5846,16,Francisco Sá,25-10-1945,DF,Argentina
+5847,20,Enrique Wolff,21-02-1949,DF,Argentina
+5848,3,Carlos Babington,20-09-1949,MF,Argentina
+5849,6,Miguel Ángel Brindisi,08-10-1950,MF,Argentina
+5850,8,Enrique Chazarreta,29-07-1947,MF,Argentina
+5851,17,Carlos Squeo,04-06-1948,MF,Argentina
+5852,18,Roberto Telch,06-11-1943,MF,Argentina
+5853,19,Néstor Togneri,27-11-1942,MF,Argentina
+5854,2,Rubén Ayala,08-01-1950,FW,Argentina
+5855,4,Agustín Balbuena,01-09-1945,FW,Argentina
+5856,15,Aldo Poy,14-09-1945,FW,Argentina
+5857,22,Héctor Yazalde,29-05-1946,FW,Argentina
+5858,1,Jack Reilly,27-08-1945,GK,Australia
+5859,21,Jim Milisavljevic,15-04-1951,GK,Australia
+5860,22,Allan Maher,21-07-1950,GK,Australia
+5861,2,Doug Utjesenovic,08-10-1946,DF,Australia
+5862,3,Peter Wilson,15-09-1947,DF,Australia
+5863,4,Manfred Schaefer,12-02-1943,DF,Australia
+5864,5,Colin Curran,21-08-1947,DF,Australia
+5865,15,Harry Williams,07-05-1951,DF,Australia
+5866,16,Ivo Rudic,24-01-1942,DF,Australia
+5867,17,Dave Harding,14-08-1946,DF,Australia
+5868,6,Ray Richards,18-05-1946,MF,Australia
+5869,7,Jimmy Rooney,10-12-1945,MF,Australia
+5870,8,Jimmy Mackay,19-12-1943,MF,Australia
+5871,9,Johnny Warren,17-05-1943,MF,Australia
+5872,13,Peter Ollerton,20-05-1951,MF,Australia
+5873,14,Max Tolson,18-07-1945,MF,Australia
+5874,18,Johnny Watkiss,28-03-1941,MF,Australia
+5875,19,Ernie Campbell,20-10-1949,MF,Australia
+5876,10,Garry Manuel,20-02-1950,FW,Australia
+5877,11,Attila Abonyi,16-08-1946,FW,Australia
+5878,12,Adrian Alston,06-02-1949,FW,Australia
+5879,20,Branko Buljevic,06-09-1947,FW,Australia
+5880,12,Renato Cunha,05-12-1944,GK,Brazil
+5881,2,Luís Pereira,21-06-1949,DF,Brazil
+5882,3,Marinho Peres,19-03-1947,DF,Brazil
+5883,4,Zé Maria,18-05-1949,DF,Brazil
+5884,6,Marinho Chagas,08-02-1952,DF,Brazil
+5885,15,Alfredo,18-10-1946,DF,Brazil
+5886,16,Marco Antônio,06-02-1951,DF,Brazil
+5887,5,Piazza,25-02-1943,MF,Brazil
+5888,8,Leivinha,11-09-1949,MF,Brazil
+5889,10,Rivellino,01-01-1946,MF,Brazil
+5890,11,Paulo Cézar,16-06-1949,MF,Brazil
+5891,17,Carpegiani,07-02-1949,MF,Brazil
+5892,18,Ademir da Guia,03-04-1942,MF,Brazil
+5893,7,Jairzinho,25-12-1944,FW,Brazil
+5894,9,César,17-05-1945,FW,Brazil
+5895,13,Valdomiro,17-02-1946,FW,Brazil
+5896,19,Mirandinha,26-02-1952,FW,Brazil
+5897,20,Edu,06-08-1949,FW,Brazil
+5898,1,Rumyancho Goranov,17-03-1950,GK,Bulgaria
+5899,21,Stefan Staykov,03-10-1949,GK,Bulgaria
+5900,22,Simeon Simeonov,26-04-1946,GK,Bulgaria
+5901,2,Ivan Zafirov,30-12-1947,DF,Bulgaria
+5902,3,Dobromir Zhechev,12-11-1942,DF,Bulgaria
+5903,5,Bozhil Kolev,20-05-1949,DF,Bulgaria
+5904,6,Dimitar Penev,12-07-1945,DF,Bulgaria
+5905,12,Stefan Aladzhov,18-10-1947,DF,Bulgaria
+5906,13,Mladen Vasilev,29-07-1947,DF,Bulgaria
+5907,4,Stefko Velichkov,15-02-1949,MF,Bulgaria
+5908,10,Ivan Stoyanov,20-01-1949,MF,Bulgaria
+5909,11,Georgi Denev,18-04-1950,MF,Bulgaria
+5910,17,Asparuh Nikodimov,21-08-1945,MF,Bulgaria
+5911,18,Tsonyo Vasilev,07-01-1952,MF,Bulgaria
+5912,19,Kiril Ivkov,21-06-1946,MF,Bulgaria
+5913,7,Voyn Voynov,07-09-1952,FW,Bulgaria
+5914,8,Hristo Bonev ,03-02-1947,FW,Bulgaria
+5915,9,Atanas Mihailov,05-07-1949,FW,Bulgaria
+5916,14,Kiril Milanov,17-10-1948,FW,Bulgaria
+5917,15,Pavel Panov,14-09-1950,FW,Bulgaria
+5918,16,Bozhidar Grigorov,27-07-1945,FW,Bulgaria
+5919,20,Krasimir Borisov,08-04-1950,FW,Bulgaria
+5920,1,Leopoldo Vallejos,16-07-1944,GK,Chile
+5921,21,Juan Olivares,20-02-1941,GK,Chile
+5922,22,Adolfo Nef,18-01-1946,GK,Chile
+5923,2,Rolando García,15-12-1942,DF,Chile
+5924,3,Alberto Quintano,26-04-1946,DF,Chile
+5925,4,Antonio Arias,09-10-1944,DF,Chile
+5926,6,Juan Rodríguez,16-01-1944,DF,Chile
+5927,12,Juan Machuca,07-03-1951,DF,Chile
+5928,13,Rafael González,24-04-1950,DF,Chile
+5929,8,Francisco Valdés ,19-03-1943,MF,Chile
+5930,10,Carlos Reinoso,07-03-1945,MF,Chile
+5931,14,Alfonso Lara,27-04-1946,MF,Chile
+5932,16,Guillermo Páez,18-04-1945,MF,Chile
+5933,18,Jorge Socías,06-10-1951,MF,Chile
+5934,19,Rogelio Farías,13-08-1949,MF,Chile
+5935,9,Sergio Ahumada,02-10-1948,FW,Chile
+5936,11,Leonardo Véliz,03-09-1945,FW,Chile
+5937,17,Guillermo Yávar,26-03-1943,FW,Chile
+5938,20,Osvaldo Castro,14-04-1947,FW,Chile
+5939,1,Jürgen Croy,19-10-1946,GK,East Germany
+5940,21,Wolfgang Blochwitz,08-02-1941,GK,East Germany
+5941,22,Werner Friese,30-03-1946,GK,East Germany
+5942,2,Lothar Kurbjuweit,06-11-1950,DF,East Germany
+5943,3,Bernd Bransch ,24-09-1944,DF,East Germany
+5944,4,Konrad Weise,17-08-1951,DF,East Germany
+5945,5,Joachim Fritsche,28-10-1951,DF,East Germany
+5946,12,Siegmar Wätzlich,16-11-1947,DF,East Germany
+5947,18,Gerd Kische,23-10-1951,DF,East Germany
+5948,6,Rüdiger Schnuphase,23-01-1954,MF,East Germany
+5949,7,Jürgen Pommerenke,22-01-1953,MF,East Germany
+5950,13,Reinhard Lauck,16-09-1946,MF,East Germany
+5951,14,Jürgen Sparwasser,04-06-1948,MF,East Germany
+5952,16,Harald Irmscher,12-02-1946,MF,East Germany
+5953,17,Erich Hamann,27-11-1944,MF,East Germany
+5954,19,Wolfgang Seguin,14-09-1945,MF,East Germany
+5955,8,Wolfram Löwe,14-05-1945,FW,East Germany
+5956,9,Peter Ducke,14-10-1941,FW,East Germany
+5957,10,Hans-Jürgen Kreische,19-07-1947,FW,East Germany
+5958,11,Joachim Streich,13-04-1951,FW,East Germany
+5959,15,Eberhard Vogel,08-04-1943,FW,East Germany
+5960,20,Martin Hoffmann,22-03-1955,FW,East Germany
+5961,1,Henri Françillon,26-05-1946,GK,Haiti
+5962,2,Wilner Piquant,12-10-1949,GK,Haiti
+5963,22,Gérard Joseph,22-10-1949,GK,Haiti
+5964,3,Arsène Auguste,03-02-1951,DF,Haiti
+5965,4,Fritz André,18-09-1946,DF,Haiti
+5966,5,Serge Ducosté,04-02-1944,DF,Haiti
+5967,6,Pierre Bayonne,11-06-1949,DF,Haiti
+5968,13,Serge Racine,09-10-1951,DF,Haiti
+5969,14,Wilner Nazaire ,30-03-1950,DF,Haiti
+5970,19,Jean-Herbert Austin,23-02-1950,DF,Haiti
+5971,21,Wilfried Louis,25-10-1949,DF,Haiti
+5972,7,Philippe Vorbe,14-09-1947,MF,Haiti
+5973,8,Jean-Claude Désir,08-08-1946,MF,Haiti
+5974,9,Eddy Antoine,27-08-1949,MF,Haiti
+5975,10,Guy François,18-09-1947,MF,Haiti
+5976,12,Ernst Jean-Joseph,11-06-1948,MF,Haiti
+5977,17,Joseph-Marion Leandré,09-05-1945,MF,Haiti
+5978,11,Guy Saint-Vil,21-10-1942,FW,Haiti
+5979,15,Roger Saint-Vil,08-12-1949,FW,Haiti
+5980,16,Fritz Leandré,13-03-1948,FW,Haiti
+5981,18,Claude Barthélemy,09-05-1945,FW,Haiti
+5982,20,Emmanuel Sanon,25-06-1951,FW,Haiti
+5983,12,Enrico Albertosi,02-11-1939,GK,Italy
+5984,22,Luciano Castellini,12-12-1945,GK,Italy
+5985,2,Luciano Spinosi,09-05-1950,DF,Italy
+5986,3,Giacinto Facchetti ,18-07-1942,DF,Italy
+5987,5,Francesco Morini,12-08-1944,DF,Italy
+5988,6,Tarcisio Burgnich,25-04-1939,DF,Italy
+5989,13,Giuseppe Sabadini,26-03-1949,DF,Italy
+5990,15,Giuseppe Wilson,27-10-1945,DF,Italy
+5991,7,Sandro Mazzola,08-11-1942,MF,Italy
+5992,8,Fabio Capello,18-06-1946,MF,Italy
+5993,10,Gianni Rivera,18-08-1943,MF,Italy
+5994,16,Antonio Juliano,26-12-1942,MF,Italy
+5995,17,Luciano Re Cecconi,01-12-1948,MF,Italy
+5996,9,Giorgio Chinaglia,24-01-1947,FW,Italy
+5997,11,Gigi Riva,07-11-1944,FW,Italy
+5998,19,Pietro Anastasi,07-04-1948,FW,Italy
+5999,20,Roberto Boninsegna,13-11-1943,FW,Italy
+6000,21,Eddy Treijtel,28-05-1946,GK,Netherlands
+6001,4,Kees van Ierssel,06-12-1945,DF,Netherlands
+6002,5,Rinus Israël,19-03-1942,DF,Netherlands
+6003,12,Ruud Krol,24-03-1949,DF,Netherlands
+6004,19,Pleun Strik,27-05-1944,DF,Netherlands
+6005,22,Harry Vos,04-09-1946,DF,Netherlands
+6006,3,Willem van Hanegem,20-02-1944,MF,Netherlands
+6007,7,Theo de Jong,11-08-1947,MF,Netherlands
+6008,14,Johan Cruyff ,25-04-1947,MF,Netherlands
+6009,1,Ruud Geels,28-07-1948,FW,Netherlands
+6010,9,Piet Keizer,14-06-1943,FW,Netherlands
+6011,1,Andrzej Fischer,15-01-1952,GK,Poland
+6012,3,Zygmunt Kalinowski,02-05-1949,GK,Poland
+6013,5,Zbigniew Gut,17-04-1949,DF,Poland
+6014,8,Mirosław Bulzacki,23-10-1951,DF,Poland
+6015,10,Adam Musiał,18-12-1948,DF,Poland
+6016,7,Henryk Wieczorek,14-12-1949,MF,Poland
+6017,11,Lesław Ćmikiewicz,25-08-1948,MF,Poland
+6018,14,Zygmunt Maszczyk,03-05-1945,MF,Poland
+6019,15,Roman Jakóbczak,26-02-1946,FW,Poland
+6020,18,Robert Gadocha,10-01-1946,FW,Poland
+6021,19,Jan Domarski,28-10-1946,FW,Poland
+6022,20,Zdzisław Kapka,07-12-1954,FW,Poland
+6023,21,Kazimierz Kmiecik,19-09-1951,FW,Poland
+6024,1,David Harvey,07-02-1948,GK,Scotland
+6025,12,Thomson Allan,05-10-1946,GK,Scotland
+6026,13,Jim Stewart,09-03-1954,GK,Scotland
+6027,5,Jim Holton,11-04-1951,DF,Scotland
+6028,6,John Blackley,12-05-1948,DF,Scotland
+6029,22,Erich Schaedler,06-08-1949,DF,Scotland
+6030,4,Billy Bremner ,09-12-1942,MF,Scotland
+6031,7,Jimmy Johnstone,30-09-1944,MF,Scotland
+6032,10,David Hay,29-01-1948,MF,Scotland
+6033,15,Peter Cormack,17-07-1946,MF,Scotland
+6034,17,Donald Ford,25-10-1944,MF,Scotland
+6035,18,Tommy Hutchison,22-09-1947,MF,Scotland
+6036,11,Peter Lorimer,14-12-1946,FW,Scotland
+6037,19,Denis Law,24-02-1940,FW,Scotland
+6038,20,Willie Morgan,02-10-1944,FW,Scotland
+6039,12,Sven-Gunnar Larsson,10-05-1940,GK,Sweden
+6040,2,Jan Olsson,30-03-1942,DF,Sweden
+6041,4,Björn Nordqvist,06-10-1942,DF,Sweden
+6042,5,Björn Andersson,20-07-1951,DF,Sweden
+6043,13,Roland Grip,01-01-1941,DF,Sweden
+6044,18,Jörgen Augustsson,28-10-1952,DF,Sweden
+6045,6,Ove Grahn,09-05-1943,MF,Sweden
+6046,7,Bo Larsson ,05-05-1944,MF,Sweden
+6047,15,Benno Magnusson,04-02-1953,MF,Sweden
+6048,16,Inge Ejderstedt,24-12-1946,MF,Sweden
+6049,19,Claes Cronqvist,15-10-1944,MF,Sweden
+6050,20,Sven Lindman,19-04-1942,MF,Sweden
+6051,21,Örjan Persson,27-08-1942,MF,Sweden
+6052,22,Thomas Ahlström,17-07-1952,MF,Sweden
+6053,9,Ove Kindvall,16-05-1943,FW,Sweden
+6054,11,Roland Sandberg,16-12-1946,FW,Sweden
+6055,1,Ladislao Mazurkiewicz,14-02-1945,GK,Uruguay
+6056,12,Héctor Santos,29-10-1944,GK,Uruguay
+6057,22,Gustavo Fernández,16-02-1952,GK,Uruguay
+6058,2,Baudilio Jáuregui,09-07-1945,DF,Uruguay
+6059,3,Juan Carlos Masnik ,02-03-1943,DF,Uruguay
+6060,4,Pablo Forlán,14-07-1945,DF,Uruguay
+6061,5,Julio Montero Castillo,25-04-1944,DF,Uruguay
+6062,6,Ricardo Pavoni,08-07-1943,DF,Uruguay
+6063,13,Gustavo de Simone,23-04-1948,DF,Uruguay
+6064,14,Luis Garisto,03-12-1945,DF,Uruguay
+6065,15,Mario González,27-05-1950,DF,Uruguay
+6066,7,Luis Cubilla,28-03-1940,MF,Uruguay
+6067,8,Víctor Espárrago,06-10-1944,MF,Uruguay
+6068,10,Pedro Rocha,03-12-1942,MF,Uruguay
+6069,16,Alberto Cardaccio,26-08-1949,MF,Uruguay
+6070,17,Julio César Jiménez,27-08-1954,MF,Uruguay
+6071,18,Walter Mantegazza,17-06-1952,MF,Uruguay
+6072,9,Fernando Morena,02-02-1952,FW,Uruguay
+6073,11,Rubén Corbo,20-01-1952,FW,Uruguay
+6074,19,Denis Milar,20-06-1952,FW,Uruguay
+6075,20,Juan Silva,05-08-1948,FW,Uruguay
+6076,21,José Gómez,23-10-1949,FW,Uruguay
+6077,21,Norbert Nigbur,08-05-1948,GK,West Germany
+6078,22,Wolfgang Kleff,16-11-1946,GK,West Germany
+6079,2,Berti Vogts,30-12-1946,DF,West Germany
+6080,5,Franz Beckenbauer ,11-09-1945,DF,West Germany
+6081,6,Horst-Dieter Höttges,10-09-1943,DF,West Germany
+6082,19,Jupp Kapellmann,19-12-1949,DF,West Germany
+6083,20,Helmut Kremers,24-03-1949,DF,West Germany
+6084,7,Herbert Wimmer,09-11-1944,MF,West Germany
+6085,10,Günter Netzer,14-09-1944,MF,West Germany
+6086,12,Wolfgang Overath,29-09-1943,MF,West Germany
+6087,9,Jürgen Grabowski,07-07-1944,FW,West Germany
+6088,11,Jupp Heynckes,09-05-1945,FW,West Germany
+6089,13,Gerd Müller,03-11-1945,FW,West Germany
+6090,14,Uli Hoeneß,05-01-1952,FW,West Germany
+6091,18,Dieter Herzog,15-07-1946,FW,West Germany
+6092,1,Enver Marić,23-04-1948,GK,Yugoslavia
+6093,21,Ognjen Petrović,02-01-1948,GK,Yugoslavia
+6094,22,Rizah Mešković,10-08-1947,GK,Yugoslavia
+6095,2,Ivan Buljan,11-12-1949,DF,Yugoslavia
+6096,3,Enver Hadžiabdić,06-11-1945,DF,Yugoslavia
+6097,5,Josip Katalinski,12-05-1948,DF,Yugoslavia
+6098,14,Luka Peruzović,26-02-1952,DF,Yugoslavia
+6099,15,Kiril Dojčinovski,17-10-1943,DF,Yugoslavia
+6100,4,Dražen Mužinić,25-01-1953,MF,Yugoslavia
+6101,6,Vladislav Bogićević,07-11-1950,MF,Yugoslavia
+6102,8,Branko Oblak,27-05-1947,MF,Yugoslavia
+6103,10,Jovan Aćimović,21-06-1948,MF,Yugoslavia
+6104,12,Jurica Jerković,25-02-1950,MF,Yugoslavia
+6105,13,Miroslav Pavlović,23-10-1942,MF,Yugoslavia
+6106,16,Franjo Vladić,19-10-1951,MF,Yugoslavia
+6107,20,Vladimir Petrović,01-07-1955,MF,Yugoslavia
+6108,7,Ilija Petković,22-09-1945,FW,Yugoslavia
+6109,9,Ivica Šurjak,23-03-1953,FW,Yugoslavia
+6110,11,Dragan Džajić ,30-05-1946,FW,Yugoslavia
+6111,17,Danilo Popivoda,01-05-1947,FW,Yugoslavia
+6112,18,Stanislav Karasi,08-11-1946,FW,Yugoslavia
+6113,19,Dušan Bajević,10-12-1948,FW,Yugoslavia
+6114,1,Kazadi Mwamba,06-03-1947,GK,Zaire
+6115,12,Tubilandu Ndimbi,15-03-1948,GK,Zaire
+6116,22,Kalambay Otepa,12-11-1948,GK,Zaire
+6117,2,Mwepu Ilunga,22-08-1949,DF,Zaire
+6118,3,Mwanza Mukombo,17-12-1945,DF,Zaire
+6119,4,Bwanga Tshimen,04-01-1949,DF,Zaire
+6120,5,Lobilo Boba,10-04-1950,DF,Zaire
+6121,11,Kabasu Babo,04-03-1950,DF,Zaire
+6122,16,Mwape Mialo,30-12-1951,DF,Zaire
+6123,6,Kilasu Massamba,24-11-1948,MF,Zaire
+6124,7,Tshinabu Wa Munda,08-05-1946,MF,Zaire
+6125,8,Mana Mamuwene,10-10-1947,MF,Zaire
+6126,9,Kembo Uba Kembo,27-12-1947,MF,Zaire
+6127,10,Kidumu Mantantu ,17-11-1946,MF,Zaire
+6128,13,Ndaye Mulamba,04-11-1948,MF,Zaire
+6129,15,Kibonge Mafu,12-02-1945,MF,Zaire
+6130,17,Kafula Ngoie,11-11-1945,MF,Zaire
+6131,14,Mayanga Maku,31-10-1948,FW,Zaire
+6132,18,Mavuba Mafuila,15-12-1949,FW,Zaire
+6133,19,Mbungu Ekofa,24-11-1947,FW,Zaire
+6134,20,Jean Kalala N'Tumba,07-01-1949,FW,Zaire
+6135,21,Kakoko Etepe,22-11-1950,FW,Zaire
