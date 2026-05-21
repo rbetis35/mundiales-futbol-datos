@@ -1,0 +1,353 @@
+player_id;dorsal;Player;position;Squad;MP;Starts;Min;Gls;Ast;CrdY;CrdR
+5839;1;Daniel Carnevali;GK;Argentina;5;5;450;0;;0;0
+5178;12;Ubaldo Fillol;GK;Argentina;1;1;90;0;;0;0
+5840;21;Miguel Ángel Santoro;GK;Argentina;0;0;0;0;;0;0
+5841;5;Ángel Bargas;DF;Argentina;3;3;246;0;;1;0
+5842;7;Jorge Carrascosa;DF;Argentina;2;1;135;0;;0;0
+5843;9;Rubén Glaria;DF;Argentina;3;1;166;0;;0;0
+5844;10;Ramón Heredia;DF;Argentina;6;6;540;1;;1;0
+5845;14;Roberto Perfumo ;DF;Argentina;4;4;360;0;;2;0
+5846;16;Francisco Sá;DF;Argentina;5;5;405;0;;0;0
+5847;20;Enrique Wolff;DF;Argentina;5;5;374;0;;0;0
+5848;3;Carlos Babington;MF;Argentina;5;5;450;1;;3;0
+5849;6;Miguel Ángel Brindisi;MF;Argentina;4;3;258;1;;0;0
+5850;8;Enrique Chazarreta;MF;Argentina;1;0;13;0;;0;0
+5576;11;René Houseman;MF;Argentina;6;4;372;3;;1;0
+5851;17;Carlos Squeo;MF;Argentina;2;2;180;0;;0;0
+5852;18;Roberto Telch;MF;Argentina;5;4;384;0;;0;0
+5853;19;Néstor Togneri;MF;Argentina;0;0;0;0;;0;0
+5854;2;Rubén Ayala;FW;Argentina;6;6;540;1;;0;0
+5855;4;Agustín Balbuena;FW;Argentina;4;3;309;0;;0;0
+5191;13;Mario Kempes;FW;Argentina;6;5;411;0;;0;0
+5856;15;Aldo Poy;FW;Argentina;0;0;0;0;;0;0
+5857;22;Héctor Yazalde;FW;Argentina;3;3;257;2;;0;0
+5858;1;Jack Reilly;GK;Australia;3;3;270;0;;0;0
+5859;21;Jim Milisavljevic;GK;Australia;0;0;0;0;;0;0
+5860;22;Allan Maher;GK;Australia;0;0;0;0;;0;0
+5861;2;Doug Utjesenovic;DF;Australia;3;3;270;0;;0;0
+5862;3;Peter Wilson ;DF;Australia;3;3;270;0;;0;0
+5863;4;Manfred Schaefer;DF;Australia;3;3;270;0;;0;0
+5864;5;Colin Curran;DF;Australia;3;3;261;0;;0;0
+5865;15;Harry Williams;DF;Australia;1;0;9;0;;0;0
+5866;16;Ivo Rudic;DF;Australia;0;0;0;0;;0;0
+5867;17;Dave Harding;DF;Australia;0;0;0;0;;0;0
+5868;6;Ray Richards;MF;Australia;3;3;262;0;;1;1
+5869;7;Jimmy Rooney;MF;Australia;3;3;270;0;;0;0
+5870;8;Jimmy Mackay;MF;Australia;3;3;270;0;;1;0
+5871;9;Johnny Warren;MF;Australia;1;1;90;0;;0;0
+5872;13;Peter Ollerton;MF;Australia;2;0;56;0;;0;0
+5873;14;Max Tolson;MF;Australia;0;0;0;0;;0;0
+5874;18;Johnny Watkiss;MF;Australia;0;0;0;0;;0;0
+5875;19;Ernie Campbell;MF;Australia;1;1;45;0;;0;0
+5876;10;Garry Manuel;FW;Australia;0;0;0;0;;0;0
+5877;11;Attila Abonyi;FW;Australia;2;1;135;0;;0;0
+5878;12;Adrian Alston;FW;Australia;3;3;244;0;;0;0
+5879;20;Branko Buljevic;FW;Australia;3;3;240;0;;0;0
+4775;1;Leão;GK;Brazil;7;7;630;0;;0;0
+5880;12;Renato Cunha;GK;Brazil;0;0;0;0;;0;0
+5226;22;Waldir Peres;GK;Brazil;0;0;0;0;;0;0
+5881;2;Luís Pereira;DF;Brazil;6;6;533;0;;1;1
+5882;3;Marinho Peres;DF;Brazil;7;7;630;0;;2;0
+5883;4;Zé Maria;DF;Brazil;4;4;360;0;;1;0
+5884;6;Marinho Chagas;DF;Brazil;7;7;630;0;;1;0
+5594;14;Nelinho;DF;Brazil;3;3;270;0;;0;0
+5885;15;Alfredo;DF;Brazil;1;1;90;0;;0;0
+5886;16;Marco Antônio;DF;Brazil;0;0;0;0;;0;0
+5887;5;Piazza ;MF;Brazil;3;3;238;0;;0;0
+5888;8;Leivinha;MF;Brazil;3;3;163;0;;0;0
+5889;10;Rivellino;MF;Brazil;7;7;630;3;;1;0
+5890;11;Paulo Cézar;MF;Brazil;5;5;420;0;;0;0
+5891;17;Carpegiani;MF;Brazil;6;5;476;0;;1;0
+5892;18;Ademir da Guia;MF;Brazil;1;1;65;0;;0;0
+5893;7;Jairzinho;FW;Brazil;7;7;630;2;;2;0
+5894;9;César;FW;Brazil;0;0;0;0;;0;0
+5895;13;Valdomiro;FW;Brazil;6;5;531;1;;0;0
+5896;19;Mirandinha;FW;Brazil;4;1;177;0;;1;0
+5897;20;Edu;FW;Brazil;1;1;90;0;;0;0
+5238;21;Dirceu;FW;Brazil;4;4;360;0;;1;0
+5898;1;Rumyancho Goranov;GK;Bulgaria;2;2;180;0;;0;0
+5899;21;Stefan Staykov;GK;Bulgaria;1;1;90;0;;0;0
+5900;22;Simeon Simeonov;GK;Bulgaria;0;0;0;0;;0;0
+5901;2;Ivan Zafirov;DF;Bulgaria;0;0;0;0;;0;0
+5902;3;Dobromir Zhechev;DF;Bulgaria;0;0;0;0;;0;0
+5903;5;Bozhil Kolev;DF;Bulgaria;3;3;270;0;;0;0
+5904;6;Dimitar Penev;DF;Bulgaria;3;3;270;0;;0;0
+5905;12;Stefan Aladzhov;DF;Bulgaria;0;0;0;0;;0;0
+5906;13;Mladen Vasilev;DF;Bulgaria;1;0;18;0;;0;0
+5907;4;Stefko Velichkov;MF;Bulgaria;3;3;270;0;;0;0
+5908;10;Ivan Stoyanov;MF;Bulgaria;1;1;45;0;;0;0
+5909;11;Georgi Denev;MF;Bulgaria;3;3;270;0;;1;0
+5910;17;Asparuh Nikodimov;MF;Bulgaria;2;2;148;0;;0;0
+5911;18;Tsonyo Vasilev;MF;Bulgaria;3;3;270;0;;1;0
+5912;19;Kiril Ivkov;MF;Bulgaria;3;3;270;0;;0;0
+5913;7;Voyn Voynov;FW;Bulgaria;3;3;254;0;;0;0
+5914;8;Hristo Bonev ;FW;Bulgaria;3;3;270;1;;0;0
+5915;9;Atanas Mihailov;FW;Bulgaria;3;0;93;0;;0;0
+5916;14;Kiril Milanov;FW;Bulgaria;0;0;0;0;;0;0
+5917;15;Pavel Panov;FW;Bulgaria;3;3;216;0;;0;0
+5918;16;Bozhidar Grigorov;FW;Bulgaria;0;0;0;0;;0;0
+5919;20;Krasimir Borisov;FW;Bulgaria;1;0;36;0;;0;0
+5920;1;Leopoldo Vallejos;GK;Chile;3;3;270;0;;0;0
+5921;21;Juan Olivares;GK;Chile;0;0;0;0;;0;0
+5922;22;Adolfo Nef;GK;Chile;0;0;0;0;;0;0
+5923;2;Rolando García;DF;Chile;3;3;270;0;;1;0
+5924;3;Alberto Quintano;DF;Chile;3;3;270;0;;0;0
+5925;4;Antonio Arias;DF;Chile;3;3;270;0;;0;0
+5266;5;Elías Figueroa;DF;Chile;3;3;270;0;;0;0
+5926;6;Juan Rodríguez;DF;Chile;1;1;82;0;;0;0
+5927;12;Juan Machuca;DF;Chile;0;0;0;0;;0;0
+5928;13;Rafael González;DF;Chile;0;0;0;0;;0;0
+5269;15;Mario Galindo;DF;Chile;0;0;0;0;;0;0
+5929;8;Francisco Valdés ;MF;Chile;3;3;176;0;;0;0
+5930;10;Carlos Reinoso;MF;Chile;3;3;270;0;;1;0
+5931;14;Alfonso Lara;MF;Chile;1;0;8;0;;0;0
+5932;16;Guillermo Páez;MF;Chile;3;3;270;0;;1;0
+5933;18;Jorge Socías;MF;Chile;1;1;66;0;;0;0
+5934;19;Rogelio Farías;MF;Chile;2;0;58;0;;0;0
+5279;7;Carlos Caszely;FW;Chile;2;2;156;0;;1;1
+5935;9;Sergio Ahumada;FW;Chile;3;3;270;1;;0;0
+5936;11;Leonardo Véliz;FW;Chile;3;2;176;0;;1;0
+5937;17;Guillermo Yávar;FW;Chile;2;0;64;0;;0;0
+5938;20;Osvaldo Castro;FW;Chile;0;0;0;0;;0;0
+5939;1;Jürgen Croy;GK;East Germany;6;6;540;0;;1;0
+5940;21;Wolfgang Blochwitz;GK;East Germany;0;0;0;0;;0;0
+5941;22;Werner Friese;GK;East Germany;0;0;0;0;;0;0
+5942;2;Lothar Kurbjuweit;DF;East Germany;4;4;360;0;;0;0
+5943;3;Bernd Bransch ;DF;East Germany;6;6;540;0;;0;0
+5944;4;Konrad Weise;DF;East Germany;6;6;540;0;;0;0
+5945;5;Joachim Fritsche;DF;East Germany;0;0;0;0;;0;0
+5946;12;Siegmar Wätzlich;DF;East Germany;4;4;360;0;;1;0
+5947;18;Gerd Kische;DF;East Germany;6;6;540;0;;2;0
+5948;6;Rüdiger Schnuphase;MF;East Germany;2;2;180;0;;0;0
+5949;7;Jürgen Pommerenke;MF;East Germany;3;3;270;0;;0;0
+5950;13;Reinhard Lauck;MF;East Germany;3;3;216;0;;0;0
+5951;14;Jürgen Sparwasser;MF;East Germany;6;6;540;1;;2;0
+5952;16;Harald Irmscher;MF;East Germany;4;3;289;0;;0;0
+5953;17;Erich Hamann;MF;East Germany;2;1;71;0;;1;0
+5954;19;Wolfgang Seguin;MF;East Germany;1;1;28;0;;0;0
+5955;8;Wolfram Löwe;FW;East Germany;4;3;198;0;;0;0
+5956;9;Peter Ducke;FW;East Germany;3;0;110;0;;0;0
+5957;10;Hans-Jürgen Kreische;FW;East Germany;3;1;136;0;;1;0
+5958;11;Joachim Streich;FW;East Germany;4;4;349;2;;1;0
+5959;15;Eberhard Vogel;FW;East Germany;3;2;187;0;;1;0
+5960;20;Martin Hoffmann;FW;East Germany;6;5;486;1;;0;0
+5961;1;Henri Françillon;GK;Haiti;3;3;270;0;;0;0
+5962;2;Wilner Piquant;GK;Haiti;0;0;0;0;;0;0
+5963;22;Gérard Joseph;GK;Haiti;0;0;0;0;;0;0
+5964;3;Arsène Auguste;DF;Haiti;2;2;180;0;;0;0
+5965;4;Fritz André;DF;Haiti;1;1;36;0;;0;0
+5966;5;Serge Ducosté;DF;Haiti;1;1;90;0;;0;0
+5967;6;Pierre Bayonne;DF;Haiti;3;3;270;0;;2;0
+5968;13;Serge Racine;DF;Haiti;2;1;135;0;;0;0
+5969;14;Wilner Nazaire ;DF;Haiti;3;3;204;0;;0;0
+5970;19;Jean-Herbert Austin;DF;Haiti;0;0;0;0;;0;0
+5971;21;Wilfried Louis;DF;Haiti;1;1;90;0;;0;0
+5972;7;Philippe Vorbe;MF;Haiti;3;3;270;0;;0;0
+5973;8;Jean-Claude Désir;MF;Haiti;3;3;270;0;;0;0
+5974;9;Eddy Antoine;MF;Haiti;3;3;270;0;;0;0
+5975;10;Guy François;MF;Haiti;2;2;180;0;;0;0
+5976;12;Ernst Jean-Joseph;MF;Haiti;1;1;90;0;;0;0
+5977;17;Joseph-Marion Leandré;MF;Haiti;1;0;66;0;;0;0
+5978;11;Guy Saint-Vil;FW;Haiti;2;2;96;0;;0;0
+5979;15;Roger Saint-Vil;FW;Haiti;1;1;45;0;;0;0
+5980;16;Fritz Leandré;FW;Haiti;1;0;39;0;;1;0
+5981;18;Claude Barthélemy;FW;Haiti;2;0;99;0;;0;0
+5982;20;Emmanuel Sanon;FW;Haiti;3;3;270;2;;0;0
+5392;1;Dino Zoff;GK;Italy;3;3;270;0;;0;0
+5983;12;Enrico Albertosi;GK;Italy;0;0;0;0;;0;0
+5984;22;Luciano Castellini;GK;Italy;0;0;0;0;;0;0
+5985;2;Luciano Spinosi;DF;Italy;0;0;0;0;;0;0
+5986;3;Giacinto Facchetti ;DF;Italy;3;3;270;0;;0;0
+5987;5;Francesco Morini;DF;Italy;3;3;245;0;;0;0
+5988;6;Tarcisio Burgnich;DF;Italy;3;3;212;0;;0;0
+5989;13;Giuseppe Sabadini;DF;Italy;0;0;0;0;;0;0
+5661;14;Mauro Bellugi;DF;Italy;0;0;0;0;;0;0
+5990;15;Giuseppe Wilson;DF;Italy;2;0;83;0;;0;0
+5665;4;Romeo Benetti;MF;Italy;3;3;270;1;;1;0
+5991;7;Sandro Mazzola;MF;Italy;3;3;270;0;;0;0
+5992;8;Fabio Capello;MF;Italy;3;3;270;1;;0;0
+5993;10;Gianni Rivera;MF;Italy;2;2;155;1;;0;0
+5994;16;Antonio Juliano;MF;Italy;0;0;0;0;;0;0
+5995;17;Luciano Re Cecconi;MF;Italy;3;3;270;0;;0;0
+5399;18;Franco Causio;MF;Italy;2;1;115;0;;0;0
+5996;9;Giorgio Chinaglia;FW;Italy;2;2;114;0;;0;0
+5997;11;Gigi Riva;FW;Italy;2;2;180;0;;0;0
+5998;19;Pietro Anastasi;FW;Italy;3;2;201;1;;0;0
+5999;20;Roberto Boninsegna;FW;Italy;1;0;45;0;;1;0
+5691;21;Paolo Pulici;FW;Italy;0;0;0;0;;0;0
+5694;8;Jan Jongbloed;GK;Netherlands;7;7;630;0;;0;0
+5693;18;Piet Schrijvers;GK;Netherlands;0;0;0;0;;0;0
+6000;21;Eddy Treijtel;GK;Netherlands;0;0;0;0;;0;0
+6001;4;Kees van Ierssel;DF;Netherlands;0;0;0;0;;0;0
+6002;5;Rinus Israël;DF;Netherlands;3;0;58;0;;0;0
+5705;6;Wim Jansen;DF;Netherlands;7;7;630;0;;1;0
+6003;12;Ruud Krol;DF;Netherlands;7;7;630;1;;0;0
+5701;17;Wim Rijsbergen;DF;Netherlands;7;7;607;0;;0;0
+6004;19;Pleun Strik;DF;Netherlands;0;0;0;0;;0;0
+5702;20;Wim Suurbier;DF;Netherlands;7;7;623;0;;2;0
+6005;22;Harry Vos;DF;Netherlands;0;0;0;0;;0;0
+5706;2;Arie Haan;MF;Netherlands;7;7;630;0;;0;0
+6006;3;Willem van Hanegem;MF;Netherlands;7;7;567;0;;2;0
+6007;7;Theo de Jong;MF;Netherlands;4;0;77;1;;0;0
+5707;10;René van de Kerkhof;MF;Netherlands;1;0;45;0;;0;0
+5708;11;Willy van de Kerkhof;MF;Netherlands;0;0;0;0;;0;0
+5709;13;Johan Neeskens;MF;Netherlands;7;7;612;5;;2;0
+6008;14;Johan Cruyff ;MF;Netherlands;7;7;630;3;;2;0
+6009;1;Ruud Geels;FW;Netherlands;0;0;0;0;;0;0
+6010;9;Piet Keizer;FW;Netherlands;1;1;90;0;;0;0
+5711;15;Rob Rensenbrink;FW;Netherlands;6;6;471;1;;0;0
+5712;16;Johnny Rep;FW;Netherlands;7;7;630;4;;2;0
+6011;1;Andrzej Fischer;GK;Poland;0;0;0;0;;0;0
+5728;2;Jan Tomaszewski;GK;Poland;7;7;630;0;;0;0
+6012;3;Zygmunt Kalinowski;GK;Poland;0;0;0;0;;0;0
+5732;4;Antoni Szymanowski;DF;Poland;7;7;630;0;;0;0
+6013;5;Zbigniew Gut;DF;Poland;2;1;110;0;;0;0
+5733;6;Jerzy Gorgo?;DF;Poland;7;7;630;1;;1;0
+6014;8;Miros?aw Bulzacki;DF;Poland;0;0;0;0;;0;0
+5034;9;W?adys?aw ?muda;DF;Poland;7;7;630;0;;0;0
+6015;10;Adam Musia?;DF;Poland;6;6;520;0;;1;0
+6016;7;Henryk Wieczorek;MF;Poland;0;0;0;0;;0;0
+6017;11;Les?aw ?mikiewicz;MF;Poland;6;0;108;0;;0;0
+5739;12;Kazimierz Deyna ;MF;Poland;7;7;619;3;;0;0
+5737;13;Henryk Kasperczak;MF;Poland;7;7;601;0;;2;0
+6018;14;Zygmunt Maszczyk;MF;Poland;7;7;593;0;;0;0
+6019;15;Roman Jakóbczak;FW;Poland;0;0;0;0;;0;0
+5487;16;Grzegorz Lato;FW;Poland;7;7;630;7;;0;0
+5488;17;Andrzej Szarmach;FW;Poland;6;6;425;5;;1;0
+6020;18;Robert Gadocha;FW;Poland;7;7;624;0;;0;0
+6021;19;Jan Domarski;FW;Poland;3;1;122;0;;0;0
+6022;20;Zdzis?aw Kapka;FW;Poland;1;0;16;0;;0;0
+6023;21;Kazimierz Kmiecik;FW;Poland;2;0;42;0;;0;0
+5489;22;Marek Kusto;FW;Poland;0;0;0;0;;0;0
+6024;1;David Harvey;GK;Scotland;3;3;270;0;;0;0
+6025;12;Thomson Allan;GK;Scotland;0;0;0;0;;0;0
+6026;13;Jim Stewart;GK;Scotland;0;0;0;0;;0;0
+5744;2;Sandy Jardine;DF;Scotland;3;3;270;0;;0;0
+5493;3;Danny McGrain;DF;Scotland;3;3;270;0;;0;0
+6027;5;Jim Holton;DF;Scotland;3;3;270;0;;1;0
+6028;6;John Blackley;DF;Scotland;1;1;90;0;;0;0
+5746;14;Martin Buchan;DF;Scotland;2;2;180;0;;0;0
+5745;16;Willie Donachie;DF;Scotland;0;0;0;0;;0;0
+5747;21;Gordon McQueen;DF;Scotland;0;0;0;0;;0;0
+6029;22;Erich Schaedler;DF;Scotland;0;0;0;0;;0;0
+6030;4;Billy Bremner ;MF;Scotland;3;3;270;0;;0;0
+6031;7;Jimmy Johnstone;MF;Scotland;0;0;0;0;;0;0
+6032;10;David Hay;MF;Scotland;3;3;270;0;;1;0
+6033;15;Peter Cormack;MF;Scotland;0;0;0;0;;0;0
+6034;17;Donald Ford;MF;Scotland;0;0;0;0;;0;0
+6035;18;Tommy Hutchison;MF;Scotland;2;0;42;0;;0;0
+5502;8;Kenny Dalglish;FW;Scotland;3;3;228;0;;0;0
+5504;9;Joe Jordan;FW;Scotland;3;3;270;2;;1;0
+6036;11;Peter Lorimer;FW;Scotland;3;3;270;1;;0;0
+6037;19;Denis Law;FW;Scotland;1;1;90;0;;0;0
+6038;20;Willie Morgan;FW;Scotland;2;2;180;0;;0;0
+5775;1;Ronnie Hellström;GK;Sweden;6;6;540;0;;0;0
+6039;12;Sven-Gunnar Larsson;GK;Sweden;0;0;0;0;;0;0
+5776;17;Göran Hagberg;GK;Sweden;0;0;0;0;;0;0
+6040;2;Jan Olsson;DF;Sweden;4;4;344;0;;0;0
+5783;3;Kent Karlsson;DF;Sweden;6;6;540;0;;0;0
+6041;4;Björn Nordqvist;DF;Sweden;5;5;450;0;;1;0
+6042;5;Björn Andersson;DF;Sweden;4;4;329;0;;1;0
+6043;13;Roland Grip;DF;Sweden;3;2;196;0;;0;0
+6044;18;Jörgen Augustsson;DF;Sweden;3;2;211;0;;0;0
+6045;6;Ove Grahn;MF;Sweden;6;6;540;0;;2;0
+6046;7;Bo Larsson ;MF;Sweden;5;5;391;0;;0;0
+5794;8;Conny Torstensson;MF;Sweden;5;4;375;1;;0;0
+5785;14;Staffan Tapper;MF;Sweden;5;5;409;0;;0;0
+6047;15;Benno Magnusson;MF;Sweden;2;1;77;0;;0;0
+6048;16;Inge Ejderstedt;MF;Sweden;2;1;149;0;;0;0
+6049;19;Claes Cronqvist;MF;Sweden;0;0;0;0;;0;0
+6050;20;Sven Lindman;MF;Sweden;0;0;0;0;;0;0
+6051;21;Örjan Persson;MF;Sweden;2;1;120;0;;1;0
+6052;22;Thomas Ahlström;MF;Sweden;2;0;42;0;;0;0
+6053;9;Ove Kindvall;FW;Sweden;2;2;147;0;;0;0
+5796;10;Ralf Edström;FW;Sweden;6;6;540;4;;0;0
+6054;11;Roland Sandberg;FW;Sweden;6;6;540;2;;0;0
+6055;1;Ladislao Mazurkiewicz;GK;Uruguay;3;3;270;0;;0;0
+6056;12;Héctor Santos;GK;Uruguay;0;0;0;0;;0;0
+6057;22;Gustavo Fernández;GK;Uruguay;0;0;0;0;;0;0
+6058;2;Baudilio Jáuregui;DF;Uruguay;3;3;270;0;;1;0
+6059;3;Juan Carlos Masnik ;DF;Uruguay;3;1;153;0;;1;0
+6060;4;Pablo Forlán;DF;Uruguay;3;3;270;0;;1;0
+6061;5;Julio Montero Castillo;DF;Uruguay;1;1;68;0;;0;1
+6062;6;Ricardo Pavoni;DF;Uruguay;3;3;270;1;;0;0
+6063;13;Gustavo de Simone;DF;Uruguay;0;0;0;0;;0;0
+6064;14;Luis Garisto;DF;Uruguay;2;2;117;0;;0;0
+6065;15;Mario González;DF;Uruguay;0;0;0;0;;0;0
+6066;7;Luis Cubilla;MF;Uruguay;2;1;111;0;;0;0
+6067;8;Víctor Espárrago;MF;Uruguay;3;3;270;0;;1;0
+6068;10;Pedro Rocha;MF;Uruguay;3;3;270;0;;0;0
+6069;16;Alberto Cardaccio;MF;Uruguay;1;0;29;0;;0;0
+6070;17;Julio César Jiménez;MF;Uruguay;0;0;0;0;;0;0
+6071;18;Walter Mantegazza;MF;Uruguay;3;3;241;0;;1;0
+6072;9;Fernando Morena;FW;Uruguay;3;3;270;0;;0;0
+6073;11;Rubén Corbo;FW;Uruguay;2;2;132;0;;0;0
+6074;19;Denis Milar;FW;Uruguay;3;2;207;0;;0;0
+6075;20;Juan Silva;FW;Uruguay;0;0;0;0;;0;0
+6076;21;José Gómez;FW;Uruguay;0;0;0;0;;0;0
+5819;1;Sepp Maier;GK;West Germany;7;7;630;0;;0;0
+6077;21;Norbert Nigbur;GK;West Germany;0;0;0;0;;0;0
+6078;22;Wolfgang Kleff;GK;West Germany;0;0;0;0;;0;0
+6079;2;Berti Vogts;DF;West Germany;7;7;630;0;;2;0
+5534;3;Paul Breitner;DF;West Germany;7;7;630;3;;0;0
+5824;4;Hans-Georg Schwarzenbeck;DF;West Germany;7;7;607;0;;0;0
+6080;5;Franz Beckenbauer ;DF;West Germany;7;7;630;0;;0;0
+6081;6;Horst-Dieter Höttges;DF;West Germany;1;0;23;0;;0;0
+6082;19;Jupp Kapellmann;DF;West Germany;0;0;0;0;;0;0
+6083;20;Helmut Kremers;DF;West Germany;0;0;0;0;;0;0
+6084;7;Herbert Wimmer;MF;West Germany;2;1;96;0;;0;0
+5830;8;Bernhard Cullmann;MF;West Germany;3;3;246;1;;0;0
+6085;10;Günter Netzer;MF;West Germany;1;0;22;0;;0;0
+6086;12;Wolfgang Overath;MF;West Germany;7;7;592;2;;1;0
+5828;15;Heinz Flohe;MF;West Germany;3;1;111;0;;0;0
+5827;16;Rainer Bonhof;MF;West Germany;4;4;360;1;;0;0
+5836;17;Bernd Hölzenbein;MF;West Germany;6;4;400;0;;0;0
+6087;9;Jürgen Grabowski;FW;West Germany;6;5;477;1;;0;0
+6088;11;Jupp Heynckes;FW;West Germany;2;2;135;0;;0;0
+6089;13;Gerd Müller;FW;West Germany;7;7;630;4;;0;0
+6090;14;Uli Hoeneß;FW;West Germany;7;6;558;1;;0;0
+6091;18;Dieter Herzog;FW;West Germany;2;2;153;0;;0;0
+6092;1;Enver Mari?;GK;Yugoslavia;6;6;540;0;;0;0
+6093;21;Ognjen Petrovi?;GK;Yugoslavia;0;0;0;0;;0;0
+6094;22;Rizah Meškovi?;GK;Yugoslavia;0;0;0;0;;0;0
+6095;2;Ivan Buljan;DF;Yugoslavia;6;6;540;0;;1;0
+6096;3;Enver Hadžiabdi?;DF;Yugoslavia;6;6;540;0;;2;0
+6097;5;Josip Katalinski;DF;Yugoslavia;6;6;540;1;;2;0
+6098;14;Luka Peruzovi?;DF;Yugoslavia;1;0;13;0;;0;0
+6099;15;Kiril Doj?inovski;DF;Yugoslavia;0;0;0;0;;0;0
+6100;4;Dražen Mužini?;MF;Yugoslavia;2;2;180;0;;0;0
+6101;6;Vladislav Bogi?evi?;MF;Yugoslavia;5;5;450;1;;0;0
+6102;8;Branko Oblak;MF;Yugoslavia;5;5;368;1;;2;0
+6103;10;Jovan A?imovi?;MF;Yugoslavia;6;6;540;0;;1;0
+6104;12;Jurica Jerkovi?;MF;Yugoslavia;3;1;172;0;;0;0
+6105;13;Miroslav Pavlovi?;MF;Yugoslavia;1;1;77;0;;0;0
+6106;16;Franjo Vladi?;MF;Yugoslavia;0;0;0;0;;0;0
+6107;20;Vladimir Petrovi?;MF;Yugoslavia;2;1;79;0;;0;0
+6108;7;Ilija Petkovi?;FW;Yugoslavia;5;4;357;1;;0;0
+6109;9;Ivica Šurjak;FW;Yugoslavia;6;6;540;2;;0;0
+6110;11;Dragan Džaji? ;FW;Yugoslavia;5;5;443;1;;0;0
+6111;17;Danilo Popivoda;FW;Yugoslavia;1;1;90;0;;0;0
+6112;18;Stanislav Karasi;FW;Yugoslavia;4;2;222;2;;1;0
+6113;19;Dušan Bajevi?;FW;Yugoslavia;3;3;249;3;;1;0
+6114;1;Kazadi Mwamba;GK;Zaire;3;3;200;0;;0;0
+6115;12;Tubilandu Ndimbi;GK;Zaire;1;0;70;0;;0;0
+6116;22;Kalambay Otepa;GK;Zaire;0;0;0;0;;0;0
+6117;2;Mwepu Ilunga;DF;Zaire;3;3;270;0;;1;0
+6118;3;Mwanza Mukombo;DF;Zaire;3;3;270;0;;0;0
+6119;4;Bwanga Tshimen;DF;Zaire;3;3;270;0;;0;0
+6120;5;Lobilo Boba;DF;Zaire;3;3;270;0;;0;0
+6121;11;Kabasu Babo;DF;Zaire;0;0;0;0;;0;0
+6122;16;Mwape Mialo;DF;Zaire;0;0;0;0;;0;0
+6123;6;Kilasu Massamba;MF;Zaire;3;2;210;0;;0;0
+6124;7;Tshinabu Wa Munda;MF;Zaire;1;1;60;0;;0;0
+6125;8;Mana Mamuwene;MF;Zaire;3;3;270;0;;0;0
+6126;9;Kembo Uba Kembo;MF;Zaire;3;1;146;0;;0;0
+6127;10;Kidumu Mantantu ;MF;Zaire;3;3;228;0;;1;0
+6128;13;Ndaye Mulamba;MF;Zaire;2;2;112;0;;0;1
+6129;15;Kibonge Mafu;MF;Zaire;2;1;103;0;;0;0
+6130;17;Kafula Ngoie;MF;Zaire;0;0;0;0;;0;0
+6131;14;Mayanga Maku;FW;Zaire;3;2;198;0;;0;0
+6132;18;Mavuba Mafuila;FW;Zaire;0;0;0;0;;0;0
+6133;19;Mbungu Ekofa;FW;Zaire;0;0;0;0;;0;0
+6134;20;Jean Kalala N'Tumba;FW;Zaire;1;1;90;0;;0;0
+6135;21;Kakoko Etepe;FW;Zaire;2;2;135;0;;0;0
