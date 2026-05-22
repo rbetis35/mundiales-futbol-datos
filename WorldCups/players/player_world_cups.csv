@@ -7528,6 +7528,7 @@ player_id,world_cup_year,team,club,country_club
 5668,1978,Italy,Torino,Italy
 5669,1978,Italy,Torino,Italy
 5670,1978,Italy,Juventus,Italy
+5671,1974,Italy,Torino,Italy
 5671,1978,Italy,Torino,Italy
 5672,1978,Mexico,UANL,Mexico
 5673,1978,Mexico,América,Mexico
@@ -7552,6 +7553,7 @@ player_id,world_cup_year,team,club,country_club
 5692,1978,Mexico,Atlético Español,Mexico
 5693,1974,Netherlands,Twente,Netherlands
 5693,1978,Netherlands,Ajax,Netherlands
+5694,1974,Netherlands,FC Amsterdam,Netherlands
 5694,1978,Netherlands,Roda JC,Netherlands
 5695,1978,Netherlands,Sparta Rotterdam,Netherlands
 5696,1978,Netherlands,PSV,Netherlands
@@ -7559,17 +7561,26 @@ player_id,world_cup_year,team,club,country_club
 5698,1978,Netherlands,Ajax,Netherlands
 5699,1978,Netherlands,Twente,Netherlands
 5700,1978,Netherlands,AZ,Netherlands
+5701,1974,Netherlands,Feyenoord,Netherlands
 5701,1978,Netherlands,Feyenoord,Netherlands
+5702,1974,Netherlands,Ajax,Netherlands
 5702,1978,Netherlands,Schalke 04,Germany
 5703,1978,Netherlands,PSV,Netherlands
 5704,1978,Netherlands,Ajax,Netherlands
+5705,1974,Netherlands,Feyenoord,Netherlands
 5705,1978,Netherlands,Feyenoord,Netherlands
+5706,1974,Netherlands,Ajax,Netherlands
 5706,1978,Netherlands,Anderlecht,Belgium
+5707,1974,Netherlands,PSV,Netherlands
 5707,1978,Netherlands,PSV,Netherlands
+5708,1974,Netherlands,PSV,Netherlands
 5708,1978,Netherlands,PSV,Netherlands
+5709,1974,Netherlands,Ajax,Netherlands
 5709,1978,Netherlands,Barcelona,Spain
 5710,1978,Netherlands,Molenbeek,Belgium
+5711,1974,Netherlands,Anderlecht,Belgium
 5711,1978,Netherlands,Anderlecht,Belgium
+5712,1974,Netherlands,Ajax,Netherlands
 5712,1978,Netherlands,Bastia,France
 5713,1978,Netherlands,Roda JC,Netherlands
 5714,1978,Netherlands,PSV,Netherlands
@@ -7586,25 +7597,34 @@ player_id,world_cup_year,team,club,country_club
 5725,1978,Peru,UNAM,Mexico
 5726,1978,Peru,Sporting Cristal,Peru
 5727,1978,Peru,Alianza Lima,Peru
+5728,1974,Poland,?KS ?ód?,Poland
 5728,1978,Poland,?KS ?ód?,Poland
 5729,1978,Poland,Stal Mielec,Poland
 5730,1978,Poland,Zag??bie Sosnowiec,Poland
 5731,1978,Poland,Wis?a Kraków,Poland
-5732,1978,Poland,Wis?a Kraków,Poland
+5732,1974,Poland,Wisla Kraków,Poland
+5732,1978,Poland,Wisla Kraków,Poland
+5733,1974,Poland,Górnik Zabrze,Poland
 5733,1978,Poland,Górnik Zabrze,Poland
 5734,1978,Poland,Zag??bie Sosnowiec,Poland
 5735,1978,Poland,Lech Pozna?,Poland
 5736,1978,Poland,Wis?a Kraków,Poland
+5737,1974,Poland,Stal Mielec,Poland
 5737,1978,Poland,Stal Mielec,Poland
 5738,1978,Poland,?KS ?ód?,Poland
+5739,1974,Poland,Legia Warsaw,Poland
 5739,1978,Poland,Legia Warsaw,Poland
 5740,1978,Poland,Zag??bie Sosnowiec,Poland
 5741,1978,Poland,Lokeren,Belgium
 5742,1978,Scotland,Coventry City,England
 5743,1978,Scotland,Aberdeen,Scotland
+5744,1974,Scotland,Rangers,Scotland
 5744,1978,Scotland,Rangers,Scotland
+5745,1974,Scotland,Manchester City,England
 5745,1978,Scotland,Manchester City,England
+5746,1974,Scotland,Manchester United,England
 5746,1978,Scotland,Manchester United,England
+5747,1974,Scotland,Leeds United,England
 5747,1978,Scotland,Manchester United,England
 5748,1978,Scotland,Aberdeen,Scotland
 5749,1978,Scotland,Rangers,Scotland
@@ -7633,7 +7653,9 @@ player_id,world_cup_year,team,club,country_club
 5772,1978,Spain,Athletic Bilbao,Spain
 5773,1978,Spain,Espanyol,Spain
 5774,1978,Spain,Atlético Madrid,Spain
+5775,1974,Sweden,Hammarby,Sweden
 5775,1978,Sweden,1. FC Kaiserslautern,Germany
+5776,1974,Sweden,Östers IF,Sweden
 5776,1978,Sweden,Östers IF,Sweden
 5777,1978,Sweden,Malmö FF,Sweden
 5778,1978,Sweden,Eintracht Braunschweig,Germany
@@ -7641,9 +7663,11 @@ player_id,world_cup_year,team,club,country_club
 5780,1978,Sweden,IFK Göteborg,Sweden
 5781,1978,Sweden,Malmö FF,Sweden
 5782,1978,Sweden,Malmö FF,Sweden
+5783,1974,Sweden,Atvidabergs FF,Sweden
 5783,1978,Sweden,IFK Eskilstuna,Sweden
 5784,1978,Sweden,Malmö FF,Sweden
-5785,1978,Sweden,almö FF,Sweden
+5785,1974,Sweden,Malmö FF,Sweden
+5785,1978,Sweden,Malmö FF,Sweden
 5786,1978,Sweden,Marseille,France
 5787,1978,Sweden,Malmö FF,Sweden
 5788,1978,Sweden,Schalke 04,Germany
@@ -7652,8 +7676,10 @@ player_id,world_cup_year,team,club,country_club
 5791,1978,Sweden,Malmö FF,Sweden
 5792,1978,Sweden,1. FC Kaiserslautern,Germany
 5793,1978,Sweden,IFK Göteborg,Sweden
+5794,1974,Sweden,Bayern Munich,Germany
 5794,1978,Sweden,Zürich,Switzerland
 5795,1978,Sweden,AIK,Sweden
+5796,1974,Sweden,PSV,Netherlands
 5796,1978,Sweden,IFK Göteborg,Sweden
 5797,1978,Tunisia,Club Africain,Tunisia
 5798,1978,Tunisia,Étoile Sportive du Sahel,Tunisia
@@ -7677,23 +7703,29 @@ player_id,world_cup_year,team,club,country_club
 5816,1978,Tunisia,Club Africain,Tunisia
 5817,1978,Tunisia,JS Kairouan,Tunisia
 5818,1978,Tunisia,La Louvière,Belgium
+5819,1974,West Germany,Bayern Munich,Germany
 5819,1978,West Germany,Bayern Munich,Germany
 5820,1978,West Germany,Hamburger SV,Germany
 5821,1978,West Germany,Werder Bremen,Germany
 5822,1978,West Germany,Borussia Mönchengladbach,Germany
 5823,1978,West Germany,MSV Duisburg,Germany
+5824,1974,West Germany,Bayern Munich,Germany
 5824,1978,West Germany,Bayern Munich,Germany
 5825,1978,West Germany,1. FC Köln,Germany
 5826,1978,West Germany,Schalke 04,Germany
+5827,1974,West Germany,Borussia Mönchengladbach,Germany
 5827,1978,West Germany,Borussia Mönchengladbach,Germany
+5828,1974,West Germany,1. FC Köln,Germany
 5828,1978,West Germany,1. FC Köln,Germany
 5829,1978,West Germany,Hertha BSC,Germany
+5830,1974,West Germany,1. FC Köln,Germany
 5830,1978,West Germany,1. FC Köln,Germany
 5831,1978,West Germany,Fortuna Düsseldorf,Germany
 5832,1978,West Germany,VfB Stuttgart,Germany
 5833,1978,West Germany,Schalke 04,Germany
 5834,1978,West Germany,1. FC Köln,Germany
 5835,1978,West Germany,1. FC Köln,Germany
+5836,1974,West Germany,Eintracht Frankfurt,Germany
 5836,1978,West Germany,Eintracht Frankfurt,Germany
 5837,1978,West Germany,MSV Duisburg,Germany
 5838,1978,Argentina,Racing Club,Argentina
