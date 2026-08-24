@@ -1,39 +1,39 @@
-match_id;date;team1;team2;score1;score2;stage;stadium;city;group;attendance;obs
-1;13-06-1974;Brazil;Yugoslavia;0;0;First Group Stage;Waldstadion;Frankfurt;2;62000;
-2;14-06-1974;West Germany;Chile;1;0;First Group Stage;Olympiastadion;Berlin;1;81100;
-3;14-06-1974;East Germany;Australia;2;0;First Group Stage;Volksparkstadion;Hamburg;1;17000;
-4;14-06-1974;Zaire;Scotland;0;2;First Group Stage;Westfalenstadion;Dortmund;2;27000;
-5;15-06-1974;Sweden;Bulgaria;0;0;First Group Stage;Rheinstadion;Dusseldorf;3;23800;
-6;15-06-1974;Uruguay;Netherlands;0;2;First Group Stage;Niedersachsenstadion;Hannover;3;55100;
-7;15-06-1974;Italy;Haiti;3;1;First Group Stage;Olympiastadion;Munich;4;53000;
-8;15-06-1974;Poland;Argentina;3;2;First Group Stage;Neckarstadion;Stuttgart;4;32700;
-9;18-06-1974;Australia;West Germany;0;3;First Group Stage;Volksparkstadion;Hamburg;1;53300;
-10;18-06-1974;Chile;East Germany;1;1;First Group Stage;Olympiastadion;Berlin;1;28300;
-11;18-06-1974;Scotland;Brazil;0;0;First Group Stage;Waldstadion;Frankfurt;2;62000;
-12;18-06-1974;Yugoslavia;Zaire;9;0;First Group Stage;Parkstadion;Gelsenkirchen;2;31700;
-13;19-06-1974;Netherlands;Sweden;0;0;First Group Stage;Westfalenstadion;Dortmund;3;53700;
-14;19-06-1974;Bulgaria;Uruguay;1;1;First Group Stage;Niedersachsenstadion;Hannover;3;13400;
-15;19-06-1974;Argentina;Italy;1;1;First Group Stage;Neckarstadion;Stuttgart;4;70100;
-16;19-06-1974;Haiti;Poland;0;7;First Group Stage;Olympiastadion;Munich;4;25300;
-17;22-06-1974;Australia;Chile;0;0;First Group Stage;Olympiastadion;Berlin;1;17400;
-18;22-06-1974;East Germany;West Germany;1;0;First Group Stage;Volksparkstadion;Hamburg;1;60200;
-19;22-06-1974;Scotland;Yugoslavia;1;1;First Group Stage;Waldstadion;Frankfurt;2;56000;
-20;22-06-1974;Zaire;Brazil;0;3;First Group Stage;Parkstadion;Gelsenkirchen;3;36200;
-21;23-06-1974;Bulgaria;Netherlands;1;4;First Group Stage;Westfalenstadion;Dortmund;3;53300;
-22;23-06-1974;Sweden;Uruguay;3;0;First Group Stage;Rheinstadion;Dusseldorf;3;28300;
-23;23-06-1974;Poland;Italy;2;1;First Group Stage;Neckarstadion;Stuttgart;4;70100;
-24;23-06-1974;Argentina;Haiti;4;1;First Group Stage;Olympiastadion;Munich;4;25900;
-25;26-06-1974;Netherlands;Argentina;4;0;Second Group Stage;Parkstadion;Gelsenkirchen;A;56548;
-26;26-06-1974;Brazil;East Germany;1;0;Second Group Stage;Niedersachsenstadion;Hannover;A;59863;
-27;26-06-1974;Yugoslavia;West Germany;0;2;Second Group Stage;Rheinstadion;Dusseldorf;B;67385;
-28;26-06-1974;Sweden;Poland;0;1;Second Group Stage;Neckarstadion;Stuttgart;B;44955;
-29;30-06-1974;East Germany;Netherlands;0;2;Second Group Stage;Parkstadion;Gelsenkirchen;A;68348;
-30;30-06-1974;Argentina;Brazil;1;2;Second Group Stage;Niedersachsenstadion;Hannover;A;39400;
-31;30-06-1974;Poland;Yugoslavia;2;1;Second Group Stage;Waldstadion;Frankfurt;B;58000;
-32;30-06-1974;West Germany;Sweden;4;2;Second Group Stage;Rheinstadion;Dusseldorf;B;67800;
-33;03-07-1974;Netherlands;Brazil;2;0;Second Group Stage;Westfalenstadion;Dortmund;A;53700;
-34;03-07-1974;Argentina;East Germany;1;1;Second Group Stage;Parkstadion;Gelsenkirchen;A;54254;
-35;03-07-1974;Poland;West Germany;0;1;Second Group Stage;Waldstadion;Frankfurt;B;62000;
-36;03-07-1974;Sweden;Yugoslavia;2;1;Second Group Stage;Rheinstadion;Dusseldorf;B;41300;
-37;06-07-1974;Brazil;Poland;0;1;Third Place Play-off;Olympiastadion;Munich;3rd;77100;
-38;07-07-1974;Netherlands;West Germany;1;2;Final;Olympiastadion;Munich;Final;78200;
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,13-06-1974,Brazil,Yugoslavia,0,0,First Group Stage,Waldstadion,Frankfurt,2,62000,
+2,14-06-1974,West Germany,Chile,1,0,First Group Stage,Olympiastadion,Berlin,1,81100,
+3,14-06-1974,East Germany,Australia,2,0,First Group Stage,Volksparkstadion,Hamburg,1,17000,
+4,14-06-1974,Zaire,Scotland,0,2,First Group Stage,Westfalenstadion,Dortmund,2,27000,
+5,15-06-1974,Sweden,Bulgaria,0,0,First Group Stage,Rheinstadion,Dusseldorf,3,23800,
+6,15-06-1974,Uruguay,Netherlands,0,2,First Group Stage,Niedersachsenstadion,Hannover,3,55100,
+7,15-06-1974,Italy,Haiti,3,1,First Group Stage,Olympiastadion,Munich,4,53000,
+8,15-06-1974,Poland,Argentina,3,2,First Group Stage,Neckarstadion,Stuttgart,4,32700,
+9,18-06-1974,Australia,West Germany,0,3,First Group Stage,Volksparkstadion,Hamburg,1,53300,
+10,18-06-1974,Chile,East Germany,1,1,First Group Stage,Olympiastadion,Berlin,1,28300,
+11,18-06-1974,Scotland,Brazil,0,0,First Group Stage,Waldstadion,Frankfurt,2,62000,
+12,18-06-1974,Yugoslavia,Zaire,9,0,First Group Stage,Parkstadion,Gelsenkirchen,2,31700,
+13,19-06-1974,Netherlands,Sweden,0,0,First Group Stage,Westfalenstadion,Dortmund,3,53700,
+14,19-06-1974,Bulgaria,Uruguay,1,1,First Group Stage,Niedersachsenstadion,Hannover,3,13400,
+15,19-06-1974,Argentina,Italy,1,1,First Group Stage,Neckarstadion,Stuttgart,4,70100,
+16,19-06-1974,Haiti,Poland,0,7,First Group Stage,Olympiastadion,Munich,4,25300,
+17,22-06-1974,Australia,Chile,0,0,First Group Stage,Olympiastadion,Berlin,1,17400,
+18,22-06-1974,East Germany,West Germany,1,0,First Group Stage,Volksparkstadion,Hamburg,1,60200,
+19,22-06-1974,Scotland,Yugoslavia,1,1,First Group Stage,Waldstadion,Frankfurt,2,56000,
+20,22-06-1974,Zaire,Brazil,0,3,First Group Stage,Parkstadion,Gelsenkirchen,3,36200,
+21,23-06-1974,Bulgaria,Netherlands,1,4,First Group Stage,Westfalenstadion,Dortmund,3,53300,
+22,23-06-1974,Sweden,Uruguay,3,0,First Group Stage,Rheinstadion,Dusseldorf,3,28300,
+23,23-06-1974,Poland,Italy,2,1,First Group Stage,Neckarstadion,Stuttgart,4,70100,
+24,23-06-1974,Argentina,Haiti,4,1,First Group Stage,Olympiastadion,Munich,4,25900,
+25,26-06-1974,Netherlands,Argentina,4,0,Second Group Stage,Parkstadion,Gelsenkirchen,A,56548,
+26,26-06-1974,Brazil,East Germany,1,0,Second Group Stage,Niedersachsenstadion,Hannover,A,59863,
+27,26-06-1974,Yugoslavia,West Germany,0,2,Second Group Stage,Rheinstadion,Dusseldorf,B,67385,
+28,26-06-1974,Sweden,Poland,0,1,Second Group Stage,Neckarstadion,Stuttgart,B,44955,
+29,30-06-1974,East Germany,Netherlands,0,2,Second Group Stage,Parkstadion,Gelsenkirchen,A,68348,
+30,30-06-1974,Argentina,Brazil,1,2,Second Group Stage,Niedersachsenstadion,Hannover,A,39400,
+31,30-06-1974,Poland,Yugoslavia,2,1,Second Group Stage,Waldstadion,Frankfurt,B,58000,
+32,30-06-1974,West Germany,Sweden,4,2,Second Group Stage,Rheinstadion,Dusseldorf,B,67800,
+33,03-07-1974,Netherlands,Brazil,2,0,Second Group Stage,Westfalenstadion,Dortmund,A,53700,
+34,03-07-1974,Argentina,East Germany,1,1,Second Group Stage,Parkstadion,Gelsenkirchen,A,54254,
+35,03-07-1974,Poland,West Germany,0,1,Second Group Stage,Waldstadion,Frankfurt,B,62000,
+36,03-07-1974,Sweden,Yugoslavia,2,1,Second Group Stage,Rheinstadion,Dusseldorf,B,41300,
+37,06-07-1974,Brazil,Poland,0,1,Third Place Play-off,Olympiastadion,Munich,3rd,77100,
+38,07-07-1974,Netherlands,West Germany,1,2,Final,Olympiastadion,Munich,Final,78200,

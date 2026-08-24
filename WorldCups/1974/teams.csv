@@ -1,17 +1,17 @@
-team_id;team_name;group;coach
-1;West Germany;A;Helmut Schön
-2;East Germany;A;Georg Buschner
-3;Chile;A;Luis Álamos
-4;Australia;A;Ralé Rasic
-5;Scotland;B;Willie Ormond
-6;Yugoslavia;B;Miljan Miljani?
-7;Brazil;B;Mário Zagallo
-8;Zaire;B;Blagoja Vidini?
-9;Netherlands;C;Rinus Michels
-10;Bulgaria;C;Hristo Mladenov
-11;Uruguay;C;Roberto Porta
-12;Sweden;C;Georg Ericson
-13;Italy;D;Ferruccio Valcareggi
-14;Poland;D;Kazimierz Górski
-15;Argentina;D;Vladislao Cap
-16;Haiti;D;Antoine Tassy
+team_id,team_name,group,coach
+1,West Germany,A,Helmut Schön
+2,East Germany,A,Georg Buschner
+3,Chile,A,Luis Álamos
+4,Australia,A,Ralé Rasic
+5,Scotland,B,Willie Ormond
+6,Yugoslavia,B,Miljan Miljani?
+7,Brazil,B,Mário Zagallo
+8,Zaire,B,Blagoja Vidini?
+9,Netherlands,C,Rinus Michels
+10,Bulgaria,C,Hristo Mladenov
+11,Uruguay,C,Roberto Porta
+12,Sweden,C,Georg Ericson
+13,Italy,D,Ferruccio Valcareggi
+14,Poland,D,Kazimierz Górski
+15,Argentina,D,Vladislao Cap
+16,Haiti,D,Antoine Tassy
