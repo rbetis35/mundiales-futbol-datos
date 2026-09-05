@@ -1,0 +1,18 @@
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,27-05-1934,Spain,Brazil,3,1,Round of 16,Luigi Ferraris,Genoa,R16,21000,
+2,27-05-1934,Hungary,Egypt,4,2,Round of 16,Giorgio Ascarelli,Napoles,R16,9000,
+3,27-05-1934,Switzerland,Netherlands,3,2,Round of 16,San Siro,Milan,R16,33000,
+4,27-05-1934,Italy,United States,7,1,Round of 16,Stadio Nazionale PNF,Rome,R16,25000,
+5,27-05-1934,Czechoslovakia,Romania,2,1,Round of 16,Littorio,Trieste,R16,9000,
+6,27-05-1934,Sweden,Argentina,3,2,Round of 16,Littoriale,Bologna,R16,14000,
+7,27-05-1934,Austria,France,3,2,Round of 16,Benito Mussolini,Turin,R16,16000,After Extra Time
+8,27-05-1934,Germany,Belgium,5,2,Round of 16,Giovanni Berta,Florence,R16,8000,
+9,31-05-1934,Austria,Hungary,2,1,Quarter-final,Littoriale,Bologna,QF,23000,
+10,31-05-1934,Italy,Spain,1,1,Quarter-final,Giovanni Berta,Florence,QF,35000,After Extra Time
+11,31-05-1934,Germany,Sweden,2,1,Quarter-final,San Siro,Milan,QF,3000,
+12,31-05-1934,Czechoslovakia,Switzerland,3,2,Quarter-final,Benito Mussolini,Turin,QF,12000,
+13,01-06-1934,Italy,Spain,1,0,Quarter-final,Giovanni Berta,Florence,QF,43000,Replay Match
+14,03-06-1934,Italy,Austria,1,0,Semi-final,San Siro,Milan,SF,35000,
+15,03-06-1934,Czechoslovakia,Germany,3,1,Semi-final,Stadio Nazionale PNF,Rome,SF,15000,
+16,07-06-1934,Germany,Austria,3,2,Third-place Play-off,Giorgio Ascarelli,Napoles,3rd,7000,
+17,10-06-1934,Italy,Czechoslovakia,2,1,Final,Stadio Nazionale PNF,Rome,Final,55000,After Extra Time
