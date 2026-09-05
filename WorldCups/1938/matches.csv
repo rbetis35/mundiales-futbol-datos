@@ -1,0 +1,19 @@
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,04-06-1938,Switzerland,Germany,1,1,Round of 16,Parc des Princes,Paris,R16,27152,After Extra Time
+2,05-06-1938,Hungary,Dutch East Indies,6,0,Round of 16,Velodrome Municipal,Reims,R16,9000,
+3,05-06-1938,Cuba,Romania,3,3,Round of 16,Stade Chapou,Toulose,R16,7000,After Extra Time
+4,05-06-1938,France,Belgium,3,1,Round of 16,Stade Olympique de Colombes,Colombes,R16,30454,
+5,05-06-1938,Italy,Norway,2,1,Round of 16,Stade Velodrome,Marseille,R16,19000,After Extra Time
+6,05-06-1938,Brazil,Poland,6,5,Round of 16,Stade de la Meinau,Strasbourg,R16,13452,After Extra Time
+7,05-06-1938,Czechoslovakia,Netherlands,3,0,Round of 16,Stade Municipal,Le Havre,R16,11000,After Extra Time
+8,09-06-1938,Switzerland,Germany,4,2,Round of 16,Parc des Princes,Paris,R16,20025,Replay Match
+9,09-06-1938,Cuba,Romania,2,1,Round of 16,Stade Chapou,Toulose,R16,8000,Replay Match
+10,12-06-1938,Hungary,Switzerland,2,0,Quarter-final,Stade Victor Boucquey,Lille,QF,15000,
+11,12-06-1938,Sweden,Cuba,8,0,Quarter-final,Stade du Fort Carre,Antibes,QF,7000,
+12,12-06-1938,Italy,France,3,1,Quarter-final,Stade Olympique de Colombes,Colombes,QF,58455,
+13,12-06-1938,Brazil,Czechoslovakia,1,1,Quarter-final,Parc Lescure,Bordeaux,QF,22021,After Extra Time
+14,14-06-1938,Brazil,Czechoslovakia,2,1,Quarter-final,Parc Lescure,Bordeaux,QF,18141,Replay Match
+15,16-06-1938,Hungary,Sweden,5,1,Semi-final,Parc des Princes,Paris,SF,20000,
+16,16-06-1938,Italy,Brazil,2,1,Semi-final,Stade Velodrome,Marseille,SF,33000,
+17,19-06-1938,Brazil,Sweden,4,2,Third-place Play-off,Parc Lescure,Bordeaux,3rd,12000,
+18,19-06-1938,Italy,Hungary,4,2,Final,Stade Olympique de Colombes,Colombes,Final,45000,
