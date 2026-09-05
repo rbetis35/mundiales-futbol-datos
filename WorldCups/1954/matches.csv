@@ -1,0 +1,27 @@
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,16-06-1954,Brazil,Mexico,5,0,Group stage,Charmilles Stadium,Geneva,1,13470,
+2,16-06-1954,Yugoslavia,France,1,0,Group stage,Stade Olympique de la Pontaise,Lausanne,1,16000,
+3,16-06-1954,Uruguay,Czechoslovakia,2,0,Group stage,Wankdorf Stadium,Bern,3,20500,
+4,16-06-1954,Austria,Scotland,1,0,Group stage,Hardturm Stadium,Zurich,3,25000,
+5,17-06-1954,West Germany,Turkey,4,1,Group stage,Wankdorf Stadium,Bern,2,28000,
+6,17-06-1954,Hungary,South Korea,9,0,Group stage,Hardturm Stadium,Zurich,2,13000,
+7,17-06-1954,Switzerland,Italy,2,1,Group stage,Stade Olympique de la Pontaise,Lausanne,4,43000,
+8,17-06-1954,England,Belgium,4,4,Group stage,Saint Jakob Stadium,Basel,4,14000,After Extra Time
+9,19-06-1954,Brazil,Yugoslavia,1,1,Group stage,Stade Olympique de la Pontaise,Lausanne,1,24637,After Extra Time
+10,19-06-1954,France,Mexico,3,2,Group stage,Charmilles Stadium,Geneva,1,19000,
+11,19-06-1954,Uruguay,Scotland,7,0,Group stage,Saint Jakob Stadium,Basel,3,34000,
+12,19-06-1954,Austria,Czechoslovakia,5,0,Group stage,Hardturm Stadium,Zurich,3,26000,
+13,20-06-1954,Hungary,West Germany,8,3,Group stage,Saint Jakob Stadium,Basel,2,56000,
+14,20-06-1954,Turkey,South Korea,7,0,Group stage,Charmilles Stadium,Geneva,2,4000,
+15,20-06-1954,Italy,Belgium,4,1,Group stage,Cornaredo Stadium,Lugano,4,24000,
+16,20-06-1954,England,Switzerland,2,0,Group stage,Wankdorf Stadium,Bern,4,43500,
+17,23-06-1954,West Germany,Turkey,7,2,Group stage,Hardturm Stadium,Zurich,PO,17000,Playoff second place Group 2
+18,23-06-1954,Switzerland,Italy,4,1,Group stage,Saint Jakob Stadium,Basel,PO,30000,Playoff second place Group 4
+19,26-06-1954,Austria,Switzerland,7,5,Quarter-final,Stade Olympique de la Pontaise,Lausanne,QF,35000,
+20,26-06-1954,Uruguay,England,4,2,Quarter-final,Saint Jakob Stadium,Basel,QF,28000,
+21,27-06-1954,West Germany,Yugoslavia,2,0,Quarter-final,Charmilles Stadium,Geneva,QF,17000,
+22,27-06-1954,Hungary,Brazil,4,2,Quarter-final,Wankdorf Stadium,Bern,QF,40000,
+23,30-06-1954,West Germany,Austria,6,1,Semi-final,Saint Jakob Stadium,Basel,SF,58000,
+24,30-06-1954,Hungary,Uruguay,4,2,Semi-final,Stade Olympique de la Pontaise,Lausanne,SF,45000,After Extra Time
+25,03-07-1954,Austria,Uruguay,3,1,Third-place Play-off,Hardturm Stadium,Zurich,3rd,32000,
+26,04-07-1954,West Germany,Hungary,3,2,Final,Wankdorf Stadium,Bern,Final,62500,
