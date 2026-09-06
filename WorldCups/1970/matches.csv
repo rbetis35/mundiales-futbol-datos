@@ -1,39 +1,39 @@
-match_id;date;team1;team2;score1;score2;stage;stadium;city;group;attendance;obs
-1;31-05-1970;Mexico;Soviet Union;0;0;Group stage;Estadio Azteca ;Ciudad de Mexico;1;107160;
-2;02-06-1970;England;Romania;1;0;Group stage;Estadio Jalisco ;Guadalajara;3;50560;
-3;02-06-1970;Peru;Bulgaria;3;2;Group stage;Estadio León ;León;4;13765;
-4;02-06-1970;Uruguay;Israel;2;0;Group stage;Estadio Cuauhtemoc ;Puebla;2;20654;
-5;03-06-1970;West Germany;Morocco;2;1;Group stage;Estadio León ;León;4;12942;
-6;03-06-1970;Italy;Sweden;1;0;Group stage;Luis Dosal ;Toluca;2;13433;
-7;03-06-1970;Brazil;Czechoslovakia;4;1;Group stage;Estadio Jalisco ;Guadalajara;3;52897;
-8;03-06-1970;Belgium;El Salvador;3;0;Group stage;Estadio Azteca ;Ciudad de Mexico;1;92205;
-9;06-06-1970;Uruguay;Italy;0;0;Group stage;Estadio Cuauhtemoc ;Puebla;2;29968;
-10;06-06-1970;Soviet Union;Belgium;4;1;Group stage;Estadio Azteca ;Ciudad de Mexico;1;95261;
-11;06-06-1970;Romania;Czechoslovakia;2;1;Group stage;Estadio Jalisco ;Guadalajara;3;56818;
-12;06-06-1970;Peru;Morocco;3;0;Group stage;Estadio León ;León;4;13537;
-13;07-06-1970;Sweden;Israel;1;1;Group stage;Luis Dosal ;Toluca;2;9624;
-14;07-06-1970;Brazil;England;1;0;Group stage;Estadio Jalisco ;Guadalajara;3;66843;
-15;07-06-1970;Mexico;El Salvador;4;0;Group stage;Estadio Azteca ;Ciudad de Mexico;1;103058;
-16;07-06-1970;West Germany;Bulgaria;5;2;Group stage;Estadio León ;León;4;12710;
-17;10-06-1970;Sweden;Uruguay;1;0;Group stage;Estadio Cuauhtemoc ;Puebla;2;18163;
-18;10-06-1970;West Germany;Peru;3;1;Group stage;Estadio León ;León;4;17875;
-19;10-06-1970;Soviet Union;El Salvador;2;0;Group stage;Estadio Azteca ;Ciudad de Mexico;1;89979;
-20;10-06-1970;Brazil;Romania;3;2;Group stage;Estadio Jalisco ;Guadalajara;3;50804;
-21;11-06-1970;Bulgaria;Morocco;1;1;Group stage;Estadio León ;León;4;12299;
-22;11-06-1970;Italy;Israel;0;0;Group stage;Luis Dosal ;Toluca;2;9890;
-23;11-06-1970;Mexico;Belgium;1;0;Group stage;Estadio Azteca ;Ciudad de Mexico;1;108192;
-24;11-06-1970;England;Czechoslovakia;1;0;Group stage;Estadio Jalisco ;Guadalajara;3;49292;
-25;14-06-1970;Brazil;Peru;4;2;Quarter-final;Estadio Jalisco ;Guadalajara;QF;54233;
-26;14-06-1970;West Germany;England;3;2;Quarter-final;Estadio León ;León;QF;23357;
-27;14-06-1970;Italy;Mexico;4;1;Quarter-final;Luis Dosal ;Toluca;QF;26851;
-28;14-06-1970;Uruguay;Soviet Union;1;0;Quarter-final;Estadio Azteca ;Ciudad de Mexico;QF;26085;
-29;17-06-1970;Italy;West Germany;4;3;Semi-final;Estadio Azteca ;Ciudad de Mexico;SF;102444;
-30;17-06-1970;Brazil;Uruguay;3;1;Semi-final;Estadio Jalisco ;Guadalajara;SF;51261;
-31;20-06-1970;West Germany;Uruguay;1;0;Third-place Play-off;Estadio Azteca ;Ciudad de Mexico;3rd;104403;
-32;21-06-1970;Brazil;Italy;4;1;Final;Estadio Azteca ;Ciudad de Mexico;Final;107412;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
+match_id,date,team1,team2,score1,score2,stage,stadium,city,group,attendance,obs
+1,31-05-1970,Mexico,Soviet Union,0,0,Group stage,Estadio Azteca ,Ciudad de Mexico,1,107160,
+2,02-06-1970,England,Romania,1,0,Group stage,Estadio Jalisco ,Guadalajara,3,50560,
+3,02-06-1970,Peru,Bulgaria,3,2,Group stage,Estadio León ,León,4,13765,
+4,02-06-1970,Uruguay,Israel,2,0,Group stage,Estadio Cuauhtemoc ,Puebla,2,20654,
+5,03-06-1970,West Germany,Morocco,2,1,Group stage,Estadio León ,León,4,12942,
+6,03-06-1970,Italy,Sweden,1,0,Group stage,Luis Dosal ,Toluca,2,13433,
+7,03-06-1970,Brazil,Czechoslovakia,4,1,Group stage,Estadio Jalisco ,Guadalajara,3,52897,
+8,03-06-1970,Belgium,El Salvador,3,0,Group stage,Estadio Azteca ,Ciudad de Mexico,1,92205,
+9,06-06-1970,Uruguay,Italy,0,0,Group stage,Estadio Cuauhtemoc ,Puebla,2,29968,
+10,06-06-1970,Soviet Union,Belgium,4,1,Group stage,Estadio Azteca ,Ciudad de Mexico,1,95261,
+11,06-06-1970,Romania,Czechoslovakia,2,1,Group stage,Estadio Jalisco ,Guadalajara,3,56818,
+12,06-06-1970,Peru,Morocco,3,0,Group stage,Estadio León ,León,4,13537,
+13,07-06-1970,Sweden,Israel,1,1,Group stage,Luis Dosal ,Toluca,2,9624,
+14,07-06-1970,Brazil,England,1,0,Group stage,Estadio Jalisco ,Guadalajara,3,66843,
+15,07-06-1970,Mexico,El Salvador,4,0,Group stage,Estadio Azteca ,Ciudad de Mexico,1,103058,
+16,07-06-1970,West Germany,Bulgaria,5,2,Group stage,Estadio León ,León,4,12710,
+17,10-06-1970,Sweden,Uruguay,1,0,Group stage,Estadio Cuauhtemoc ,Puebla,2,18163,
+18,10-06-1970,West Germany,Peru,3,1,Group stage,Estadio León ,León,4,17875,
+19,10-06-1970,Soviet Union,El Salvador,2,0,Group stage,Estadio Azteca ,Ciudad de Mexico,1,89979,
+20,10-06-1970,Brazil,Romania,3,2,Group stage,Estadio Jalisco ,Guadalajara,3,50804,
+21,11-06-1970,Bulgaria,Morocco,1,1,Group stage,Estadio León ,León,4,12299,
+22,11-06-1970,Italy,Israel,0,0,Group stage,Luis Dosal ,Toluca,2,9890,
+23,11-06-1970,Mexico,Belgium,1,0,Group stage,Estadio Azteca ,Ciudad de Mexico,1,108192,
+24,11-06-1970,England,Czechoslovakia,1,0,Group stage,Estadio Jalisco ,Guadalajara,3,49292,
+25,14-06-1970,Brazil,Peru,4,2,Quarter-final,Estadio Jalisco ,Guadalajara,QF,54233,
+26,14-06-1970,West Germany,England,3,2,Quarter-final,Estadio León ,León,QF,23357,
+27,14-06-1970,Italy,Mexico,4,1,Quarter-final,Luis Dosal ,Toluca,QF,26851,
+28,14-06-1970,Uruguay,Soviet Union,1,0,Quarter-final,Estadio Azteca ,Ciudad de Mexico,QF,26085,
+29,17-06-1970,Italy,West Germany,4,3,Semi-final,Estadio Azteca ,Ciudad de Mexico,SF,102444,
+30,17-06-1970,Brazil,Uruguay,3,1,Semi-final,Estadio Jalisco ,Guadalajara,SF,51261,
+31,20-06-1970,West Germany,Uruguay,1,0,Third-place Play-off,Estadio Azteca ,Ciudad de Mexico,3rd,104403,
+32,21-06-1970,Brazil,Italy,4,1,Final,Estadio Azteca ,Ciudad de Mexico,Final,107412,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

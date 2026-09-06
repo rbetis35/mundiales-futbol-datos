@@ -1,4 +1,2 @@
-nombre_jugador;seleccion_autor;seleccion_beneficiada;minuto;fecha;instancia
-Javier Guzman;Mexico;Italy;25;14-06-1970;Quarter Final
-;;;;;
-;;;;;
+nombre_jugador,seleccion_autor,seleccion_beneficiada,minuto,fecha,instancia
+Javier Guzman,Mexico,Italy,25,14-06-1970,Quarter Final

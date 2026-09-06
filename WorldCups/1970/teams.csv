@@ -1,17 +1,17 @@
-team_id;team_name;group;coach
-1;Mexico;1;Raul Cardenas
-2;Soviet Union;1;Gavril Kachalin
-3;Belgium;1;Raymond Goethals
-4;El Salvador;1;Hernan Carrasco
-5;Italy;2;Ferruccio Valcareggi
-6;Uruguay;2;Juan Hohberg
-7;Sweden;2;Orvar Bergmark
-8;Israel;2;Emmanuel Scheffer
-9;England;3;Alf Ramsey
-10;Brazil;3;Mario Zagallo
-11;Czechoslovakia;3;Jozef Marko
-12;Romania;3;Angelo Nicolescu
-13;West Germany;4;Helmut Schon
-14;Peru;4;Didi
-15;Bulgaria;4;Stefan Bozhkov
-16;Morocco;4;Blagoje Vidinic
+team_id,team_name,group,coach
+1,Mexico,1,Raul Cardenas
+2,Soviet Union,1,Gavril Kachalin
+3,Belgium,1,Raymond Goethals
+4,El Salvador,1,Hernan Carrasco
+5,Italy,2,Ferruccio Valcareggi
+6,Uruguay,2,Juan Hohberg
+7,Sweden,2,Orvar Bergmark
+8,Israel,2,Emmanuel Scheffer
+9,England,3,Alf Ramsey
+10,Brazil,3,Mario Zagallo
+11,Czechoslovakia,3,Jozef Marko
+12,Romania,3,Angelo Nicolescu
+13,West Germany,4,Helmut Schon
+14,Peru,4,Didi
+15,Bulgaria,4,Stefan Bozhkov
+16,Morocco,4,Blagoje Vidinic
