@@ -7456,7 +7456,7 @@ player_id,world_cup_year,team,club,country_club
 5598,1978,Brazil,São Paulo,Brazil
 5599,1978,Brazil,São Paulo,Brazil
 5600,1978,Brazil,Atlético Mineiro,Brazil
-5601,1978,Brazil,Fluminense,Brazil
+
 5602,1978,Brazil,Botafogo,Brazil
 5603,1978,Brazil,Palmeiras,Brazil
 5604,1978,France,Nantes,France
@@ -7669,7 +7669,7 @@ player_id,world_cup_year,team,club,country_club
 5785,1974,Sweden,Malmö FF,Sweden
 5785,1978,Sweden,Malmö FF,Sweden
 5786,1978,Sweden,Marseille,France
-5787,1978,Sweden,Malmö FF,Sweden
+
 5788,1978,Sweden,Schalke 04,Germany
 5789,1978,Sweden,Örebro SK,Sweden
 5790,1978,Sweden,IFK Göteborg,Sweden
@@ -7707,7 +7707,7 @@ player_id,world_cup_year,team,club,country_club
 5819,1978,West Germany,Bayern Munich,Germany
 5820,1978,West Germany,Hamburger SV,Germany
 5821,1978,West Germany,Werder Bremen,Germany
-5822,1978,West Germany,Borussia Mönchengladbach,Germany
+
 5823,1978,West Germany,MSV Duisburg,Germany
 5824,1974,West Germany,Bayern Munich,Germany
 5824,1978,West Germany,Bayern Munich,Germany
@@ -8026,3 +8026,305 @@ player_id,world_cup_year,team,club,country_club
 6133,1974,Zaire, CS Imana,DR Congo
 6134,1974,Zaire, AS Vita Club,DR Congo
 6135,1974,Zaire, CS Imana,DR Congo
+6136,1970,Belgium,Standard Liège,Belgium
+6137,1970,Belgium,Anderlecht,Belgium
+6138,1970,Belgium,Olympic Charleroi,Belgium
+6139,1970,Belgium,Anderlecht,Belgium
+6140,1970,Belgium,Standard Liège,Belgium
+6141,1970,Belgium,Standard Liège,Belgium
+6142,1970,Belgium,Standard Liège,Belgium
+6143,1970,Belgium,Standard Liège,Belgium
+6144,1970,Belgium,RWD Molenbeek,Belgium
+6145,1970,Belgium,Standard Liège,Belgium
+6146,1970,Belgium,Anderlecht,Belgium
+6147,1970,Belgium,Club Brugge,Belgium
+6148,1970,Belgium,Sint-Truiden,Belgium
+6149,1970,Belgium,Beerschot,Belgium
+6150,1970,Belgium,Anderlecht,Belgium
+6151,1970,Belgium,Anderlecht,Belgium
+6152,1970,Belgium,Anderlecht,Belgium
+6153,1970,Belgium,Anderlecht,Belgium
+6154,1970,Belgium,Club Brugge,Belgium
+6155,1970,Belgium,Club Brugge,Belgium
+6156,1970,Belgium,Lierse,Belgium
+6157,1970,Brazil,Fluminense,Brazil
+6158,1970,Brazil,Corinthians,Brazil
+6159,1970,Brazil,Flamengo,Brazil
+6159,1970,Brazil,Santos,Brazil
+6160,1970,Brazil,Palmeiras,Brazil
+6161,1970,Brazil,Cruzeiro,Brazil
+6162,1970,Brazil,Grêmio,Brazil
+6163,1970,Brazil,Santos,Brazil
+6164,1970,Brazil,Cruzeiro,Brazil
+6165,1970,Brazil,Santos,Brazil
+6166,1970,Brazil,São Paulo,Brazil
+6167,1970,Brazil,Botafogo,Brazil
+6168,1970,Brazil,Cruzeiro,Brazil
+6169,1970,Brazil,Santos,Brazil
+6170,1970,Brazil,Botafogo,Brazil
+6171,1970,Brazil,Atlético Mineiro,Brazil
+6172,1970,Bulgaria,CSKA Sofia,Bulgaria
+6173,1970,Bulgaria,Levski Sofia,Bulgaria
+6174,1970,Bulgaria,Slavia Sofia,Bulgaria
+6175,1970,Bulgaria,Akademik Sofia,Bulgaria
+6176,1970,Bulgaria,Levski Sofia,Bulgaria
+6177,1970,Bulgaria,CSKA Sofia,Bulgaria
+6178,1970,Bulgaria,Slavia Sofia,Bulgaria
+6179,1970,Bulgaria,Slavia Sofia,Bulgaria
+6180,1970,Bulgaria,Botev Plovdiv,Bulgaria
+6181,1970,Bulgaria,Levski Sofia,Bulgaria
+6182,1970,Bulgaria,Levski Sofia,Bulgaria
+6183,1970,Bulgaria,Botev Plovdiv,Bulgaria
+6184,1970,Bulgaria,Lokomotiv Plovdiv,Bulgaria
+6185,1970,Bulgaria,CSKA Sofia,Bulgaria
+6186,1970,Bulgaria,CSKA Sofia,Bulgaria
+6187,1970,Bulgaria,CSKA Sofia,Bulgaria
+6188,1970,Czechoslovaquia,Dukla Prague,Czech Republic
+6189,1970,Czechoslovaquia,Lokomotíva Košice,Slovakia
+6190,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6191,1970,Czechoslovaquia,Spartak Trnava,Slovakia
+6192,1970,Czechoslovaquia,Sparta Prague,Czech Republic
+6193,1970,Czechoslovaquia,Spartak Trnava,Slovakia
+6194,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6195,1970,Czechoslovaquia,VSS Košice,Slovakia
+6196,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6197,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6198,1970,Czechoslovaquia,Sparta Prague,Czech Republic
+6199,1970,Czechoslovaquia,Spartak Trnava,Slovakia
+6200,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6201,1970,Czechoslovaquia,VSS Košice,Slovakia
+6202,1970,Czechoslovaquia,Sparta Prague,Czech Republic
+6203,1970,Czechoslovaquia,Mechelen,Belgium
+6204,1970,Czechoslovaquia,Inter Bratislava,Slovakia
+6205,1970,Czechoslovaquia,Spartak Trnava,Slovakia
+6206,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6207,1970,Czechoslovaquia,Slavia Prague,Czech Republic
+6208,1970,Czechoslovaquia,Jednota Tren?ín,Slovakia
+6209,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
+6210,1970,El Salvador,FAS,El Salvador
+6211,1970,El Salvador,Juventud Olimpica,El Salvador
+6212,1970,El Salvador,Atlante San Alejo,El Salvador
+6213,1970,El Salvador,Alianza,El Salvador
+6214,1970,El Salvador,Alianza,El Salvador
+6215,1970,El Salvador,Atlético Marte,El Salvador
+6216,1970,El Salvador,Águila,El Salvador
+6217,1970,El Salvador,FAS,El Salvador
+6218,1970,El Salvador,Atlético Marte,El Salvador
+6219,1970,El Salvador,Atlético Marte,El Salvador
+6220,1970,El Salvador,Universidad,El Salvador
+6221,1970,El Salvador,Universidad,El Salvador
+6222,1970,El Salvador,Águila,El Salvador
+6223,1970,El Salvador,FAS,El Salvador
+6224,1970,El Salvador,Atlético Marte,El Salvador
+6225,1970,El Salvador,Atlético Marte,El Salvador
+6226,1970,El Salvador,ADLER,El Salvador
+6227,1970,El Salvador,Atlético Marte,El Salvador
+6228,1970,El Salvador,FAS,El Salvador
+6229,1970,El Salvador,FAS,El Salvador
+6230,1970,El Salvador,Alianza,El Salvador
+6231,1970,El Salvador,FAS,El Salvador
+6232,1970,England,Stoke City,England
+6233,1970,England,Chelsea,England
+6234,1970,England,Manchester United,England
+6235,1970,England,Everton,England
+6236,1970,England,Leeds United,England
+6237,1970,England,Everton,England
+6238,1970,England,West Ham United,England
+6239,1970,England,Everton,England
+6240,1970,England,Manchester United,England
+6241,1970,England,Leeds United,England
+6242,1970,England,Leeds United,England
+6243,1970,England,Tottenham Hotspur,England
+6244,1970,England,Everton,England
+6245,1970,England,Manchester United,England
+6246,1970,England,Tottenham Hotspur,England
+6247,1970,England,Liverpool,England
+6248,1970,England,Manchester City,England
+6249,1970,England,Manchester City,England
+6250,1970,England,West Ham United,England
+6251,1970,England,Chelsea,England
+6252,1970,England,Leeds United,England
+6253,1970,England,West Bromwich Albion,England
+6254,1970,Israel,Hapoel Petah Tikva,Israel
+6255,1970,Israel,Hapoel Haifa,Israel
+6256,1970,Israel,Hapoel Kfar Saba,Israel
+6257,1970,Israel,Maccabi Netanya,Israel
+6258,1970,Israel,Maccabi Tel Aviv,Israel
+6259,1970,Israel,Maccabi Tel Aviv,Israel
+6260,1970,Israel,Hapoel Petah Tikva,Israel
+6261,1970,Israel,Hapoel Haifa,Israel
+6262,1970,Israel,Maccabi Tel Aviv,Israel
+6263,1970,Israel,Hapoel Tel Aviv,Israel
+6264,1970,Israel,Hapoel Kfar Saba,Israel
+6265,1970,Israel,Hapoel Tel Aviv,Israel
+6266,1970,Israel,Maccabi Haifa,Israel
+6267,1970,Israel,Maccabi Haifa,Israel
+6268,1970,Israel,Shimshon Tel Aviv,Israel
+6269,1970,Israel,Hakoah Maccabi Ramat Gan,Israel
+6270,1970,Israel,Maccabi Tel Aviv,Israel
+6271,1970,Israel,Hapoel Tel Aviv,Israel
+6272,1970,Israel,Maccabi Netanya,Israel
+6273,1970,Israel,Hapoel Tel Aviv,Israel
+6274,1970,Israel,Maccabi Tel Aviv,Israel
+6275,1970,Israel,Hapoel Jerusalem,Israel
+6276,1970,Italy,Internazionale,Italy
+6277,1970,Italy,Internazionale,Italy
+6278,1970,Italy,Torino,Italy
+6279,1970,Italy,Cagliari,Italy
+6280,1970,Italy,AC Milan,Italy
+6281,1970,Italy,Torino,Italy
+6282,1970,Italy,Juventus,Italy
+6283,1970,Italy,Fiorentina,Italy
+6284,1970,Italy,Cagliari,Italy
+6285,1970,Italy,Internazionale,Italy
+6286,1970,Italy,Fiorentina,Italy
+6287,1970,Italy,Cagliari,Italy
+6288,1970,Italy,Cagliari,Italy
+6289,1970,Italy,AC Milan,Italy
+6290,1970,Mexico,Guadalajara,Mexico
+6291,1970,Mexico,Necaxa,Mexico
+6292,1970,Mexico,UNAM,Mexico
+6293,1970,Mexico,Cruz Azul,Mexico
+6294,1970,Mexico,Cruz Azul,Mexico
+6295,1970,Mexico,Veracruz,Mexico
+6296,1970,Mexico,America,Mexico
+6297,1970,Mexico,America,Mexico
+6298,1970,Mexico,Toluca,Mexico
+6299,1970,Mexico,Cruz Azul,Mexico
+6300,1970,Mexico,Atlante,Mexico
+6301,1970,Mexico,Cruz Azul,Mexico
+6302,1970,Mexico,Cruz Azul,Mexico
+6303,1970,Mexico,UNAM,Mexico
+6304,1970,Mexico,UNAM,Mexico
+6305,1970,Mexico,Atlante,Mexico
+6306,1970,Mexico,America,Mexico
+6307,1970,Mexico,America,Mexico
+6308,1970,Mexico,UNAM,Mexico
+6309,1970,Mexico,León,Mexico
+6310,1970,Mexico,Guadalajara,Mexico
+6311,1970,Mexico,America,Mexico
+6312,1970,Morocco,FAR Rabat,Morocco
+6313,1970,Morocco,MAS Fes,Morocco
+6314,1970,Morocco,WAC Casablanca,Morocco
+6315,1970,Morocco,FAR Rabat,Morocco
+6316,1970,Morocco,KAC Kenitra,Morocco
+6317,1970,Morocco,MAS Fes,Morocco
+6318,1970,Morocco,RS Settat,Morocco
+6319,1970,Morocco,FAR Rabat,Morocco
+6320,1970,Morocco,FAR Rabat,Morocco
+6321,1970,Morocco,DH Jadida,Morocco
+6322,1970,Morocco,RCA Casablanca,Morocco
+6323,1970,Morocco,FAR Rabat,Morocco
+6324,1970,Morocco,FAR Rabat,Morocco
+6325,1970,Morocco,Union Sidi Kacem,Morocco
+6326,1970,Morocco,RCA Casablanca,Morocco
+6327,1970,Morocco,Chabab Mohammedia,Morocco
+6328,1970,Morocco,Mouloudia Oujda,Morocco
+6329,1970,Morocco,RCA Casablanca,Morocco
+6330,1970,Morocco,RS Settat,Morocco
+6331,1970,Peru,Sporting Cristal,Peru
+6332,1970,Peru,Universitario,Peru
+6333,1970,Peru,Universitario,Peru
+6334,1970,Peru,Sporting Cristal,Peru
+6335,1970,Peru,Sporting Cristal,Peru
+6336,1970,Peru,Universitario,Peru
+6337,1970,Peru,Universitario,Peru
+6338,1970,Peru,Sporting Cristal,Peru
+6339,1970,Peru,Universitario,Peru
+6340,1970,Peru,Sporting Cristal,Peru
+6341,1970,Peru,Universitario,Peru
+6342,1970,Peru,Alianza Lima,Peru
+6343,1970,Peru,Sporting Cristal,Peru
+6344,1970,Peru,Universitario,Peru
+6345,1970,Peru,Alianza Lima,Peru
+6346,1970,Peru,Universitario,Peru
+6347,1970,Peru,Alianza Lima,Peru
+6348,1970,Peru,Sporting Cristal,Peru
+6349,1970,Peru,Juan Aurich,Peru
+6350,1970,Peru,Sport Boys,Peru
+6351,1970,Romania,Rapid Bucuresti,Romania
+6352,1970,Romania,Brasov,Romania
+6353,1970,Romania,UTA Arad,Romania
+6354,1970,Romania,Steaua Bucuresti,Romania
+6355,1970,Romania,Rapid Bucuresti,Romania
+6356,1970,Romania,Petrolul Ploiesti,Romania
+6357,1970,Romania,Dinamo Bucuresti,Romania
+6358,1970,Romania,Rapid Bucuresti,Romania
+6359,1970,Romania,Brasov,Romania
+6360,1970,Romania,Dinamo Bucuresti,Romania
+6361,1970,Romania,Arges Pitesti,Romania
+6362,1970,Romania,Dinamo Bucuresti,Romania
+6363,1970,Romania,Dinamo Bucuresti,Romania
+6364,1970,Romania,Rapid Bucuresti,Romania
+6365,1970,Romania,Steaua Bucuresti,Romania
+6366,1970,Romania,Brasov,Romania
+6367,1970,Romania,Dinamo Bac?u,Romania
+6368,1970,Romania,Dinamo Bucuresti,Romania
+6369,1970,Romania,Dinamo Bucuresti,Romania
+6370,1970,Romania,Rapid Bucuresti,Romania
+6371,1970,Romania,Farul Constanta,Romania
+6372,1970,Romania,UTA Arad,Romania
+6373,1970,Soviet Union,CSKA Moscow,Russia
+6374,1970,Soviet Union,Spartak Moscow,Russia
+6375,1970,Soviet Union,Dynamo Moscow,Russia
+6376,1970,Soviet Union,SKA Rostov,Russia
+6377,1970,Soviet Union,Dinamo Tbilisi,Georgia
+6378,1970,Soviet Union,CSKA Moscow,Russia
+6379,1970,Soviet Union,Spartak Moscow,Russia
+6380,1970,Soviet Union,Spartak Moscow,Russia
+6381,1970,Soviet Union,Dinamo Tbilisi,Georgia
+6382,1970,Soviet Union,CSKA Moscow,Russia
+6383,1970,Soviet Union,Dynamo Moscow,Russia
+6384,1970,Soviet Union,Dinamo Tbilisi,Georgia
+6385,1970,Soviet Union,Spartak Moscow,Russia
+6386,1970,Soviet Union,Dynamo Kyiv,Ukraine
+6387,1970,Soviet Union,Dynamo Kyiv,Ukraine
+6388,1970,Soviet Union,Dynamo Kyiv,Ukraine
+6389,1970,Soviet Union,Dynamo Moscow,Russia
+6390,1970,Soviet Union,Dinamo Tbilisi,Georgia
+6391,1970,Soviet Union,Dinamo Tbilisi,Georgia
+6392,1970,Soviet Union,Dynamo Kyiv,Ukraine
+6393,1970,Soviet Union,Dynamo Kyiv,Ukraine
+6394,1970,Soviet Union,Chornomorets Odesa,Ukraine
+6395,1970,Sweden,Djurgarden,Sweden
+6396,1970,Sweden,Helsingborgs IF,Sweden
+6397,1970,Sweden,Club Brugge,Belgium
+6398,1970,Sweden,Malmo,Sweden
+6399,1970,Sweden,Elfsborg,Sweden
+6400,1970,Sweden,Osters,Sweden
+6401,1970,Sweden,Örebro SK,Sweden
+6402,1970,Sweden,IFK Goteborg,Sweden
+6403,1970,Sweden,GAIS,Sweden
+6404,1970,Sweden,Anderlecht,Belgium
+6405,1970,Sweden,Club Brugge,Belgium
+6406,1970,Uruguay,Peñarol,Uruguay
+6407,1970,Uruguay,Nacional,Uruguay
+6408,1970,Uruguay,Peñarol,Uruguay
+6409,1970,Uruguay,Nacional,Uruguay
+6410,1970,Uruguay,Nacional,Uruguay
+6411,1970,Uruguay,Peñarol,Uruguay
+6412,1970,Uruguay,Bella Vista,Uruguay
+6413,1970,Uruguay,Peñarol,Uruguay
+6414,1970,Uruguay,Nacional,Uruguay
+6415,1970,Uruguay,Defensor,Uruguay
+6416,1970,Uruguay,Peñarol,Uruguay
+6417,1970,Uruguay,Nacional,Uruguay
+6418,1970,Uruguay,Cerro,Uruguay
+6419,1970,Uruguay,Liverpool,Uruguay
+6420,1970,Uruguay,River Plate,Uruguay
+6421,1970,Uruguay,Peñarol,Uruguay
+6422,1970,West Germany,1. FC Köln,Germany
+6423,1970,West Germany,Eintracht Braunschweig,Germany
+6424,1970,West Germany,AC Milan,Italy
+6425,1970,West Germany,Hamburger SV,Germany
+6426,1970,West Germany,Schalke 04,Germany
+6427,1970,West Germany,Hertha BSC,Germany
+6428,1970,West Germany,Borussia Mönchengladbach,Germany
+6429,1970,West Germany,1. FC Köln,Germany
+6430,1970,West Germany,Eintracht Braunschweig,Germany
+6431,1970,West Germany,Borussia Mönchengladbach,Germany
+6432,1970,West Germany,Juventus,Italy
+6433,1970,West Germany,Hamburger SV,Germany
+6434,1970,West Germany,Borussia Dortmund,Germany
+6435,1970,West Germany,Schalke 04,Germany
+6436,1970,West Germany,1. FC Köln,Germany
