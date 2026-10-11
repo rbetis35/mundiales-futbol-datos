@@ -6134,3 +6134,305 @@ player_id,dorsal,player_name,birth_date,position,nationality
 6133,19,Mbungu Ekofa,24-11-1947,FW,Zaire
 6134,20,Jean Kalala N'Tumba,07-01-1949,FW,Zaire
 6135,21,Kakoko Etepe,22-11-1950,FW,Zaire
+6136,1,Christian Piot,04-10-1947,GK,Belgium
+6137,12,Jean-Marie Trappeniers,13-01-1942,GK,Belgium
+6138,22,Jacques Duquesne,22-04-1940,GK,Belgium
+6139,2,Georges Heylens,08-08-1941,DF,Belgium
+6140,3,Jean Thissen,21-04-1946,DF,Belgium
+6141,4,Nicolas Dewalque,20-09-1945,DF,Belgium
+6142,5,Léon Jeck,09-02-1947,DF,Belgium
+6143,13,Jacques Beurlet,21-12-1944,DF,Belgium
+6144,6,Jean Dockx,24-05-1941,MF,Belgium
+6145,7,Léon Semmeling,04-01-1940,MF,Belgium
+6146,14,Maurice Martens,05-06-1947,MF,Belgium
+6147,15,Erwin Vandendaele,05-03-1945,MF,Belgium
+6148,16,Odilon Polleunis,01-05-1943,MF,Belgium
+6149,17,Jan Verheyen,09-07-1944,MF,Belgium
+6150,20,Alfons Peeters,21-01-1943,MF,Belgium
+6151,9,Johan Devrindt,14-04-1944,FW,Belgium
+6152,10,Paul Van Himst,02-10-1943,FW,Belgium
+6153,11,Wilfried Puis,18-02-1943,FW,Belgium
+6154,18,Raoul Lambert,20-10-1944,FW,Belgium
+6155,19,Pierre Carteus,24-09-1943,FW,Belgium
+6156,21,Frans Janssens,25-09-1945,FW,Belgium
+6157,1,Félix,24-12-1937,GK,Brazil
+6158,12,Ado,04-07-1946,GK,Brazil
+6159,2,Brito,09-08-1939,DF,Brazil
+6159,4,Carlos Alberto,17-07-1944,DF,Brazil
+6160,14,Baldocchi,14-03-1946,DF,Brazil
+6161,15,Fontana,31-12-1940,DF,Brazil
+6162,16,Everaldo,11-09-1944,DF,Brazil
+6163,17,Joel Camargo,18-09-1946,DF,Brazil
+6164,3,Piazza,25-02-1943,MF,Brazil
+6165,5,Clodoaldo,26-09-1949,MF,Brazil
+6166,8,Gérson,11-01-1941,MF,Brazil
+6167,18,Caju,16-06-1949,MF,Brazil
+6168,9,Tostão,25-01-1947,FW,Brazil
+6169,10,Pelé,23-10-1940,FW,Brazil
+6170,13,Roberto Miranda,31-07-1944,FW,Brazil
+6171,20,Dario,04-03-1946,FW,Brazil
+6172,13,Stoyan Yordanov,29-01-1944,GK,Bulgaria
+6173,22,Georgi Kamenski,03-02-1947,GK,Bulgaria
+6174,2,Aleksandar Shalamanov,04-09-1941,DF,Bulgaria
+6175,3,Ivan Dimitrov,14-05-1935,DF,Bulgaria
+6176,12,Milko Gaydarski,18-03-1946,DF,Bulgaria
+6177,15,Boris Gaganelov,07-10-1941,DF,Bulgaria
+6178,17,Todor Kolev,29-04-1942,DF,Bulgaria
+6179,5,Ivan Davidov,05-10-1943,MF,Bulgaria
+6180,11,Dinko Dermendzhiev,02-06-1941,MF,Bulgaria
+6181,19,Georgi Asparuhov,04-05-1943,MF,Bulgaria
+6182,20,Vasil Mitkov,17-09-1943,MF,Bulgaria
+6183,7,Georgi Popov,14-07-1944,FW,Bulgaria
+6184,8,Hristo Bonev,03-02-1947,FW,Bulgaria
+6185,9,Petar Zhekov,10-10-1944,FW,Bulgaria
+6186,10,Dimitar Yakimov,12-07-1941,FW,Bulgaria
+6187,18,Dimitar Marashliev,31-08-1947,FW,Bulgaria
+6188,1,Ivo Viktor,21-05-1942,GK,Czechoslovaquia
+6189,13,Anton Flešár,08-05-1944,GK,Czechoslovaquia
+6190,22,Alexander Vencel,08-02-1944,GK,Czechoslovaquia
+6191,2,Karol Dobiaš,18-12-1947,DF,Czechoslovaquia
+6192,3,Václav Migas,16-09-1944,DF,Czechoslovaquia
+6193,4,Vladimír Hagara,07-11-1943,DF,Czechoslovaquia
+6194,5,Alexander Horváth,28-12-1938,DF,Czechoslovaquia
+6195,12,Ján Pivarník,13-11-1947,DF,Czechoslovaquia
+6196,14,Vladimír Hrivnák,23-04-1945,DF,Czechoslovaquia
+6197,15,Ján Zlocha,24-03-1942,DF,Czechoslovaquia
+6198,7,Bohumil Veselý,18-06-1945,MF,Czechoslovaquia
+6199,9,Ladislav Kuna,03-04-1947,MF,Czechoslovaquia
+6200,16,Ivan Hrdli?ka,20-11-1943,MF,Czechoslovaquia
+6201,17,Jaroslav Pollák,11-07-1947,MF,Czechoslovaquia
+6202,19,Josef Jurkanin,05-03-1949,MF,Czechoslovaquia
+6203,6,Andrej Kvaš?ák,19-05-1936,FW,Czechoslovaquia
+6204,8,Ladislav Petráš,01-12-1946,FW,Czechoslovaquia
+6205,10,Jozef Adamec,26-02-1942,FW,Czechoslovaquia
+6206,11,Karol Jokl,29-08-1945,FW,Czechoslovaquia
+6207,18,František Veselý,07-12-1943,FW,Czechoslovaquia
+6208,20,Milan Albrecht,16-07-1950,FW,Czechoslovaquia
+6209,21,Ján ?apkovi?,11-01-1948,FW,Czechoslovaquia
+6210,1,Raúl Magaña,24-02-1940,GK,El Salvador
+6211,13,Tomás Pineda,21-01-1946,GK,El Salvador
+6212,20,Gualberto Fernández,12-07-1941,GK,El Salvador
+6213,2,Roberto Rivas,17-07-1941,DF,El Salvador
+6214,3,Salvador Mariona,16-12-1943,DF,El Salvador
+6215,4,Santiago Cortés,19-01-1945,DF,El Salvador
+6216,5,Saturnino Osorio,06-01-1945,DF,El Salvador
+6217,14,Mauricio Manzano,30-09-1943,DF,El Salvador
+6218,18,Guillermo Castro,25-06-1940,DF,El Salvador
+6219,6,José Quintanilla,29-10-1947,MF,El Salvador
+6220,7,Mauricio Rodríguez,12-09-1945,MF,El Salvador
+6221,8,Jorge Vásquez,23-04-1945,MF,El Salvador
+6222,9,Juan Ramón Martínez,20-04-1948,MF,El Salvador
+6223,16,Genaro Sermeño,28-11-1948,MF,El Salvador
+6224,19,Sergio Méndez,14-02-1942,MF,El Salvador
+6225,22,Alberto Villalta,19-11-1947,MF,El Salvador
+6226,10,Salvador Cabezas,28-02-1947,FW,El Salvador
+6227,11,Ernesto Aparicio,28-12-1948,FW,El Salvador
+6228,12,Mario Monge,27-11-1938,FW,El Salvador
+6229,15,David Cabrera,12-09-1945,FW,El Salvador
+6230,17,Jaime Portillo,18-09-1947,FW,El Salvador
+6231,21,Elmer Acevedo,24-02-1946,FW,El Salvador
+6232,1,Gordon Banks,30-12-1937,GK,England
+6233,12,Peter Bonetti,27-09-1941,GK,England
+6234,13,Alex Stepney,18-09-1942,GK,England
+6235,2,Keith Newton,23-06-1941,DF,England
+6236,3,Terry Cooper,12-07-1944,DF,England
+6237,5,Brian Labone,23-01-1940,DF,England
+6238,6,Bobby Moore,12-04-1941,DF,England
+6239,14,Tommy Wright,21-10-1944,DF,England
+6240,15,Nobby Stiles,18-05-1942,DF,England
+6241,17,Jack Charlton,08-05-1935,DF,England
+6242,18,Norman Hunter,29-10-1943,DF,England
+6243,4,Alan Mullery,23-11-1941,MF,England
+6244,8,Alan Ball,12-05-1945,MF,England
+6245,9,Bobby Charlton,11-10-1937,MF,England
+6246,11,Martin Peters,08-11-1943,MF,England
+6247,16,Emlyn Hughes,28-08-1947,MF,England
+6248,19,Colin Bell,26-02-1946,MF,England
+6249,7,Francis Lee,29-04-1944,FW,England
+6250,10,Geoff Hurst,08-12-1941,FW,England
+6251,20,Peter Osgood,20-02-1947,FW,England
+6252,21,Allan Clarke,31-07-1946,FW,England
+6253,22,Jeff Astle,13-05-1942,FW,England
+6254,1,Yitzchak Vissoker,18-09-1944,GK,Israel
+6255,21,Yechiel Hameiri,20-08-1946,GK,Israel
+6256,22,Yair Nossovsky,29-06-1937,GK,Israel
+6257,2,Shraga Bar,24-03-1948,DF,Israel
+6258,3,Menachem Bello,26-12-1947,DF,Israel
+6259,5,Zvi Rosen,23-06-1947,DF,Israel
+6260,6,Shmuel Rosenthal,22-04-1947,DF,Israel
+6261,16,Yochanan Vollach,14-05-1945,DF,Israel
+6262,20,David Karako,11-02-1945,DF,Israel
+6263,4,David Primo,05-05-1946,MF,Israel
+6264,7,Itzhak Shum,01-09-1948,MF,Israel
+6265,11,George Borba,12-07-1944,MF,Israel
+6266,12,Yisha'ayahu Schwager,10-02-1946,MF,Israel
+6267,14,Danny Shmulevich-Rom,29-11-1940,MF,Israel
+6268,18,Moshe Romano,06-05-1946,MF,Israel
+6269,19,Roni Shuruk,24-02-1946,MF,Israel
+6270,8,Giora Spiegel,27-07-1947,FW,Israel
+6271,9,Yehoshua Feigenbaum,05-12-1947,FW,Israel
+6272,10,Mordechai Spiegler,19-08-1944,FW,Israel
+6273,13,Yechezekel Chazom,01-01-1947,FW,Israel
+6274,15,Rachamim Talbi,17-05-1943,FW,Israel
+6275,17,Eli Ben Rimoz,20-11-1944,FW,Israel
+6276,17,Lido Vieri,16-07-1939,GK,Italy
+6277,3,Giacinto Facchetti,18-07-1942,DF,Italy
+6278,4,Fabrizio Poletti,13-07-1943,DF,Italy
+6279,5,Pierluigi Cera,25-02-1941,DF,Italy
+6280,8,Roberto Rosato,18-08-1943,DF,Italy
+6281,9,Giorgio Puia,08-03-1938,DF,Italy
+6282,21,Giuseppe Furino,05-07-1946,DF,Italy
+6283,6,Ugo Ferrante,18-07-1945,MF,Italy
+6284,7,Comunardo Niccolai,15-12-1946,MF,Italy
+6285,10,Mario Bertini,07-01-1944,MF,Italy
+6286,16,Giancarlo De Sisti,13-03-1943,MF,Italy
+6287,13,Angelo Domenghini,25-08-1941,FW,Italy
+6288,19,Sergio Gori,24-02-1946,FW,Italy
+6289,22,Pierino Prati,13-12-1946,FW,Italy
+6290,1,Ignacio Calderón,13-12-1943,GK,Mexico
+6291,12,Antonio Mota,26-01-1939,GK,Mexico
+6292,22,Francisco Castrejón,11-06-1947,GK,Mexico
+6293,2,Juan Manuel Alejandrez,17-05-1944,DF,Mexico
+6294,3,Gustavo Peña,22-11-1941,DF,Mexico
+6295,4,Francisco Montes,22-04-1943,DF,Mexico
+6296,5,Mario Pérez,30-07-1946,DF,Mexico
+6297,6,Guillermo Hernández,25-06-1942,DF,Mexico
+6298,13,José Vantolrá,30-03-1943,DF,Mexico
+6299,14,Javier Guzmán,09-01-1945,DF,Mexico
+6300,7,Marcos Rivas,25-11-1947,MF,Mexico
+6301,8,Antonio Munguía,27-06-1942,MF,Mexico
+6302,15,Héctor Pulido,20-12-1942,MF,Mexico
+6303,17,José Luis González,14-09-1942,MF,Mexico
+6304,18,Mario Velarde,29-03-1940,MF,Mexico
+6305,20,Juan Ignacio Basaguren,21-07-1944,MF,Mexico
+6306,9,Enrique Borja,30-12-1945,FW,Mexico
+6307,10,Horacio López Salgado,15-09-1948,FW,Mexico
+6308,11,Aarón Padilla,10-07-1942,FW,Mexico
+6309,16,Isidoro Díaz,14-03-1938,FW,Mexico
+6310,19,Javier Valdivia,04-12-1941,FW,Mexico
+6311,21,Javier Fragoso,19-04-1942,FW,Mexico
+6312,1,Allal Benkassou,11-11-1941,GK,Morocco
+6313,12,Mohammed Hazzaz,30-11-1945,GK,Morocco
+6314,19,Abdelkader Ouaraghli,01-01-1943,GK,Morocco
+6315,2,Abdallah Lamrani,01-01-1946,DF,Morocco
+6316,3,Boujemaa Benkhrif,30-11-1947,DF,Morocco
+6317,4,Moulay Khanousi,21-06-1939,DF,Morocco
+6318,5,Kacem Slimani,01-07-1948,DF,Morocco
+6319,13,Jalili Fadili,01-02-1941,DF,Morocco
+6320,18,Abdelkader El Khiati,01-01-1945,DF,Morocco
+6321,6,Mohammed Mahroufi,01-01-1947,MF,Morocco
+6322,7,Said Ghandi,16-08-1948,MF,Morocco
+6323,8,Driss Bamous,15-12-1942,MF,Morocco
+6324,11,Maouhoub Ghazouani,01-01-1946,MF,Morocco
+6325,15,Hadi Dahane,01-01-1946,MF,Morocco
+6326,16,Mustapha Choukri,01-01-1945,MF,Morocco
+6327,9,Ahmed Faras,07-12-1946,FW,Morocco
+6328,10,Mohammed El Filali,09-07-1945,FW,Morocco
+6329,14,Houmane Jarir,30-11-1944,FW,Morocco
+6330,17,Ahmed Alaoui,01-01-1949,FW,Morocco
+6331,1,Luis Rubiños,31-12-1940,GK,Peru
+6332,12,Rubén Correa,25-07-1941,GK,Peru
+6333,21,Jesus Goyzueta,01-01-1947,GK,Peru
+6334,2,Eloy Campos,31-05-1942,DF,Peru
+6335,3,Orlando de la Torre,21-11-1943,DF,Peru
+6336,4,Héctor Chumpitaz,12-04-1944,DF,Peru
+6337,5,Nicolás Fuentes,20-12-1941,DF,Peru
+6338,14,José Fernández,14-02-1939,DF,Peru
+6339,16,Félix Salinas,11-05-1939,DF,Peru
+6340,6,Ramón Mifflin,05-04-1947,MF,Peru
+6341,7,Roberto Challe,24-11-1946,MF,Peru
+6342,8,Julio Baylón,10-12-1947,MF,Peru
+6343,11,Alberto Gallardo,28-11-1940,MF,Peru
+6344,13,Pedro González,19-05-1943,MF,Peru
+6345,15,Javier González,11-05-1939,MF,Peru
+6346,17,Luis Cruzado,06-07-1941,MF,Peru
+6347,9,Pedro Pablo León,26-03-1943,FW,Peru
+6348,18,José del Castillo,01-01-1943,FW,Peru
+6349,19,Eladio Reyes,08-01-1948,FW,Peru
+6350,22,Oswaldo Ramírez,29-03-1947,FW,Peru
+6351,1,Necula R?ducanu,10-05-1946,GK,Romania
+6352,21,Stere Adamache,17-08-1941,GK,Romania
+6353,22,Gheorghe Gornea,02-08-1944,GK,Romania
+6354,2,Lajos S?tm?reanu,21-02-1944,DF,Romania
+6355,3,Nicolae Lupescu,17-12-1940,DF,Romania
+6356,4,Mihai Mocanu,24-02-1942,DF,Romania
+6357,5,Cornel Dinu,02-08-1948,DF,Romania
+6358,6,Dan Coe,08-09-1941,DF,Romania
+6359,12,Mihai Iv?ncescu,22-03-1942,DF,Romania
+6360,13,Augustin Deleanu,23-08-1944,DF,Romania
+6361,8,Nicolae Dobrin,26-08-1947,MF,Romania
+6362,10,Radu Nunweiller,16-11-1944,MF,Romania
+6363,14,Vasile Gergely,28-10-1941,MF,Romania
+6364,15,Ion Dumitru,02-01-1950,MF,Romania
+6365,17,Gheorghe T?taru,05-05-1948,MF,Romania
+6366,20,Nicolae Pescaru,27-03-1943,MF,Romania
+6367,7,Emerich Dembrovschi,06-10-1945,FW,Romania
+6368,9,Florea Dumitrache,22-05-1948,FW,Romania
+6369,11,Mircea Lucescu,29-07-1945,FW,Romania
+6370,16,Alexandru Neagu,19-07-1948,FW,Romania
+6371,18,Marin Tufan,14-10-1942,FW,Romania
+6372,19,Flavius Domide,11-05-1946,FW,Romania
+6373,1,Leonid Shmuts,08-10-1948,GK,Soviet Union
+6374,2,Anzor Kavazashvili,19-07-1940,GK,Soviet Union
+6375,13,Lev Yashin,22-10-1929,GK,Soviet Union
+6376,3,Valentin Afonin,22-12-1939,DF,Soviet Union
+6377,4,Revaz Dzodzuashvili,15-04-1945,DF,Soviet Union
+6378,5,Vladimir Kaplichny,26-02-1944,DF,Soviet Union
+6379,6,Evgeny Lovchev,29-01-1949,DF,Soviet Union
+6380,7,Gennady Logofet,15-04-1942,DF,Soviet Union
+6381,8,Murtaz Khurtsilava,05-01-1943,DF,Soviet Union
+6382,9,Albert Shesternyov,20-06-1941,DF,Soviet Union
+6383,10,Valery Zykov,24-02-1944,MF,Soviet Union
+6384,11,Kakhi Asatiani,01-01-1947,MF,Soviet Union
+6385,12,Nikolay Kiselyov,29-01-1946,MF,Soviet Union
+6386,14,Vladimir Muntyan,14-09-1946,MF,Soviet Union
+6387,15,Viktor Serebryanikov,29-03-1940,MF,Soviet Union
+6388,16,Anatoliy Byshovets,23-04-1946,FW,Soviet Union
+6389,17,Gennady Yevriuzhikin,04-02-1944,FW,Soviet Union
+6390,18,Slava Metreveli,30-05-1936,FW,Soviet Union
+6391,19,Givi Nodia,02-01-1948,FW,Soviet Union
+6392,20,Anatoliy Puzach,03-06-1941,FW,Soviet Union
+6393,21,Vitaly Khmelnitsky,12-06-1943,FW,Soviet Union
+6394,22,Valeriy Porkujan,04-10-1944,FW,Soviet Union
+6395,17,Ronney Pettersson,26-04-1940,GK,Sweden
+6396,2,Hans Selander,15-03-1945,DF,Sweden
+6397,3,Kurt Axelsson,10-11-1941,DF,Sweden
+6398,14,Krister Kristensson,25-07-1942,DF,Sweden
+6399,15,Leif Målberg,01-09-1945,DF,Sweden
+6400,6,Tommy Svensson,04-03-1945,MF,Sweden
+6401,8,Leif Eriksson,20-03-1942,MF,Sweden
+6402,19,Göran Nicklasson,20-08-1942,MF,Sweden
+6403,22,Sten Pålsson,04-12-1945,MF,Sweden
+6404,16,Tomas Nordahl,24-05-1946,FW,Sweden
+6405,18,Tom Turesson,17-05-1942,FW,Sweden
+6406,22,Walter Corbo,02-05-1949,GK,Uruguay
+6407,2,Atilio Ancheta,19-07-1948,DF,Uruguay
+6408,3,Roberto Matosas,11-05-1940,DF,Uruguay
+6409,4,Luis Ubiña,07-06-1940,DF,Uruguay
+6410,6,Juan Mujica,22-12-1943,DF,Uruguay
+6411,13,Rodolfo Sandoval,04-10-1948,DF,Uruguay
+6412,14,Francisco Cámera,01-01-1944,DF,Uruguay
+6413,16,Omar Caetano,08-11-1938,DF,Uruguay
+6414,10,Ildo Maneiro,04-08-1947,MF,Uruguay
+6415,15,Dagoberto Fontes,06-06-1943,MF,Uruguay
+6416,20,Julio César Cortés,29-03-1941,MF,Uruguay
+6417,11,Julio Morales,16-02-1945,FW,Uruguay
+6418,17,Rúben Bareño,23-01-1944,FW,Uruguay
+6419,18,Alberto Gómez,10-06-1944,FW,Uruguay
+6420,19,Oscar Zubia,08-02-1946,FW,Uruguay
+6421,21,Julio Losada,16-06-1950,FW,Uruguay
+6422,21,Manfred Manglitz,08-03-1940,GK,West Germany
+6423,22,Horst Wolter,08-06-1942,GK,West Germany
+6424,3,Karl-Heinz Schnellinger,31-03-1939,DF,West Germany
+6425,5,Willi Schulz,04-10-1938,DF,West Germany
+6426,11,Klaus Fichtel,19-11-1944,DF,West Germany
+6427,15,Bernd Patzke,14-03-1943,DF,West Germany
+6428,18,Klaus-Dieter Sieloff,27-02-1942,DF,West Germany
+6429,6,Wolfgang Weber,26-06-1944,MF,West Germany
+6430,16,Max Lorenz,19-08-1939,MF,West Germany
+6431,19,Peter Dietrich,06-03-1944,MF,West Germany
+6432,8,Helmut Haller,21-07-1939,FW,West Germany
+6433,9,Uwe Seeler,05-11-1936,FW,West Germany
+6434,10,Sigfried Held,07-08-1942,FW,West Germany
+6435,14,Reinhard Libuda,10-10-1943,FW,West Germany
+6436,17,Hannes Löhr,05-07-1942,FW,West Germany
