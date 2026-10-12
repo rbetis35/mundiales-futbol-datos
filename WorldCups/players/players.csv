@@ -6436,3 +6436,275 @@ player_id,dorsal,player_name,birth_date,position,nationality
 6434,10,Sigfried Held,07-08-1942,FW,West Germany
 6435,14,Reinhard Libuda,10-10-1943,FW,West Germany
 6436,17,Hannes Löhr,05-07-1942,FW,West Germany
+6437,8,Roberto Ferreiro,25-04-1935,DF,Argentina
+6438,9,Carmelo Simeone,22-09-1934,DF,Argentina
+6439,13,Nelson López,24-06-1941,DF,Argentina
+6440,5,José Varacka,27-05-1932,MF,Argentina
+6441,6,Oscar Calics,18-11-1939,MF,Argentina
+6442,10,Antonio Rattín,16-05-1937,MF,Argentina
+6443,11,José Omar Pastoriza,23-05-1942,MF,Argentina
+6444,12,Rafael Albrecht,23-08-1941,MF,Argentina
+6445,15,Jorge Solari,11-11-1941,MF,Argentina
+6446,17,Juan Carlos Sarnari,22-01-1942,MF,Argentina
+6447,14,Mario Chaldú,06-06-1942,FW,Argentina
+6448,16,Alberto González,21-08-1941,FW,Argentina
+6449,18,Alfredo Rojas,20-02-1937,FW,Argentina
+6450,19,Luis Artime,02-12-1938,FW,Argentina
+6451,20,Ermindo Onega,30-04-1940,FW,Argentina
+6452,21,Oscar Más,29-10-1946,FW,Argentina
+6453,22,Aníbal Tarabini,04-08-1941,FW,Argentina
+6454,1,Gilmar,22-08-1930,GK,Brazil
+6455,12,Manga,26-04-1937,GK,Brazil
+6456,2,Djalma Santos,27-02-1929,DF,Brazil
+6457,3,Fidélis,13-03-1944,DF,Brazil
+6458,4,Hilderaldo Bellini,07-06-1930,DF,Brazil
+6459,6,Altair,21-01-1938,DF,Brazil
+6460,7,Orlando Pecanha,20-09-1935,DF,Brazil
+6461,8,Paulo Henrique,05-01-1943,DF,Brazil
+6462,9,Rildo,23-01-1942,DF,Brazil
+6463,13,Denílson Custodio,28-03-1943,MF,Brazil
+6464,14,Lima,18-01-1942,MF,Brazil
+6465,15,Zito,18-08-1932,MF,Brazil
+6466,16,Garrincha,28-10-1933,FW,Brazil
+6467,18,Alcindo,16-12-1945,FW,Brazil
+6468,19,Silva Batuta,02-01-1940,FW,Brazil
+6469,21,Paraná,21-03-1942,FW,Brazil
+6470,1,Georgi Naydenov,21-12-1931,GK,Bulgaria
+6471,22,Ivan Deyanov,16-12-1937,GK,Bulgaria
+6472,3,Ivan Vutsov,14-12-1939,DF,Bulgaria
+6473,15,Dimitar Largov,10-09-1936,DF,Bulgaria
+6474,19,Vidin Apostolov,17-10-1941,DF,Bulgaria
+6475,8,Stoyan Kitov,27-08-1938,MF,Bulgaria
+6476,12,Vasil Metodiev,06-01-1935,MF,Bulgaria
+6477,18,Evgeni Yanchovski,05-09-1939,MF,Bulgaria
+6478,11,Ivan Kolev,01-11-1930,FW,Bulgaria
+6479,14,Nikola Kotkov,09-12-1938,FW,Bulgaria
+6480,16,Aleksandar Kostov,05-03-1938,FW,Bulgaria
+6481,17,Stefan Abadzhiev,03-07-1934,FW,Bulgaria
+6482,9,Adán Godoy,26-11-1936,GK,Chile
+6483,2,Hugo Berly,31-12-1941,DF,Chile
+6484,5,Humberto Donoso,09-10-1938,DF,Chile
+6485,6,Luis Eyzaguirre,22-06-1939,DF,Chile
+6486,20,Alberto Valentini,25-11-1938,DF,Chile
+6487,21,Hugo Villanueva,09-04-1939,DF,Chile
+6488,3,Carlos Campos,14-02-1937,MF,Chile
+6489,4,Humberto Cruz,08-12-1939,MF,Chile
+6490,10,Roberto Hodge,30-07-1944,MF,Chile
+6491,12,Rubén Marcos,06-12-1942,MF,Chile
+6492,14,Ignacio Prieto,23-09-1943,MF,Chile
+6493,15,Jaime Ramírez,14-08-1931,MF,Chile
+6494,17,Leonel Sánchez,25-04-1936,MF,Chile
+6495,18,Armando Tobar,07-06-1938,MF,Chile
+6496,1,Pedro Araya,23-01-1942,FW,Chile
+6497,8,Alberto Fouilloux,22-11-1940,FW,Chile
+6498,11,Honorino Landa,01-06-1942,FW,Chile
+6499,16,Orlando Ramírez,07-05-1943,FW,Chile
+6500,12,Ron Springett,22-07-1935,GK,England
+6501,2,George Cohen,22-10-1939,DF,England
+6502,3,Ray Wilson,17-12-1934,DF,England
+6503,14,Jimmy Armfield,21-09-1935,DF,England
+6504,15,Gerry Byrne,29-08-1938,DF,England
+6505,17,Ron Flowers,28-07-1934,MF,England
+6506,20,Ian Callaghan,10-04-1942,MF,England
+6507,22,George Eastham,23-09-1936,MF,England
+6508,8,Jimmy Greaves,20-02-1940,FW,England
+6509,11,John Connelly,18-07-1938,FW,England
+6510,19,Terry Paine,23-03-1939,FW,England
+6511,21,Roger Hunt,20-07-1938,FW,England
+6512,1,Marcel Aubour,17-06-1940,GK,France
+6513,21,Georges Carnus,13-08-1942,GK,France
+6514,22,Johnny Schuth,07-12-1941,GK,France
+6515,2,Marcel Artelesa,02-07-1938,DF,France
+6516,5,Bernard Bosquier,19-06-1942,DF,France
+6517,6,Robert Budzynski,21-05-1940,DF,France
+6518,7,André Chorda,20-02-1938,DF,France
+6519,10,Héctor De Bourgoing,23-07-1934,DF,France
+6520,11,Gabriel De Michele,06-03-1941,DF,France
+6521,12,Jean Djorkaeff,27-10-1939,DF,France
+6522,18,Jean-Claude Piumi,27-05-1940,DF,France
+6523,4,Joseph Bonnel,04-01-1939,MF,France
+6524,15,Yves Herbet,17-08-1945,MF,France
+6525,16,Robert Herbin,30-03-1939,MF,France
+6526,17,Lucien Muller,03-09-1934,MF,France
+6527,20,Jacques Simon,25-03-1941,MF,France
+6528,3,Edmond Baraffe,19-10-1942,FW,France
+6529,8,Nestor Combin,29-12-1940,FW,France
+6530,9,Didier Couécou,25-07-1944,FW,France
+6531,13,Philippe Gondet,17-05-1942,FW,France
+6532,14,Gérard Hausser,18-03-1939,FW,France
+6533,19,Laurent Robuschi,05-10-1935,FW,France
+6534,1,Antal Szentmihályi,13-06-1939,GK,Hungary
+6535,21,József Gelei,29-06-1938,GK,Hungary
+6536,22,István Géczi,13-06-1944,GK,Hungary
+6537,2,Ben? Káposzta,07-06-1942,DF,Hungary
+6538,3,Sándor Mátrai,20-11-1932,DF,Hungary
+6539,4,Kálmán Sóvári,21-12-1940,DF,Hungary
+6540,5,Kálmán Mészöly,16-07-1941,DF,Hungary
+6541,17,Gusztáv Szepesi,17-07-1939,DF,Hungary
+6542,18,Kálmán Ihász,06-03-1941,DF,Hungary
+6543,6,Ferenc Sipos,13-12-1932,MF,Hungary
+6544,8,Zoltán Varga,01-01-1945,MF,Hungary
+6545,11,Gyula Rákosi,09-10-1938,MF,Hungary
+6546,13,Imre Mathesz,25-03-1937,MF,Hungary
+6547,14,István Nagy,14-04-1939,MF,Hungary
+6548,7,Ferenc Bene,17-12-1944,FW,Hungary
+6549,9,Flórián Albert,15-09-1941,FW,Hungary
+6550,10,János Farkas,27-03-1942,FW,Hungary
+6551,12,Máté Fenyvesi,20-09-1933,FW,Hungary
+6552,15,Dezs? Molnár,02-12-1939,FW,Hungary
+6553,16,Lajos Tichy,21-03-1935,FW,Hungary
+6554,19,Lajos Puskás,03-08-1944,FW,Hungary
+6555,20,Antal Nagy I,16-05-1944,FW,Hungary
+6556,2,Roberto Anzolin,18-04-1938,GK,Italy
+6557,18,Pierluigi Pizzaballa,14-09-1939,GK,Italy
+6558,8,Aristide Guarneri,07-03-1938,DF,Italy
+6559,9,Francesco Janich,27-03-1937,DF,Italy
+6560,11,Spartaco Landini,31-01-1944,DF,Italy
+6561,22,Sandro Salvadore,29-11-1939,DF,Italy
+6562,3,Paolo Barison,23-06-1936,MF,Italy
+6563,4,Giacomo Bulgarelli,24-10-1940,MF,Italy
+6564,7,Romano Fogli,21-01-1938,MF,Italy
+6565,12,Gianfranco Leoncini,25-09-1939,MF,Italy
+6566,13,Giovanni Lodetti,10-08-1942,MF,Italy
+6567,17,Marino Perani,27-10-1939,MF,Italy
+6568,15,Luigi Meroni,24-02-1943,FW,Italy
+6569,16,Ezio Pascutti,01-06-1937,FW,Italy
+6570,20,Francesco Rizzo,30-05-1943,FW,Italy
+6571,1,Antonio Carbajal,07-06-1929,GK,Mexico
+6572,22,Javier Vargas,22-11-1941,GK,Mexico
+6573,2,Arturo Chaires,14-03-1937,DF,Mexico
+6574,4,Jesús del Muro,30-11-1937,DF,Mexico
+6575,5,Ignacio Jáuregui,31-07-1938,DF,Mexico
+6576,14,Gabriel Núñez,06-02-1942,DF,Mexico
+6577,7,Felipe Ruvalcaba,16-02-1941,MF,Mexico
+6578,16,Luis Regueiro,22-12-1943,MF,Mexico
+6579,17,Magdaleno Mercado,04-04-1944,MF,Mexico
+6580,18,Elías Muñoz,03-11-1941,MF,Mexico
+6581,9,Ernesto Cisneros,26-10-1940,FW,Mexico
+6582,11,Francisco Jara,03-02-1941,FW,Mexico
+6583,19,Salvador Reyes,20-09-1936,FW,Mexico
+6584,21,Ramiro Navarro,25-05-1943,FW,Mexico
+6585,1,Li Chan-myung,02-01-1947,GK,North Korea
+6586,9,Lee Keun-hak,07-07-1940,GK,North Korea
+6587,21,An Se-bok,29-10-1946,GK,North Korea
+6588,2,Pak Li-sup,06-01-1944,DF,North Korea
+6589,3,Shin Yung-kyoo,30-03-1942,DF,North Korea
+6590,5,Lim Zoong-sun,16-07-1943,DF,North Korea
+6591,13,Oh Yoon-kyung,06-08-1941,DF,North Korea
+6592,14,Ha Jung-won,20-04-1942,DF,North Korea
+6593,19,Kim Yung-kil,29-01-1944,DF,North Korea
+6594,20,Ryoo Chang-kil,05-11-1940,DF,North Korea
+6595,4,Kang Bong-chil,07-11-1943,MF,North Korea
+6596,6,Im Seung-hwi,03-02-1946,MF,North Korea
+6597,11,Han Bong-zin,02-09-1945,MF,North Korea
+6598,16,Li Dong-woon,04-07-1945,MF,North Korea
+6599,17,Kim Bong-hwan,04-07-1939,MF,North Korea
+6600,18,Ke Seung-woon,26-12-1943,MF,North Korea
+6601,7,Pak Doo-ik,17-03-1942,FW,North Korea
+6602,8,Pak Seung-zin,11-01-1941,FW,North Korea
+6603,10,Kang Ryong-woon,25-04-1942,FW,North Korea
+6604,12,Kim Seung-Il,02-09-1945,FW,North Korea
+6605,15,Yang Seung-kook,19-08-1944,FW,North Korea
+6606,22,Li Chi-an,07-07-1945,FW,North Korea
+6607,1,Américo,06-03-1933,GK,Portugal
+6608,2,Joaquim Carvalho,18-04-1937,GK,Portugal
+6609,3,José Pereira,15-09-1931,GK,Portugal
+6610,4,Vicente Lucas,24-09-1935,DF,Portugal
+6611,5,Germano,18-01-1933,DF,Portugal
+6612,17,João Morais,06-03-1935,DF,Portugal
+6613,20,Alexandre Baptista,17-02-1941,DF,Portugal
+6614,21,José Carlos da Silva,22-09-1941,DF,Portugal
+6615,22,Alberto Festa,21-07-1939,DF,Portugal
+6616,6,Fernando Peres,08-01-1942,MF,Portugal
+6617,9,Hilário,19-03-1939,MF,Portugal
+6618,10,Mário Coluna,06-08-1935,MF,Portugal
+6619,11,António Simões,14-12-1943,MF,Portugal
+6620,12,José Augusto de Almeida,13-04-1937,MF,Portugal
+6621,14,Fernando Cruz,12-08-1940,MF,Portugal
+6622,16,Jaime Graça,10-01-1942,MF,Portugal
+6623,19,Custódio Pinto,09-02-1942,MF,Portugal
+6624,7,Ernesto Figueiredo,06-07-1937,FW,Portugal
+6625,8,João Lourenço,08-04-1942,FW,Portugal
+6626,13,Eusébio,25-01-1942,FW,Portugal
+6627,15,Manuel Duarte,20-05-1943,FW,Portugal
+6628,18,José Augusto Torres,08-09-1938,FW,Portugal
+6629,22,Viktor Bannikov,28-04-1938,GK,Soviet Union
+6630,3,Leonid Ostrovskiy,17-01-1936,DF,Soviet Union
+6631,4,Vladimir Ponomaryov,18-02-1940,DF,Soviet Union
+6632,9,Viktor Getmanov,04-05-1940,DF,Soviet Union
+6633,10,Vasiliy Danilov,13-05-1941,DF,Soviet Union
+6634,13,Alexey Korneyev,06-02-1939,DF,Soviet Union
+6635,8,Yozhef Sabo,29-02-1940,MF,Soviet Union
+6636,11,Igor Chislenko,04-01-1939,MF,Soviet Union
+6637,12,Valery Voronin,17-07-1939,MF,Soviet Union
+6638,14,Georgi Sichinava,15-09-1944,MF,Soviet Union
+6639,15,Galimzyan Khusainov,27-06-1937,FW,Soviet Union
+6640,18,Anatoliy Banishevskiy,23-02-1946,FW,Soviet Union
+6641,19,Eduard Malofeyev,02-06-1942,FW,Soviet Union
+6642,20,Eduard Markarov,20-06-1942,FW,Soviet Union
+6643,1,José Ángel Iribar,01-03-1943,GK,Spain
+6644,12,Antonio Betancort,13-03-1938,GK,Spain
+6645,13,Miguel Reina,24-01-1946,GK,Spain
+6646,2,Manuel Sanchís,26-03-1938,DF,Spain
+6647,3,Eladio Silvestre,18-11-1940,DF,Spain
+6648,14,Feliciano Rivilla,21-08-1936,DF,Spain
+6649,15,Severino Reija,25-11-1938,DF,Spain
+6650,16,Ferran Olivella,22-06-1936,DF,Spain
+6651,17,Gallego,04-03-1944,DF,Spain
+6652,4,Luis del Sol,06-04-1935,MF,Spain
+6653,5,Ignacio Zoco,31-07-1939,MF,Spain
+6654,6,Jesús Glaría,02-01-1942,MF,Spain
+6655,7,José Ufarte,17-05-1941,MF,Spain
+6656,19,Josep Maria Fusté,15-04-1941,MF,Spain
+6657,20,Joaquín Peiró,29-01-1936,MF,Spain
+6658,21,Adelardo,26-09-1939,MF,Spain
+6659,8,Amancio,16-10-1939,FW,Spain
+6660,9,Marcelino Martinez,29-04-1940,FW,Spain
+6661,10,Luis Suárez Miramontes,02-05-1935,FW,Spain
+6662,11,Paco Gento,21-10-1933,FW,Spain
+6663,22,Carlos Lapetra,29-11-1938,FW,Spain
+6664,1,Karl Elsener,13-08-1934,GK,Switzerland
+6665,12,Léo Eichmann,24-12-1936,GK,Switzerland
+6666,22,Mario Prosperi,04-08-1945,GK,Switzerland
+6667,2,Willy Allemann,10-06-1942,DF,Switzerland
+6668,3,Kurt Armbruster,16-09-1934,DF,Switzerland
+6669,5,René Brodmann,25-10-1933,DF,Switzerland
+6670,14,Werner Leimgruber,02-09-1934,DF,Switzerland
+6671,18,Heinz Schneiter,12-04-1935,DF,Switzerland
+6672,20,Ely Tacchella,25-05-1936,DF,Switzerland
+6673,4,Heinz Bäni,18-11-1936,MF,Switzerland
+6674,6,Richard Dürr,01-12-1938,MF,Switzerland
+6675,7,Hansruedi Führer,24-12-1937,MF,Switzerland
+6676,8,Vittore Gottardi,24-09-1941,MF,Switzerland
+6677,9,André Grobéty,22-06-1933,MF,Switzerland
+6678,15,Karl Odermatt,17-12-1942,MF,Switzerland
+6679,19,Xavier Stierli,29-10-1940,MF,Switzerland
+6680,21,Georges Vuilleumier,21-09-1944,MF,Switzerland
+6681,10,Robert Hosp,13-12-1939,FW,Switzerland
+6682,11,Köbi Kuhn,12-10-1943,FW,Switzerland
+6683,13,Fritz Künzli,08-01-1946,FW,Switzerland
+6684,16,René-Pierre Quentin,05-08-1943,FW,Switzerland
+6685,17,Jean-Claude Schindelholz,11-10-1940,FW,Switzerland
+6686,12,Roberto Sosa,14-06-1935,GK,Uruguay
+6687,22,Walter Taibo,07-03-1931,GK,Uruguay
+6688,2,Horacio Troche,14-02-1936,DF,Uruguay
+6689,3,Jorge Manicera,04-11-1938,DF,Uruguay
+6690,5,Néstor Gonçalves,27-04-1936,DF,Uruguay
+6691,13,Nelson Díaz,12-01-1942,DF,Uruguay
+6692,14,Emilio Álvarez,10-02-1939,DF,Uruguay
+6693,16,Eliseo Álvarez,09-08-1940,DF,Uruguay
+6694,20,Luis Ramos,09-10-1939,DF,Uruguay
+6695,17,Héctor Salvá,27-11-1939,MF,Uruguay
+6696,19,Héctor Silva,01-02-1940,MF,Uruguay
+6697,8,José Urruzmendi,25-08-1944,FW,Uruguay
+6698,9,José Sasía,27-12-1933,FW,Uruguay
+6699,11,Domingo Pérez,07-06-1936,FW,Uruguay
+6700,18,Milton Viera,11-05-1946,FW,Uruguay
+6701,1,Hans Tilkowski,12-07-1935,GK,West Germany
+6702,21,Günter Bernard,04-11-1939,GK,West Germany
+6703,14,Friedel Lutz,21-01-1939,DF,West Germany
+6704,17,Wolfgang Paul,25-01-1940,DF,West Germany
+6705,7,Albert Brülls,26-03-1937,MF,West Germany
+6706,11,Lothar Emmerich,29-11-1941,FW,West Germany
+6707,13,Heinz Hornig,28-09-1937,FW,West Germany
+6708,19,Werner Krämer,23-01-1940,FW,West Germany
