@@ -1,0 +1,353 @@
+player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
+5591,1,Antonio Roma,GK,Argentina,4,4,360,0,,0,0
+5601,2,Rolando Irusta,GK,Argentina,0,0,0,0,,0,0
+5787,3,Hugo Gatti,GK,Argentina,0,0,0,0,,0,0
+5845,4,Roberto Perfumo,DF,Argentina,4,4,360,0,,0,0
+5822,7,Silvio Marzolini,DF,Argentina,4,4,360,0,,0,0
+6437,8,Roberto Ferreiro,DF,Argentina,4,4,360,0,,0,0
+6438,9,Carmelo Simeone,DF,Argentina,0,0,0,0,,0,0
+6439,13,Nelson López,DF,Argentina,0,0,0,0,,0,0
+6440,5,José Varacka,MF,Argentina,0,0,0,0,,0,0
+6441,6,Oscar Calics,MF,Argentina,1,1,90,0,,0,0
+6442,10,Antonio Rattín,MF,Argentina,4,4,304,0,,1,1
+6443,11,José Omar Pastoriza,MF,Argentina,0,0,0,0,,0,0
+6444,12,Rafael Albrecht,MF,Argentina,3,3,244,0,,0,1
+6445,15,Jorge Solari,MF,Argentina,4,4,360,0,,1,0
+6446,17,Juan Carlos Sarnari,MF,Argentina,0,0,0,0,,0,0
+6447,14,Mario Chaldú,FW,Argentina,0,0,0,0,,0,0
+6448,16,Alberto González,FW,Argentina,4,4,360,0,,0,0
+6449,18,Alfredo Rojas,FW,Argentina,0,0,0,0,,0,0
+6450,19,Luis Artime,FW,Argentina,4,4,360,3,,1,0
+6451,20,Ermindo Onega,FW,Argentina,4,4,360,1,,0,0
+6452,21,Oscar Más,FW,Argentina,4,4,360,0,,0,0
+6453,22,Aníbal Tarabini,FW,Argentina,0,0,0,0,,0,0
+6454,1,Gilmar,GK,Brazil,2,2,180,0,,0,0
+6455,12,Manga,GK,Brazil,1,1,90,0,,0,0
+6456,2,Djalma Santos,DF,Brazil,2,2,180,0,,0,0
+6457,3,Fidélis,DF,Brazil,1,1,90,0,,0,0
+6458,4,Hilderaldo Bellini,DF,Brazil,2,2,180,0,,0,0
+6159,5,Brito,DF,Brazil,1,1,90,0,,0,0
+6459,6,Altair,DF,Brazil,2,2,180,0,,0,0
+6460,7,Orlando Pecanha,DF,Brazil,1,1,90,0,,0,0
+6461,8,Paulo Henrique,DF,Brazil,2,2,180,0,,0,0
+6462,9,Rildo,DF,Brazil,1,1,90,1,,0,0
+6166,11,Gérson,MF,Brazil,1,1,90,0,,0,0
+6463,13,Denílson Custodio,MF,Brazil,2,2,180,0,,1,0
+6464,14,Lima,MF,Brazil,3,3,270,0,,0,0
+6465,15,Zito,MF,Brazil,0,0,0,0,,0,0
+5893,17,Jairzinho,MF,Brazil,3,3,270,0,,0,0
+6168,20,Tostão,MF,Brazil,1,1,90,1,,0,0
+6169,10,Pelé,FW,Brazil,2,2,180,1,,0,0
+6466,16,Garrincha,FW,Brazil,2,2,180,1,,0,0
+6467,18,Alcindo,FW,Brazil,2,2,180,0,,0,0
+6468,19,Silva Batuta,FW,Brazil,1,1,90,0,,0,0
+6469,21,Paraná,FW,Brazil,1,1,90,0,,0,0
+5897,22,Edu,FW,Brazil,0,0,0,0,,0,0
+6470,1,Georgi Naydenov,GK,Bulgaria,2,2,180,0,,0,0
+5900,21,Simeon Simeonov,GK,Bulgaria,1,1,90,0,,0,0
+6471,22,Ivan Deyanov,GK,Bulgaria,0,0,0,0,,0,0
+6174,2,Aleksandar Shalamanov,DF,Bulgaria,2,2,180,0,,0,0
+6472,3,Ivan Vutsov,DF,Bulgaria,3,3,270,0,,0,0
+6177,4,Boris Gaganelov,DF,Bulgaria,3,3,270,0,,0,0
+5904,5,Dimitar Penev,DF,Bulgaria,3,3,270,0,,0,0
+5902,6,Dobromir Zhechev,DF,Bulgaria,3,3,270,0,,1,0
+6473,15,Dimitar Largov,DF,Bulgaria,1,1,90,0,,0,0
+6474,19,Vidin Apostolov,DF,Bulgaria,0,0,0,0,,0,0
+6180,7,Dinko Dermendzhiev,MF,Bulgaria,2,2,180,0,,1,0
+6475,8,Stoyan Kitov,MF,Bulgaria,1,1,90,0,,0,0
+6476,12,Vasil Metodiev,MF,Bulgaria,0,0,0,0,,0,0
+6477,18,Evgeni Yanchovski,MF,Bulgaria,0,0,0,0,,0,0
+6179,20,Ivan Davidov,MF,Bulgaria,1,1,90,0,,0,0
+6181,9,Georgi Asparuhov,FW,Bulgaria,3,3,270,1,,0,0
+6185,10,Petar Zhekov,FW,Bulgaria,1,1,90,0,,0,0
+6478,11,Ivan Kolev,FW,Bulgaria,2,2,180,0,,1,0
+6186,13,Dimitar Yakimov,FW,Bulgaria,3,3,270,0,,0,0
+6479,14,Nikola Kotkov,FW,Bulgaria,1,1,90,0,,0,0
+6480,16,Aleksandar Kostov,FW,Bulgaria,1,1,90,0,,0,0
+6481,17,Stefan Abadzhiev,FW,Bulgaria,0,0,0,0,,0,0
+6482,9,Adán Godoy,GK,Chile,0,0,0,0,,0,0
+5921,13,Juan Olivares,GK,Chile,3,3,270,0,,0,0
+6483,2,Hugo Berly,DF,Chile,0,0,0,0,,0,0
+6484,5,Humberto Donoso,DF,Chile,0,0,0,0,,0,0
+6485,6,Luis Eyzaguirre,DF,Chile,1,1,90,0,,0,0
+5266,7,Elías Figueroa,DF,Chile,3,3,270,0,,0,0
+6486,20,Alberto Valentini,DF,Chile,2,2,180,0,,0,0
+6487,21,Hugo Villanueva,DF,Chile,3,3,270,0,,0,0
+6488,3,Carlos Campos,MF,Chile,0,0,0,0,,0,0
+6489,4,Humberto Cruz,MF,Chile,3,3,270,0,,0,0
+6490,10,Roberto Hodge,MF,Chile,0,0,0,0,,0,0
+6491,12,Rubén Marcos,MF,Chile,3,3,270,2,,1,0
+6492,14,Ignacio Prieto,MF,Chile,3,3,270,0,,0,0
+6493,15,Jaime Ramírez,MF,Chile,0,0,0,0,,0,0
+6494,17,Leonel Sánchez,MF,Chile,3,3,270,0,,0,0
+6495,18,Armando Tobar,MF,Chile,1,1,90,0,,0,0
+6496,1,Pedro Araya,FW,Chile,3,3,270,0,,0,0
+6497,8,Alberto Fouilloux,FW,Chile,2,2,180,0,,0,0
+6498,11,Honorino Landa,FW,Chile,2,2,180,0,,0,0
+6499,16,Orlando Ramírez,FW,Chile,0,0,0,0,,0,0
+5929,19,Francisco Valdés,FW,Chile,0,0,0,0,,0,0
+5937,22,Guillermo Yávar,FW,Chile,1,1,90,0,,0,0
+6232,1,Gordon Banks,GK,England,6,6,570,0,,0,0
+6500,12,Ron Springett,GK,England,0,0,0,0,,0,0
+6233,13,Peter Bonetti,GK,England,0,0,0,0,,0,0
+6501,2,George Cohen,DF,England,6,6,570,0,,0,0
+6502,3,Ray Wilson,DF,England,6,6,570,0,,0,0
+6241,5,Jack Charlton,DF,England,6,6,570,0,,0,0
+6238,6,Bobby Moore,DF,England,6,6,570,0,,0,0
+6503,14,Jimmy Armfield,DF,England,0,0,0,0,,0,0
+6504,15,Gerry Byrne,DF,England,0,0,0,0,,0,0
+6242,18,Norman Hunter,DF,England,0,0,0,0,,0,0
+6240,4,Nobby Stiles,MF,England,6,6,570,0,,1,0
+6244,7,Alan Ball,MF,England,4,4,390,0,,0,0
+6245,9,Bobby Charlton,MF,England,6,6,570,3,,0,0
+6246,16,Martin Peters,MF,England,5,5,480,1,,1,0
+6505,17,Ron Flowers,MF,England,0,0,0,0,,0,0
+6506,20,Ian Callaghan,MF,England,1,1,90,0,,0,0
+6507,22,George Eastham,MF,England,0,0,0,0,,0,0
+6508,8,Jimmy Greaves,FW,England,3,3,270,0,,0,0
+6250,10,Geoff Hurst,FW,England,3,3,300,4,,0,0
+6509,11,John Connelly,FW,England,1,1,90,0,,0,0
+6510,19,Terry Paine,FW,England,1,1,90,0,,0,0
+6511,21,Roger Hunt,FW,England,6,6,570,3,,0,0
+6512,1,Marcel Aubour,GK,France,3,3,270,0,,0,0
+6513,21,Georges Carnus,GK,France,0,0,0,0,,0,0
+6514,22,Johnny Schuth,GK,France,0,0,0,0,,0,0
+6515,2,Marcel Artelesa,DF,France,3,3,270,0,,0,0
+6516,5,Bernard Bosquier,DF,France,3,3,270,0,,0,0
+6517,6,Robert Budzynski,DF,France,3,3,270,0,,0,0
+6518,7,André Chorda,DF,France,0,0,0,0,,0,0
+6519,10,Héctor De Bourgoing,DF,France,1,1,90,1,,0,0
+6520,11,Gabriel De Michele,DF,France,1,1,90,0,,0,0
+6521,12,Jean Djorkaeff,DF,France,3,3,270,0,,0,0
+6522,18,Jean-Claude Piumi,DF,France,0,0,0,0,,0,0
+6523,4,Joseph Bonnel,MF,France,3,3,270,0,,0,0
+6524,15,Yves Herbet,MF,France,2,2,180,0,,0,0
+6525,16,Robert Herbin,MF,France,2,2,180,0,,0,0
+6526,17,Lucien Muller,MF,France,0,0,0,0,,0,0
+6527,20,Jacques Simon,MF,France,2,2,180,0,,0,0
+6528,3,Edmond Baraffe,FW,France,0,0,0,0,,0,0
+6529,8,Nestor Combin,FW,France,1,1,90,0,,0,0
+6530,9,Didier Couécou,FW,France,0,0,0,0,,0,0
+6531,13,Philippe Gondet,FW,France,3,3,270,0,,0,0
+6532,14,Gérard Hausser,FW,France,3,3,270,1,,0,0
+6533,19,Laurent Robuschi,FW,France,0,0,0,0,,0,0
+6534,1,Antal Szentmihályi,GK,Hungary,1,1,90,0,,0,0
+6535,21,József Gelei,GK,Hungary,3,3,270,0,,0,0
+6536,22,István Géczi,GK,Hungary,0,0,0,0,,0,0
+6537,2,Ben? Káposzta,DF,Hungary,4,4,360,0,,0,0
+6538,3,Sándor Mátrai,DF,Hungary,4,4,360,0,,0,0
+6539,4,Kálmán Sóvári,DF,Hungary,1,1,90,0,,0,0
+6540,5,Kálmán Mészöly,DF,Hungary,4,4,360,2,,0,0
+6541,17,Gusztáv Szepesi,DF,Hungary,3,3,270,0,,0,0
+6542,18,Kálmán Ihász,DF,Hungary,0,0,0,0,,0,0
+6543,6,Ferenc Sipos,MF,Hungary,4,4,360,0,,0,0
+6544,8,Zoltán Varga,MF,Hungary,0,0,0,0,,0,0
+6545,11,Gyula Rákosi,MF,Hungary,4,4,360,0,,0,0
+6546,13,Imre Mathesz,MF,Hungary,2,2,180,0,,0,0
+6547,14,István Nagy,MF,Hungary,2,2,180,0,,0,0
+6548,7,Ferenc Bene,FW,Hungary,4,4,360,4,,0,0
+6549,9,Flórián Albert,FW,Hungary,4,4,360,0,,0,0
+6550,10,János Farkas,FW,Hungary,4,4,360,1,,0,0
+6551,12,Máté Fenyvesi,FW,Hungary,0,0,0,0,,0,0
+6552,15,Dezs? Molnár,FW,Hungary,0,0,0,0,,0,0
+6553,16,Lajos Tichy,FW,Hungary,0,0,0,0,,0,0
+6554,19,Lajos Puskás,FW,Hungary,0,0,0,0,,0,0
+6555,20,Antal Nagy,FW,Hungary,0,0,0,0,,0,0
+5899,1,Enrico Albertosi,GK,Italy,3,3,270,0,,0,0
+6556,2,Roberto Anzolin,GK,Italy,0,0,0,0,,0,0
+6557,18,Pierluigi Pizzaballa,GK,Italy,0,0,0,0,,0,0
+5988,5,Tarcisio Burgnich,DF,Italy,2,2,180,0,,0,0
+6277,6,Giacinto Facchetti,DF,Italy,3,3,270,0,,0,0
+6558,8,Aristide Guarneri,DF,Italy,1,1,90,0,,0,0
+6559,9,Francesco Janich,DF,Italy,1,1,90,0,,0,0
+6560,11,Spartaco Landini,DF,Italy,1,1,90,0,,0,0
+6280,21,Roberto Rosato,DF,Italy,2,2,180,0,,0,0
+6561,22,Sandro Salvadore,DF,Italy,2,2,180,0,,0,0
+6562,3,Paolo Barison,MF,Italy,2,2,180,1,,0,0
+6563,4,Giacomo Bulgarelli,MF,Italy,3,3,270,0,,0,0
+6564,7,Romano Fogli,MF,Italy,1,1,90,0,,0,0
+6565,12,Gianfranco Leoncini,MF,Italy,1,1,90,0,,0,0
+6566,13,Giovanni Lodetti,MF,Italy,2,2,180,0,,0,0
+6567,17,Marino Perani,MF,Italy,2,2,180,0,,0,0
+5994,10,Antonio Juliano,FW,Italy,0,0,0,0,,0,0
+5991,14,Sandro Mazzola,FW,Italy,3,3,270,1,,0,0
+6568,15,Luigi Meroni,FW,Italy,1,1,90,0,,0,0
+6569,16,Ezio Pascutti,FW,Italy,1,1,90,0,,0,0
+5993,19,Gianni Rivera,FW,Italy,2,2,180,0,,0,0
+6570,20,Francesco Rizzo,FW,Italy,0,0,0,0,,0,0
+6571,1,Antonio Carbajal,GK,Mexico,1,1,90,0,,0,0
+6290,12,Ignacio Calderón,GK,Mexico,2,2,180,0,,0,0
+6572,22,Javier Vargas,GK,Mexico,0,0,0,0,,0,0
+6573,2,Arturo Chaires,DF,Mexico,3,3,270,0,,0,0
+6294,3,Gustavo Peña,DF,Mexico,3,3,270,0,,0,0
+6574,4,Jesús del Muro,DF,Mexico,1,1,90,0,,0,0
+6575,5,Ignacio Jáuregui,DF,Mexico,1,1,90,0,,0,0
+6576,14,Gabriel Núñez,DF,Mexico,3,3,270,0,,0,0
+6297,15,Guillermo Hernández,DF,Mexico,3,3,270,0,,0,0
+6309,6,Isidoro Díaz,MF,Mexico,3,3,270,0,,0,0
+6577,7,Felipe Ruvalcaba,MF,Mexico,0,0,0,0,,0,0
+6303,13,José Luis González,MF,Mexico,0,0,0,0,,0,0
+6578,16,Luis Regueiro,MF,Mexico,0,0,0,0,,0,0
+6579,17,Magdaleno Mercado,MF,Mexico,2,2,180,0,,0,0
+6580,18,Elías Muñoz,MF,Mexico,0,0,0,0,,0,0
+6308,8,Aarón Padilla,FW,Mexico,3,3,270,0,,0,0
+6581,9,Ernesto Cisneros,FW,Mexico,1,1,90,0,,0,0
+6311,10,Javier Fragoso,FW,Mexico,1,1,90,0,,0,0
+6582,11,Francisco Jara,FW,Mexico,0,0,0,0,,0,0
+6583,19,Salvador Reyes,FW,Mexico,3,3,270,0,,0,0
+6306,20,Enrique Borja,FW,Mexico,3,3,270,1,,0,0
+6584,21,Ramiro Navarro,FW,Mexico,0,0,0,0,,0,0
+6585,1,Li Chan-myung,GK,North Korea,4,4,360,0,,0,0
+6586,9,Lee Keun-hak,GK,North Korea,0,0,0,0,,0,0
+6587,21,An Se-bok,GK,North Korea,0,0,0,0,,0,0
+6588,2,Pak Li-sup,DF,North Korea,2,2,180,0,,0,0
+6589,3,Shin Yung-kyoo,DF,North Korea,4,4,360,0,,0,0
+6590,5,Lim Zoong-sun,DF,North Korea,4,4,360,0,,0,0
+6591,13,Oh Yoon-kyung,DF,North Korea,3,3,270,0,,0,0
+6592,14,Ha Jung-won,DF,North Korea,2,2,180,0,,0,0
+6593,19,Kim Yung-kil,DF,North Korea,0,0,0,0,,0,0
+6594,20,Ryoo Chang-kil,DF,North Korea,0,0,0,0,,0,0
+6595,4,Kang Bong-chil,MF,North Korea,1,1,90,0,,0,0
+6596,6,Im Seung-hwi,MF,North Korea,4,4,360,0,,0,0
+6597,11,Han Bong-zin,MF,North Korea,4,4,360,0,,0,0
+6598,16,Li Dong-woon,MF,North Korea,2,2,180,1,,0,0
+6599,17,Kim Bong-hwan,MF,North Korea,1,1,90,0,,0,0
+6600,18,Ke Seung-woon,MF,North Korea,0,0,0,0,,0,0
+6601,7,Pak Doo-ik,FW,North Korea,4,4,360,1,,0,0
+6602,8,Pak Seung-zin,FW,North Korea,4,4,360,2,,0,0
+6603,10,Kang Ryong-woon,FW,North Korea,1,1,90,0,,0,0
+6604,12,Kim Seung-Il,FW,North Korea,2,2,180,0,,0,0
+6605,15,Yang Seung-kook,FW,North Korea,2,2,180,1,,0,0
+6606,22,Li Chi-an,FW,North Korea,0,0,0,0,,0,0
+6607,1,Américo,GK,Portugal,0,0,0,0,,0,0
+6608,2,Joaquim Carvalho,GK,Portugal,1,1,90,0,,0,0
+6609,3,José Pereira,GK,Portugal,5,5,450,0,,0,0
+6610,4,Vicente Lucas,DF,Portugal,4,4,360,0,,0,0
+6611,5,Germano,DF,Portugal,1,1,90,0,,0,0
+6612,17,João Morais,DF,Portugal,3,3,270,0,,0,0
+6613,20,Alexandre Baptista,DF,Portugal,5,5,450,0,,0,0
+6614,21,José Carlos da Silva,DF,Portugal,2,2,180,0,,0,0
+6615,22,Alberto Festa,DF,Portugal,3,3,270,0,,0,0
+6616,6,Fernando Peres,MF,Portugal,0,0,0,0,,0,0
+6617,9,Hilário,MF,Portugal,6,6,540,0,,0,0
+6618,10,Mário Coluna,MF,Portugal,6,6,540,0,,1,0
+6619,11,António Simões,MF,Portugal,6,6,540,1,,0,0
+6620,12,José Augusto de Almeida,MF,Portugal,6,6,540,3,,0,0
+6621,14,Fernando Cruz,MF,Portugal,0,0,0,0,,0,0
+6622,16,Jaime Graça,MF,Portugal,6,6,540,0,,0,0
+6623,19,Custódio Pinto,MF,Portugal,0,0,0,0,,0,0
+6624,7,Ernesto Figueiredo,FW,Portugal,0,0,0,0,,0,0
+6625,8,João Lourenço,FW,Portugal,0,0,0,0,,0,0
+6626,13,Eusébio,FW,Portugal,6,6,540,9,,1,0
+6627,15,Manuel Duarte,FW,Portugal,0,0,0,0,,0,0
+6628,18,José Augusto Torres,FW,Portugal,6,6,540,3,,0,0
+6375,1,Lev Yashin,GK,Soviet Union,4,4,360,0,,0,0
+6374,21,Anzor Kavazashvili,GK,Soviet Union,2,2,180,0,,0,0
+6629,22,Viktor Bannikov,GK,Soviet Union,0,0,0,0,,0,0
+6630,3,Leonid Ostrovskiy,DF,Soviet Union,2,2,180,0,,0,0
+6631,4,Vladimir Ponomaryov,DF,Soviet Union,5,5,450,0,,0,0
+6382,6,Albert Shesternyov,DF,Soviet Union,5,5,450,0,,0,0
+6632,9,Viktor Getmanov,DF,Soviet Union,1,1,90,0,,0,0
+6633,10,Vasiliy Danilov,DF,Soviet Union,4,4,360,0,,0,0
+6634,13,Alexey Korneyev,DF,Soviet Union,2,2,180,0,,0,0
+6376,5,Valentin Afonin,MF,Soviet Union,1,1,90,0,,0,0
+6381,7,Murtaz Khurtsilava,MF,Soviet Union,3,3,270,0,,0,0
+6635,8,Yozhef Sabo,MF,Soviet Union,4,4,360,0,,1,0
+6636,11,Igor Chislenko,MF,Soviet Union,4,4,313,2,,0,1
+6637,12,Valery Voronin,MF,Soviet Union,5,5,450,0,,1,0
+6638,14,Georgi Sichinava,MF,Soviet Union,2,2,180,0,,0,0
+6387,2,Viktor Serebryanikov,FW,Soviet Union,2,2,180,0,,0,0
+6639,15,Galimzyan Khusainov,FW,Soviet Union,4,4,360,0,,1,0
+6390,16,Slava Metreveli,FW,Soviet Union,2,2,180,0,,0,0
+6394,17,Valeriy Porkujan,FW,Soviet Union,3,3,270,4,,0,0
+6640,18,Anatoliy Banishevskiy,FW,Soviet Union,5,5,450,1,,0,0
+6641,19,Eduard Malofeyev,FW,Soviet Union,5,5,450,3,,0,0
+6642,20,Eduard Markarov,FW,Soviet Union,1,1,90,0,,0,0
+6643,1,José Ángel Iribar,GK,Spain,3,3,270,0,,0,0
+6644,12,Antonio Betancort,GK,Spain,0,0,0,0,,0,0
+6645,13,Miguel Reina,GK,Spain,0,0,0,0,,0,0
+6646,2,Manuel Sanchís,DF,Spain,3,3,270,1,,0,0
+6647,3,Eladio Silvestre,DF,Spain,1,1,90,0,,0,0
+6648,14,Feliciano Rivilla,DF,Spain,0,0,0,0,,0,0
+6649,15,Severino Reija,DF,Spain,2,2,180,0,,0,0
+6650,16,Ferran Olivella,DF,Spain,0,0,0,0,,0,0
+6651,17,Gallego,DF,Spain,3,3,270,0,,0,0
+6652,4,Luis del Sol,MF,Spain,2,2,180,0,,0,0
+6653,5,Ignacio Zoco,MF,Spain,3,3,270,0,,0,0
+6654,6,Jesús Glaría,MF,Spain,1,1,90,0,,1,0
+6655,7,José Ufarte,MF,Spain,1,1,90,0,,0,0
+5765,18,Pirri,MF,Spain,2,2,180,1,,0,0
+6656,19,Josep Maria Fusté,MF,Spain,1,1,90,1,,0,0
+6657,20,Joaquín Peiró,MF,Spain,2,2,180,0,,0,0
+6658,21,Adelardo,MF,Spain,1,1,90,0,,0,0
+6659,8,Amancio,FW,Spain,2,2,180,1,,0,0
+6660,9,Marcelino Martinez,FW,Spain,1,1,90,0,,0,0
+6661,10,Luis Suárez Miramontes,FW,Spain,2,2,180,0,,0,0
+6662,11,Paco Gento,FW,Spain,2,2,180,0,,0,0
+6663,22,Carlos Lapetra,FW,Spain,1,1,90,0,,0,0
+6664,1,Karl Elsener,GK,Switzerland,2,2,180,0,,0,0
+6665,12,Léo Eichmann,GK,Switzerland,1,1,90,0,,0,0
+6666,22,Mario Prosperi,GK,Switzerland,0,0,0,0,,0,0
+6667,2,Willy Allemann,DF,Switzerland,0,0,0,0,,0,0
+6668,3,Kurt Armbruster,DF,Switzerland,2,2,180,0,,0,0
+6669,5,René Brodmann,DF,Switzerland,2,2,180,0,,0,0
+6670,14,Werner Leimgruber,DF,Switzerland,1,1,90,0,,0,0
+6671,18,Heinz Schneiter,DF,Switzerland,1,1,90,0,,0,0
+6672,20,Ely Tacchella,DF,Switzerland,1,1,90,0,,0,0
+6673,4,Heinz Bäni,MF,Switzerland,3,3,270,0,,0,0
+6674,6,Richard Dürr,MF,Switzerland,1,1,90,0,,0,0
+6675,7,Hansruedi Führer,MF,Switzerland,3,3,270,0,,0,0
+6676,8,Vittore Gottardi,MF,Switzerland,2,2,180,0,,0,0
+6677,9,André Grobéty,MF,Switzerland,1,1,90,0,,0,0
+6678,15,Karl Odermatt,MF,Switzerland,1,1,90,0,,0,0
+6679,19,Xavier Stierli,MF,Switzerland,2,2,180,0,,0,0
+6680,21,Georges Vuilleumier,MF,Switzerland,0,0,0,0,,0,0
+6681,10,Robert Hosp,FW,Switzerland,3,3,270,0,,0,0
+6682,11,Köbi Kuhn,FW,Switzerland,2,2,180,0,,0,0
+6683,13,Fritz Künzli,FW,Switzerland,2,2,180,0,,0,0
+6684,16,René-Pierre Quentin,FW,Switzerland,2,2,180,1,,0,0
+6685,17,Jean-Claude Schindelholz,FW,Switzerland,1,1,90,0,,0,0
+6055,1,Ladislao Mazurkiewicz,GK,Uruguay,4,4,360,0,,0,0
+6686,12,Roberto Sosa,GK,Uruguay,0,0,0,0,,0,0
+6687,22,Walter Taibo,GK,Uruguay,0,0,0,0,,0,0
+6688,2,Horacio Troche,DF,Uruguay,4,4,318,0,,0,1
+6689,3,Jorge Manicera,DF,Uruguay,4,4,360,0,,0,0
+6690,5,Néstor Gonçalves,DF,Uruguay,4,4,360,0,,0,0
+6691,13,Nelson Díaz,DF,Uruguay,0,0,0,0,,0,0
+6692,14,Emilio Álvarez,DF,Uruguay,0,0,0,0,,0,0
+6409,15,Luis Ubiña,DF,Uruguay,4,4,360,0,,0,0
+6693,16,Eliseo Álvarez,DF,Uruguay,0,0,0,0,,0,0
+6694,20,Luis Ramos,DF,Uruguay,0,0,0,0,,0,0
+6060,4,Pablo Forlán,MF,Uruguay,0,0,0,0,,0,0
+6413,6,Omar Caetano,MF,Uruguay,4,4,360,0,,0,0
+6416,7,Julio César Cortés,MF,Uruguay,4,4,360,1,,0,0
+6695,17,Héctor Salvá,MF,Uruguay,1,1,90,0,,0,0
+6696,19,Héctor Silva,MF,Uruguay,2,2,143,0,,1,1
+6067,21,Víctor Espárrago,MF,Uruguay,0,0,0,0,,0,0
+6697,8,José Urruzmendi,FW,Uruguay,0,0,0,0,,0,0
+6698,9,José Sasía,FW,Uruguay,2,2,180,0,,0,0
+6068,10,Pedro Rocha,FW,Uruguay,4,4,360,1,,0,0
+6699,11,Domingo Pérez,FW,Uruguay,4,4,360,0,,0,0
+6700,18,Milton Viera,FW,Uruguay,3,3,270,0,,0,0
+6701,1,Hans Tilkowski,GK,West Germany,6,6,570,0,,0,0
+6702,21,Günter Bernard,GK,West Germany,0,0,0,0,,0,0
+5819,22,Sepp Maier,GK,West Germany,0,0,0,0,,0,0
+6081,2,Horst-Dieter Höttges,DF,West Germany,5,5,480,0,,0,0
+6424,3,Karl-Heinz Schnellinger,DF,West Germany,6,6,570,0,,0,0
+6425,5,Willi Schulz,DF,West Germany,6,6,570,0,,0,0
+6429,6,Wolfgang Weber,DF,West Germany,6,6,570,1,,1,0
+6703,14,Friedel Lutz,DF,West Germany,1,1,90,0,,0,0
+6427,15,Bernd Patzke,DF,West Germany,0,0,0,0,,0,0
+6704,17,Wolfgang Paul,DF,West Germany,0,0,0,0,,0,0
+6428,18,Klaus-Dieter Sieloff,DF,West Germany,0,0,0,0,,0,0
+6080,4,Franz Beckenbauer,MF,West Germany,6,6,570,4,,2,0
+6705,7,Albert Brülls,MF,West Germany,2,2,180,0,,0,0
+6086,12,Wolfgang Overath,MF,West Germany,6,6,570,0,,1,0
+6430,16,Max Lorenz,MF,West Germany,0,0,0,0,,0,0
+6432,8,Helmut Haller,FW,West Germany,5,5,480,6,,0,0
+6433,9,Uwe Seeler,FW,West Germany,6,6,570,2,,0,0
+6434,10,Sigfried Held,FW,West Germany,6,6,570,1,,0,0
+6706,11,Lothar Emmerich,FW,West Germany,4,4,390,1,,0,0
+6707,13,Heinz Hornig,FW,West Germany,0,0,0,0,,0,0
+6708,19,Werner Krämer,FW,West Germany,1,1,90,0,,0,0
+6087,20,Jürgen Grabowski,FW,West Germany,0,0,0,0,,0,0
