@@ -7073,6 +7073,7 @@ player_id,world_cup_year,team,club,country_club
 5263,1982,Chile,Colo-Colo,Chile
 5264,1982,Chile,Universidad Católica,Chile
 5265,1982,Chile,Universidad de Chile,Chile
+5266,1966,Chile,Santiago Wanderers,Chile
 5266,1974,Chile,Internacional,Brazil
 5266,1982,Chile,Colo-Colo,Chile
 5267,1982,Chile,Cobreloa,Chile
@@ -7648,6 +7649,7 @@ player_id,world_cup_year,team,club,country_club
 5762,1978,Spain,Real Betis,Spain
 5763,1978,Spain,Barcelona,Spain
 5764,1978,Spain,Atlético Madrid,Spain
+5765,1966,Spain,Real Madrid,Spain
 5765,1978,Spain,Real Madrid,Spain
 5766,1978,Spain,Real Madrid,Spain
 5767,1978,Spain,Barcelona,Spain
@@ -7710,6 +7712,7 @@ player_id,world_cup_year,team,club,country_club
 5816,1978,Tunisia,Club Africain,Tunisia
 5817,1978,Tunisia,JS Kairouan,Tunisia
 5818,1978,Tunisia,La Louvière,Belgium
+5819,1966,West Germany,Bayern Munich,Germany
 5819,1970,West Germany,Bayern Munich,Germany
 5819,1974,West Germany,Bayern Munich,Germany
 5819,1978,West Germany,Bayern Munich,Germany
@@ -7743,6 +7746,7 @@ player_id,world_cup_year,team,club,country_club
 5842,1974,Argentina,Huracán,Argentina
 5843,1974,Argentina,San Lorenzo,Argentina
 5844,1974,Argentina,Atlético Madrid,Spain
+5845,1966,Argentina,Racing Club,Argentina
 5845,1974,Argentina,Cruzeiro,Brazil
 5846,1974,Argentina,Independiente,Argentina
 5847,1974,Argentina,River Plate,Argentina
@@ -7794,11 +7798,13 @@ player_id,world_cup_year,team,club,country_club
 5890,1974,Brazil,Flamengo,Brazil
 5891,1974,Brazil,Internacional,Brazil
 5892,1974,Brazil,Palmeiras,Brazil
+5893,1966,Brazil,Botafogo,Brazil
 5893,1970,Brazil,Botafogo,Brazil
 5893,1974,Brazil,Botafogo,Brazil
 5894,1974,Brazil,Palmeiras,Brazil
 5895,1974,Brazil,Internacional,Brazil
 5896,1974,Brazil,Sao Paulo,Brazil
+5897,1966,Brazil,Santos,Brazil
 5897,1970,Brazil,Santos,Brazil
 5897,1974,Brazil,Santos,Brazil
 5898,1974,Bulgaria,Lokomotiv Sofia,Bulgaria
