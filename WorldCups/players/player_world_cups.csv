@@ -7450,6 +7450,7 @@ player_id,world_cup_year,team,club,country_club
 5588,1978,Austria,Feyenoord,Netherlands
 5589,1978,Austria,SSW Innsbruck,Austria
 5590,1978,Austria,Austria Wien,Austria
+5591,1962,Argentina,Boca Juniors,Argentina
 5591,1966,Argentina,Boca Juniors,Argentina
 5592,1978,Brazil,Flamengo,Brazil
 5593,1978,Brazil,Guarani,Brazil
@@ -7718,6 +7719,7 @@ player_id,world_cup_year,team,club,country_club
 5819,1978,West Germany,Bayern Munich,Germany
 5820,1978,West Germany,Hamburger SV,Germany
 5821,1978,West Germany,Werder Bremen,Germany
+5822,1962,Argentina,Boca Juniors,Argentina
 5822,1966,Argentina,Boca Juniors,Argentina
 5823,1978,West Germany,MSV Duisburg,Germany
 5824,1974,West Germany,Bayern Munich,Germany
@@ -7813,6 +7815,7 @@ player_id,world_cup_year,team,club,country_club
 5900,1970,Bulgaria,Slavia Sofia,Bulgaria
 5900,1974,Bulgaria,Slavia Sofia,Bulgaria
 5901,1974,Bulgaria,CSKA Sofia,Bulgaria
+5902,1962,Bulgaria,Spartak Sofia,Bulgaria
 5902,1966,Bulgaria,Spartak Sofia,Bulgaria
 5902,1970,Bulgaria,Levski Sofia,Bulgaria
 5902,1974,Bulgaria,Levski Sofia,Bulgaria
@@ -7904,6 +7907,7 @@ player_id,world_cup_year,team,club,country_club
 5980,1974,Haiti,Racing Club Haïtien,Haiti
 5981,1974,Haiti,Racing Club Haïtien,Haiti
 5982,1974,Haiti,Don Bosco,Haiti
+5983,1962,Italy,Fiorentina,Italy
 5983,1966,Italy,Fiorentina,Italy
 5983,1970,Italy,Cagliari,Italy
 5983,1974,Italy,Cagliari,Italy
@@ -7920,6 +7924,7 @@ player_id,world_cup_year,team,club,country_club
 5991,1970,Italy,Internazionale,Italy
 5991,1974,Italy,Internazionale,Italy
 5992,1974,Italy,Juventus,Italy
+5993,1962,Italy,AC Milan,Italy
 5993,1966,Italy,AC Milan,Italy
 5993,1970,Italy,AC Milan,Italy
 5993,1974,Italy,AC Milan,Italy
@@ -8012,11 +8017,13 @@ player_id,world_cup_year,team,club,country_club
 6063,1974,Uruguay,Defensor Sporting,Uruguay
 6064,1974,Uruguay,Peñarol,Uruguay
 6065,1974,Uruguay,Peñarol,Uruguay
+6066,1970,Uruguay,Peñarol,Uruguay
 6066,1970,Uruguay,Nacional,Uruguay
 6066,1974,Uruguay,Nacional,Uruguay
 6067,1966,Uruguay,Nacional,Uruguay
 6067,1970,Uruguay,Nacional,Uruguay
 6067,1974,Uruguay,Sevilla,Spain
+6068,1962,Uruguay,Peñarol,Uruguay
 6068,1966,Uruguay,Peñarol,Uruguay
 6068,1970,Uruguay,Peñarol,Uruguay
 6068,1974,Uruguay,Sao Paulo,Brazil
@@ -8134,6 +8141,7 @@ player_id,world_cup_year,team,club,country_club
 6167,1970,Brazil,Botafogo,Brazil
 6168,1966,Brazil,Cruzeiro,Brazil
 6168,1970,Brazil,Cruzeiro,Brazil
+6169,1962,Brazil,Santos,Brazil
 6169,1966,Brazil,Santos,Brazil
 6169,1970,Brazil,Santos,Brazil
 6170,1970,Brazil,Botafogo,Brazil
@@ -8142,6 +8150,7 @@ player_id,world_cup_year,team,club,country_club
 6173,1970,Bulgaria,Levski Sofia,Bulgaria
 6174,1966,Bulgaria,Slavia Sofia,Bulgaria
 6174,1970,Bulgaria,Slavia Sofia,Bulgaria
+6175,1962,Bulgaria,Lokomotiv Sofia,Bulgaria
 6175,1970,Bulgaria,Akademik Sofia,Bulgaria
 6176,1970,Bulgaria,Levski Sofia,Bulgaria
 6177,1966,Bulgaria,CSKA Sofia,Bulgaria
@@ -8149,8 +8158,10 @@ player_id,world_cup_year,team,club,country_club
 6178,1970,Bulgaria,Slavia Sofia,Bulgaria
 6179,1966,Bulgaria,Slavia Sofia,Bulgaria
 6179,1970,Bulgaria,Slavia Sofia,Bulgaria
+6180,1962,Bulgaria,Botev Plovdiv,Bulgaria
 6180,1966,Bulgaria,Botev Plovdiv,Bulgaria
 6180,1970,Bulgaria,Botev Plovdiv,Bulgaria
+6181,1962,Bulgaria,Botev Plovdiv,Bulgaria
 6181,1966,Bulgaria,Levski Sofia,Bulgaria
 6181,1970,Bulgaria,Levski Sofia,Bulgaria
 6182,1970,Bulgaria,Levski Sofia,Bulgaria
@@ -8158,6 +8169,7 @@ player_id,world_cup_year,team,club,country_club
 6184,1970,Bulgaria,Lokomotiv Plovdiv,Bulgaria
 6185,1966,Bulgaria,Beroe Stara Zagora,Bulgaria
 6185,1970,Bulgaria,CSKA Sofia,Bulgaria
+6186,1962,Bulgaria,CSKA Sofia,Bulgaria
 6186,1966,Bulgaria,CSKA Sofia,Bulgaria
 6186,1970,Bulgaria,CSKA Sofia,Bulgaria
 6187,1970,Bulgaria,CSKA Sofia,Bulgaria
@@ -8176,8 +8188,10 @@ player_id,world_cup_year,team,club,country_club
 6200,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
 6201,1970,Czechoslovaquia,VSS Košice,Slovakia
 6202,1970,Czechoslovaquia,Sparta Prague,Czech Republic
+6203,1962,Czechoslovaquia,Sparta Prague,Czech Republic
 6203,1970,Czechoslovaquia,Mechelen,Belgium
 6204,1970,Czechoslovaquia,Inter Bratislava,Slovakia
+6205,1962,Czechoslovaquia,Dukla Prague,Czech Republic
 6205,1970,Czechoslovaquia,Spartak Trnava,Slovakia
 6206,1970,Czechoslovaquia,Slovan Bratislava,Slovakia
 6207,1970,Czechoslovaquia,Slavia Prague,Czech Republic
@@ -8213,8 +8227,9 @@ player_id,world_cup_year,team,club,country_club
 6235,1970,England,Everton,England
 6236,1970,England,Leeds United,England
 6237,1970,England,Everton,England
-6238,1966,England,West Ham United,England
-6238,1970,England,West Ham United,England
+6238,1962,England,West Ham,England
+6238,1966,England,West Ham,England
+6238,1970,England,West Ham,England
 6239,1970,England,Everton,England
 6240,1966,England,Manchester United,England
 6240,1970,England,Manchester United,England
@@ -8222,18 +8237,19 @@ player_id,world_cup_year,team,club,country_club
 6241,1970,England,Leeds United,England
 6242,1966,England,Leeds United,England
 6242,1970,England,Leeds United,England
-6243,1970,England,Tottenham Hotspur,England
+6243,1970,England,Tottenham,England
 6244,1966,England,Blackpool,England
 6244,1970,England,Everton,England
+6245,1962,England,Manchester United,England
 6245,1966,England,Manchester United,England
 6245,1970,England,Manchester United,England
-6246,1966,England,West Ham United,England
-6246,1970,England,Tottenham Hotspur,England
+6246,1966,England,West Ham,England
+6246,1970,England,Tottenham,England
 6247,1970,England,Liverpool,England
 6248,1970,England,Manchester City,England
 6249,1970,England,Manchester City,England
-6250,1966,England,West Ham United,England
-6250,1970,England,West Ham United,England
+6250,1966,England,West Ham,England
+6250,1970,England,West Ham,England
 6251,1970,England,Chelsea,England
 6252,1970,England,Leeds United,England
 6253,1970,England,West Bromwich Albion,England
@@ -8277,6 +8293,7 @@ player_id,world_cup_year,team,club,country_club
 6289,1970,Italy,AC Milan,Italy
 6290,1966,Mexico,Guadalajara,Mexico
 6290,1970,Mexico,Guadalajara,Mexico
+6291,1962,Mexico,Oro,Mexico
 6291,1970,Mexico,Necaxa,Mexico
 6292,1970,Mexico,UNAM,Mexico
 6293,1970,Mexico,Cruz Azul,Mexico
@@ -8293,6 +8310,7 @@ player_id,world_cup_year,team,club,country_club
 6302,1970,Mexico,Cruz Azul,Mexico
 6303,1966,Mexico,Necaxa,Mexico
 6303,1970,Mexico,UNAM,Mexico
+6304,1962,Mexico,Necaxa,Mexico
 6304,1970,Mexico,UNAM,Mexico
 6305,1970,Mexico,Atlante,Mexico
 6306,1966,Mexico,UNAM,Mexico
@@ -8300,6 +8318,7 @@ player_id,world_cup_year,team,club,country_club
 6307,1970,Mexico,America,Mexico
 6308,1966,Mexico,UNAM,Mexico
 6308,1970,Mexico,UNAM,Mexico
+6309,1962,Mexico,Guadalajara,Mexico
 6309,1966,Mexico,Guadalajara,Mexico
 6309,1970,Mexico,León,Mexico
 6310,1970,Mexico,Guadalajara,Mexico
@@ -8369,6 +8388,7 @@ player_id,world_cup_year,team,club,country_club
 6373,1970,Soviet Union,CSKA Moscow,Russia
 6374,1966,Soviet Union,Torpedo Moscow,Russia
 6374,1970,Soviet Union,Spartak Moscow,Russia
+6375,1962,Soviet Union,Dynamo Moscow,Russia
 6375,1966,Soviet Union,Dynamo Moscow,Russia
 6375,1970,Soviet Union,Dynamo Moscow,Russia
 6376,1966,Soviet Union,SKA Rostov,Russia
@@ -8379,16 +8399,19 @@ player_id,world_cup_year,team,club,country_club
 6380,1970,Soviet Union,Spartak Moscow,Russia
 6381,1966,Soviet Union,Dinamo Tbilisi,Georgia
 6381,1970,Soviet Union,Dinamo Tbilisi,Georgia
+6382,1962,Soviet Union,CSKA Moscow,Russia
 6382,1966,Soviet Union,CSKA Moscow,Russia
 6382,1970,Soviet Union,CSKA Moscow,Russia
 6383,1970,Soviet Union,Dynamo Moscow,Russia
 6384,1970,Soviet Union,Dinamo Tbilisi,Georgia
 6385,1970,Soviet Union,Spartak Moscow,Russia
 6386,1970,Soviet Union,Dynamo Kyiv,Ukraine
+6387,1962,Soviet Union,Dynamo Kyiv,Ukraine
 6387,1966,Soviet Union,Dynamo Kyiv,Ukraine
 6387,1970,Soviet Union,Dynamo Kyiv,Ukraine
 6388,1970,Soviet Union,Dynamo Kyiv,Ukraine
 6389,1970,Soviet Union,Dynamo Moscow,Russia
+6390,1962,Soviet Union,Torpedo Moscow,Russia
 6390,1966,Soviet Union,Dinamo Tbilisi,Georgia
 6390,1970,Soviet Union,Dinamo Tbilisi,Georgia
 6391,1970,Soviet Union,Dinamo Tbilisi,Georgia
@@ -8419,6 +8442,7 @@ player_id,world_cup_year,team,club,country_club
 6413,1970,Uruguay,Peñarol,Uruguay
 6414,1970,Uruguay,Nacional,Uruguay
 6415,1970,Uruguay,Defensor,Uruguay
+6416,1962,Uruguay,Sud America,Uruguay
 6416,1966,Uruguay,Peñarol,Uruguay
 6416,1970,Uruguay,Peñarol,Uruguay
 6417,1970,Uruguay,Nacional,Uruguay
@@ -8428,8 +8452,10 @@ player_id,world_cup_year,team,club,country_club
 6421,1970,Uruguay,Peñarol,Uruguay
 6422,1970,West Germany,1. FC Köln,Germany
 6423,1970,West Germany,Eintracht Braunschweig,Germany
+6424,1962,West Germany,1. FC Köln,Germany
 6424,1966,West Germany,AC Milan,Italy
 6424,1970,West Germany,AC Milan,Italy
+6425,1962,West Germany,Schalke 04,Germany
 6425,1966,West Germany,Hamburger SV,Germany
 6425,1970,West Germany,Hamburger SV,Germany
 6426,1970,West Germany,Schalke 04,Germany
@@ -8442,8 +8468,10 @@ player_id,world_cup_year,team,club,country_club
 6430,1966,West Germany,Werder Bremen,Germany
 6430,1970,West Germany,Eintracht Braunschweig,Germany
 6431,1970,West Germany,Borussia Mönchengladbach,Germany
+6432,1962,West Germany,BC Ausburg,Germany
 6432,1966,West Germany,Bologna,Italy
 6432,1970,West Germany,Juventus,Italy
+6433,1962,West Germany,Hamburger SV,Germany
 6433,1966,West Germany,Hamburger SV,Germany
 6433,1970,West Germany,Hamburger SV,Germany
 6434,1966,West Germany,Borussia Dortmund,Germany
@@ -8455,75 +8483,105 @@ player_id,world_cup_year,team,club,country_club
 6439,1966,Argentina,Banfield,Argentina
 6440,1966,Argentina,San Lorenzo,Argentina
 6441,1966,Argentina,San Lorenzo,Argentina
+6442,1962,Argentina,Boca Juniors,Argentina
 6442,1966,Argentina,Boca Juniors,Argentina
 6443,1966,Argentina,Independiente,Argentina
+6444,1962,Argentina,Estudiantes,Argentina
 6444,1966,Argentina,San Lorenzo,Argentina
 6445,1966,Argentina,River Plate,Argentina
 6446,1966,Argentina,River Plate,Argentina
 6447,1966,Argentina,San Lorenzo,Argentina
+6448,1962,Argentina,Boca Juniors,Argentina
 6448,1966,Argentina,Boca Juniors,Argentina
 6449,1966,Argentina,Boca Juniors,Argentina
 6450,1966,Argentina,Independiente,Argentina
 6451,1966,Argentina,River Plate,Argentina
 6452,1966,Argentina,River Plate,Argentina
 6453,1966,Argentina,Independiente,Argentina
+6454,1962,Brazil,Santos,Brazil
 6454,1966,Brazil,Santos,Brazil
 6455,1966,Brazil,Botafogo,Brazil
+6456,1962,Brazil,Palmeiras,Brazil
 6456,1966,Brazil,Palmeiras,Brazil
 6457,1966,Brazil,Bangu,Brazil
+6458,1962,Brazil,São Paulo,Brazil
 6458,1966,Brazil,São Paulo,Brazil
+6459,1962,Brazil,Fluminense,Brazil
 6459,1966,Brazil,Fluminense,Brazil
 6460,1966,Brazil,Santos,Brazil
 6461,1966,Brazil,Flamengo,Brazil
 6462,1966,Brazil,Botafogo,Brazil
 6463,1966,Brazil,Fluminense,Brazil
 6464,1966,Brazil,Santos,Brazil
+6465,1962,Brazil,Santos,Brazil
 6465,1966,Brazil,Santos,Brazil
+6466,1962,Brazil,Botafogo,Brazil
 6466,1966,Brazil,Corinthians,Brazil
 6467,1966,Brazil,Grêmio,Brazil
 6468,1966,Brazil,Flamengo,Brazil
 6469,1966,Brazil,São Paulo,Brazil
+6470,1962,Bulgaria,CSKA Sofia,Bulgaria
 6470,1966,Bulgaria,CSKA Sofia,Bulgaria
 6471,1966,Bulgaria,Lokomotiv Sofia,Bulgaria
 6472,1966,Bulgaria,Levski Sofia,Bulgaria
 6473,1966,Bulgaria,Slavia Sofia,Bulgaria
 6474,1966,Bulgaria,Botev Plovdiv,Bulgaria
+6475,1962,Bulgaria,Spartak Sofia,Bulgaria
 6475,1966,Bulgaria,Spartak Sofia,Bulgaria
 6476,1966,Bulgaria,Lokomotiv Sofia,Bulgaria
 6477,1966,Bulgaria,Beroe Stara Zagora,Bulgaria
+6478,1962,Bulgaria,CSKA Sofia,Bulgaria
 6478,1966,Bulgaria,CSKA Sofia,Bulgaria
 6479,1966,Bulgaria,Lokomotiv Sofia,Bulgaria
+6480,1962,Bulgaria,Levski Sofia,Bulgaria
 6480,1966,Bulgaria,Levski Sofia,Bulgaria
 6481,1966,Bulgaria,Levski Sofia,Bulgaria
+6482,1962,Chile,Santiago Morning,Chile
 6482,1966,Chile,Universidad Católica,Chile
 6483,1966,Chile,Audax Italiano,Chile
 6484,1966,Chile,Universidad de Chile,Chile
+6485,1962,Chile,Universidad de Chile,Chile
 6485,1966,Chile,Universidad de Chile,Chile
 6486,1966,Chile,Colo-Colo,Chile
 6487,1966,Chile,Universidad de Chile,Chile
+6488,1962,Chile,Universidad de Chile,Chile
 6488,1966,Chile,Universidad de Chile,Chile
+6489,1962,Chile,Santiago Morning,Chile
 6489,1966,Chile,Colo-Colo,Chile
 6490,1966,Chile,Universidad de Chile,Chile
 6491,1966,Chile,Universidad de Chile,Chile
-6492,1966,Chile,Universidad Católica,Chile
+6492,1966,Chile,Universidad Catolica,Chile
+6493,1962,Chile,Universidad de Chile,Chile
 6493,1966,Chile,Universidad de Chile,Chile
+6494,1962,Chile,Universidad de Chile,Chile
 6494,1966,Chile,Universidad de Chile,Chile
-6495,1966,Chile,Universidad Católica,Chile
+6495,1962,Chile,Universidad Catolica,Chile
+6495,1966,Chile,Universidad Catolica,Chile
 6496,1966,Chile,Universidad de Chile,Chile
-6497,1966,Chile,Universidad Católica,Chile
+6497,1962,Chile,Universidad Catolica,Chile
+6497,1966,Chile,Universidad Catolica,Chile
+6498,1962,Chile,Union Española,Chile
 6498,1966,Chile,Deportes Temuco,Chile
 6499,1966,Chile,Universidad de Chile,Chile
+6500,1962,England,Sheffield Wednesday,England
 6500,1966,England,Sheffield Wednesday,England
 6501,1966,England,Fulham,England
+6502,1962,England,Huddersfield Town,England
 6502,1966,England,Everton,England
+6503,1962,England,Blackpool,England
 6503,1966,England,Blackpool,England
 6504,1966,England,Liverpool,England
+6505,1962,England,Wolverhampton,England
 6505,1966,England,Wolverhampton,England
 6506,1966,England,Liverpool,England
+6507,1962,England,Arsenal,England
 6507,1966,England,Arsenal,England
+6508,1962,England,Tottenham,England
 6508,1966,England,Tottenham,England
+6509,1962,England,Burnley,England
 6509,1966,England,Manchester United,England
 6510,1966,England,Southampton,England
+6511,1962,England,Liverpool,England
 6511,1966,England,Liverpool,England
 6512,1966,France,Lyon,France
 6513,1966,France,Stade Français,France
@@ -8547,55 +8605,77 @@ player_id,world_cup_year,team,club,country_club
 6531,1966,France,Nantes,France
 6532,1966,France,Strasbourg,France
 6533,1966,France,Bordeaux,France
+6534,1962,Hungary,Vasas,Hungary
 6534,1966,Hungary,Újpest,Hungary
 6535,1966,Hungary,Tatabánya,Hungary
 6536,1966,Hungary,Ferencváros,Hungary
 6537,1966,Hungary,Újpest,Hungary
+6538,1962,Hungary,Ferencváros,Hungary
 6538,1966,Hungary,Ferencváros,Hungary
+6539,1962,Hungary,Újpest,Hungary
 6539,1966,Hungary,Újpest,Hungary
+6540,1962,Hungary,Vasas,Hungary
 6540,1966,Hungary,Vasas,Hungary
 6541,1966,Hungary,Tatabánya,Hungary
+6542,1962,Hungary,Vasas,Hungary
 6542,1966,Hungary,Vasas,Hungary
+6543,1962,Hungary,MTK Budapest,Hungary
 6543,1966,Hungary,Budapest Honvéd,Hungary
 6544,1966,Hungary,Ferencváros,Hungary
+6545,1962,Hungary,Ferencváros,Hungary
 6545,1966,Hungary,Ferencváros,Hungary
 6546,1966,Hungary,Vasas,Hungary
+6547,1962,Hungary,MTK Budapest,Hungary
 6547,1966,Hungary,MTK Budapest,Hungary
 6548,1966,Hungary,Újpest,Hungary
+6549,1962,Hungary,Ferencváros,Hungary
 6549,1966,Hungary,Ferencváros,Hungary
+6550,1962,Hungary,Vasas,Hungary
 6550,1966,Hungary,Vasas,Hungary
+6551,1962,Hungary,Ferencváros,Hungary
 6551,1966,Hungary,Ferencváros,Hungary
 6552,1966,Hungary,Vasas,Hungary
+6553,1962,Hungary,Budapest Honvéd,Hungary
 6553,1966,Hungary,Budapest Honvéd,Hungary
 6554,1966,Hungary,Vasas,Hungary
 6555,1966,Hungary,Budapest Honvéd,Hungary
 6556,1966,Italy,Juventus,Italy
 6557,1966,Italy,Atalanta,Italy
 6558,1966,Italy,Internazionale,Italy
+6559,1962,Italy,Bologna,Italy
 6559,1966,Italy,Bologna,Italy
 6560,1966,Italy,Internazionale,Italy
+6561,1962,Italy,AC Milan,Italy
 6561,1966,Italy,Juventus,Italy
 6562,1966,Italy,Roma,Italy
+6563,1962,Italy,Bologna,Italy
 6563,1966,Italy,Bologna,Italy
 6564,1966,Italy,Bologna,Italy
 6565,1966,Italy,Juventus,Italy
 6566,1966,Italy,AC Milan,Italy
 6567,1966,Italy,Bologna,Italy
 6568,1966,Italy,Torino,Italy
+6569,1962,Italy,Bologna,Italy
 6569,1966,Italy,Bologna,Italy
 6570,1966,Italy,Cagliari,Italy
+6571,1962,Mexico,León,Mexico
 6571,1966,Mexico,León,Mexico
 6572,1966,Mexico,Atlas,Mexico
+6573,1962,Mexico,Guadalajara,Mexico
 6573,1966,Mexico,Guadalajara,Mexico
+6574,1962,Mexico,Atlas,Mexico
 6574,1966,Mexico,Veracruz,Mexico
+6575,1962,Mexico,Atlas,Mexico
 6575,1966,Mexico,Monterrey,Mexico
 6576,1966,Mexico,Zacatepec,Mexico
+6577,1962,Mexico,Oro,Mexico
 6577,1966,Mexico,Oro,Mexico
 6578,1966,Mexico,UNAM,Mexico
 6579,1966,Mexico,Atlas,Mexico
 6580,1966,Mexico,UNAM,Mexico
 6581,1966,Mexico,Atlas,Mexico
 6582,1966,Mexico,Guadalajara,Mexico
+6583,1962,Mexico,Guadalajara,Mexico
 6583,1966,Mexico,Guadalajara,Mexico
 6584,1966,Mexico,Oro,Mexico
 6585,1966,North Korea,Kigwancha,North Korea
@@ -8643,15 +8723,20 @@ player_id,world_cup_year,team,club,country_club
 6627,1966,Portugal,Leixões,Portugal
 6628,1966,Portugal,Benfica,Portugal
 6629,1966,Soviet Union,Dynamo Kyiv,Ukraine
+6630,1962,Soviet Union,Torpedo Moscow,Russia
 6630,1966,Soviet Union,Dynamo Kyiv,Ukraine
 6631,1966,Soviet Union,CSKA Moscow,Russia
 6632,1966,Soviet Union,SKA Rostov,Russia
 6633,1966,Soviet Union,Zenit Leningrad,Russia
 6634,1966,Soviet Union,Spartak Moscow,Russia
+6635,1962,Soviet Union,Dynamo Kyiv,Ukraine
 6635,1966,Soviet Union,Dynamo Kyiv,Ukraine
+6636,1962,Soviet Union,Dynamo Moscow,Russia
 6636,1966,Soviet Union,Dynamo Moscow,Russia
+6637,1962,Soviet Union,Torpedo Moscow,Russia
 6637,1966,Soviet Union,Torpedo Moscow,Russia
 6638,1966,Soviet Union,Dinamo Tbilisi,Georgia
+6639,1962,Soviet Union,Spartak Moscow,Russia
 6639,1966,Soviet Union,Spartak Moscow,Russia
 6640,1966,Soviet Union,Nefchi Baku,Azerbaijan
 6641,1966,Soviet Union,Dinamo Minsk,Belarus
@@ -8661,22 +8746,30 @@ player_id,world_cup_year,team,club,country_club
 6645,1966,Spain,Córdoba,Spain
 6646,1966,Spain,Real Madrid,Spain
 6647,1966,Spain,Barcelona,Spain
+6648,1962,Spain,Atletico de Madrid,Spain
 6648,1966,Spain,Atletico de Madrid,Spain
+6649,1962,Spain,Real Zaragoza,Spain
 6649,1966,Spain,Real Zaragoza,Spain
 6650,1966,Spain,Barcelona,Spain
 6651,1966,Spain,Barcelona,Spain
+6652,1962,Spain,Real Madrid,Spain
 6652,1966,Spain,Juventus,Italy
 6653,1966,Spain,Real Madrid,Spain
 6654,1966,Spain,Atletico de Madrid,Spain
 6655,1966,Spain,Atletico de Madrid,Spain
 6656,1966,Spain,Barcelona,Spain
+6657,1962,Spain,Atletico de Madrid,Spain
 6657,1966,Spain,Internazionale,Italy
+6658,1962,Spain,Atletico de Madrid,Spain
 6658,1966,Spain,Atletico de Madrid,Spain
 6659,1966,Spain,Real Madrid,Spain
 6660,1966,Spain,Real Zaragoza,Spain
+6661,1962,Spain,Internazionale,Italy
 6661,1966,Spain,Internazionale,Italy
+6662,1962,Spain,Real Madrid,Spain
 6662,1966,Spain,Real Madrid,Spain
 6663,1966,Spain,Real Zaragoza,Spain
+6664,1962,Switzerland,Grasshoppers,Switzerland
 6664,1966,Switzerland,Lausanne-Sport,Switzerland
 6665,1966,Switzerland,La Chaux-de-Fonds,Switzerland
 6666,1966,Switzerland,Lugano,Switzerland
@@ -8684,12 +8777,16 @@ player_id,world_cup_year,team,club,country_club
 6668,1966,Switzerland,Lausanne-Sport,Switzerland
 6669,1966,Switzerland,Zürich,Switzerland
 6670,1966,Switzerland,Zürich,Switzerland
+6671,1962,Switzerland,Young Boys,Switzerland
 6671,1966,Switzerland,Young Boys,Switzerland
+6672,1962,Switzerland,Lausanne-Sport,Switzerland
 6672,1966,Switzerland,Lausanne-Sport,Switzerland
 6673,1966,Switzerland,Zürich,Switzerland
+6674,1962,Switzerland,Lausanne-Sport,Switzerland
 6674,1966,Switzerland,Lausanne-Sport,Switzerland
 6675,1966,Switzerland,Young Boys,Switzerland
 6676,1966,Switzerland,Lugano,Switzerland
+6677,1962,Switzerland,Lausanne-Sport,Switzerland
 6677,1966,Switzerland,Lausanne-Sport,Switzerland
 6678,1966,Switzerland,Basel,Switzerland
 6679,1966,Switzerland,Zürich,Switzerland
@@ -8699,25 +8796,35 @@ player_id,world_cup_year,team,club,country_club
 6683,1966,Switzerland,Zürich,Switzerland
 6684,1966,Switzerland,Sion,Switzerland
 6685,1966,Switzerland,Servette,Switzerland
+6686,1962,Uruguay,Nacional,Uruguay
 6686,1966,Uruguay,Nacional,Uruguay
 6687,1966,Uruguay,Peñarol,Uruguay
+6688,1966,Uruguay,Nacional,Uruguay
 6688,1966,Uruguay,Cerro,Uruguay
 6689,1966,Uruguay,Nacional,Uruguay
+6690,1962,Uruguay,Peñarol,Uruguay
 6690,1966,Uruguay,Peñarol,Uruguay
 6691,1966,Uruguay,Peñarol,Uruguay
+6692,1962,Uruguay,Nacional,Uruguay
 6692,1966,Uruguay,Nacional,Uruguay
+6693,1962,Uruguay,Nacional,Uruguay
 6693,1966,Uruguay,Rampla Juniors,Uruguay
 6694,1966,Uruguay,Nacional,Uruguay
 6695,1966,Uruguay,Danubio,Uruguay
+6696,1962,Uruguay,Danubio,Uruguay
 6696,1966,Uruguay,Peñarol,Uruguay
 6697,1966,Uruguay,Nacional,Uruguay
+6698,1962,Uruguay,Peñarol,Uruguay
 6698,1966,Uruguay,Defensor Sporting,Uruguay
+6699,1962,Uruguay,Nacional,Uruguay
 6699,1966,Uruguay,Nacional,Uruguay
 6700,1966,Uruguay,Nacional,Uruguay
+6701,1962,West Germany,Westfalia Herne,Germany
 6701,1966,West Germany,Borussia Dortmund,Germany
 6702,1966,West Germany,Werder Bremen,Germany
 6703,1966,West Germany,Eintracht Frankfurt,Germany
 6704,1966,West Germany,Borussia Dortmund,Germany
+6705,1962,West Germany,Borussia Moenchengladbach,Germany
 6705,1966,West Germany,Brescia,Italy
 6706,1966,West Germany,Borussia Dortmund,Germany
 6707,1966,West Germany,1. FC Köln,Germany
