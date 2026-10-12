@@ -1,0 +1,353 @@
+player_id;dorsal;Player;position;Squad;MP;Starts;Min;Gls;Ast;CrdY;CrdR
+5591;1;Antonio Roma;GK;Argentina;2;2;180;0;;0;0
+5986;12;Rogelio Domínguez;GK;Argentina;1;1;90;0;;0;0
+6709;2;José Ramos Delgado;DF;Argentina;1;1;90;0;;0;0
+5822;3;Silvio Marzolini;DF;Argentina;3;3;270;0;;0;0
+6710;4;Alberto Sainz;DF;Argentina;2;2;180;0;;0;0
+6711;6;Raúl Páez;DF;Argentina;2;2;180;0;;0;0
+6712;14;Alberto Mariotti;DF;Argentina;0;0;0;0;;0;0
+6713;15;Rubén Navarro ;DF;Argentina;2;2;180;0;;1;0
+6444;17;Rafael Albrecht;DF;Argentina;0;0;0;0;;0;0
+6714;18;Vladislao Cap;DF;Argentina;2;2;180;0;;0;0
+6715;5;Federico Sacchi;MF;Argentina;3;3;270;0;;0;0
+6716;13;Oscar Rossi;MF;Argentina;1;1;90;0;;0;0
+6442;16;Antonio Rattín;MF;Argentina;1;1;90;0;;0;0
+6717;21;Ramón Abeledo;MF;Argentina;0;0;0;0;;0;0
+6718;7;Héctor Facundo;FW;Argentina;2;2;180;1;;0;0
+6719;8;Martín Pando;FW;Argentina;1;1;90;0;;0;0
+6720;9;Marcelo Pagani;FW;Argentina;2;2;180;0;;0;0
+6721;10;José Sanfilippo;FW;Argentina;2;2;180;1;;0;0
+6722;11;Raúl Belén;FW;Argentina;2;2;180;0;;0;0
+6723;19;Rubén Sosa;FW;Argentina;1;1;90;0;;0;0
+6724;20;Juan Carlos Oleniak;FW;Argentina;2;2;180;0;;0;0
+6448;22;Alberto González;FW;Argentina;1;1;90;0;;0;0
+6454;1;Gilmar;GK;Brazil;6;6;540;0;;0;0
+6725;22;Castilho;GK;Brazil;0;0;0;0;;0;0
+6456;2;Djalma Santos;DF;Brazil;6;6;540;0;;0;0
+6726;3;Mauro Ramos ;DF;Brazil;6;6;540;0;;0;0
+6727;5;Zózimo;DF;Brazil;6;6;540;0;;0;0
+6728;6;Nílton Santos;DF;Brazil;6;6;540;0;;0;0
+6729;12;Jair Marinho;DF;Brazil;0;0;0;0;;0;0
+6458;13;Hilderaldo Bellini;DF;Brazil;0;0;0;0;;0;0
+6730;14;Jurandir;DF;Brazil;0;0;0;0;;0;0
+6459;15;Altair;DF;Brazil;0;0;0;0;;0;0
+6465;4;Zito;MF;Brazil;6;6;540;1;;0;0
+6731;8;Didi;MF;Brazil;6;6;540;0;;0;0
+6732;16;Zequinha;MF;Brazil;0;0;0;0;;0;0
+6733;17;Mengálvio;MF;Brazil;0;0;0;0;;0;0
+6466;7;Garrincha;FW;Brazil;6;6;532;4;;0;1
+6734;9;Coutinho;FW;Brazil;0;0;0;0;;0;0
+6169;10;Pelé;FW;Brazil;2;2;180;1;;0;0
+6735;11;Pepe Macia;FW;Brazil;0;0;0;0;;0;0
+6736;18;Jair da Costa;FW;Brazil;0;0;0;0;;0;0
+6737;19;Vavá;FW;Brazil;6;6;540;4;;0;0
+6738;20;Amarildo;FW;Brazil;4;4;360;3;;0;0
+6739;21;Mário Zagallo;FW;Brazil;6;6;540;1;;0;0
+6470;1;Georgi Naydenov;GK;Bulgaria;3;3;270;0;;0;0
+6740;18;Ivan Ivanov;GK;Bulgaria;0;0;0;0;;0;0
+6741;20;Nikola Parshanov;GK;Bulgaria;0;0;0;0;;0;0
+6742;2;Kiril Rakarov ;DF;Bulgaria;2;2;180;0;;0;0
+6175;3;Ivan Dimitrov;DF;Bulgaria;3;3;270;0;;0;0
+6743;5;Dimitar Kostov;DF;Bulgaria;3;3;270;0;;0;0
+6744;8;Dimitar Dimov;DF;Bulgaria;1;1;90;0;;0;0
+5902;12;Dobromir Zhechev;DF;Bulgaria;1;1;90;0;;0;0
+6475;4;Stoyan Kitov;MF;Bulgaria;2;2;180;0;;0;0
+6745;6;Nikola Kovachev;MF;Bulgaria;3;3;270;0;;0;0
+6746;7;Todor Diev;MF;Bulgaria;1;1;90;0;;0;0
+6480;16;Aleksandar Kostov;MF;Bulgaria;1;1;90;0;;0;0
+6747;17;Panteley Dimitrov;MF;Bulgaria;0;0;0;0;;0;0
+6748;9;Hristo Iliev;FW;Bulgaria;1;1;90;0;;0;0
+6478;10;Ivan Kolev;FW;Bulgaria;3;3;270;0;;0;0
+6186;11;Dimitar Yakimov;FW;Bulgaria;1;1;90;0;;0;0
+6749;13;Petar Velichkov;FW;Bulgaria;3;3;270;0;;0;0
+6750;14;Georgi Sokolov;FW;Bulgaria;2;2;180;1;;0;0
+6181;15;Georgi Asparuhov;FW;Bulgaria;1;1;90;0;;0;0
+6180;19;Dinko Dermendzhiev;FW;Bulgaria;2;2;180;0;;0;0
+6751;21;Panayot Panayotov;FW;Bulgaria;0;0;0;0;;0;0
+6952;22;Georgi Dimitrov Nikolov;FW;Bulgaria;0;0;0;0;;0;0
+6752;1;Misael Escuti;GK;Chile;5;5;450;0;;0;0
+6482;12;Adán Godoy;GK;Chile;1;1;90;0;;0;0
+6753;22;Manuel Astorga;GK;Chile;0;0;0;0;;0;0
+6485;2;Luis Eyzaguirre;DF;Chile;6;6;540;0;;0;0
+6754;3;Raúl Sánchez;DF;Chile;6;6;540;0;;0;0
+6755;4;Sergio Navarro ;DF;Chile;4;4;360;0;;0;0
+6756;5;Carlos Contreras;DF;Chile;5;5;450;0;;0;0
+6757;13;Sergio Valdés;DF;Chile;0;0;0;0;;0;0
+6758;14;Hugo Lepe;DF;Chile;0;0;0;0;;0;0
+6759;15;Manuel Rodríguez;DF;Chile;2;2;180;0;;0;0
+6489;16;Humberto Cruz;DF;Chile;1;1;90;0;;0;0
+6760;6;Eladio Rojas;MF;Chile;6;6;540;2;;0;0
+6761;8;Jorge Toro;MF;Chile;5;5;450;2;;0;0
+6762;17;Mario Ortiz;MF;Chile;0;0;0;0;;0;0
+6493;7;Jaime Ramírez;FW;Chile;6;6;540;2;;0;0
+6498;9;Honorino Landa;FW;Chile;5;5;439;0;;0;1
+6497;10;Alberto Fouilloux;FW;Chile;2;2;180;0;;0;0
+6494;11;Leonel Sánchez;FW;Chile;6;6;540;4;;0;0
+6763;18;Mario Moreno;FW;Chile;1;1;90;0;;0;0
+6764;19;Braulio Musso;FW;Chile;0;0;0;0;;0;0
+6488;20;Carlos Campos;FW;Chile;1;1;90;0;;0;0
+6495;21;Armando Tobar;FW;Chile;4;4;360;0;;0;0
+6765;1;Efraín Sánchez;GK;Colombia;3;3;270;0;;0;0
+6766;2;Achito Vivas;GK;Colombia;0;0;0;0;;0;0
+6767;3;Francisco Zuluaga ;DF;Colombia;1;1;90;1;;0;0
+6768;4;Aníbal Alzate;DF;Colombia;2;2;180;0;;0;0
+6769;5;Jaime González;DF;Colombia;3;3;270;0;;0;0
+6770;6;Ignacio Calle;DF;Colombia;0;0;0;0;;0;0
+6771;7;Carlos Aponte;DF;Colombia;0;0;0;0;;0;0
+6772;8;Héctor Echeverry;DF;Colombia;3;3;270;0;;0;0
+6773;11;Óscar López;DF;Colombia;3;3;270;0;;0;0
+6774;9;Jaime Silva;MF;Colombia;1;1;90;0;;0;0
+6775;10;Rolando Serrano;MF;Colombia;2;2;180;0;;0;0
+6776;12;Hernando Tovar;MF;Colombia;0;0;0;0;;0;0
+6777;15;Marcos Coll;MF;Colombia;3;3;270;1;;0;0
+6778;13;Germán Aceros;FW;Colombia;3;3;270;1;;0;0
+6779;14;Luis Paz;FW;Colombia;0;0;0;0;;0;0
+6780;16;Ignacio Pérez;FW;Colombia;0;0;0;0;;0;0
+6781;17;Marino Klinger;FW;Colombia;3;3;270;1;;0;0
+6782;18;Eusebio Escobar;FW;Colombia;0;0;0;0;;0;0
+6783;19;Delio Gamboa;FW;Colombia;1;1;90;0;;0;0
+6784;20;Antonio Rada;FW;Colombia;2;2;180;1;;0;0
+6785;21;Héctor González;FW;Colombia;2;2;180;0;;0;0
+6786;22;Jairo Arias;FW;Colombia;1;1;90;0;;0;0
+6787;1;Viliam Schrojf;GK;Czechoslovaquia;6;6;540;0;;0;0
+6788;13;František Schmucker;GK;Czechoslovaquia;0;0;0;0;;0;0
+6789;21;Pavel Kouba;GK;Czechoslovaquia;0;0;0;0;;0;0
+6790;2;Jan Lála;DF;Czechoslovaquia;5;5;450;0;;0;0
+6791;3;Ján Popluhár;DF;Czechoslovaquia;6;6;540;0;;0;0
+6792;4;Ladislav Novák ;DF;Czechoslovaquia;6;6;540;0;;0;0
+6793;5;Svatopluk Pluskal;DF;Czechoslovaquia;6;6;540;0;;0;0
+6794;12;Ji?í Tichý;DF;Czechoslovaquia;1;1;90;0;;0;0
+6795;16;Titus Buberník;DF;Czechoslovaquia;0;0;0;0;;0;0
+6796;22;Jozef Bomba;DF;Czechoslovaquia;0;0;0;0;;0;0
+6797;6;Josef Masopust;MF;Czechoslovaquia;6;6;540;1;;0;0
+6798;7;Jozef Štibrányi;MF;Czechoslovaquia;3;3;270;1;;0;0
+6799;8;Adolf Scherer;FW;Czechoslovaquia;6;6;540;3;;0;0
+6800;9;Pavol Molnár;FW;Czechoslovaquia;0;0;0;0;;0;0
+6205;10;Jozef Adamec;FW;Czechoslovaquia;3;3;270;0;;0;0
+6801;11;Josef Jelínek;FW;Czechoslovaquia;5;5;450;0;;0;0
+6802;14;Václav Mašek;FW;Czechoslovaquia;1;1;90;1;;0;0
+6803;15;Vladimír Kos;FW;Czechoslovaquia;0;0;0;0;;0;0
+6804;17;Tomáš Pospíchal;FW;Czechoslovaquia;3;3;270;0;;0;0
+6805;18;Josef Kadraba;FW;Czechoslovaquia;3;3;270;1;;0;0
+6203;19;Andrej Kvaš?ák;FW;Czechoslovaquia;6;6;540;0;;0;0
+6806;20;Jaroslav Borovi?ka;FW;Czechoslovaquia;0;0;0;0;;0;0
+6500;1;Ron Springett;GK;England;4;4;360;0;;0;0
+6807;12;Alan Hodgkinson;GK;England;0;0;0;0;;0;0
+6503;2;Jimmy Armfield;DF;England;4;4;360;0;;0;0
+6502;3;Ray Wilson;DF;England;4;4;360;0;;0;0
+6808;5;Peter Swan;DF;England;0;0;0;0;;0;0
+6809;15;Maurice Norman;DF;England;4;4;360;0;;0;0
+6238;16;Bobby Moore;DF;England;4;4;360;0;;0;0
+6810;21;Don Howe;DF;England;0;0;0;0;;0;0
+6811;4;Bobby Robson;MF;England;0;0;0;0;;0;0
+6505;6;Ron Flowers;MF;England;4;4;360;2;;0;0
+6509;7;John Connelly;MF;England;0;0;0;0;;0;0
+6812;14;Stan Anderson;MF;England;0;0;0;0;;0;0
+6813;17;Bryan Douglas;MF;England;4;4;360;0;;0;0
+6507;20;George Eastham;MF;England;0;0;0;0;;0;0
+6814;22;Jimmy Adamson;MF;England;0;0;0;0;;0;0
+6508;8;Jimmy Greaves;FW;England;4;4;360;1;;0;0
+6815;9;Gerry Hitchens;FW;England;2;2;180;1;;0;0
+6816;10;Johnny Haynes ;FW;England;4;4;360;0;;0;0
+6245;11;Bobby Charlton;FW;England;4;4;360;1;;0;0
+6817;13;Derek Kevan;FW;England;0;0;0;0;;0;0
+6511;18;Roger Hunt;FW;England;0;0;0;0;;0;0
+6818;19;Alan Peacock;FW;England;2;2;180;0;;0;0
+6819;1;Gyula Grosics ;GK;Hungary;3;3;270;0;;0;0
+6534;21;Antal Szentmihályi;GK;Hungary;0;0;0;0;;0;0
+6820;22;István Ilku;GK;Hungary;1;1;90;0;;0;0
+6538;2;Sándor Mátrai;DF;Hungary;4;4;360;0;;0;0
+6540;3;Kálmán Mészöly;DF;Hungary;4;4;360;0;;0;0
+6821;4;László Sárosi;DF;Hungary;4;4;360;0;;0;0
+6822;5;Ern? Solymosi;DF;Hungary;4;4;360;1;;0;0
+6539;12;Kálmán Sóvári;DF;Hungary;0;0;0;0;;0;0
+6542;13;Kálmán Ihász;DF;Hungary;0;0;0;0;;0;0
+6543;6;Ferenc Sipos;MF;Hungary;4;4;360;0;;0;0
+6553;10;Lajos Tichy;MF;Hungary;4;4;360;3;;0;0
+6547;14;István Nagy;MF;Hungary;0;0;0;0;;0;0
+6823;15;János Mencel;MF;Hungary;0;0;0;0;;0;0
+6824;7;Károly Sándor;FW;Hungary;3;3;270;0;;0;0
+6825;8;János Göröcs;FW;Hungary;2;2;180;0;;0;0
+6549;9;Flórián Albert;FW;Hungary;3;3;270;4;;0;0
+6551;11;Máté Fenyvesi;FW;Hungary;3;3;270;0;;0;0
+6550;16;János Farkas;FW;Hungary;0;0;0;0;;0;0
+6545;17;Gyula Rákosi;FW;Hungary;3;3;270;0;;0;0
+6826;18;Tivadar Monostori;FW;Hungary;1;1;90;0;;0;0
+6827;19;Béla Kuharszki;FW;Hungary;1;1;90;0;;0;0
+6828;20;László Bödör;FW;Hungary;0;0;0;0;;0;0
+6829;1;Lorenzo Buffon ;GK;Italy;2;2;180;0;;0;0
+6830;12;Carlo Mattrel;GK;Italy;1;1;90;0;;0;0
+5983;13;Enrico Albertosi;GK;Italy;0;0;0;0;;0;0
+6831;2;Giacomo Losi;DF;Italy;2;2;180;0;;0;0
+6832;3;Luigi Radice;DF;Italy;2;2;180;0;;0;0
+6561;4;Sandro Salvadore;DF;Italy;3;3;270;0;;0;0
+6833;5;Cesare Maldini;DF;Italy;2;2;180;0;;0;0
+6834;16;Enzo Robotti;DF;Italy;3;3;270;0;;0;0
+6835;18;Mario David;DF;Italy;1;1;40;0;;0;1
+6559;19;Francesco Janich;DF;Italy;1;1;90;0;;0;0
+6836;20;Paride Tumburus;DF;Italy;1;1;90;0;;0;0
+6837;6;Giovanni Trapattoni;MF;Italy;0;0;0;0;;0;0
+5993;14;Gianni Rivera;MF;Italy;1;1;90;0;;0;0
+6838;21;Giorgio Ferrini;MF;Italy;2;2;97;0;;0;1
+6563;22;Giacomo Bulgarelli;MF;Italy;1;1;90;2;;0;0
+6839;7;Bruno Mora;FW;Italy;2;2;180;1;;0;0
+6840;8;Humberto Maschio;FW;Italy;1;1;90;0;;0;0
+6841;9;José Altafini;FW;Italy;2;2;180;0;;0;0
+6842;10;Omar Sívori;FW;Italy;2;2;180;0;;0;0
+6843;11;Giampaolo Menichelli;FW;Italy;2;2;180;0;;0;0
+6844;15;Angelo Sormani;FW;Italy;1;1;90;0;;0;0
+6569;17;Ezio Pascutti;FW;Italy;1;1;90;0;;0;0
+6571;1;Antonio Carbajal ;GK;Mexico;3;3;270;0;;0;0
+6845;12;Jaime Gómez;GK;Mexico;0;0;0;0;;0;0
+6291;22;Antonio Mota;GK;Mexico;0;0;0;0;;0;0
+6574;2;Jesús del Muro;DF;Mexico;3;3;270;0;;0;0
+6846;3;Guillermo Sepúlveda;DF;Mexico;3;3;270;0;;0;0
+6847;4;José Villegas;DF;Mexico;1;1;90;0;;0;0
+6848;5;Raúl Cárdenas;DF;Mexico;3;3;270;0;;0;0
+6573;13;Arturo Chaires;DF;Mexico;0;0;0;0;;0;0
+6575;15;Ignacio Jáuregui;DF;Mexico;2;2;180;0;;0;0
+6849;6;Pedro Nájera;MF;Mexico;3;3;270;0;;0;0
+6583;8;Salvador Reyes;MF;Mexico;3;3;270;0;;0;0
+6850;14;Pedro Romero;MF;Mexico;0;0;0;0;;0;0
+6851;16;Salvador Farfán;MF;Mexico;0;0;0;0;;0;0
+6304;20;Mario Velarde;MF;Mexico;0;0;0;0;;0;0
+6852;7;Alfredo del Águila;FW;Mexico;3;3;270;1;;0;0
+6853;9;Héctor Hernández;FW;Mexico;3;3;270;1;;0;0
+6854;10;Guillermo Ortiz Camargo;FW;Mexico;0;0;0;0;;0;0
+6309;11;Isidoro Díaz;FW;Mexico;3;3;270;1;;0;0
+6577;17;Felipe Ruvalcaba;FW;Mexico;0;0;0;0;;0;0
+6855;18;Alfredo Hernández;FW;Mexico;1;1;90;0;;0;0
+6856;19;Antonio Jasso;FW;Mexico;2;2;180;0;;0;0
+6857;21;Alberto Baeza;FW;Mexico;0;0;0;0;;0;0
+6375;1;Lev Yashin;GK;Soviet Union;4;4;360;0;;0;0
+6858;2;Vladimir Maslachenko;GK;Soviet Union;0;0;0;0;;0;0
+6859;3;Sergey Kotrikadze;GK;Soviet Union;0;0;0;0;;0;0
+6860;4;Eduard Dubinski;DF;Soviet Union;1;1;90;0;;0;0
+6861;5;Givi Chokheli;DF;Soviet Union;3;3;270;0;;0;0
+6630;6;Leonid Ostrovskiy;DF;Soviet Union;4;4;360;0;;0;0
+6862;7;Anatoli Maslyonkin;DF;Soviet Union;4;4;360;0;;0;0
+6637;12;Valery Voronin;DF;Soviet Union;4;4;360;0;;0;0
+6382;8;Albert Shesternyov;MF;Soviet Union;0;0;0;0;;0;0
+6863;9;Nikolai Manoshin;MF;Soviet Union;0;0;0;0;;0;0
+6864;10;Igor Netto ;MF;Soviet Union;4;4;360;0;;0;0
+6635;11;Yozhef Sabo;MF;Soviet Union;0;0;0;0;;0;0
+6390;18;Slava Metreveli;MF;Soviet Union;1;1;90;0;;0;0
+6639;21;Galimzyan Khusainov;MF;Soviet Union;1;1;90;0;;0;0
+6636;22;Igor Chislenko;MF;Soviet Union;3;3;270;2;;0;0
+6865;13;Gennadi Gusarov;FW;Soviet Union;0;0;0;0;;0;0
+6866;14;Valentin Ivanov;FW;Soviet Union;4;4;360;4;;0;0
+6867;15;Viktor Kanevski;FW;Soviet Union;2;2;180;0;;0;0
+6868;16;Aleksei Mamykin;FW;Soviet Union;2;2;180;1;;0;0
+6869;17;Mikhail Meskhi;FW;Soviet Union;3;3;270;0;;0;0
+6870;19;Viktor Ponedelnik;FW;Soviet Union;4;4;360;2;;0;0
+6387;20;Viktor Serebryanikov;FW;Soviet Union;0;0;0;0;;0;0
+6871;1;José Araquistáin;GK;Spain;1;1;90;0;;0;0
+6872;2;Salvador Sadurní;GK;Spain;0;0;0;0;;0;0
+6873;3;Carmelo Cedrún;GK;Spain;2;2;180;0;;0;0
+6874;7;Luis María Echeberría;DF;Spain;1;1;90;0;;0;0
+6875;8;Jesús Garay;DF;Spain;1;1;90;0;;0;0
+6876;10;Sígfrid Gràcia;DF;Spain;2;2;180;0;;0;0
+6648;11;Feliciano Rivilla;DF;Spain;1;1;90;0;;0;0
+6877;13;Pachín;DF;Spain;2;2;180;0;;0;0
+6649;16;Severino Reija;DF;Spain;1;1;90;0;;0;0
+6878;17;Rodri Garcia;DF;Spain;2;2;180;0;;0;0
+6879;19;José Santamaría;DF;Spain;2;2;180;0;;0;0
+6880;20;Joan Segarra ;DF;Spain;1;1;90;0;;0;0
+6652;5;Luis del Sol;MF;Spain;2;2;180;0;;0;0
+6657;12;Joaquín Peiró;MF;Spain;2;2;180;1;;0;0
+6658;18;Adelardo;MF;Spain;1;1;90;1;;0;0
+6661;21;Luis Suárez Miramontes;MF;Spain;2;2;180;0;;0;0
+6881;22;Martí Vergés;MF;Spain;2;2;180;0;;0;0
+6882;4;Enrique Collar;FW;Spain;1;1;90;0;;0;0
+6883;6;Alfredo Di Stéfano;FW;Spain;0;0;0;0;;0;0
+6662;9;Paco Gento;FW;Spain;3;3;270;0;;0;0
+6884;14;Ferenc Puskás;FW;Spain;3;3;270;0;;0;0
+6885;15;Eulogio Martínez;FW;Spain;1;1;90;0;;0;0
+6664;1;Karl Elsener;GK;Switzerland;3;3;270;0;;0;0
+6886;2;Antonio Permunian;GK;Switzerland;0;0;0;0;;0;0
+6887;3;Kurt Stettler;GK;Switzerland;0;0;0;0;;0;0
+6888;4;Willy Kernen;DF;Switzerland;0;0;0;0;;0;0
+6889;5;Fritz Morf;DF;Switzerland;1;1;90;0;;0;0
+6890;6;Peter Rösch;DF;Switzerland;0;0;0;0;;0;0
+6671;7;Heinz Schneiter;DF;Switzerland;3;3;270;1;;0;0
+6672;8;Ely Tacchella;DF;Switzerland;3;3;270;0;;0;0
+6677;9;André Grobéty;DF;Switzerland;3;3;270;0;;0;0
+6891;10;Fritz Kehl;DF;Switzerland;0;0;0;0;;0;0
+6892;11;Eugen Meier;DF;Switzerland;1;1;90;0;;0;0
+6893;13;Hans Weber;MF;Switzerland;3;3;270;0;;0;0
+6894;14;Anton Allemann;MF;Switzerland;3;3;270;0;;0;0
+6895;20;Roger Vonlanthen;MF;Switzerland;2;2;180;0;;0;0
+6896;12;Marcel Vonlanthen;FW;Switzerland;0;0;0;0;;0;0
+6897;15;Charles Antenen ;FW;Switzerland;3;3;270;0;;0;0
+6674;16;Richard Dürr;FW;Switzerland;2;2;180;0;;0;0
+6898;17;Norbert Eschmann;FW;Switzerland;2;2;180;0;;0;0
+6899;18;Philippe Pottier;FW;Switzerland;1;1;90;0;;0;0
+6900;19;Gilbert Rey;FW;Switzerland;0;0;0;0;;0;0
+6901;21;Rolf Wüthrich;FW;Switzerland;3;3;270;1;;0;0
+6902;22;Roberto Frigerio;FW;Switzerland;0;0;0;0;;0;0
+6686;1;Roberto Sosa;GK;Uruguay;3;3;270;0;;0;0
+6903;12;Luis Maidana;GK;Uruguay;0;0;0;0;;0;0
+6688;2;Horacio Troche ;DF;Uruguay;3;3;270;0;;0;0
+6692;3;Emilio Álvarez;DF;Uruguay;3;3;270;0;;0;0
+6904;4;Mario Méndez;DF;Uruguay;3;3;270;0;;0;0
+6905;14;William Martínez;DF;Uruguay;0;0;0;0;;0;0
+6906;15;Rubén Soria;DF;Uruguay;0;0;0;0;;0;0
+6907;17;Rubén González;DF;Uruguay;0;0;0;0;;0;0
+6693;18;Eliseo Álvarez;DF;Uruguay;3;3;270;0;;0;0
+6690;5;Néstor Gonçalves;MF;Uruguay;3;3;270;0;;0;0
+6908;6;Pedro Cubilla;MF;Uruguay;0;0;0;0;;0;0
+6416;8;Julio César Cortés;MF;Uruguay;1;1;90;0;;0;0
+6068;10;Pedro Rocha;MF;Uruguay;2;2;180;0;;0;0
+6909;16;Edgardo González;MF;Uruguay;0;0;0;0;;0;0
+6910;19;Ronald Langón;MF;Uruguay;1;1;90;0;;0;0
+6699;7;Domingo Pérez;FW;Uruguay;3;3;270;0;;0;0
+6698;9;José Sasía;FW;Uruguay;3;3;270;2;;0;0
+6066;11;Luis Cubilla;FW;Uruguay;2;2;180;1;;0;0
+6911;20;Mario Ludovico Bergara;FW;Uruguay;1;1;90;0;;0;0
+6696;21;Héctor Silva;FW;Uruguay;0;0;0;0;;0;0
+6912;22;Ángel Cabrera;FW;Uruguay;2;2;160;1;;0;1
+6913;23;Guillermo Escalada;FW;Uruguay;0;0;0;0;;0;0
+6701;1;Hans Tilkowski;GK;West Germany;0;0;0;0;;0;0
+6914;21;Günter Sawitzki;GK;West Germany;0;0;0;0;;0;0
+6915;22;Wolfgang Fahrian;GK;West Germany;4;4;360;0;;0;0
+6916;2;Herbert Erhardt;DF;West Germany;4;4;360;0;;0;0
+6424;3;Karl-Heinz Schnellinger;DF;West Germany;4;4;360;0;;0;0
+6425;4;Willi Schulz;DF;West Germany;4;4;360;0;;0;0
+6917;5;Leo Wilden;DF;West Germany;0;0;0;0;;0;0
+6918;12;Hans Nowak;DF;West Germany;4;4;360;0;;0;0
+6919;13;Jürgen Kurbjuhn;DF;West Germany;0;0;0;0;;0;0
+6920;14;Jürgen Werner;DF;West Germany;0;0;0;0;;0;0
+6921;6;Horst Szymaniak;MF;West Germany;4;4;360;1;;0;0
+6922;7;Willi Koslowski;MF;West Germany;1;1;90;0;;0;0
+6705;10;Albert Brülls;MF;West Germany;4;4;360;1;;0;0
+6923;15;Willi Giesemann;MF;West Germany;2;2;180;0;;0;0
+6924;16;Hans Sturm;MF;West Germany;1;1;90;0;;0;0
+6925;18;Günther Herrmann;MF;West Germany;0;0;0;0;;0;0
+6432;8;Helmut Haller;FW;West Germany;3;3;270;0;;0;0
+6433;9;Uwe Seeler;FW;West Germany;4;4;360;2;;0;0
+6926;11;Hans Schäfer ;FW;West Germany;4;4;360;0;;0;0
+6927;17;Engelbert Kraus;FW;West Germany;1;1;90;0;;0;0
+6928;19;Heinz Strehl;FW;West Germany;0;0;0;0;;0;0
+6929;20;Heinz Vollmar;FW;West Germany;0;0;0;0;;0;0
+6930;1;Milutin Šoški?;GK;Yugoslavia;6;6;540;0;;0;0
+6931;12;Srboljub Krivoku?a;GK;Yugoslavia;0;0;0;0;;0;0
+6932;19;Mirko Stojanovi?;GK;Yugoslavia;0;0;0;0;;0;0
+6933;2;Vladimir Durkovi?;DF;Yugoslavia;6;6;540;0;;0;0
+6934;3;Fahrudin Jusufi;DF;Yugoslavia;5;5;450;0;;0;0
+6935;5;Vlatko Markovi?;DF;Yugoslavia;6;6;540;0;;0;0
+6936;6;Vladica Popovi?;DF;Yugoslavia;6;6;520;0;;0;1
+6937;13;Slavko Svinjarevi?;DF;Yugoslavia;1;1;90;0;;0;0
+6938;14;Vasilije Šijakovi?;DF;Yugoslavia;1;1;90;0;;0;0
+6939;20;Žarko Nikoli?;DF;Yugoslavia;0;0;0;0;;0;0
+6940;4;Petar Radakovi?;MF;Yugoslavia;5;5;450;1;;0;0
+6941;8;Dragoslav Šekularac;MF;Yugoslavia;6;6;540;0;;0;0
+6942;10;Milan Gali? ;MF;Yugoslavia;6;6;540;3;;0;0
+6943;15;Željko Matuš;MF;Yugoslavia;1;1;90;0;;0;0
+6944;17;Vojislav Meli?;MF;Yugoslavia;2;2;180;1;;0;0
+6945;18;Vladica Kova?evi?;MF;Yugoslavia;2;2;180;0;;0;0
+6946;22;Aleksandar Ivoš;MF;Yugoslavia;0;0;0;0;;0;0
+6947;7;Andrija Ankovi?;FW;Yugoslavia;1;1;90;0;;0;0
+6948;9;Dražan Jerkovi?;FW;Yugoslavia;6;6;540;4;;0;0
+6949;11;Josip Skoblar;FW;Yugoslavia;5;5;450;1;;0;0
+6950;16;Muhamed Muji?;FW;Yugoslavia;1;1;90;0;;0;0
+6951;21;Nikola Stipi?;FW;Yugoslavia;0;0;0;0;;0;0
