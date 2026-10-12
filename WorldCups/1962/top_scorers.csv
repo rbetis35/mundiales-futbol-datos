@@ -1,55 +1,55 @@
-player_id;player_name;team;goals;assists;min.tot
-1;Flórián Albert;Hungary;4;;270
-2;Valentin Ivanov;Soviet Union;4;;360
-3;Garrincha;Brazil;4;;532
-4;Vavá;Brazil;4;;540
-5;Leonel Sánchez;Chile;4;;540
-6;Dražan Jerkovi?;Yugoslavia;4;;540
-7;Amarildo;Brazil;3;;360
-8;Lajos Tichy;Hungary;3;;360
-9;Adolf Scherer;Czechoslovaquia;3;;540
-10;Milan Gali? ;Yugoslavia;3;;540
-11;Giacomo Bulgarelli;Italy;2;;90
-12;Igor Chislenko;Soviet Union;2;;270
-13;José Sasía;Uruguay;2;;270
-14;Ron Flowers;England;2;;360
-15;Viktor Ponedelnik;Soviet Union;2;;360
-16;Uwe Seeler;West Germany;2;;360
-17;Jorge Toro;Chile;2;;450
-18;Eladio Rojas;Chile;2;;540
-19;Jaime Ramírez;Chile;2;;540
-20;Francisco Zuluaga ;Colombia;1;;90
-21;Václav Mašek;Czechoslovaquia;1;;90
-22;Adelardo;Spain;1;;90
-23;Héctor Facundo;Argentina;1;;180
-24;José Sanfilippo;Argentina;1;;180
-25;Pelé;Brazil;1;;180
-26;Georgi Sokolov;Bulgaria;1;;180
-27;Antonio Rada;Colombia;1;;180
-28;Gerry Hitchens;England;1;;180
-29;Bruno Mora;Italy;1;;180
-30;Aleksei Mamykin;Soviet Union;1;;180
-31;Joaquín Peiró;Spain;1;;180
-32;Luis Cubilla;Uruguay;1;;180
-33;Ángel Cabrera;Uruguay;1;;160
-34;Vojislav Meli?;Yugoslavia;1;;180
-35;Marcos Coll;Colombia;1;;270
-36;Germán Aceros;Colombia;1;;270
-37;Marino Klinger;Colombia;1;;270
-38;Jozef Štibrányi;Czechoslovaquia;1;;270
-39;Josef Kadraba;Czechoslovaquia;1;;270
-40;Alfredo del Águila;Mexico;1;;270
-41;Héctor Hernández;Mexico;1;;270
-42;Isidoro Díaz;Mexico;1;;270
-43;Heinz Schneiter;Switzerland;1;;270
-44;Rolf Wüthrich;Switzerland;1;;270
-45;Jimmy Greaves;England;1;;360
-46;Bobby Charlton;England;1;;360
-47;Ern? Solymosi;Hungary;1;;360
-48;Horst Szymaniak;West Germany;1;;360
-49;Albert Brülls;West Germany;1;;360
-50;Petar Radakovi?;Yugoslavia;1;;450
-51;Josip Skoblar;Yugoslavia;1;;450
-52;Zito;Brazil;1;;540
-53;Mário Zagallo;Brazil;1;;540
-54;Josef Masopust;Czechoslovaquia;1;;540
+player_id,player_name,team,goals,assists,min.tot
+1,Flórián Albert,Hungary,4,,270
+2,Valentin Ivanov,Soviet Union,4,,360
+3,Garrincha,Brazil,4,,532
+4,Vavá,Brazil,4,,540
+5,Leonel Sánchez,Chile,4,,540
+6,Dražan Jerkovi?,Yugoslavia,4,,540
+7,Amarildo,Brazil,3,,360
+8,Lajos Tichy,Hungary,3,,360
+9,Adolf Scherer,Czechoslovaquia,3,,540
+10,Milan Gali? ,Yugoslavia,3,,540
+11,Giacomo Bulgarelli,Italy,2,,90
+12,Igor Chislenko,Soviet Union,2,,270
+13,José Sasía,Uruguay,2,,270
+14,Ron Flowers,England,2,,360
+15,Viktor Ponedelnik,Soviet Union,2,,360
+16,Uwe Seeler,West Germany,2,,360
+17,Jorge Toro,Chile,2,,450
+18,Eladio Rojas,Chile,2,,540
+19,Jaime Ramírez,Chile,2,,540
+20,Francisco Zuluaga ,Colombia,1,,90
+21,Václav Mašek,Czechoslovaquia,1,,90
+22,Adelardo,Spain,1,,90
+23,Héctor Facundo,Argentina,1,,180
+24,José Sanfilippo,Argentina,1,,180
+25,Pelé,Brazil,1,,180
+26,Georgi Sokolov,Bulgaria,1,,180
+27,Antonio Rada,Colombia,1,,180
+28,Gerry Hitchens,England,1,,180
+29,Bruno Mora,Italy,1,,180
+30,Aleksei Mamykin,Soviet Union,1,,180
+31,Joaquín Peiró,Spain,1,,180
+32,Luis Cubilla,Uruguay,1,,180
+33,Ángel Cabrera,Uruguay,1,,160
+34,Vojislav Meli?,Yugoslavia,1,,180
+35,Marcos Coll,Colombia,1,,270
+36,Germán Aceros,Colombia,1,,270
+37,Marino Klinger,Colombia,1,,270
+38,Jozef Štibrányi,Czechoslovaquia,1,,270
+39,Josef Kadraba,Czechoslovaquia,1,,270
+40,Alfredo del Águila,Mexico,1,,270
+41,Héctor Hernández,Mexico,1,,270
+42,Isidoro Díaz,Mexico,1,,270
+43,Heinz Schneiter,Switzerland,1,,270
+44,Rolf Wüthrich,Switzerland,1,,270
+45,Jimmy Greaves,England,1,,360
+46,Bobby Charlton,England,1,,360
+47,Ern? Solymosi,Hungary,1,,360
+48,Horst Szymaniak,West Germany,1,,360
+49,Albert Brülls,West Germany,1,,360
+50,Petar Radakovi?,Yugoslavia,1,,450
+51,Josip Skoblar,Yugoslavia,1,,450
+52,Zito,Brazil,1,,540
+53,Mário Zagallo,Brazil,1,,540
+54,Josef Masopust,Czechoslovaquia,1,,540
