@@ -6157,7 +6157,6 @@ player_id,dorsal,player_name,birth_date,position,nationality
 6156,21,Frans Janssens,25-09-1945,FW,Belgium
 6157,1,Félix,24-12-1937,GK,Brazil
 6158,12,Ado,04-07-1946,GK,Brazil
-6159,2,Brito,09-08-1939,DF,Brazil
 6159,4,Carlos Alberto,17-07-1944,DF,Brazil
 6160,14,Baldocchi,14-03-1946,DF,Brazil
 6161,15,Fontana,31-12-1940,DF,Brazil
@@ -7237,3 +7236,4 @@ player_id,dorsal,player_name,birth_date,position,nationality
 7233,16,Ilijas Paši?,10-05-1934,FW,Yugoslavia
 7234,18,Luka Lipošinovi?,12-05-1933,FW,Yugoslavia
 7235,19,Radivoje Ognjanovi?,01-07-1933,FW,Yugoslavia
+7236,2,Brito,09-08-1939,DF,Brazil
