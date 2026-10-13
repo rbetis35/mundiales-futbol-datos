@@ -9006,14 +9006,18 @@ player_id,world_cup_year,team,club,country_club
 6838,1962,Italy,Torino,Italy
 6839,1962,Italy,Juventus,Italy
 6840,1962,Italy,Atalanta,Italy
+6841,1958,Brazil,Palmeiras,Brazil
 6841,1962,Italy,AC Milan,Italy
 6842,1962,Italy,Juventus,Italy
 6843,1962,Italy,Roma,Italy
 6844,1962,Italy,Mantova,Italy
 6845,1958,Mexico,Guadalajara,Mexico
 6845,1962,Mexico,Guadalajara,Mexico
+6846,1958,Mexico,Guadalajara,Mexico
 6846,1962,Mexico,Guadalajara,Mexico
+6847,1958,Mexico,Guadalajara,Mexico
 6847,1962,Mexico,Guadalajara,Mexico
+6848,1958,Mexico,Zacatepec,Mexico
 6848,1962,Mexico,Zacatepec,Mexico
 6849,1962,Mexico,America,Mexico
 6850,1962,Mexico,Toluca,Mexico
@@ -9021,6 +9025,7 @@ player_id,world_cup_year,team,club,country_club
 6852,1962,Mexico,Toluca,Mexico
 6853,1962,Mexico,Guadalajara,Mexico
 6854,1962,Mexico,Necaxa,Mexico
+6855,1958,Mexico,León,Mexico
 6855,1962,Mexico,Monterrey,Mexico
 6856,1962,Mexico,America,Mexico
 6857,1962,Mexico,Necaxa,Mexico
@@ -9028,10 +9033,14 @@ player_id,world_cup_year,team,club,country_club
 6859,1962,Soviet Union,Dinamo Tbilisi,Georgia
 6860,1962,Soviet Union,CSKA Moscow,Russia
 6861,1962,Soviet Union,Dinamo Tbilisi,Georgia
+6862,1958,Soviet Union,Spartak Moscow,Russia
 6862,1962,Soviet Union,Spartak Moscow,Russia
 6863,1962,Soviet Union,Torpedo Moscow,Russia
+6864,1958,Soviet Union,Spartak Moscow,Russia
 6864,1962,Soviet Union,Spartak Moscow,Russia
+6865,1958,Soviet Union,Torpedo Moscow,Russia
 6865,1962,Soviet Union,Torpedo Moscow,Russia
+6866,1958,Soviet Union,Torpedo Moscow,Russia
 6866,1962,Soviet Union,Torpedo Moscow,Russia
 6867,1962,Soviet Union,Dynamo Kyiv,Ukraine
 6868,1962,Soviet Union,CSKA Moscow,Russia
@@ -9080,23 +9089,29 @@ player_id,world_cup_year,team,club,country_club
 6911,1962,Uruguay,Nacional,Uruguay
 6912,1962,Uruguay,Peñarol,Uruguay
 6913,1962,Uruguay,Nacional,Uruguay
+6914,1958,West Germany,VfB Stuttgart,Germany
 6914,1962,West Germany,VfB Stuttgart,Germany
 6915,1962,West Germany,TSG Ulm,Germany
+6916,1958,West Germany,Greuther Fürth,Germany
 6916,1962,West Germany,Greuther Fürth,Germany
 6917,1962,West Germany,1. FC Köln,Germany
 6918,1962,West Germany,Schalke 04,Germany
 6919,1962,West Germany,Hamburger SV,Germany
 6920,1962,West Germany,Hamburger SV,Germany
+6921,1958,West Germany,Wuppertaler SV,Germany
 6921,1962,West Germany,Catania,Italy
 6922,1962,West Germany,Schalke 04,Germany
 6923,1962,West Germany,Bayern Munich,Germany
+6924,1958,West Germany,1. FC Köln,Germany
 6924,1962,West Germany,1. FC Köln,Germany
 6925,1962,West Germany,Karlsruher SC,Germany
+6926,1958,West Germany,1. FC Köln,Germany
 6926,1962,West Germany,1. FC Köln,Germany
 6927,1962,West Germany,Kickers Offenbach,Germany
 6928,1962,West Germany,1. FC Nürnberg,Germany
 6929,1962,West Germany,1. FC Saarbrücken,Germany
 6930,1962,Yugoslavia,Partizan,Serbia
+6931,1958,Yugoslavia,Vojvodina Novi Sad,Serbia
 6931,1962,Yugoslavia,OFK Belgrade,Serbia
 6932,1962,Yugoslavia,Dinamo Zagreb,Croatia
 6933,1962,Yugoslavia,Red Star Belgrade,Serbia
@@ -9104,9 +9119,11 @@ player_id,world_cup_year,team,club,country_club
 6935,1962,Yugoslavia,Dinamo Zagreb,Croatia
 6936,1962,Yugoslavia,Red Star Belgrade,Serbia
 6937,1962,Yugoslavia,Vojvodina Novi Sad,Serbia
+6938,1958,Yugoslavia,OFK Belgrade,Serbia
 6938,1962,Yugoslavia,OFK Belgrade,Serbia
 6939,1962,Yugoslavia,Vojvodina Novi Sad,Serbia
 6940,1962,Yugoslavia,Rijeka,Croatia
+6941,1958,Yugoslavia,Red Star Belgrade,Serbia
 6941,1962,Yugoslavia,Red Star Belgrade,Serbia
 6942,1962,Yugoslavia,Partizan,Serbia
 6943,1962,Yugoslavia,Dinamo Zagreb,Croatia
@@ -9114,6 +9131,7 @@ player_id,world_cup_year,team,club,country_club
 6945,1962,Yugoslavia,Partizan,Serbia
 6946,1962,Yugoslavia,Sloboda Tuzla,Bosnia and Herzegovina
 6947,1962,Yugoslavia,Hajduk Split,Croatia
+6948,1958,Yugoslavia,Dinamo Zagreb,Croatia
 6948,1962,Yugoslavia,Dinamo Zagreb,Croatia
 6949,1962,Yugoslavia,OFK Belgrade,Serbia
 6950,1962,Yugoslavia,Velež Mostar,Bosnia and Herzegovina
