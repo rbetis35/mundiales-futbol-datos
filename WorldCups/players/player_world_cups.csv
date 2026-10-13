@@ -8127,8 +8127,6 @@ player_id,world_cup_year,team,club,country_club
 6156,1970,Belgium,Lierse,Belgium
 6157,1970,Brazil,Fluminense,Brazil
 6158,1970,Brazil,Corinthians,Brazil
-6159,1966,Brazil,Vasco da Gama,Brazil
-6159,1970,Brazil,Flamengo,Brazil
 6159,1970,Brazil,Santos,Brazil
 6160,1970,Brazil,Palmeiras,Brazil
 6161,1970,Brazil,Cruzeiro,Brazil
@@ -9073,3 +9071,5 @@ player_id,world_cup_year,team,club,country_club
 6950,1962,Yugoslavia,Velež Mostar,Bosnia and Herzegovina
 6951,1962,Yugoslavia,Red Star Belgrade,Serbia
 6952,1962,Bulgaria,Cherno More,Bulgaria
+7236,1966,Brazil,Vasco da Gama,Brazil
+7236,1970,Brazil,Flamengo,Brazil
