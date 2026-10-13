@@ -4,22 +4,22 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 6955,2,Pedro Dellacha ,DF,Argentina,3,3,270,0,,0,0
 6956,3,Federico Vairo,DF,Argentina,3,3,270,0,,0,0
 6957,4,Juan Francisco Lombardo,DF,Argentina,3,3,270,0,,0,0
-6958,13,Alfredo PÈrez,DF,Argentina,0,0,0,0,,0,0
+6958,13,Alfredo P√©rez,DF,Argentina,0,0,0,0,,0,0
 6959,14,Federico Edwards,DF,Argentina,0,0,0,0,,0,0
 6960,15,David Acevedo,DF,Argentina,0,0,0,0,,0,0
-6709,17,JosÈ Ramos Delgado,DF,Argentina,0,0,0,0,,0,0
-6961,5,NÈstor Rossi,MF,Argentina,3,3,270,0,,0,0
-6440,6,JosÈ Varacka,MF,Argentina,3,3,270,0,,0,0
-6962,16,Eliseo MouriÒo,MF,Argentina,0,0,0,0,,0,0
+6709,17,Jos√© Ramos Delgado,DF,Argentina,0,0,0,0,,0,0
+6961,5,N√©stor Rossi,MF,Argentina,3,3,270,0,,0,0
+6440,6,Jos√© Varacka,MF,Argentina,3,3,270,0,,0,0
+6962,16,Eliseo Mouri√±o,MF,Argentina,0,0,0,0,,0,0
 6963,7,Oreste Corbatta,FW,Argentina,3,3,270,3,,0,0
 6964,8,Eliseo Prado,FW,Argentina,1,1,90,0,,0,0
-6965,9,Norberto MenÈndez,FW,Argentina,3,3,270,1,,0,0
+6965,9,Norberto Men√©ndez,FW,Argentina,3,3,270,1,,0,0
 6449,10,Alfredo Rojas,FW,Argentina,1,1,90,0,,0,0
-6966,11,¡ngel Labruna,FW,Argentina,2,2,180,0,,0,0
+6966,11,√Ångel Labruna,FW,Argentina,2,2,180,0,,0,0
 6967,18,Norberto Boggio,FW,Argentina,1,1,90,0,,0,0
 6968,19,Ludovico Avio,FW,Argentina,2,2,180,1,,0,0
 6969,20,Ricardo Infante,FW,Argentina,0,0,0,0,,0,0
-6721,21,JosÈ Sanfilippo,FW,Argentina,0,0,0,0,,0,0
+6721,21,Jos√© Sanfilippo,FW,Argentina,0,0,0,0,,0,0
 6970,22,Osvaldo Cruz,FW,Argentina,2,2,180,0,,0,0
 6971,1,Rudolf Szanwald,GK,Austria,2,2,180,0,,0,0
 6972,12,Kurt Schmied,GK,Austria,1,1,90,0,,0,0
@@ -37,7 +37,7 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 6984,7,Walter Horak,FW,Austria,2,2,180,0,,0,0
 6985,8,Paul Kozlicek,FW,Austria,2,2,180,0,,0,0
 6986,9,Hans Buzek,FW,Austria,3,3,270,0,,0,0
-6987,10,Alfred Kˆrner,FW,Austria,3,3,270,1,,0,0
+6987,10,Alfred K√∂rner,FW,Austria,3,3,270,1,,0,0
 6988,11,Helmut Senekowitsch,FW,Austria,3,3,270,0,,0,0
 6989,13,Walter Schleger,FW,Austria,1,1,90,0,,0,0
 6990,14,Josef Hamerl,FW,Austria,0,0,0,0,,0,0
@@ -48,8 +48,8 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 6993,2,Hilderaldo Bellini ,DF,Brazil,6,6,540,0,,0,0
 6456,4,Djalma Santos,DF,Brazil,1,1,90,0,,0,0
 6994,8,Oreco,DF,Brazil,0,0,0,0,,0,0
-6727,9,ZÛzimo,DF,Brazil,0,0,0,0,,0,0
-6728,12,NÌlton Santos,DF,Brazil,6,6,540,1,,0,0
+6727,9,Z√≥zimo,DF,Brazil,0,0,0,0,,0,0
+6728,12,N√≠lton Santos,DF,Brazil,6,6,540,1,,0,0
 6995,14,De Sordi,DF,Brazil,5,5,450,0,,0,0
 6996,15,Orlando,DF,Brazil,6,6,540,0,,0,0
 6997,16,Mauro Ramos,DF,Brazil,0,0,0,0,,0,0
@@ -57,35 +57,35 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 6731,6,Didi,MF,Brazil,6,6,540,1,,0,0
 6999,13,Moacir,MF,Brazil,0,0,0,0,,0,0
 6465,19,Zito,MF,Brazil,4,4,360,0,,0,0
-6739,7,M·rio Zagallo,FW,Brazil,6,6,540,1,,0,0
-6169,10,PelÈ,FW,Brazil,4,4,360,6,,0,0
+6739,7,M√°rio Zagallo,FW,Brazil,6,6,540,1,,0,0
+6169,10,Pel√©,FW,Brazil,4,4,360,6,,0,0
 6466,11,Garrincha,FW,Brazil,4,4,360,0,,0,0
-7000,17,Joel AntÙnio Martins,FW,Brazil,2,2,180,0,,0,0
-6841,18,JosÈ Altafini,FW,Brazil,3,3,270,2,,0,0
-6737,20,Vav·,FW,Brazil,4,4,360,5,,0,0
+7000,17,Joel Ant√¥nio Martins,FW,Brazil,2,2,180,0,,0,0
+6841,18,Jos√© Altafini,FW,Brazil,3,3,270,2,,0,0
+6737,20,Vav√°,FW,Brazil,4,4,360,5,,0,0
 7001,21,Dida Santa Rosa,FW,Brazil,1,1,90,0,,0,0
 6735,22,Pepe Macia,FW,Brazil,0,0,0,0,,0,0
 7002,1,Imrich Stacho,GK,Czechoslovakia,0,0,0,0,,0,0
-7003,19,B?etislav DolejöÌ,GK,Czechoslovakia,4,4,390,0,,0,0
+7003,19,B?etislav Dolej≈°√≠,GK,Czechoslovakia,4,4,390,0,,0,0
 6787,22,Viliam Schrojf,GK,Czechoslovakia,0,0,0,0,,0,0
-7004,2,Gust·v Mr·z,DF,Czechoslovakia,4,4,390,0,,0,0
-6792,4,Ladislav Nov·k ,DF,Czechoslovakia,4,4,390,0,,0,0
+7004,2,Gust√°v Mr√°z,DF,Czechoslovakia,4,4,390,0,,0,0
+6792,4,Ladislav Nov√°k ,DF,Czechoslovakia,4,4,390,0,,0,0
 6793,6,Svatopluk Pluskal,DF,Czechoslovakia,2,2,180,0,,0,0
-6791,16,J·n Popluh·r,DF,Czechoslovakia,3,3,300,0,,0,0
-6795,17,Titus BubernÌk,DF,Czechoslovakia,1,1,101,0,,0,1
-7005,21,Frantiöek äafr·nek,DF,Czechoslovakia,0,0,0,0,,0,0
-7006,3,Ji?Ì ?adek,MF,Czechoslovakia,1,1,90,0,,0,0
+6791,16,J√°n Popluh√°r,DF,Czechoslovakia,3,3,300,0,,0,0
+6795,17,Titus Bubern√≠k,DF,Czechoslovakia,1,1,101,0,,0,1
+7005,21,Franti≈°ek ≈†afr√°nek,DF,Czechoslovakia,0,0,0,0,,0,0
+7006,3,Ji?√≠ ?adek,MF,Czechoslovakia,1,1,90,0,,0,0
 6797,5,Josef Masopust,MF,Czechoslovakia,4,4,390,0,,0,0
 6799,18,Adolf Scherer,MF,Czechoslovakia,0,0,0,0,,0,0
-7007,20,Anton Morav?Ìk,MF,Czechoslovakia,0,0,0,0,,0,0
-7008,7,KazimÌr Gajdoö,FW,Czechoslovakia,0,0,0,0,,0,0
-7009,8,Milan Dvo?·k,FW,Czechoslovakia,4,4,390,2,,0,0
-6800,9,Pavol Moln·r,FW,Czechoslovakia,3,3,300,0,,0,0
+7007,20,Anton Morav?√≠k,MF,Czechoslovakia,0,0,0,0,,0,0
+7008,7,Kazim√≠r Gajdo≈°,FW,Czechoslovakia,0,0,0,0,,0,0
+7009,8,Milan Dvo?√°k,FW,Czechoslovakia,4,4,390,2,,0,0
+6800,9,Pavol Moln√°r,FW,Czechoslovakia,3,3,300,0,,0,0
 6806,10,Jaroslav Borovi?ka,FW,Czechoslovakia,3,3,300,0,,0,0
-7010,11,Tade·ö Kraus,FW,Czechoslovakia,1,1,90,0,,0,0
-7011,12,Zden?k Zik·n,FW,Czechoslovakia,3,3,300,4,,0,0
-7012,13,V·clav Hovorka,FW,Czechoslovakia,3,3,270,2,,0,0
-7013,14,Ji?Ì Feureisl,FW,Czechoslovakia,3,3,300,1,,0,0
+7010,11,Tade√°≈° Kraus,FW,Czechoslovakia,1,1,90,0,,0,0
+7011,12,Zden?k Zik√°n,FW,Czechoslovakia,3,3,300,4,,0,0
+7012,13,V√°clav Hovorka,FW,Czechoslovakia,3,3,270,2,,0,0
+7013,14,Ji?√≠ Feureisl,FW,Czechoslovakia,3,3,300,1,,0,0
 7014,15,Jan Hertl,FW,Czechoslovakia,1,1,90,0,,0,0
 7015,1,Colin McDonald,GK,England,4,4,360,0,,0,0
 7016,12,Eddie Hopkinson,GK,England,0,0,0,0,,0,0
@@ -111,9 +111,9 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7029,21,Alan A'Court,FW,England,3,3,270,0,,0,0
 7030,1,Claude Abbes,GK,France,4,4,360,0,,0,0
 7031,2,Dominique Colonna,GK,France,0,0,0,0,,0,0
-7032,3,FranÁois Remetter,GK,France,2,2,180,0,,0,0
+7032,3,Fran√ßois Remetter,GK,France,2,2,180,0,,0,0
 7033,4,Raymond Kaelbel,DF,France,6,6,540,0,,0,0
-7034,5,AndrÈ Lerond,DF,France,6,6,540,0,,0,0
+7034,5,Andr√© Lerond,DF,France,6,6,540,0,,0,0
 7035,6,Roger Marche ,DF,France,1,1,90,0,,0,0
 7036,7,Robert Mouynet,DF,France,0,0,0,0,,0,0
 7037,13,Armand Penverne,DF,France,6,6,540,0,,0,0
@@ -124,57 +124,57 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7042,12,Jean-Jacques Marcel,MF,France,5,5,450,0,,0,0
 7043,14,Raymond Bellot,MF,France,0,0,0,0,,0,0
 7044,18,Raymond Kopa,MF,France,6,6,540,3,,0,0
-7045,19,CÈlestin Oliver,MF,France,0,0,0,0,,0,0
-7046,15,StÈphane Bruey,FW,France,0,0,0,0,,0,0
+7045,19,C√©lestin Oliver,MF,France,0,0,0,0,,0,0
+7046,15,St√©phane Bruey,FW,France,0,0,0,0,,0,0
 7047,16,Yvon Douis,FW,France,1,1,90,1,,0,0
 7048,17,Just Fontaine,FW,France,6,6,540,13,,0,0
 7049,20,Roger Piantoni,FW,France,5,5,450,3,,0,0
 7050,21,Jean Vincent,FW,France,6,6,540,1,,0,0
 7051,22,Maryan Wisnieski,FW,France,6,6,540,2,,0,0
 7052,1,Gyula Grosics,GK,Hungary,3,3,270,0,,0,0
-6820,22,Istv·n Ilku,GK,Hungary,1,1,90,0,,0,0
-6538,2,S·ndor M·trai,DF,Hungary,4,4,360,0,,0,0
+6820,22,Istv√°n Ilku,GK,Hungary,1,1,90,0,,0,0
+6538,2,S√°ndor M√°trai,DF,Hungary,4,4,360,0,,0,0
 6543,3,Ferenc Sipos,DF,Hungary,4,4,348,0,,0,1
-6821,4,L·szlÛ S·rosi,DF,Hungary,4,4,360,0,,0,0
-7053,5,JÛzsef Bozsik,DF,Hungary,3,3,270,1,,0,0
-7054,12,BÈla K·rp·ti,DF,Hungary,0,0,0,0,,0,0
-7055,13,Oszk·r Szigeti,DF,Hungary,0,0,0,0,,0,0
-7056,6,P·l Berendy,MF,Hungary,2,2,180,0,,0,0
-7057,7,L·szlÛ Budai,MF,Hungary,2,2,180,0,,0,0
-7058,15,Antal Kot·sz,MF,Hungary,2,2,180,0,,0,0
+6821,4,L√°szl√≥ S√°rosi,DF,Hungary,4,4,360,0,,0,0
+7053,5,J√≥zsef Bozsik,DF,Hungary,3,3,270,1,,0,0
+7054,12,B√©la K√°rp√°ti,DF,Hungary,0,0,0,0,,0,0
+7055,13,Oszk√°r Szigeti,DF,Hungary,0,0,0,0,,0,0
+7056,6,P√°l Berendy,MF,Hungary,2,2,180,0,,0,0
+7057,7,L√°szl√≥ Budai,MF,Hungary,2,2,180,0,,0,0
+7058,15,Antal Kot√°sz,MF,Hungary,2,2,180,0,,0,0
 6553,8,Lajos Tichy,FW,Hungary,4,4,360,4,,0,0
-7059,9,N·ndor Hidegkuti ,FW,Hungary,2,2,180,0,,0,0
-7060,10,Dezs? Bundzs·k,FW,Hungary,3,3,270,0,,0,0
-6824,11,K·roly S·ndor,FW,Hungary,3,3,270,1,,0,0
-7060,14,Ferenc Szojka,FW,Hungary,2,2,180,0,,0,0
-7061,16,L·szlÛ Lachos,FW,Hungary,0,0,0,0,,0,0
-7062,17,Mih·ly Vasas,FW,Hungary,0,0,0,0,,0,0
+7059,9,N√°ndor Hidegkuti ,FW,Hungary,2,2,180,0,,0,0
+7060,10,Dezs? Bundzs√°k,FW,Hungary,3,3,270,0,,0,0
+6824,11,K√°roly S√°ndor,FW,Hungary,3,3,270,1,,0,0
+7238,14,Ferenc Szojka,FW,Hungary,2,2,180,0,,0,0
+7061,16,L√°szl√≥ Lachos,FW,Hungary,0,0,0,0,,0,0
+7062,17,Mih√°ly Vasas,FW,Hungary,0,0,0,0,,0,0
 6826,18,Tivadar Monostori,FW,Hungary,0,0,0,0,,0,0
-7063,19,Zolt·n Friedmanszky,FW,Hungary,0,0,0,0,,0,0
-7064,20,JÛzsef Bencsics,FW,Hungary,2,2,180,1,,0,0
-6551,21,M·tÈ Fenyvesi,FW,Hungary,3,3,270,0,,0,0
+7063,19,Zolt√°n Friedmanszky,FW,Hungary,0,0,0,0,,0,0
+7064,20,J√≥zsef Bencsics,FW,Hungary,2,2,180,1,,0,0
+6551,21,M√°t√© Fenyvesi,FW,Hungary,3,3,270,0,,0,0
 6571,1,Antonio Carbajal ,GK,Mexico,3,3,270,0,,0,0
 7065,12,Manuel Camacho,GK,Mexico,0,0,0,0,,0,0
-6845,13,Jaime GÛmez,GK,Mexico,0,0,0,0,,0,0
-6574,2,Jes˙s del Muro,DF,Mexico,3,3,270,0,,0,0
-6847,4,JosÈ Villegas,DF,Mexico,1,1,90,0,,0,0
+6845,13,Jaime G√≥mez,GK,Mexico,0,0,0,0,,0,0
+6574,2,Jes√∫s del Muro,DF,Mexico,3,3,270,0,,0,0
+6847,4,Jos√© Villegas,DF,Mexico,1,1,90,0,,0,0
 7066,5,Alfonso Portugal,DF,Mexico,1,1,90,0,,0,0
-7067,16,JosÈ Antonio Roca,DF,Mexico,0,0,0,0,,0,0
-6848,17,Ra˙l C·rdenas,DF,Mexico,2,2,180,0,,0,0
+7067,16,Jos√© Antonio Roca,DF,Mexico,0,0,0,0,,0,0
+6848,17,Ra√∫l C√°rdenas,DF,Mexico,2,2,180,0,,0,0
 7068,19,Jaime Belmonte,DF,Mexico,2,2,180,1,,0,0
 7069,3,Jorge Romo,MF,Mexico,2,2,180,0,,0,0
 7070,6,Francisco Flores,MF,Mexico,3,3,270,0,,0,0
-6855,7,Alfredo Hern·ndez,MF,Mexico,1,1,90,0,,0,0
-6846,15,Guillermo Sep˙lveda,MF,Mexico,1,1,90,0,,0,0
+6855,7,Alfredo Hern√°ndez,MF,Mexico,1,1,90,0,,0,0
+6846,15,Guillermo Sep√∫lveda,MF,Mexico,1,1,90,0,,0,0
 7071,18,Jaime Salazar,MF,Mexico,0,0,0,0,,0,0
 6583,8,Salvador Reyes,FW,Mexico,3,3,270,0,,0,0
-7072,9,Carlos CalderÛn de la Barca,FW,Mexico,1,1,90,0,,0,0
-7073,10,Crescencio GutiÈrrez,FW,Mexico,1,1,90,0,,0,0
+7072,9,Carlos Calder√≥n de la Barca,FW,Mexico,1,1,90,0,,0,0
+7073,10,Crescencio Guti√©rrez,FW,Mexico,1,1,90,0,,0,0
 7074,11,Enrique Sesma,FW,Mexico,3,3,270,0,,0,0
-7236,14,Miguel GutiÈrrez GutiÈrrez,FW,Mexico,2,2,180,0,,0,0
+7236,14,Miguel Guti√©rrez Guti√©rrez,FW,Mexico,2,2,180,0,,0,0
 7075,20,Carlos Blanco,FW,Mexico,2,2,180,0,,0,0
-7076,21,Ligorio LÛpez,FW,Mexico,0,0,0,0,,0,0
-7077,22,Carlos Gonz·lez,FW,Mexico,2,2,180,0,,0,0
+7076,21,Ligorio L√≥pez,FW,Mexico,0,0,0,0,,0,0
+7077,22,Carlos Gonz√°lez,FW,Mexico,2,2,180,0,,0,0
 7078,1,Harry Gregg,GK,Northern Ireland,4,4,360,0,,0,0
 7079,12,Norman Uprichard,GK,Northern Ireland,1,1,120,0,,0,0
 7080,18,Roy Rea,GK,Northern Ireland,0,0,0,0,,0,0
@@ -197,28 +197,28 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7097,16,Derek Dougan,FW,Northern Ireland,1,1,90,0,,0,0
 7098,17,Fay Coyle,FW,Northern Ireland,1,1,90,0,,0,0
 7099,22,Bobby Trainor,FW,Northern Ireland,0,0,0,0,,0,0
-7100,1,RamÛn Mayeregger,GK,Paraguay,1,1,90,0,,0,0
+7100,1,Ram√≥n Mayeregger,GK,Paraguay,1,1,90,0,,0,0
 7101,12,Samuel Aguilar,GK,Paraguay,2,2,180,0,,0,0
-7102,2,Edelmiro ArÈvalo,DF,Paraguay,3,3,270,0,,0,0
-7103,4,Ignacio Ach˙carro,DF,Paraguay,3,3,270,0,,0,0
-7104,6,Eligio Echag¸e,DF,Paraguay,2,2,180,0,,0,0
+7102,2,Edelmiro Ar√©valo,DF,Paraguay,3,3,270,0,,0,0
+7103,4,Ignacio Ach√∫carro,DF,Paraguay,3,3,270,0,,0,0
+7104,6,Eligio Echag√ºe,DF,Paraguay,2,2,180,0,,0,0
 7105,13,Luis Gini,DF,Paraguay,0,0,0,0,,0,0
-7106,14,DarÌo Segovia,DF,Paraguay,0,0,0,0,,0,0
-7107,17,AgustÌn Miranda,DF,Paraguay,1,1,90,0,,0,0
+7106,14,Dar√≠o Segovia,DF,Paraguay,0,0,0,0,,0,0
+7107,17,Agust√≠n Miranda,DF,Paraguay,1,1,90,0,,0,0
 7108,3,Juan Vicente Lezcano,MF,Paraguay,3,3,270,0,,0,0
 7109,5,Salvador Villalba,MF,Paraguay,3,3,270,0,,0,0
 7110,15,Luis Santos Silva,MF,Paraguay,0,0,0,0,,0,0
-7111,7,Juan Bautista Ag¸ero ,FW,Paraguay,3,3,270,2,,0,0
-7112,8,JosÈ Parodi,FW,Paraguay,3,3,270,2,,0,0
+7111,7,Juan Bautista Ag√ºero ,FW,Paraguay,3,3,270,2,,0,0
+7112,8,Jos√© Parodi,FW,Paraguay,3,3,270,2,,0,0
 7113,9,Jorge Lino Romero,FW,Paraguay,3,3,270,2,,0,0
 7114,10,Oscar Aguilera,FW,Paraguay,0,0,0,0,,0,0
 7115,11,Florencio Amarilla,FW,Paraguay,3,3,270,2,,0,0
 7116,16,Claudio Lezcano,FW,Paraguay,0,0,0,0,,0,0
 7117,18,Gilberto Penayo,FW,Paraguay,0,0,0,0,,0,0
-7118,19,Eliseo Insfr·n,FW,Paraguay,0,0,0,0,,0,0
-7119,20,JosÈ Ra˙l Aveiro,FW,Paraguay,0,0,0,0,,0,0
-7120,21,Cayetano RÈ,FW,Paraguay,3,3,270,1,,0,0
-7121,22,Eligio Insfr·n,FW,Paraguay,0,0,0,0,,0,0
+7118,19,Eliseo Insfr√°n,FW,Paraguay,0,0,0,0,,0,0
+7119,20,Jos√© Ra√∫l Aveiro,FW,Paraguay,0,0,0,0,,0,0
+7120,21,Cayetano R√©,FW,Paraguay,3,3,270,1,,0,0
+7121,22,Eligio Insfr√°n,FW,Paraguay,0,0,0,0,,0,0
 7122,1,Tommy Younger ,GK,Scotland,2,2,180,0,,0,0
 7123,2,Bill Brown,GK,Scotland,1,1,90,0,,0,0
 7124,3,Alex Parker,DF,Scotland,1,1,90,0,,0,0
@@ -268,21 +268,21 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7161,16,Ingemar Haraldsson,GK,Sweden,0,0,0,0,,0,0
 7162,2,Orvar Bergmark,DF,Sweden,6,6,540,0,,0,0
 7163,3,Sven Axbom,DF,Sweden,6,6,540,0,,0,0
-7164,5,≈ke Johansson,DF,Sweden,0,0,0,0,,0,0
-7165,13,Prawitz ÷berg,DF,Sweden,0,0,0,0,,0,0
+7164,5,√Öke Johansson,DF,Sweden,0,0,0,0,,0,0
+7165,13,Prawitz √ñberg,DF,Sweden,0,0,0,0,,0,0
 7166,14,Bengt Gustavsson,DF,Sweden,6,6,540,0,,0,0
 7167,4,Nils Liedholm ,MF,Sweden,5,5,450,2,,0,0
 7168,6,Sigge Parling,MF,Sweden,6,6,540,0,,0,0
 7169,7,Kurt Hamrin,MF,Sweden,5,5,450,4,,0,0
 7170,11,Lennart Skoglund,MF,Sweden,6,6,540,1,,0,0
-7171,15,Reino Bˆrjesson,MF,Sweden,4,4,360,0,,0,0
-7172,17,Olle HÂkansson,MF,Sweden,0,0,0,0,,0,0
+7171,15,Reino B√∂rjesson,MF,Sweden,4,4,360,0,,0,0
+7172,17,Olle H√•kansson,MF,Sweden,0,0,0,0,,0,0
 7173,21,Bengt Berndtsson,MF,Sweden,1,1,90,0,,0,0
 7174,8,Gunnar Gren,FW,Sweden,5,5,450,1,,0,0
 7175,9,Agne Simonsson,FW,Sweden,5,5,450,4,,0,0
 7176,10,Arne Selmosson,FW,Sweden,1,1,90,0,,0,0
-7177,18,Gˆsta Lˆfgren,FW,Sweden,1,1,90,0,,0,0
-7178,19,Henry K‰llgren,FW,Sweden,1,1,90,0,,0,0
+7177,18,G√∂sta L√∂fgren,FW,Sweden,1,1,90,0,,0,0
+7178,19,Henry K√§llgren,FW,Sweden,1,1,90,0,,0,0
 7179,20,Bror Mellberg,FW,Sweden,2,2,180,0,,0,0
 7180,22,Owe Ohlsson,FW,Sweden,0,0,0,0,,0,0
 7181,1,Jack Kelsey,GK,Wales,5,5,450,0,,0,0
@@ -308,7 +308,7 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7201,18,Roy Vernon,FW,Wales,1,1,90,0,,0,0
 7202,19,Colin Webster,FW,Wales,3,3,270,0,,0,0
 7203,1,Fritz Herkenrath,GK,West Germany,5,5,450,0,,0,0
-6914,21,G¸nter Sawitzki,GK,West Germany,0,0,0,0,,0,0
+6914,21,G√ºnter Sawitzki,GK,West Germany,0,0,0,0,,0,0
 7204,22,Heinz Kwiatkowski,GK,West Germany,1,1,90,0,,0,0
 6916,2,Herbert Erhardt,DF,West Germany,6,6,540,0,,0,0
 7205,3,Erich Juskowiak,DF,West Germany,5,5,418,0,,0,1
@@ -323,7 +323,7 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7212,18,Rudi Hoffmann,MF,West Germany,0,0,0,0,,0,0
 7213,19,Wolfgang Peters,MF,West Germany,0,0,0,0,,0,0
 7214,8,Helmut Rahn,FW,West Germany,6,6,540,6,,0,0
-6926,11,Hans Sch‰fer ,FW,West Germany,6,6,540,3,,0,0
+6926,11,Hans Sch√§fer ,FW,West Germany,6,6,540,3,,0,0
 6433,12,Uwe Seeler,FW,West Germany,5,5,450,2,,0,0
 7215,13,Bernhard Klodt,FW,West Germany,2,2,180,0,,0,0
 7216,14,Hans Cieslarczyk,FW,West Germany,2,2,180,1,,0,0
@@ -332,7 +332,7 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7218,1,Vladimir Beara,GK,Yugoslavia,3,3,270,0,,0,0
 6931,2,Srboljub Krivoku?a,GK,Yugoslavia,1,1,90,0,,0,0
 7219,20,Gordan Irovi?,GK,Yugoslavia,0,0,0,0,,0,0
-6938,3,Vasilije äijakovi?,DF,Yugoslavia,2,2,180,0,,0,0
+6938,3,Vasilije ≈†ijakovi?,DF,Yugoslavia,2,2,180,0,,0,0
 7220,4,Tomislav Crnkovi?,DF,Yugoslavia,4,4,360,0,,0,0
 7221,5,Novak Tomi?,DF,Yugoslavia,2,2,180,0,,0,0
 7222,6,Branko Zebec ,DF,Yugoslavia,4,4,360,0,,0,0
@@ -340,14 +340,14 @@ player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
 7224,14,Milorad Milutinovi?,DF,Yugoslavia,0,0,0,0,,0,0
 7225,21,Nikola Radovi?,DF,Yugoslavia,0,0,0,0,,0,0
 7226,8,Dobrosav Krsti?,MF,Yugoslavia,4,4,360,0,,0,0
-7227,9,Vujadin Boökov,MF,Yugoslavia,4,4,360,0,,0,0
-7228,10,Ivan äantek,MF,Yugoslavia,0,0,0,0,,0,0
-6941,15,Dragoslav äekularac,MF,Yugoslavia,3,3,270,0,,0,0
+7227,9,Vujadin Bo≈°kov,MF,Yugoslavia,4,4,360,0,,0,0
+7228,10,Ivan ≈†antek,MF,Yugoslavia,0,0,0,0,,0,0
+6941,15,Dragoslav ≈†ekularac,MF,Yugoslavia,3,3,270,0,,0,0
 7229,17,Zdravko Rajkov,MF,Yugoslavia,4,4,360,1,,0,0
-7230,7,Miloö Milutinovi?,FW,Yugoslavia,3,3,270,0,,0,0
+7230,7,Milo≈° Milutinovi?,FW,Yugoslavia,3,3,270,0,,0,0
 7231,12,Aleksandar Petakovi?,FW,Yugoslavia,4,4,360,2,,0,0
 7232,13,Todor Veselinovi?,FW,Yugoslavia,4,4,360,3,,0,0
-7233,16,Ilijas Paöi?,FW,Yugoslavia,0,0,0,0,,0,0
-7234,18,Luka Lipoöinovi?,FW,Yugoslavia,0,0,0,0,,0,0
+7233,16,Ilijas Pa≈°i?,FW,Yugoslavia,0,0,0,0,,0,0
+7234,18,Luka Lipo≈°inovi?,FW,Yugoslavia,0,0,0,0,,0,0
 7235,19,Radivoje Ognjanovi?,FW,Yugoslavia,2,2,180,1,,0,0
-6948,22,Draûan Jerkovi?,FW,Yugoslavia,0,0,0,0,,0,0
+6948,22,Dra≈æan Jerkovi?,FW,Yugoslavia,0,0,0,0,,0,0
