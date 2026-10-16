@@ -8978,11 +8978,11 @@ player_id,world_cup_year,team,club,country_club
 6813,1962,England,Blackburn Rovers,England
 6814,1962,England,Burnley,England
 6815,1962,England,Internazionale,Italy
-6816,1962,England,Fulham,England
+
 6817,1958,England,West Bromwich Albion,England
 6817,1962,England,West Bromwich Albion,England
 6818,1962,England,Middlesbrough,England
-6819,1962,Hungary,Tatabánya,Hungary
+
 6820,1958,Hungary,Dorog,Hungary
 6820,1962,Hungary,Dorog,Hungary
 6821,1958,Hungary,Vasas,Hungary
@@ -9212,6 +9212,7 @@ player_id,world_cup_year,team,club,country_club
 7022,1958,England,Blackburn Rovers,England
 7023,1958,England,West Bromwich Albion,England
 7024,1958,England,Fulham,England
+7024,1962,England,Fulham,England
 7025,1958,England,Preston North End,England
 7026,1958,England,Chelsea,England
 7027,1958,England,Wolverhampton,England
@@ -9240,6 +9241,7 @@ player_id,world_cup_year,team,club,country_club
 7050,1958,France,Reims,France
 7051,1958,France,Lens,France
 7052,1958,Hungary,Tatabanya,Hungary
+7052,1962,Hungary,Tatabánya,Hungary
 7053,1958,Hungary,Budapest Honvéd FC,Hungary
 7054,1958,Hungary,Vasas,Hungary
 7055,1958,Hungary,Diósgy?ri,Hungary
