@@ -8509,6 +8509,7 @@ player_id,world_cup_year,team,club,country_club
 6454,1962,Brazil,Santos,Brazil
 6454,1966,Brazil,Santos,Brazil
 6455,1966,Brazil,Botafogo,Brazil
+6456,1954,Brazil,Portuguesa,Brazil
 6456,1958,Brazil,Portuguesa,Brazil
 6456,1962,Brazil,Palmeiras,Brazil
 6456,1966,Brazil,Palmeiras,Brazil
@@ -8673,6 +8674,7 @@ player_id,world_cup_year,team,club,country_club
 6569,1962,Italy,Bologna,Italy
 6569,1966,Italy,Bologna,Italy
 6570,1966,Italy,Cagliari,Italy
+6571,1954,Mexico,León,Mexico
 6571,1958,Mexico,León,Mexico
 6571,1962,Mexico,León,Mexico
 6571,1966,Mexico,León,Mexico
@@ -8866,15 +8868,18 @@ player_id,world_cup_year,team,club,country_club
 6722,1962,Argentina,Racing Club,Argentina
 6723,1962,Argentina,Racing Club,Argentina
 6724,1962,Argentina,Argentinos Juniors,Argentina
+6725,1954,Brazil,Fluminense,Brazil
 6725,1958,Brazil,Fluminense,Brazil
 6725,1962,Brazil,Fluminense,Brazil
 
 6727,1958,Brazil,Bangu,Brazil
 6727,1962,Brazil,Bangu,Brazil
+6728,1954,Brazil,Botafogo,Brazil
 6728,1958,Brazil,Botafogo,Brazil
 6728,1962,Brazil,Botafogo,Brazil
 6729,1962,Brazil,Fluminense,Brazil
 6730,1962,Brazil,São Paulo,Brazil
+6731,1954,Brazil,Fluminense,Brazil
 6731,1958,Brazil,Botafogo,Brazil
 6731,1962,Brazil,Botafogo,Brazil
 6732,1962,Brazil,Palmeiras,Brazil
@@ -8935,6 +8940,7 @@ player_id,world_cup_year,team,club,country_club
 6784,1962,Colombia,Deportivo Pereira,Colombia
 6785,1962,Colombia,Independiente Santa Fe,Colombia
 6786,1962,Colombia,Atlético Nacional,Colombia
+6787,1954,Czechoslovaquia,Křídla vlasti Olomouc,Czech Republic
 6787,1958,Czechoslovaquia,Slovan Bratislava,Slovakia
 6787,1962,Czechoslovaquia,Slovan Bratislava,Slovakia
 6788,1962,Czechoslovaquia,RH Brno,Czech Republic
@@ -8942,8 +8948,10 @@ player_id,world_cup_year,team,club,country_club
 6790,1962,Czechoslovaquia,Slavia Prague,Czech Republic
 6791,1958,Czechoslovaquia,Slovan Bratislava,Slovakia
 6791,1962,Czechoslovaquia,Slovan Bratislava,Slovakia
+6792,1954,Czechoslovaquia,Dukla Prague,Czech Republic
 6792,1958,Czechoslovaquia,Dukla Prague,Czech Republic
 6792,1962,Czechoslovaquia,Dukla Prague,Czech Republic
+6793,1954,Czechoslovaquia,Dukla Prague,Czech Republic
 6793,1958,Czechoslovaquia,Dukla Prague,Czech Republic
 6793,1962,Czechoslovaquia,Dukla Prague,Czech Republic
 6794,1962,Czechoslovaquia,Inter Bratislava,Slovakia
@@ -9019,8 +9027,10 @@ player_id,world_cup_year,team,club,country_club
 6846,1962,Mexico,Guadalajara,Mexico
 6847,1958,Mexico,Guadalajara,Mexico
 6847,1962,Mexico,Guadalajara,Mexico
+6848,1954,Mexico,Puebla,Mexico
 6848,1958,Mexico,Zacatepec,Mexico
 6848,1962,Mexico,Zacatepec,Mexico
+6849,1954,Mexico,America,Mexico
 6849,1962,Mexico,America,Mexico
 6850,1962,Mexico,Toluca,Mexico
 6851,1962,Mexico,Atlante,Mexico
@@ -9056,25 +9066,31 @@ player_id,world_cup_year,team,club,country_club
 6876,1962,Spain,Barcelona,Spain
 6877,1962,Spain,Real Madrid,Spain
 6878,1962,Spain,Barcelona,Spain
+6879,1954,Uruguay,Nacional,Uruguay
 6879,1962,Spain,Real Madrid,Spain
 6880,1962,Spain,Barcelona,Spain
 6881,1962,Spain,Barcelona,Spain
 6882,1962,Spain,Atletico Madrid,Spain
 6883,1962,Spain,Real Madrid,Spain
+6884,1954,Hungary,Budapest Honved,Hungary
 6884,1962,Spain,Real Madrid,Spain
 6885,1962,Spain,Barcelona,Spain
 6886,1962,Switzerland,Luzern,Switzerland
 6887,1962,Switzerland,Basel,Switzerland
+6888,1954,Switzerland,La Chaux-de-Fonds,Switzerland
 6888,1962,Switzerland,La Chaux-de-Fonds,Switzerland
 6889,1962,Switzerland,Grenchen,Switzerland
 6890,1962,Switzerland,Servette,Switzerland
 6891,1962,Switzerland,Zürich,Switzerland
+6892,1954,Switzerland,Young Boys,Switzerland
 6892,1962,Switzerland,Young Boys,Switzerland
 6893,1962,Switzerland,Basel,Switzerland
 6894,1962,Switzerland,Mantova,Italy
+6895,1954,Switzerland,Grasshopper,Switzerland
 6895,1962,Switzerland,Lausanne-Sport,Switzerland
 6896,1962,Switzerland,Lausanne-Sport,Switzerland
 6897,1962,Switzerland,La Chaux-de-Fonds,Switzerland
+6898,1954,Switzerland,Lausanne-Sport,Switzerland
 6898,1962,Switzerland,Stade Français,France
 6899,1962,Switzerland,Stade Français,France
 6900,1962,Switzerland,Lausanne-Sport,Switzerland
@@ -9082,6 +9098,7 @@ player_id,world_cup_year,team,club,country_club
 6902,1962,Switzerland,La Chaux-de-Fonds,Switzerland
 6903,1962,Uruguay,Peñarol,Uruguay
 6904,1962,Uruguay,Nacional,Uruguay
+6905,1954,Uruguay,Rampla Juniors,Uruguay
 6905,1962,Uruguay,Peñarol,Uruguay
 6906,1962,Uruguay,Cerro,Uruguay
 6907,1962,Uruguay,Nacional,Uruguay
@@ -9094,6 +9111,7 @@ player_id,world_cup_year,team,club,country_club
 6914,1958,West Germany,VfB Stuttgart,Germany
 6914,1962,West Germany,VfB Stuttgart,Germany
 6915,1962,West Germany,TSG Ulm,Germany
+6916,1954,West Germany,Greuther Fürth,Germany
 6916,1958,West Germany,Greuther Fürth,Germany
 6916,1962,West Germany,Greuther Fürth,Germany
 6917,1962,West Germany,1. FC Köln,Germany
@@ -9158,96 +9176,129 @@ player_id,world_cup_year,team,club,country_club
 6969,1958,Argentina,Estudiantes,Argentina
 6970,1958,Argentina,Independiente,Argentina
 6971,1958,Austria,Wiener SC,Austria
+6972,1954,Austria,First Vienna FC,Austria
 6972,1958,Austria,First Vienna FC,Austria
 6973,1958,Austria,1. Simmeringer SC,Austria
+6974,1954,Austria,Rapid Wien,Austria
 6974,1958,Austria,Rapid Wien,Austria
+6975,1954,Austria,Rapid Wien,Austria
 6975,1958,Austria,Rapid Wien,Austria
 6976,1958,Austria,Austria Wien,Austria
 6977,1958,Austria,Rapid Wien,Austria
+6978,1954,Austria,Wacker Wien,Austria
 6978,1958,Austria,Wacker Wien,Austria
+6979,1954,Austria,Wiener SC,Austria
 6979,1958,Austria,Wiener SC,Austria
+6980,1954,Austria,First Vienna FC,Austria
 6980,1958,Austria,First Vienna FC,Austria
+6981,1954,Austria,Austria Wien,Austria
 6981,1958,Austria,Austria Wien,Austria
 6982,1958,Austria,Wacker Wien,Austria
 6983,1958,Austria,Kapfenberger SV,Austria
 6984,1958,Austria,Wiener SC,Austria
 6985,1958,Austria,Wacker Wien,Austria
 6986,1958,Austria,First Vienna FC,Austria
+6987,1954,Austria,Rapid Wien,Austria
 6987,1958,Austria,Rapid Wien,Austria
 6988,1958,Austria,Sturm Graz,Austria
+6989,1954,Austria,Austria Wien,Austria
 6989,1958,Austria,Austria Wien,Austria
 6990,1958,Austria,Wiener SC,Austria
+6991,1954,Austria,Rapid Wien,Austria
 6991,1958,Austria,Rapid Wien,Austria
 6992,1958,Austria,Grazer AK,Austria
 6993,1958,Brazil,Vasco da Gama,Brazil
 6994,1958,Brazil,Corinthians,Brazil
 6995,1958,Brazil,São Paulo,Brazil
 6996,1958,Brazil,Vasco da Gama,Brazil
+6997,1954,Brazil,São Paulo,Brazil
 6997,1958,Brazil,São Paulo,Brazil
 6997,1962,Brazil,Santos,Brazil
 6998,1958,Brazil,São Paulo,Brazil
 6999,1958,Brazil,Flamengo,Brazil
 7000,1958,Brazil,Flamengo,Brazil
 7001,1958,Brazil,Flamengo,Brazil
+7002,1954,Czechoslovakia,Tankista Praha,Czech Republic
 7002,1958,Czechoslovakia,Spartak Trnava,Slovakia
 7003,1958,Czechoslovakia,Slavia Prague,Czech Republic
 7004,1958,Czechoslovakia,Inter Bratislava,Slovakia
+7005,1954,Czechoslovakia,Dukla Prague,Czech Republic
 7005,1958,Czechoslovakia,Dukla Prague,Czech Republic
 7006,1958,Czechoslovakia,Dukla Prague,Czech Republic
 7007,1958,Czechoslovakia,Slovan Bratislava,Slovakia
+7008,1954,Czechoslovakia,Tatran Presov,Slovakia
 7008,1958,Czechoslovakia,Inter Bratislava,Slovakia
 7009,1958,Czechoslovakia,Dukla Prague,Czech Republic
+7010,1954,Czechoslovakia,Křídla vlasti Olomouc,Czech Republic
 7010,1958,Czechoslovakia,Sparta Prague,Czech Republic
 7011,1958,Czechoslovakia,Dukla Pardubice,Czech Republic
 7012,1958,Czechoslovakia,Slavia Prague,Czech Republic
 7013,1958,Czechoslovakia,Slavia Karlovy Vary,Czech Republic
+7014,1954,Czechoslovakia,Dukla Prague,Czech Republic
 7014,1958,Czechoslovakia,Sparta Prague,Czech Republic
 7015,1958,England,Burnley,England
 7016,1958,England,Bolton Wanderers,England
 7017,1958,England,Bolton Wanderers,England
+7018,1954,England,Wolverhampton,England
 7018,1958,England,Wolverhampton,England
 7019,1958,England,Chelsea,England
 7020,1958,England,Wolverhampton,England
 7021,1958,England,Wolverhampton,England
 7022,1958,England,Blackburn Rovers,England
 7023,1958,England,West Bromwich Albion,England
+7024,1954,England,Fulham,England
 7024,1958,England,Fulham,England
 7024,1962,England,Fulham,England
+7025,1954,England,Preston North End,England
 7025,1958,England,Preston North End,England
 7026,1958,England,Chelsea,England
 7027,1958,England,Wolverhampton,England
 7028,1958,England,Tottenham,England
 7029,1958,England,Liverpool,England
+7030,1954,France,Saint-Étienne,France
 7030,1958,France,Saint-Étienne,France
 7031,1958,France,Reims,France
+7032,1954,France,Metz,France
 7032,1958,France,Bordeaux,France
+7033,1954,France,Strasbourg,France
 7033,1958,France,Monaco,France
 7034,1958,France,Lyon,France
+7035,1954,France,Reims,France
 7035,1958,France,RC Paris,France
 7036,1958,France,Lyon,France
+7037,1954,France,Reims,France
 7037,1958,France,Reims,France
 7038,1958,France,Valenciennes,France
 7039,1958,France,Angers,France
+7040,1954,France,Reims,France
 7040,1958,France,Reims,France
 7041,1958,France,Nîmes,France
+7042,1954,France,Sochaux,France
 7042,1958,France,Marseille,France
 7043,1958,France,Monaco,France
+7044,1954,France,Reims,France
 7044,1958,France,Real Madrid,Spain
 7045,1958,France,Sedan,France
 7046,1958,France,Angers,France
 7047,1958,France,Lille,France
 7048,1958,France,Reims,France
 7049,1958,France,Reims,France
+7050,1954,France,Lille,France
 7050,1958,France,Reims,France
 7051,1958,France,Lens,France
+7052,1954,Hungary,Budapest Honved,Hungary
 7052,1958,Hungary,Tatabanya,Hungary
 7052,1962,Hungary,Tatabánya,Hungary
-7053,1958,Hungary,Budapest Honvéd FC,Hungary
+7053,1954,Hungary,Budapest Honved,Hungary
+7053,1958,Hungary,Budapest Honved,Hungary
+7054,1954,Hungary,Gyor,Hungary
 7054,1958,Hungary,Vasas,Hungary
-7055,1958,Hungary,Diósgy?ri,Hungary
+7055,1958,Hungary,Diósgyor,Hungary
 7056,1958,Hungary,Vasas,Hungary
-7057,1958,Hungary,Budapest Honvéd FC,Hungary
-7058,1958,Hungary,Budapest Honvéd FC,Hungary
+7057,1954,Hungary,Budapest Honved,Hungary
+7057,1958,Hungary,Budapest Honved,Hungary
+7058,1958,Hungary,Budapest Honved,Hungary
+7059,1954,Hungary,MTK Budapest,Hungary
 7059,1958,Hungary,MTK Budapest,Hungary
 7060,1958,Hungary,Vasas,Hungary
 7061,1958,Hungary,Tatabanya,Hungary
@@ -9256,14 +9307,17 @@ player_id,world_cup_year,team,club,country_club
 7064,1958,Hungary,Újpest,Hungary
 7065,1958,Mexico,Toluca,Mexico
 7066,1958,Mexico,Necaxa,Mexico
+7067,1954,Mexico,Zacatepec,Mexico
 7067,1958,Mexico,Zacatepec,Mexico
 7068,1958,Mexico,Cuautla,Mexico
+7069,1954,Mexico,Marte,Mexico
 7069,1958,Mexico,Toluca,Mexico
 7070,1958,Mexico,Guadalajara,Mexico
 7071,1958,Mexico,Necaxa,Mexico
 7072,1958,Mexico,Atlante,Mexico
 7073,1958,Mexico,Guadalajara,Mexico
 7074,1958,Mexico,Toluca,Mexico
+7075,1954,Mexico,Necaxa,Mexico
 7075,1958,Mexico,Toluca,Mexico
 7076,1958,Mexico,Irapuato,Mexico
 7077,1958,Mexico,Atlas,Mexico
@@ -9318,20 +9372,24 @@ player_id,world_cup_year,team,club,country_club
 7126,1958,Scotland,Charlton Athletic,England
 7127,1958,Scotland,Clyde,Scotland
 7128,1958,Scotland,Rangers,Scotland
+7129,1954,Scotland,Celtic,Scotland
 7129,1958,Scotland,Celtic,Scotland
 7130,1958,Scotland,Hibernian,Scotland
 7131,1958,Scotland,Preston North End,England
 7132,1958,Scotland,Heart of Midlothian,Scotland
+7133,1954,Scotland,Dundee,Scotland
 7133,1958,Scotland,Dundee,Scotland
 7134,1958,Scotland,Rangers,Scotland
 7135,1958,Scotland,Aberdeen,Scotland
 7136,1958,Scotland,Rangers,Scotland
+7137,1954,Scotland,Preston North End,England
 7137,1958,Scotland,Heart of Midlothian,Scotland
 7138,1958,Scotland,Blackpool,England
 7139,1958,Scotland,Clyde,Scotland
 7140,1958,Scotland,Celtic,Scotland
 7141,1958,Scotland,Clyde,Scotland
 7142,1958,Scotland,Nottingham Forest,England
+7143,1954,Scotland,Celtic,Scotland
 7143,1958,Scotland,Celtic,Scotland
 7144,1958,Soviet Union,Dynamo Moscow,Russia
 7145,1958,Soviet Union,Dynamo Moscow,Russia
@@ -9393,22 +9451,28 @@ player_id,world_cup_year,team,club,country_club
 7201,1958,Wales,Blackburn Rovers,England
 7202,1958,Wales,Manchester United,England
 7203,1958,West Germany,Rot-Weiss Essen,Germany
+7204,1954,West Germany,Borussia Dortmund,Germany
 7204,1958,West Germany,Borussia Dortmund,Germany
 7205,1958,West Germany,Fortuna Düsseldorf,Germany
 7206,1958,West Germany,Rot-Weiss Essen,Germany
 7207,1958,West Germany,1. FC Köln,Germany
 7208,1958,West Germany,Kickers Offenbach,Germany
+7209,1954,West Germany,1. FC Kaiserslautern,Germany
 7209,1958,West Germany,1. FC Kaiserslautern,Germany
 7210,1958,West Germany,1. FC Kaiserslautern,Germany
 7211,1958,West Germany,Borussia Dortmund,Germany
 7212,1958,West Germany,VfB Stuttgart,Germany
 7213,1958,West Germany,Borussia Dortmund,Germany
+7214,1954,West Germany,Rot-Weiss Essen,Germany
 7214,1958,West Germany,Rot-Weiss Essen,Germany
+7215,1954,West Germany,Schalke 04,Germany
 7215,1958,West Germany,Schalke 04,Germany
 7216,1958,West Germany,SV Sodingen,Germany
 7217,1958,West Germany,Borussia Dortmund,Germany
+7218,1954,Yugoslavia,Hadjuk Split,Croatia
 7218,1958,Yugoslavia,Red Star Belgrade,Serbia
 7219,1958,Yugoslavia,Dinamo Zagreb,Croatia
+7220,1954,Yugoslavia,Dinamo Zagreb,Croatia
 7220,1958,Yugoslavia,Dinamo Zagreb,Croatia
 7221,1958,Yugoslavia,Red Star Belgrade,Serbia
 7222,1958,Yugoslavia,Partizan Belgrade,Serbia
@@ -9416,18 +9480,23 @@ player_id,world_cup_year,team,club,country_club
 7224,1958,Yugoslavia,Partizan Belgrade,Serbia
 7225,1958,Yugoslavia,Hajduk Split,Croatia
 7226,1958,Yugoslavia,Vojvodina Novi Sad,Serbia
+7227,1954,Yugoslavia,Vojvodina Novi Sad,Serbia
 7227,1958,Yugoslavia,Vojvodina Novi Sad,Serbia
 7228,1958,Yugoslavia,Dinamo Zagreb,Croatia
 7229,1958,Yugoslavia,Vojvodina Novi Sad,Serbia
+7230,1954,Yugoslavia,Partizan Belgrade,Serbia
 7230,1958,Yugoslavia,Partizan Belgrade,Serbia
-7231,1958,Yugoslavia,Radni?ki Belgrade,Serbia
+7231,1954,Yugoslavia,Radnicki Belgrade,Serbia
+7231,1958,Yugoslavia,Radnicki Belgrade,Serbia
+7232,1954,Yugoslavia,Vojvodina Novi Sad,Serbia
 7232,1958,Yugoslavia,Vojvodina Novi Sad,Serbia
 7233,1958,Yugoslavia,Željezni?ar Sarajevo,Bosnia and Herzegovina
 7234,1958,Yugoslavia,Dinamo Zagreb,Croatia
-7235,1958,Yugoslavia,Radni?ki Belgrade,Serbia
+7235,1958,Yugoslavia,Radnicki Belgrade,Serbia
 7236,1958,Mexico,Atlas,Mexico
 7237,1966,Brazil,Vasco da Gama,Brazil
 7237,1970,Brazil,Flamengo,Brazil
+7238,1954,Hungary,Salgótarjáni BTC,Hungary
 7238,1958,Hungary,Salgótarjáni BTC,Hungary
 7239,1954,Austria,Wacker Wien,Austria
 7240,1954,Austria,Rapid Wien,Austria
