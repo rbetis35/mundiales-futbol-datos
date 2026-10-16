@@ -7193,7 +7193,7 @@ player_id,world_cup_year,team,club,country_club
 5375,1982,Hungary,Pécs,Hungary
 5376,1982,Hungary,Tatabányai Bányász,Hungary
 5377,1982,Hungary,Waterschei Thor,Belgium
-5378,1982,Hungary,Toulouse,France
+
 
 5380,1978,Hungary,Ferencváros,Hungary
 5380,1982,Hungary,Ferencváros,Hungary
@@ -7487,6 +7487,7 @@ player_id,world_cup_year,team,club,country_club
 5623,1978,Hungary,Haladás,Hungary
 5624,1978,Hungary,Ferencváros,Hungary
 5625,1978,Hungary,Ferencváros,Hungary
+5625,1982,Hungary,Toulouse,France
 5626,1978,Hungary,Újpesy,Hungary
 5626,1982,Hungary,Újpest,Hungary
 5627,1978,Hungary,Vasas,Hungary
