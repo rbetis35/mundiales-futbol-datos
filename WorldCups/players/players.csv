@@ -7237,3 +7237,284 @@ player_id,dorsal,player_name,birth_date,position,nationality
 7236,14,Miguel Gutiérrez Gutiérrez,07-05-1931,FW,Mexico
 7237,2,Brito,09-08-1939,DF,Brazil
 7238,14,Ferenc Szojka,07-04-1931,FW,Hungary
+7239,15,Franz Pelikan,06-11-1925,GK,Austria
+7240,16,Walter Zeman,01-05-1927,GK,Austria
+7241,2,Gerhard Hanappi,16-02-1929,DF,Austria
+7242,5,Ernst Ocwirk ,07-03-1926,MF,Austria
+7243,10,Erich Probst,05-12-1927,MF,Austria
+7244,14,Karl Giesser,29-10-1928,MF,Austria
+7245,17,Alfred Teinitzer,29-07-1929,MF,Austria
+7246,18,Johann Riegler,17-07-1929,MF,Austria
+7247,7,Robert Körner,21-08-1924,FW,Austria
+7248,9,Theodor Wagner,06-08-1927,FW,Austria
+7249,21,Ernst Stojaspal,14-01-1925,FW,Austria
+7250,22,Walter Haummer,22-11-1928,FW,Austria
+7251,1,Léopold Gernaey,25-02-1927,GK,Belgium
+7252,12,Charles Geerts,29-10-1930,GK,Belgium
+7253,17,Raymond Ausloos,15-05-1928,GK,Belgium
+7254,2,Marcel Dries,19-09-1929,DF,Belgium
+7255,3,Alfons Van Brandt,24-06-1927,DF,Belgium
+7256,4,Constant Huysmans,11-10-1928,DF,Belgium
+7257,13,Henri Dirickx,07-07-1927,DF,Belgium
+7258,18,Jef Van Der Linden,02-11-1927,DF,Belgium
+7259,5,Louis Carré,07-01-1925,MF,Belgium
+7260,6,Victor Mees,26-01-1927,MF,Belgium
+7261,7,Jozef Vliers,18-12-1932,MF,Belgium
+7262,14,Robert Van Kerkhoven,01-10-1924,MF,Belgium
+7263,19,Jo Backaert,05-08-1921,MF,Belgium
+7264,20,Robert Maertens,24-01-1930,MF,Belgium
+7265,21,Jean Van Steen,02-06-1929,MF,Belgium
+7266,8,Denis Houf,16-02-1932,FW,Belgium
+7267,9,Henri Coppens,29-04-1930,FW,Belgium
+7268,10,Léopold Anoul,19-08-1922,FW,Belgium
+7269,11,Joseph Mermans ,16-02-1922,FW,Belgium
+7270,15,Hippolyte Van Den Bosch,30-04-1926,FW,Belgium
+7271,16,Pieter Van Den Bosch,31-10-1927,FW,Belgium
+7272,22,Luc Van Hoyweghen,07-01-1929,FW,Belgium
+7273,21,Veludo,07-08-1930,GK,Brazil
+7274,22,Cabeção,23-08-1930,GK,Brazil
+7275,4,Brandãozinho,09-06-1925,DF,Brazil
+7276,12,Paulinho de Almeida,15-04-1932,DF,Brazil
+7277,13,Alfredo Ramos,27-10-1924,DF,Brazil
+7278,5,Pinheiro,13-01-1932,MF,Brazil
+7279,6,Bauer ,21-11-1925,MF,Brazil
+7280,14,Ely,14-05-1921,MF,Brazil
+7281,16,Dequinha,19-03-1928,MF,Brazil
+7282,7,Julinho,29-07-1929,FW,Brazil
+7283,9,Baltazar,14-01-1926,FW,Brazil
+7284,10,Pinga,11-02-1924,FW,Brazil
+7285,11,Rodrigues,27-06-1925,FW,Brazil
+7286,17,Maurinho,06-06-1933,FW,Brazil
+7287,18,Humberto,04-02-1934,FW,Brazil
+7288,19,Índio,01-03-1931,FW,Brazil
+7289,20,Rubens,04-11-1928,FW,Brazil
+7290,1,Theodor Reimann,10-02-1921,GK,Czechoslovakia
+7291,5,Ji?í Trnka,02-12-1926,DF,Czechoslovakia
+7292,12,Anton Krásnohorský,22-10-1925,DF,Czechoslovakia
+7293,6,Michal Benedikovi?,31-05-1923,MF,Czechoslovakia
+7294,13,Ji?í Hledík,19-04-1929,MF,Czechoslovakia
+7295,16,Zden?k Procházka,12-01-1928,MF,Czechoslovakia
+7296,7,Ladislav Hlavá?ek,26-06-1925,FW,Czechoslovakia
+7297,8,Otto Hemele,22-01-1926,FW,Czechoslovakia
+7298,9,Anton Malatinský,15-01-1920,FW,Czechoslovakia
+7299,10,Emil Pažický,14-10-1927,FW,Czechoslovakia
+7300,11,Ji?í Pešek,04-06-1927,FW,Czechoslovakia
+7301,15,Ladislav Ka?áni,01-04-1931,FW,Czechoslovakia
+7302,18,Josef Majer,08-06-1925,FW,Czechoslovakia
+7303,19,Jaroslav Košnar,17-08-1930,FW,Czechoslovakia
+7304,1,Gil Merrick,26-01-1922,GK,England
+7305,12,Ted Burgin,29-04-1927,GK,England
+7306,2,Ron Staniforth,13-04-1924,DF,England
+7307,3,Roger Byrne,08-09-1929,DF,England
+7308,13,Ken Green,27-04-1924,DF,England
+7309,5,Syd Owen,28-02-1922,MF,England
+7310,6,Jimmy Dickinson,24-04-1925,MF,England
+7311,14,Bill McGarry,10-06-1927,MF,England
+7312,16,Albert Quixall,09-08-1933,MF,England
+7313,18,Allenby Chilton,16-09-1918,MF,England
+7314,19,Ken Armstrong,03-06-1924,MF,England
+7315,7,Stanley Matthews,01-02-1915,FW,England
+7316,8,Ivor Broadis,18-12-1922,FW,England
+7317,9,Nat Lofthouse,27-08-1925,FW,England
+7318,10,Tommy Taylor,29-01-1932,FW,England
+7319,15,Dennis Wilshaw,11-03-1926,FW,England
+7320,17,Jimmy Mullen,06-01-1923,FW,England
+7321,20,Bedford Jezzard,19-10-1927,FW,England
+7322,22,Harry Hooper,14-06-1933,FW,England
+7323,2,César Ruminski,14-06-1924,GK,France
+7324,4,Lazare Gianessi,09-11-1925,DF,France
+7325,5,Jacques Grimonpon,30-07-1925,DF,France
+7326,8,Guillaume Bieganski,03-11-1932,MF,France
+7327,9,Antoine Cuissard,19-07-1924,MF,France
+7328,11,Xercès Louis,31-10-1926,MF,France
+7329,13,Abderrahmane Mahjoub,25-04-1929,MF,France
+7330,15,Abdelaziz Ben Tifour,25-07-1927,MF,France
+7331,16,René Dereuddre,26-06-1930,MF,France
+7332,19,Michel Leblond,10-05-1932,MF,France
+7333,17,Léon Glovacki,19-02-1928,FW,France
+7334,20,Ernest Schultz,29-01-1931,FW,France
+7335,21,André Strappe,23-02-1928,FW,France
+7336,21,Sándor Gellér,12-07-1925,GK,Hungary
+7337,22,Géza Gulyás,05-06-1931,GK,Hungary
+7338,2,Jen? Buzánszky,04-05-1925,DF,Hungary
+7339,3,Gyula Lóránt,06-02-1923,DF,Hungary
+7340,4,Mihály Lantos,29-09-1928,DF,Hungary
+7341,13,Pál Várhidi,06-11-1931,DF,Hungary
+7342,6,József Zakariás,25-03-1924,MF,Hungary
+7343,14,Imre Kovács,26-11-1921,MF,Hungary
+7344,8,Sándor Kocsis,21-09-1929,FW,Hungary
+7345,11,Zoltán Czibor,08-08-1929,FW,Hungary
+7346,17,Ferenc Machos,30-06-1932,FW,Hungary
+7347,18,Lajos Csordás,06-10-1932,FW,Hungary
+7348,19,Péter Palotás,27-06-1929,FW,Hungary
+7349,20,Mihály Tóth,24-09-1926,FW,Hungary
+7350,1,Giorgio Ghezzi,10-07-1930,GK,Italy
+7351,12,Giovanni Viola,26-06-1926,GK,Italy
+7352,22,Leonardo Costagliola,27-10-1921,GK,Italy
+7353,2,Guido Vincenzi,14-07-1932,DF,Italy
+7354,3,Giovanni Giacomazzi,18-01-1928,DF,Italy
+7355,13,Ardico Magnini,21-10-1928,DF,Italy
+7356,14,Sergio Cervato,22-03-1929,DF,Italy
+7357,4,Maino Neri,30-06-1924,MF,Italy
+7358,5,Omero Tognon,03-03-1924,MF,Italy
+7359,6,Fulvio Nesti,08-06-1925,MF,Italy
+7360,15,Giacomo Mari,17-10-1924,MF,Italy
+7361,16,Rino Ferrario,07-12-1926,MF,Italy
+7362,20,Guido Gratton,23-09-1932,MF,Italy
+7363,7,Ermes Muccinelli,28-07-1927,FW,Italy
+7364,8,Egisto Pandolfini,19-02-1926,FW,Italy
+7365,9,Carlo Galli,06-03-1931,FW,Italy
+7366,10,Gino Cappello,02-06-1920,FW,Italy
+7367,11,Benito Lorenzi,20-12-1925,FW,Italy
+7368,17,Armando Segato,03-05-1930,FW,Italy
+7369,18,Gino Pivatelli,27-03-1933,FW,Italy
+7370,19,Giampiero Boniperti ,04-07-1928,FW,Italy
+7371,21,Amleto Frignani,05-03-1932,FW,Italy
+7372,12,Salvador Mota,30-11-1922,GK,Mexico
+7373,2,Narciso López,18-08-1928,DF,Mexico
+7374,4,Saturnino Martínez,01-01-1928,DF,Mexico
+7375,13,Sergio Bravo,27-11-1927,DF,Mexico
+7376,14,Juan Gómez,26-06-1924,DF,Mexico
+7377,6,Rafael Ávalos,22-11-1925,MF,Mexico
+7378,21,Mario Ochoa,07-11-1927,MF,Mexico
+7379,7,Alfredo Torres,31-05-1931,FW,Mexico
+7380,8,José Naranjo ,19-03-1926,FW,Mexico
+7381,9,José Luis Lamadrid,03-07-1930,FW,Mexico
+7382,10,Tomás Balcázar,21-12-1931,FW,Mexico
+7383,11,Raúl Arellano,28-02-1935,FW,Mexico
+7384,17,Carlos Septién,18-01-1923,FW,Mexico
+7385,18,Carlos Carus,06-10-1930,FW,Mexico
+7386,19,Moises Jinich,15-12-1927,FW,Mexico
+7387,22,Ranulfo Cortés,09-07-1934,FW,Mexico
+7388,1,Fred Martin,13-05-1929,GK,Scotland
+7389,14,John Anderson,08-12-1929,GK,Scotland
+7390,2,Willie Cunningham ,22-02-1925,DF,Scotland
+7391,3,Jock Aird,18-02-1926,DF,Scotland
+7392,18,Alex Wilson,29-10-1933,DF,Scotland
+7393,6,Jimmy Davidson,08-11-1925,MF,Scotland
+7394,17,David Mathers,25-10-1931,MF,Scotland
+7395,8,John Mackenzie,04-09-1925,FW,Scotland
+7396,9,George Hamilton,07-12-1917,FW,Scotland
+7397,10,Allan Brown,12-10-1926,FW,Scotland
+7398,11,Neil Mochan,06-04-1927,FW,Scotland
+7399,13,Willie Ormond,23-02-1927,FW,Scotland
+7400,15,Bobby Johnstone,07-09-1929,FW,Scotland
+7401,16,Jackie Henderson,17-01-1932,FW,Scotland
+7402,19,Jimmy Binning,25-07-1927,FW,Scotland
+7403,20,Bobby Combe,29-02-1924,FW,Scotland
+7404,21,Ernie Copland,15-04-1927,FW,Scotland
+7405,22,Ian McMillan,18-03-1931,FW,Scotland
+7406,1,Hong Deok-young,05-05-1921,GK,South Korea
+7407,12,Ham Heung-chul,17-11-1930,GK,South Korea
+7408,2,Park Kyu-chung,21-04-1915,DF,South Korea
+7409,3,Park Jae-seung,01-04-1923,DF,South Korea
+7410,6,Min Byung-dae,20-02-1918,DF,South Korea
+7411,13,Li Jong-kap,18-03-1920,DF,South Korea
+7412,14,Han Chang-wha,03-11-1922,DF,South Korea
+7413,4,Kang Chang-gi,28-08-1927,MF,South Korea
+7414,5,Lee Sang-yi,01-01-1922,MF,South Korea
+7415,11,Chung Nam-sik,16-02-1917,MF,South Korea
+7416,15,Kim Ji-sung,07-11-1924,MF,South Korea
+7417,16,Chu Yung-kwang ,15-07-1931,MF,South Korea
+7418,7,Lee Soo-nam,02-02-1927,FW,South Korea
+7419,8,Choi Chung-min,30-08-1930,FW,South Korea
+7420,9,Woo Sang-kwon,02-02-1926,FW,South Korea
+7421,10,Sung Nak-woon,02-02-1926,FW,South Korea
+7422,17,Park Il-kap,21-03-1926,FW,South Korea
+7423,18,Choi Yung-keun,08-02-1923,FW,South Korea
+7424,19,Li Ki-joo,12-11-1926,FW,South Korea
+7425,20,Chung Kook-chin,02-01-1917,FW,South Korea
+7426,1,Walter Eich,27-05-1925,GK,Switzerland
+7427,2,Eugene Parlier,13-02-1929,GK,Switzerland
+7428,3,Georges Stuber,11-05-1925,GK,Switzerland
+7429,5,Marcel Flückiger,20-06-1929,DF,Switzerland
+7430,6,Roger Mathis,04-04-1921,DF,Switzerland
+7431,7,André Neury,03-09-1921,DF,Switzerland
+7432,4,Roger Bocquet ,09-04-1921,MF,Switzerland
+7433,8,Heinz Bigler,21-12-1925,MF,Switzerland
+7434,9,Charles Casali,27-04-1923,MF,Switzerland
+7435,10,Oliver Eggimann,06-08-1921,MF,Switzerland
+7436,12,Gilbert Fesselet,16-04-1928,MF,Switzerland
+7437,13,Ivo Frosio,27-04-1930,MF,Switzerland
+7438,15,Charles Antenen,03-11-1929,FW,Switzerland
+7439,16,Robert Ballaman,21-06-1926,FW,Switzerland
+7440,17,Jacques Fatton,19-12-1925,FW,Switzerland
+7441,18,Josef Hügi,23-01-1930,FW,Switzerland
+7442,19,Marcel Mauron,25-03-1929,FW,Switzerland
+7443,21,Ferdinando Riva,03-07-1930,FW,Switzerland
+7444,1,Turgay ?eren ,15-05-1932,GK,Turkey
+7445,12,?ükrü Ersoy,14-01-1934,GK,Turkey
+7446,2,R?dvan Bolatl?,02-12-1928,DF,Turkey
+7447,3,Basri Dirimlili,07-06-1929,DF,Turkey
+7448,4,Mustafa Ertan,21-04-1926,DF,Turkey
+7449,13,Bulent Eken,26-10-1923,DF,Turkey
+7450,14,Ali Beratl?gil,21-10-1931,DF,Turkey
+7451,16,Nedim Günar,02-01-1932,DF,Turkey
+7452,17,Naci Erdem,28-01-1931,DF,Turkey
+7453,18,Akgün Kaçmaz,19-02-1935,DF,Turkey
+7454,19,Ahmet Berman,06-10-1932,DF,Turkey
+7455,5,Çetin Zeybek,12-09-1932,MF,Turkey
+7456,6,Rober Eryol,21-12-1930,MF,Turkey
+7457,15,Mehmet Dinçer,20-02-1933,MF,Turkey
+7458,7,Erol Keskin,02-03-1927,FW,Turkey
+7459,8,Suat Mamat,08-11-1930,FW,Turkey
+7460,9,Feridun Bu?eker,05-04-1933,FW,Turkey
+7461,10,Burhan Sargun,11-02-1929,FW,Turkey
+7462,11,Lefter Küçükandonyadis,22-12-1925,FW,Turkey
+7463,20,Necmi Onar?c?,02-11-1925,FW,Turkey
+7464,21,Kadri Aytaç,06-08-1931,FW,Turkey
+7465,22,Co?kun Ta?,23-04-1934,FW,Turkey
+7466,1,Roque Máspoli,12-10-1917,GK,Uruguay
+7467,12,Julio Maceiras,22-04-1926,GK,Uruguay
+7468,13,Mirto Davoine,13-02-1933,DF,Uruguay
+7469,14,Eusebio Tejera,06-01-1922,DF,Uruguay
+7470,4,Víctor Rodríguez Andrade,02-05-1927,MF,Uruguay
+7471,5,Obdulio Varela ,20-09-1917,MF,Uruguay
+7472,6,Roberto Leopardi,19-07-1933,MF,Uruguay
+7473,15,Urbano Rivera,01-04-1926,MF,Uruguay
+7474,16,Néstor Carballo,03-02-1929,MF,Uruguay
+7475,17,Luis Cruz Diaz,28-04-1925,MF,Uruguay
+7476,7,Julio Abbadie,07-09-1930,FW,Uruguay
+7477,8,Juan Hohberg,08-10-1926,FW,Uruguay
+7478,9,Oscar Míguez,05-12-1927,FW,Uruguay
+7479,10,Juan Alberto Schiaffino,28-07-1925,FW,Uruguay
+7480,11,Carlos Borges,14-01-1932,FW,Uruguay
+7481,18,Rafael Souto,24-10-1930,FW,Uruguay
+7482,19,Javier Ambrois,09-05-1932,FW,Uruguay
+7483,20,Omar Méndez,07-08-1934,FW,Uruguay
+7484,21,Julio Pérez,19-06-1926,FW,Uruguay
+7485,22,Luis Castro,31-07-1921,FW,Uruguay
+7486,1,Toni Turek,18-01-1919,GK,West Germany
+7487,21,Heinz Kubsch,20-07-1930,GK,West Germany
+7488,2,Fritz Laband,01-11-1925,DF,West Germany
+7489,3,Werner Kohlmeyer,19-04-1924,DF,West Germany
+7490,4,Hans Bauer,28-07-1927,DF,West Germany
+7491,7,Josef Posipal,20-06-1927,DF,West Germany
+7492,10,Werner Liebrich,18-01-1927,DF,West Germany
+7493,8,Karl Mai,27-07-1928,MF,West Germany
+7494,9,Paul Mebus,09-06-1920,MF,West Germany
+7495,11,Karl-Heinz Metzner,09-01-1923,MF,West Germany
+7496,19,Alfred Pfaff,16-07-1926,MF,West Germany
+7497,13,Max Morlock,11-05-1925,FW,West Germany
+7498,15,Ottmar Walter,06-03-1924,FW,West Germany
+7499,16,Fritz Walter,31-10-1920,FW,West Germany
+7500,17,Richard Herrmann,28-01-1923,FW,West Germany
+7501,18,Ulrich Biesinger,06-08-1933,FW,West Germany
+7502,20,Hans Schäfer,19-10-1927,FW,West Germany
+7503,12,Branko Kralj,10-03-1924,GK,Yugoslavia
+7504,2,Branko Stankovi?,31-10-1921,DF,Yugoslavia
+7505,5,Ivica Horvat,16-07-1926,DF,Yugoslavia
+7506,13,Miljan Zekovi?,15-11-1925,DF,Yugoslavia
+7507,16,Sima Milovanov,10-04-1923,DF,Yugoslavia
+7508,17,Bruno Belin,16-01-1929,DF,Yugoslavia
+7509,4,Zlatko ?ajkovski,24-11-1923,MF,Yugoslavia
+7510,10,Stjepan Bobek ,03-12-1923,MF,Yugoslavia
+7511,14,Lav Mantula,08-12-1928,MF,Yugoslavia
+7512,15,Ljubiša Spaji?,07-03-1926,MF,Yugoslavia
+7513,19,Zlatko Papec,17-01-1934,MF,Yugoslavia
+7514,7,Tihomir Ognjanov,02-03-1927,FW,Yugoslavia
+7515,8,Rajko Miti?,19-11-1922,FW,Yugoslavia
+7516,9,Bernard Vukas,01-05-1927,FW,Yugoslavia
+7517,11,Branko Zebec,17-05-1929,FW,Yugoslavia
+7518,20,Dionizije Dvorni?,27-04-1926,FW,Yugoslavia
+7519,7,József Tóth I,16-05-1929,FW,Hungary
