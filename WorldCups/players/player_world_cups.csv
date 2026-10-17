@@ -9089,7 +9089,7 @@ player_id,world_cup_year,team,club,country_club
 6895,1954,Switzerland,Grasshopper,Switzerland
 6895,1962,Switzerland,Lausanne-Sport,Switzerland
 6896,1962,Switzerland,Lausanne-Sport,Switzerland
-6897,1962,Switzerland,La Chaux-de-Fonds,Switzerland
+
 6898,1954,Switzerland,Lausanne-Sport,Switzerland
 6898,1962,Switzerland,Stade Français,France
 6899,1962,Switzerland,Stade Français,France
@@ -9698,6 +9698,7 @@ player_id,world_cup_year,team,club,country_club
 7436,1954,Switzerland,La Chaux-de-Fonds,Switzerland
 7437,1954,Switzerland,Grasshopper,Switzerland
 7438,1954,Switzerland,La Chaux-de-Fonds,Switzerland
+7438,1962,Switzerland,La Chaux-de-Fonds,Switzerland
 7439,1954,Switzerland,Grasshopper,Switzerland
 7440,1954,Switzerland,Servette,Switzerland
 7441,1954,Switzerland,Basel,Switzerland
