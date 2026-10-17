@@ -9974,6 +9974,7 @@ player_id,world_cup_year,team,club,country_club
 7667,1950,Sweden,IFK Norrköping,Sweden
 7668,1950,Sweden,GAIS,Sweden
 7669,1950,Sweden,Malmö FF,Sweden
+7670,1938,Sweden,Malmö FF,Sweden
 7670,1950,Sweden,Malmö FF,Sweden
 7671,1950,Sweden,IF Elfsborg Borås,Sweden
 7672,1950,Sweden,AIK,Sweden
@@ -9998,6 +9999,7 @@ player_id,world_cup_year,team,club,country_club
 7691,1950,Switzerland,FC Bern,Switzerland
 7692,1950,Switzerland,Basel,Switzerland
 7693,1950,Switzerland,Young Boys,Switzerland
+7694,1938,Switzerland,Grasshopper,Switzerland
 7694,1950,Switzerland,Grasshopper,Switzerland
 7695,1950,Switzerland,Lausanne-Sport,Switzerland
 7696,1950,Switzerland,Bellinzona,Switzerland
@@ -10052,3 +10054,319 @@ player_id,world_cup_year,team,club,country_club
 7745,1950,Yugoslavia,Partizan Belgrade,Serbia
 7746,1950,Yugoslavia,Red Star Belgrade,Serbia
 7747,1950,Yugoslavia,Naša Krila Zemun,Serbia
+7748,1938,Belgium,Daring Club,Belgium
+7749,1938,Belgium,Cercle Brugge,Belgium
+7750,1938,Belgium,Union St. Gilloise,Belgium
+7751,1938,Belgium,Royal Beerschot AC,Belgium
+7752,1938,Belgium,Antwerp,Belgium
+7753,1938,Belgium,Standard Liege,Belgium
+7754,1938,Belgium,Royal Beerschot AC,Belgium
+7755,1938,Belgium,Union St. Gilloise,Belgium
+7756,1938,Belgium,Standard Liege,Belgium
+7757,1938,Belgium,Royal Beerschot AC,Belgium
+7758,1938,Belgium,Daring Club,Belgium
+7759,1938,Belgium,Olympique Charleroi,Belgium
+7760,1938,Belgium,Royal Beerschot AC,Belgium
+7761,1938,Belgium,Royal Beerschot AC,Belgium
+7762,1938,Belgium,Daring Club,Belgium
+7763,1938,Belgium,Standard Liege,Belgium
+7764,1938,Belgium,Royal Beerschot AC,Belgium
+7765,1938,Belgium,White Star,Belgium
+7766,1938,Belgium,Royal Beerschot AC,Belgium
+7767,1938,Belgium,Berchem Sport,Belgium
+7768,1938,Belgium,Royal Beerschot AC,Belgium
+7769,1938,Belgium,Lierse,Belgium
+7770,1938,Brazil,Fluminense,Brazil
+7771,1938,Brazil,Flamengo,Brazil
+7772,1938,Brazil,Flamengo,Brazil
+7773,1938,Brazil,Corinthians,Brazil
+7774,1938,Brazil,Fluminense,Brazil
+7775,1938,Brazil,Botafogo,Brazil
+7776,1938,Brazil,S o Crist v o,Brazil
+7777,1938,Brazil,Portuguesa Santista,Brazil
+7778,1938,Brazil,Corinthians,Brazil
+7779,1938,Brazil,America-RJ,Brazil
+7780,1938,Brazil,Botafogo,Brazil
+7781,1938,Brazil,Botafogo,Brazil
+7782,1938,Brazil,Fluminense,Brazil
+7783,1938,Brazil,Flamengo,Brazil
+7784,1938,Brazil,Corinthians,Brazil
+7785,1938,Brazil,Palestra Italia,Brazil
+7786,1938,Brazil,Vasco da Gama,Brazil
+7787,1938,Brazil,Botafogo,Brazil
+7788,1938,Brazil,Botafogo,Brazil
+7789,1938,Brazil,S o Crist v o,Brazil
+7790,1938,Brazil,Fluminense,Brazil
+7791,1938,Brazil,Fluminense,Brazil
+7792,1938,Cuba,Hispano America,Cuba
+7793,1938,Cuba,Centro Gallego,Cuba
+7794,1938,Cuba,Juventud Asturiana,Cuba
+7795,1938,Cuba,Centro Gallego,Cuba
+7796,1938,Cuba,Juventud Asturiana,Cuba
+7797,1938,Cuba,Iberia Havana,Cuba
+7798,1938,Cuba,Centro Gallego,Cuba
+7799,1938,Cuba,Centro Gallego,Cuba
+7800,1938,Cuba,Centro Gallego,Cuba
+7801,1938,Cuba,Iberia Havana,Cuba
+7802,1938,Cuba,Centro Gallego,Cuba
+7803,1938,Cuba,Hispano America,Cuba
+7804,1938,Cuba,Iberia Havana,Cuba
+7805,1938,Cuba,Iberia Havana,Cuba
+7806,1938,Cuba,Centro Gallego,Cuba
+7807,1938,Czechoslovakia,SK  idenice,Czech Republic
+7808,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7809,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7810,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7811,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7812,1938,Czechoslovakia,Slovan Bratislava,Slovakia
+7813,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7814,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7815,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7816,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7817,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7818,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7819,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7820,1938,Czechoslovakia,SK Pardubice,Czech Republic
+7821,1938,Czechoslovakia,Viktoria  i kov,Czech Republic
+7822,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7823,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7824,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7825,1938,Czechoslovakia,SK  idenice,Czech Republic
+7826,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7827,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7828,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7829,1938,Dutch East Indies,Hercules Batavia,Indonesia
+7830,1938,Dutch East Indies,HCTNH Soerabaja,Indonesia
+7831,1938,Dutch East Indies,HBS Soerabaja,Indonesia
+7832,1938,Dutch East Indies,Sparta Bandung,Indonesia
+7833,1938,Dutch East Indies,Excelsior Soerabaja,Indonesia
+7834,1938,Dutch East Indies,VIOS Batavia,Indonesia
+7835,1938,Dutch East Indies,Go Ahead Semarang,Indonesia
+7836,1938,Dutch East Indies,SVBB Batavia,Indonesia
+7837,1938,Dutch East Indies,HBS Soerabaja,Indonesia
+7838,1938,Dutch East Indies,SVV Semarang,Indonesia
+7839,1938,Dutch East Indies,Jong Ambon Batavia,Indonesia
+7840,1938,Dutch East Indies,HBS Soerabaja,Indonesia
+7841,1938,Dutch East Indies,Jong Ambon Batavia,Indonesia
+7842,1938,Dutch East Indies,Tiong Hoa Soerabaja,Indonesia
+7843,1938,Dutch East Indies,Gie Hoo Soerabaja,Indonesia
+7844,1938,Dutch East Indies,HBS Soerabaja,Indonesia
+7845,1938,Dutch East Indies,Hercules Batavia,Indonesia
+7846,1938,France,Olympique Lillois,France
+7847,1938,France,Sochaux,France
+7848,1938,France,FC S te,France
+7849,1938,France,Marseille,France
+7850,1938,France,Sochaux,France
+7851,1938,France,Sochaux,France
+7852,1938,France,Le Havre,France
+7853,1938,France,Olympique Lillois,France
+7854,1938,France,Marseille,France
+7855,1938,France,SC Fives,France
+7856,1938,France,RC Paris,France
+7857,1938,France,Le Havre,France
+7858,1938,France,RC Paris,France
+7859,1938,France,Red Star Olympique,France
+7860,1938,France,FC S te,France
+7861,1938,France,Sochaux,France
+7862,1938,France,RC Roubaix,France
+7863,1938,France,RC Strasbourg,France
+7864,1938,France,Metz,France
+7865,1938,France,Rouen,France
+7866,1938,France,RC Paris,France
+7867,1938,France,Marseille,France
+7868,1938,Germany,Hertha BSC,Germany
+7869,1938,Germany,Jahn Regensburg,Germany
+7870,1938,Germany,Rapid Wien,Austria
+7871,1938,Germany,Bayern Munich,Germany
+7872,1938,Germany,Fortuna D sseldorf,Germany
+7873,1938,Germany,Alemannia Aachen,Germany
+7874,1938,Germany,First Vienna FC,Austria
+7875,1938,Germany,Bayern Munich,Germany
+7876,1938,Germany,1. FC Schweinfurt 05,Germany
+7877,1938,Germany,1. FC Schweinfurt 05,Germany
+7878,1938,Germany,Austria Wien,Austria
+7879,1938,Germany,Rapid Wien,Austria
+7880,1938,Germany,Rapid Wien,Austria
+7881,1938,Germany,TuS Koblenz-Neuendorf,Germany
+7882,1938,Germany,Schalke 04,Germany
+7883,1938,Germany,Admira Wien,Austria
+7884,1938,Germany,Augsburg,Germany
+7885,1938,Germany,Austria Wien,Austria
+7886,1938,Germany,Rapid Wien,Austria
+7887,1938,Germany,Waldhof Mannheim,Germany
+7888,1938,Germany,Austria Wien,Austria
+7889,1938,Germany,Schalke 04,Germany
+7890,1938,Hungary,Ferencv ros,Hungary
+7891,1938,Hungary,Szeged FC,Hungary
+7892,1938,Hungary,MTK Budapest,Hungary
+7893,1938,Hungary,MTK Budapest,Hungary
+7894,1938,Hungary,Ferencv ros,Hungary
+7895,1938,Hungary,Ferencv ros,Hungary
+7896,1938,Hungary, jpest,Hungary
+7897,1938,Hungary,MTK Budapest,Hungary
+7898,1938,Hungary,Ferencv ros,Hungary
+7899,1938,Hungary,Ferencv ros,Hungary
+7900,1938,Hungary, jpest,Hungary
+7901,1938,Hungary, jpest,Hungary
+7902,1938,Hungary,MTK Budapest,Hungary
+7903,1938,Hungary,Ferencv ros,Hungary
+7904,1938,Hungary,MTK Budapest,Hungary
+7905,1938,Hungary,Marseille,France
+7906,1938,Hungary,Ferencv ros,Hungary
+7907,1938,Hungary,MTK Budapest,Hungary
+7908,1938,Hungary,MTK Budapest,Hungary
+7909,1938,Hungary,Ferencv ros,Hungary
+7910,1938,Hungary, jpest,Hungary
+7911,1938,Hungary, jpest,Hungary
+7912,1938,Italy,Bologna,Italy
+7913,1938,Italy,Roma,Italy
+7914,1938,Italy,Lucchese,Italy
+7915,1938,Italy,Juventus,Italy
+7916,1938,Italy,Roma,Italy
+7917,1938,Italy,Juventus,Italy
+7918,1938,Italy,Bologna,Italy
+7919,1938,Italy,Triestina,Italy
+7920,1938,Italy,Roma,Italy
+7921,1938,Italy,Genoa,Italy
+7922,1938,Italy,Internazionale,Italy
+7923,1938,Italy,Internazionale,Italy
+7924,1938,Italy,Internazionale,Italy
+7925,1938,Italy,Genoa,Italy
+7926,1938,Italy,Roma,Italy
+7927,1938,Italy,Pisa,Italy
+7928,1938,Italy,Bologna,Italy
+7929,1938,Italy,Triestina,Italy
+7930,1938,Italy,Internazionale,Italy
+7931,1938,Italy,Internazionale,Italy
+7932,1938,Italy,Triestina,Italy
+7933,1938,Italy,Lazio,Italy
+7934,1938,Netherlands,Telstar,Netherlands
+7935,1938,Netherlands,Feyenoord,Netherlands
+7936,1938,Netherlands,Ajax,Netherlands
+7937,1938,Netherlands,DWS,Netherlands
+7938,1938,Netherlands,Be Quick 1887,Netherlands
+7939,1938,Netherlands,ADO Den Haag,Netherlands
+7940,1938,Netherlands,Ajax,Netherlands
+7941,1938,Netherlands,Be Quick 1887,Netherlands
+7942,1938,Netherlands,Feyenoord,Netherlands
+7943,1938,Netherlands,RFC Roermond,Netherlands
+7944,1938,Netherlands,Feyenoord,Netherlands
+7945,1938,Netherlands,KFC (Kooger FC),Netherlands
+7946,1938,Netherlands,VUC Den Haag,Netherlands
+7947,1938,Netherlands,HFC Haarlem,Netherlands
+7948,1938,Netherlands,RFC Rotterdam,Netherlands
+7949,1938,Netherlands,DWS,Netherlands
+7950,1938,Netherlands,DFC Dordrecht,Netherlands
+7951,1938,Netherlands,HFC Haarlem,Netherlands
+7952,1938,Netherlands,Heracles Almelo,Netherlands
+7953,1938,Netherlands,Neptunus Rotterdam,Netherlands
+7954,1938,Netherlands,Feyenoord,Netherlands
+7955,1938,Netherlands,Unitas Gorinchem,Netherlands
+7956,1938,Norway,Valerenga,Norway
+7957,1938,Norway,Mj ndalen,Norway
+7958,1938,Norway,Storm,Norway
+7959,1938,Norway,Odd,Norway
+7960,1938,Norway,Lyn,Norway
+7961,1938,Norway,Fredrikstad,Norway
+7962,1938,Norway,Lyn,Norway
+7963,1938,Norway,Mj ndalen,Norway
+7964,1938,Norway,Mj ndalen,Norway
+7965,1938,Norway,Lyn,Norway
+7966,1938,Norway,Odd,Norway
+7967,1938,Norway,Fredrikstad,Norway
+7968,1938,Norway,Fram Larvik,Norway
+7969,1938,Norway,Drafn,Norway
+7970,1938,Norway,Lyn,Norway
+7971,1938,Norway,Fredrikstad,Norway
+7972,1938,Norway,Hardy,Norway
+7973,1938,Norway,Fredrikstad,Norway
+7974,1938,Norway,Lyn,Norway
+7975,1938,Norway,Viking,Norway
+7976,1938,Norway,Sarpsborg,Norway
+7977,1938,Norway,Lillestrom,Norway
+7978,1938,Poland,Ruch Chorzow,Poland
+7979,1938,Poland,Free Agent,
+7980,1938,Poland,?KS ? d?,Poland
+7981,1938,Poland,Ruch Chorzow,Poland
+7982,1938,Poland,Polonia Warszawa,Poland
+7983,1938,Poland,Warta Pozna?,Poland
+7984,1938,Poland,D?b Katowice,Poland
+7985,1938,Poland,Cracovia,Poland
+7986,1938,Poland,Warta Poznan,Poland
+7987,1938,Poland,Polonia Warszawa,Poland
+7988,1938,Poland,Naprzad Lipiny,Poland
+7989,1938,Poland,Pogo? Lwiw,Poland
+7990,1938,Poland,Warszawianka Warszawa,Poland
+7991,1938,Poland,?l?sk ?wi?toch?owice,Poland
+7992,1938,Poland,Wis?a Krakow,Poland
+7993,1938,Poland,Cracovia,Poland
+7994,1938,Poland,Wis?a Krakow,Poland
+7995,1938,Poland,AKS Chorzow,Poland
+7996,1938,Poland,Naprzad Lipiny,Poland
+7997,1938,Poland,Warta Pozna?,Poland
+7998,1938,Poland,Ruch Chorzow,Poland
+7999,1938,Poland,Ruch Chorzow,Poland
+8000,1938,Romania,Venus Bucure?ti,Romania
+8001,1938,Romania,Ripensia Timi?oara,Romania
+8002,1938,Romania,AMEF Arad,Romania
+8003,1938,Romania,Ripensia Timi?oara,Romania
+8004,1938,Romania,Ripensia Timi?oara,Romania
+8005,1938,Romania,Victoria Cluj,Romania
+8006,1938,Romania,Venus Bucure?ti,Romania
+8007,1938,Romania,Venus Bucure?ti,Romania
+8008,1938,Romania,Petrolul Ploiesti,Romania
+8009,1938,Romania,Rapid Bucure?ti,Romania
+8010,1938,Romania,Rapid Bucure?ti,Romania
+8011,1938,Romania,Rapid Bucure?ti,Romania
+8012,1938,Romania,Rapid Bucure?ti,Romania
+8013,1938,Romania,Ripensia Timi?oara,Romania
+8014,1938,Romania,Venus Bucure?ti,Romania
+8015,1938,Romania,Rapid Bucure?ti,Romania
+8016,1938,Romania,Ripensia Timi?oara,Romania
+8017,1938,Romania,Petrolul Ploiesti,Romania
+8018,1938,Romania,CAO Oradea,Romania
+8019,1938,Romania,Rapid Bucure?ti,Romania
+8020,1938,Romania,Cri?ana Oradea,Romania
+8021,1938,Romania,AMEF Arad,Romania
+8022,1938,Sweden,Garda BK,Sweden
+8023,1938,Sweden,AIK,Sweden
+8024,1938,Sweden,Sandvikens IF,Sweden
+8025,1938,Sweden,Sandvikens IF,Sweden
+8026,1938,Sweden,Landskrona BoIS,Sweden
+8027,1938,Sweden,AIK,Sweden
+8028,1938,Sweden,IF Elfsborg,Sweden
+8029,1938,Sweden,GAIS,Sweden
+8030,1938,Sweden,IK Sleipner,Sweden
+8031,1938,Sweden,Orgryte IS,Sweden
+8032,1938,Sweden,GAIS,Sweden
+8033,1938,Sweden,IK Sleipner,Sweden
+8034,1938,Sweden,Landskrona BoIS,Sweden
+8035,1938,Sweden,Helsingborgs IF,Sweden
+8036,1938,Sweden,Landskrona BoIS,Sweden
+8037,1938,Sweden,IF Elfsborg,Sweden
+8038,1938,Sweden,IK Sleipner,Sweden
+8039,1938,Sweden,IFK Goteborg,Sweden
+8040,1938,Sweden,AIK,Sweden
+8041,1938,Sweden,IK Sleipner,Sweden
+8042,1938,Sweden,IK Sleipner,Sweden
+8043,1938,Switzerland,FC Grenchen,Switzerland
+8044,1938,Switzerland,Lugano,Switzerland
+8045,1938,Switzerland,Grasshopper,Switzerland
+8046,1938,Switzerland,Grasshopper,Switzerland
+8047,1938,Switzerland,Grasshopper,Switzerland
+8048,1938,Switzerland,Lausanne Sports,Switzerland
+8049,1938,Switzerland,Servette,Switzerland
+8050,1938,Switzerland,Servette,Switzerland
+8051,1938,Switzerland,Grasshopper,Switzerland
+8052,1938,Switzerland,Grasshopper,Switzerland
+8053,1938,Switzerland,Grasshopper,Switzerland
+8054,1938,Switzerland,Servette,Switzerland
+8055,1938,Switzerland,Servette,Switzerland
+8056,1938,Switzerland,Young Boys,Switzerland
+8057,1938,Switzerland,Lugano,Switzerland
+8058,1938,Switzerland,Le Havre,France
+8059,1938,Switzerland,Lugano,Switzerland
+8060,1938,Switzerland,SC Young Fellows,Switzerland
+8061,1938,Switzerland,Grasshopper,Switzerland
+8062,1938,Switzerland,Grasshopper,Switzerland
+8063,1938,Switzerland,Servette,Switzerland
