@@ -7746,3 +7746,319 @@ player_id,dorsal,player_name,birth_date,position,nationality
 7745,,Prvoslav Mihajlovi?,13-04-1921,FW,Yugoslavia
 7746,,Kosta Tomaševi?,25-07-1923,FW,Yugoslavia
 7747,,Siniša Zlatkovi?,28-01-1924,DF,Yugoslavia
+7748,,Arnold Badjou,26-06-1909,GK,Belgium
+7749,,Robert Braet,11-02-1912,GK,Belgium
+7750,,André Vandeweyer,21-06-1909,GK,Belgium
+7751,,Frans Gommers,05-04-1917,DF,Belgium
+7752,,Robert Paverick,29-11-1912,DF,Belgium
+7753,,Jean Petit,25-02-1914,DF,Belgium
+7754,,Corneel Seys,12-02-1912,DF,Belgium
+7755,,Philibert Smellinckx,17-01-1911,DF,Belgium
+7756,,Pierre Dalem,16-03-1912,MF,Belgium
+7757,,Alfons De Winter,12-09-1908,MF,Belgium
+7758,,Paul Henry,06-09-1912,MF,Belgium
+7759,,Émile Stijnen,02-11-1907,MF,Belgium
+7760,,John Van Alphen,17-06-1914,MF,Belgium
+7761,,Raymond Braine,28-04-1907,FW,Belgium
+7762,,Fernand Buyle,03-03-1918,FW,Belgium
+7763,,Jean Capelle,26-10-1913,FW,Belgium
+7764,,Arthur Ceuleers,28-02-1916,FW,Belgium
+7765,,Jean Fievez,30-11-1910,FW,Belgium
+7766,,Hendrik Isemborghs,30-01-1914,FW,Belgium
+7767,,Joseph Nelis,01-04-1917,FW,Belgium
+7768,,Charles Vanden Wouwer,07-09-1916,FW,Belgium
+7769,,Bernard Voorhoof,10-05-1910,FW,Belgium
+7770,,Batatais,20-05-1910,GK,Brazil
+7771,,Walter,17-07-1912,GK,Brazil
+7772,,Domingos da Guia,19-11-1912,DF,Brazil
+7773,,Jaú,07-12-1909,DF,Brazil
+7774,,Machado,01-01-1909,DF,Brazil
+7775,,Nariz,08-12-1912,DF,Brazil
+7776,,Afonsinho,08-03-1914,MF,Brazil
+7777,,Argemiro,03-06-1915,MF,Brazil
+7778,,Brandão,21-04-1911,MF,Brazil
+7779,,Britto,06-05-1914,MF,Brazil
+7780,,Martim,21-04-1911,MF,Brazil
+7781,,Zezé Procópio,12-08-1913,MF,Brazil
+7782,,Hércules,02-07-1912,FW,Brazil
+7783,,Leônidas,06-09-1913,FW,Brazil
+7784,,Lopes,01-11-1910,FW,Brazil
+7785,,Luisinho,29-03-1911,FW,Brazil
+7786,,Niginho,12-02-1912,FW,Brazil
+7787,,Patesko,12-11-1910,FW,Brazil
+7788,,Perácio,02-11-1917,FW,Brazil
+7789,,Roberto da Cunha,20-06-1912,FW,Brazil
+7790,,Romeu,26-03-1911,FW,Brazil
+7791,,Tim,20-02-1915,FW,Brazil
+7792,,Juan Ayra,23-06-1911,GK,Cuba
+7793,,Benito Carvajales,25-07-1913,GK,Cuba
+7794,,Jacinto Barquín,03-09-1915,DF,Cuba
+7795,,Manuel Chorens,22-01-1916,DF,Cuba
+7796,,Joaquín Arias,12-11-1914,MF,Cuba
+7797,,Pedro Bergés,,MF,Cuba
+7798,,José Antonio Rodríguez,,MF,Cuba
+7799,,Juan Alonzo,24-06-1911,FW,Cuba
+7800,,Tomás Fernández,,FW,Cuba
+7801,,Pedro Ferrer,,FW,Cuba
+7802,,José Magriñá,14-12-1917,FW,Cuba
+7803,,Carlos Oliveira,,FW,Cuba
+7804,,Héctor Socorro,26-06-1912,FW,Cuba
+7805,,Mario Sosa,,FW,Cuba
+7806,,Juan Tuñas,17-07-1917,FW,Cuba
+7807,,Karel Burkert,01-12-1909,GK,Czechoslovakia
+7808,,František Pláni?ka,02-06-1904,GK,Czechoslovakia
+7809,,Jaroslav Burgr,07-03-1906,DF,Czechoslovakia
+7810,,Karel ?erný,01-02-1910,DF,Czechoslovakia
+7811,,Ferdinand Dau?ík,30-05-1910,DF,Czechoslovakia
+7812,,Josef Orth,20-05-1916,DF,Czechoslovakia
+7813,,Jaroslav Bou?ek,13-11-1912,MF,Czechoslovakia
+7814,,Karel Kolský,21-09-1914,MF,Czechoslovakia
+7815,,Vlastimil Kopecký,14-10-1912,MF,Czechoslovakia
+7816,,Josef Koš?álek,31-08-1909,MF,Czechoslovakia
+7817,,Otakar Noží?,12-03-1917,MF,Czechoslovakia
+7818,,Vojt?ch Bradá?,06-10-1913,FW,Czechoslovakia
+7819,,Václav Horák,27-09-1912,FW,Czechoslovakia
+7820,,Arnošt Kreuz,09-05-1912,FW,Czechoslovakia
+7821,,Josef Ludl,03-06-1916,FW,Czechoslovakia
+7822,,Old?ich Nejedlý,26-12-1909,FW,Czechoslovakia
+7823,,Antonín Pu?,16-05-1907,FW,Czechoslovakia
+7824,,Jan ?íha,11-11-1915,FW,Czechoslovakia
+7825,,Old?ich Rulc,28-03-1911,FW,Czechoslovakia
+7826,,Karel Senecký,17-03-1919,FW,Czechoslovakia
+7827,,Ladislav Šim?nek,04-10-1916,FW,Czechoslovakia
+7828,,Josef Zeman,23-01-1915,FW,Czechoslovakia
+7829,,Leen van Beuzekom,,GK,Dutch East Indies
+7830,,"Tan ""Bing"" Mo Heng",28-02-1913,GK,Dutch East Indies
+7831,,Jan Harting,,DF,Dutch East Indies
+7832,,Frans G. Hukom,28-09-1915,DF,Dutch East Indies
+7833,,Jack Samuels,29-03-1918,DF,Dutch East Indies
+7834,,Sutan Anwar,21-03-1914,MF,Dutch East Indies
+7835,,Gerrit Faulhaber,22-09-1912,MF,Dutch East Indies
+7836,,Frans Meeng,18-01-1910,MF,Dutch East Indies
+7837,,Achmad Nawir,30-06-1912,MF,Dutch East Indies
+7838,,G. Van Den Burgh,,MF,Dutch East Indies
+7839,,"Isaak ""Tjaak"" Pattiwael",23-02-1914,FW,Dutch East Indies
+7840,,Suvarte Soedarmadji,06-12-1915,FW,Dutch East Indies
+7841,,M.J. Hans Taihuttu,,FW,Dutch East Indies
+7842,,Tan Hong Djien,12-01-1916,FW,Dutch East Indies
+7843,,Tan See Han,,FW,Dutch East Indies
+7844,,Rudi Telwe,,FW,Dutch East Indies
+7845,,"Hendrikus V. ""Henk"" Zomers",19-11-1912,FW,Dutch East Indies
+7846,,Julien Darui,16-02-1916,GK,France
+7847,,Laurent Di Lorto,01-01-1909,GK,France
+7848,,René Llense,14-07-1913,GK,France
+7849,,Abdelkader Ben Bouali,25-10-1912,DF,France
+7850,,Hector Cazenave,13-04-1914,DF,France
+7851,,Étienne Mattler,25-12-1905,DF,France
+7852,,Martin Povolny,19-07-1914,DF,France
+7853,,Jules Vandooren,30-12-1908,DF,France
+7854,,Jean Bastien,21-06-1915,MF,France
+7855,,François Bourbotte,24-02-1913,MF,France
+7856,,Raoul Diagne,10-11-1910,MF,France
+7857,,Lucien Jasseron,29-12-1913,MF,France
+7858,,Auguste Jordan,21-02-1909,MF,France
+7859,,Alfred Aston,16-05-1912,FW,France
+7860,,Michel Brusseaux,19-03-1913,FW,France
+7861,,Roger Courtois,30-05-1912,FW,France
+7862,,Edmond Delfour,01-11-1907,FW,France
+7863,,Oscar Heisserer,18-07-1914,FW,France
+7864,,Ignace Kowalczyk,27-12-1913,FW,France
+7865,,Jean Nicolas,09-06-1913,FW,France
+7866,,Émile Veinante,12-06-1907,FW,France
+7867,,Mario Zatelli,21-12-1912,FW,France
+7868,,Fritz Buchloh,26-11-1909,GK,Germany
+7869,,Hans Jakob,16-06-1908,GK,Germany
+7870,,Rudolf Raftl,07-02-1911,GK,Germany
+7871,,Ludwig Goldbrunner,05-03-1908,DF,Germany
+7872,,Paul Janes,10-03-1912,DF,Germany
+7873,,Reinhold Münzenberg,25-01-1909,DF,Germany
+7874,,Willibald Schmaus,16-06-1911,DF,Germany
+7875,,Jakob Streitle,11-12-1916,DF,Germany
+7876,,Albin Kitzinger,01-02-1912,MF,Germany
+7877,,Andreas Kupfer,07-05-1914,MF,Germany
+7878,,Hans Mock,09-12-1906,MF,Germany
+7879,,Stefan Skoumal,29-11-1909,MF,Germany
+7880,,Franz Wagner,23-09-1911,MF,Germany
+7881,,Josef Gauchel,11-09-1916,FW,Germany
+7882,,Rudolf Gellesch,01-05-1914,FW,Germany
+7883,,Wilhelm Hahnemann,14-04-1914,FW,Germany
+7884,,Ernst Lehner,07-11-1912,FW,Germany
+7885,,Leopold Neumer,08-02-1919,FW,Germany
+7886,,Hans Pesser,07-11-1911,FW,Germany
+7887,,Otto Siffling,03-08-1912,FW,Germany
+7888,,Josef Stroh,05-03-1913,FW,Germany
+7889,,Fritz Szepan,02-09-1907,FW,Germany
+7890,,József Háda,02-03-1911,GK,Hungary
+7891,,József Pálinkás,10-03-1912,GK,Hungary
+7892,,Antal Szabó,04-09-1910,GK,Hungary
+7893,,Sándor Bíró,19-08-1911,DF,Hungary
+7894,,Lajos Korányi,15-05-1907,DF,Hungary
+7895,,Gyula Polgár,08-02-1912,DF,Hungary
+7896,,István Balogh,21-09-1912,MF,Hungary
+7897,,János Dudás,13-02-1911,MF,Hungary
+7898,,Gyula Lázár,24-01-1911,MF,Hungary
+7899,,Béla Sárosi,15-05-1919,MF,Hungary
+7900,,Antal Szalay,12-03-1912,MF,Hungary
+7901,,György Sz?cs,23-04-1912,MF,Hungary
+7902,,József Turay,01-03-1905,MF,Hungary
+7903,,Mihály Bíró,20-07-1914,FW,Hungary
+7904,,László Cseh,04-04-1910,FW,Hungary
+7905,,Vilmos Kohut,17-07-1906,FW,Hungary
+7906,,György Sárosi,15-09-1912,FW,Hungary
+7907,,Ferenc Sas,15-03-1915,FW,Hungary
+7908,,Pál Titkos,08-01-1908,FW,Hungary
+7909,,Géza Toldi,11-02-1909,FW,Hungary
+7910,,Jen? Vincze,20-11-1908,FW,Hungary
+7911,,Gyula Zsengellér,27-12-1915,FW,Hungary
+7912,,Carlo Ceresoli,14-05-1910,GK,Italy
+7913,,Guido Masetti,22-11-1907,GK,Italy
+7914,,Aldo Olivieri,02-10-1910,GK,Italy
+7915,,Alfredo Foni,20-01-1911,DF,Italy
+7916,,Eraldo Monzeglio,05-06-1906,DF,Italy
+7917,,Pietro Rava,21-01-1916,DF,Italy
+7918,,Michele Andreolo,06-09-1912,MF,Italy
+7919,,Bruno Chizzo,19-04-1916,MF,Italy
+7920,,Aldo Donati,29-09-1910,MF,Italy
+7921,,Mario Genta,01-03-1912,MF,Italy
+7922,,Ugo Locatelli,05-02-1916,MF,Italy
+7923,,Giuseppe Meazza,23-08-1910,MF,Italy
+7924,,Renato Olmi,12-07-1914,MF,Italy
+7925,,Mario Perazzolo,07-06-1911,MF,Italy
+7926,,Pietro Serantoni,11-12-1906,MF,Italy
+7927,,Sergio Bertoni,23-09-1915,FW,Italy
+7928,,Amedeo Biavati,04-04-1915,FW,Italy
+7929,,Gino Colaussi,04-03-1914,FW,Italy
+7930,,Giovanni Ferrari,06-12-1907,FW,Italy
+7931,,Pietro Ferraris,15-02-1912,FW,Italy
+7932,,Piero Pasinati,21-07-1910,FW,Italy
+7933,,Silvio Piola,29-09-1913,FW,Italy
+7934,,Niek Michel,30-09-1912,GK,Netherlands
+7935,,Adri van Male,07-10-1910,GK,Netherlands
+7936,,Dick Been,02-07-1909,DF,Netherlands
+7937,,Bertus Caldenhove,19-01-1914,DF,Netherlands
+7938,,Hendrikus Plenter,23-06-1913,DF,Netherlands
+7939,,Mauk Weber,01-03-1914,DF,Netherlands
+7940,,Wim Anderiesen,27-11-1903,MF,Netherlands
+7941,,Frans Hogenbirk,18-03-1919,MF,Netherlands
+7942,,Bas Paauwe,04-10-1911,MF,Netherlands
+7943,,René Pijpers,15-09-1917,MF,Netherlands
+7944,,Puck van Heel,21-01-1904,MF,Netherlands
+7945,,Piet de Boer,10-10-1919,FW,Netherlands
+7946,,Bertus de Harder,14-01-1920,FW,Netherlands
+7947,,Arie de Winter,27-10-1913,FW,Netherlands
+7948,,Daaf Drok,23-05-1914,FW,Netherlands
+7949,,Klaas Ooms,09-06-1916,FW,Netherlands
+7950,,Piet Punt,06-02-1909,FW,Netherlands
+7951,,Kick Smit,03-11-1911,FW,Netherlands
+7952,,Frans van der Veen,25-03-1918,FW,Netherlands
+7953,,Henk van Spaandonck,25-06-1913,FW,Netherlands
+7954,,Leen Vente,14-05-1911,FW,Netherlands
+7955,,Frank Wels,21-02-1909,FW,Netherlands
+7956,,Henry Johansen,21-07-1904,GK,Norway
+7957,,Sverre Nordby,13-03-1910,GK,Norway
+7958,,Anker Kihle,19-04-1917,GK,Norway
+7959,,Nils Eriksen,05-03-1911,DF,Norway
+7960,,Øivind Holmsen,28-04-1912,DF,Norway
+7961,,Rolf Johannessen,15-03-1910,DF,Norway
+7962,,Jørgen Juve,22-11-1906,DF,Norway
+7963,,Roald Amundsen,18-09-1913,DF,Norway
+7964,,Oddmund Andersen,21-12-1915,DF,Norway
+7965,,Kristian Henriksen,03-03-1911,MF,Norway
+7966,,Rolf Holmberg,24-08-1914,MF,Norway
+7967,,Gunnar Andreassen,05-01-1913,MF,Norway
+7968,,Sigurd Hansen,23-06-1913,MF,Norway
+7969,,Sverre Berglie,21-10-1910,MF,Norway
+7970,,Arne Brustad,14-04-1912,FW,Norway
+7971,,Knut Brynildsen,23-07-1917,FW,Norway
+7972,,Odd Frantzen,20-01-1913,FW,Norway
+7973,,Arne Ileby,02-12-1913,FW,Norway
+7974,,Magnar Isaksen,13-10-1910,FW,Norway
+7975,,Reidar Kvammen,23-07-1914,FW,Norway
+7976,,Hjalmar Andresen,18-07-1914,FW,Norway
+7977,,Alf Martinsen,29-12-1911,FW,Norway
+7978,,Walter Brom,14-02-1921,GK,Poland
+7979,,Edward Madejski,11-08-1914,GK,Poland
+7980,,Antoni Ga?ecki,04-06-1906,DF,Poland
+7981,,Edmund Giemsa,16-10-1912,DF,Poland
+7982,,W?adys?aw Szczepaniak,19-05-1910,DF,Poland
+7983,,Edmund Twórz,12-02-1914,DF,Poland
+7984,,Ewald Dytko,18-10-1914,MF,Poland
+7985,,Wilhelm Góra,18-01-1916,MF,Poland
+7986,,Kazimierz Lis,09-04-1910,MF,Poland
+7987,,Erwin Nyc,24-05-1914,MF,Poland
+7988,,Wilhelm Piec,07-01-1915,MF,Poland
+7989,,Jan Wasiewicz,06-01-1911,MF,Poland
+7990,,Stanis?aw Baran,26-04-1920,FW,Poland
+7991,,Ewald Cebula,22-03-1917,FW,Poland
+7992,,Boles?aw Habowski,13-09-1914,FW,Poland
+7993,,Józef Korbas,11-11-1914,FW,Poland
+7994,,Antoni ?yko,27-05-1907,FW,Poland
+7995,,Leonard Pi?tek,03-10-1913,FW,Poland
+7996,,Ryszard Piec,17-08-1913,FW,Poland
+7997,,Fryderyk Scherfke,07-09-1909,FW,Poland
+7998,,Ernst Wilimowski,23-06-1916,FW,Poland
+7999,,Gerard Wodarz,10-08-1913,FW,Poland
+8000,,Mircea David,16-10-1914,GK,Romania
+8001,,Dumitru Pavlovici,26-04-1912,GK,Romania
+8002,,Robert Sadowski,16-08-1914,GK,Romania
+8003,,Rudolf Bürger,31-10-1908,DF,Romania
+8004,,Vasile Chiroiu,13-08-1910,DF,Romania
+8005,,Iacob Felecan,01-03-1914,DF,Romania
+8006,,Laz?r Sfera,29-04-1909,DF,Romania
+8007,,Andrei B?rbulescu,25-03-1917,MF,Romania
+8008,,Gheorghe Brandabura,23-02-1913,MF,Romania
+8009,,Vintil? Cossini,21-11-1913,MF,Romania
+8010,,Gheorghe R??inaru,10-02-1915,MF,Romania
+8011,,László Raffinsky,23-04-1905,MF,Romania
+8012,,Iuliu Baratky,14-05-1910,FW,Romania
+8013,,Silviu Bindea,24-10-1912,FW,Romania
+8014,,Iuliu Bodola,26-02-1912,FW,Romania
+8015,,Ion Bogdan,06-03-1915,FW,Romania
+8016,,?tefan Dobay,26-09-1909,FW,Romania
+8017,,Coloman Braun-Bogdan,13-10-1905,FW,Romania
+8018,,Nicolae Kovács,29-10-1911,FW,Romania
+8019,,Ioachim Moldoveanu,17-08-1913,FW,Romania
+8020,,Miklós Nagy,11-01-1918,FW,Romania
+8021,,Gyula Prassler,16-01-1916,FW,Romania
+8022,,Henock Abrahamsson,29-10-1909,GK,Sweden
+8023,,Gustav Sjöberg,23-03-1913,GK,Sweden
+8024,,Ivar Eriksson,25-12-1909,DF,Sweden
+8025,,Olle Källgren,07-09-1907,DF,Sweden
+8026,,Harry Nilsson,05-01-1916,DF,Sweden
+8027,,Erik Almgren,28-01-1908,MF,Sweden
+8028,,Karl-Erik Grahn,05-11-1914,MF,Sweden
+8029,,Sven Jacobsson,17-04-1914,MF,Sweden
+8030,,Arne Linderholm,22-02-1916,MF,Sweden
+8031,,Kurt Svanström,24-03-1915,MF,Sweden
+8032,,Åke Andersson,22-04-1917,FW,Sweden
+8033,,Harry Andersson,07-03-1913,FW,Sweden
+8034,,Curt Bergsten,21-08-1915,FW,Sweden
+8035,,Lennart Bunke,03-04-1912,FW,Sweden
+8036,,Knut Hansson,09-05-1911,FW,Sweden
+8037,,Sven Jonasson,09-07-1909,FW,Sweden
+8038,,Tore Keller,04-01-1905,FW,Sweden
+8039,,Arne Nyberg,20-06-1913,FW,Sweden
+8040,,Erik Persson,19-11-1909,FW,Sweden
+8041,,Sven Unger,,FW,Sweden
+8042,,Gustav Wetterström,15-10-1911,FW,Sweden
+8043,,Erwin Ballabio,20-10-1918,GK,Switzerland
+8044,,Renato Bizzozero,07-09-1912,GK,Switzerland
+8045,,Willy Huber,17-12-1913,GK,Switzerland
+8046,,August Lehmann,26-01-1909,DF,Switzerland
+8047,,Severino Minelli,06-09-1909,DF,Switzerland
+8048,,Adolf Stelzer,01-09-1908,DF,Switzerland
+8049,,Albert Guinchard,10-11-1914,MF,Switzerland
+8050,,Ernst Lörtscher,15-03-1913,MF,Switzerland
+8051,,Oscar Rauch,20-03-1914,MF,Switzerland
+8052,,Hermann Springer,04-12-1908,MF,Switzerland
+8053,,Sirio Vernati,12-05-1907,MF,Switzerland
+8054,,André Abegglen,07-03-1909,FW,Switzerland
+8055,,Georges Aeby,10-09-1910,FW,Switzerland
+8056,,Paul Aeby,10-09-1910,FW,Switzerland
+8057,,Lauro Amadò,14-03-1912,FW,Switzerland
+8058,,Alessandro Frigerio,15-11-1914,FW,Switzerland
+8059,,Tullio Grassi,05-02-1910,FW,Switzerland
+8060,,Leopold Kielholz,09-06-1911,FW,Switzerland
+8061,,Eugen Rupf,16-06-1914,FW,Switzerland
+8062,,Fritz Wagner,21-12-1913,FW,Switzerland
+8063,,Eugen Walaschek,20-06-1916,FW,Switzerland
