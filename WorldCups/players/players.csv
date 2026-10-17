@@ -5376,8 +5376,8 @@ player_id,dorsal,player_name,birth_date,position,nationality
 5375,21,Béla Katzirz,27-07-1953,GK,Hungary
 5376,22,Imre Kiss,10-08-1957,GK,Hungary
 5377,2,Gy?z? Martos,15-12-1949,DF,Hungary
-
-
+5378,,Vicente Arraya,25-01-1921,GK,Bolivia
+5379,,Eduardo Gutierrez,17-01-1925,GK,Bolivia
 5380,13,Tibor Rab,02-10-1955,DF,Hungary
 5381,18,Attila Kerekes,04-04-1954,DF,Hungary
 5382,5,Sándor Müller,21-09-1948,MF,Hungary
@@ -6724,7 +6724,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 6723,19,Rubén Sosa,14-11-1936,FW,Argentina
 6724,20,Juan Carlos Oleniak,04-03-1942,FW,Argentina
 6725,22,Castilho,27-11-1927,GK,Brazil
-
+6726,,Alberto Achá,18-02-1917,Bolivia
 6727,5,Zózimo,19-06-1932,DF,Brazil
 6728,6,Nílton Santos,16-05-1925,DF,Brazil
 6729,12,Jair Marinho,17-07-1936,DF,Brazil
@@ -6814,10 +6814,10 @@ player_id,dorsal,player_name,birth_date,position,nationality
 6813,17,Bryan Douglas,27-05-1934,MF,England
 6814,22,Jimmy Adamson,04-04-1929,MF,England
 6815,9,Gerry Hitchens,08-10-1934,FW,England
-
+6816,,José Bustamante,05-03-1922,DF,Bolivia
 6817,13,Derek Kevan,06-03-1935,FW,England
 6818,19,Alan Peacock,29-10-1937,FW,England
-
+6819,,Antonio Greco,17-09-1923,DF,Bolivia
 6820,22,István Ilku,06-03-1933,GK,Hungary
 6821,4,László Sárosi,27-02-1932,DF,Hungary
 6822,5,Ern? Solymosi,21-09-1940,DF,Hungary
@@ -6895,7 +6895,7 @@ player_id,dorsal,player_name,birth_date,position,nationality
 6894,14,Anton Allemann,06-01-1936,MF,Switzerland
 6895,20,Roger Vonlanthen,05-12-1930,MF,Switzerland
 6896,12,Marcel Vonlanthen,08-09-1933,FW,Switzerland
-
+6897,,Mario Pérez Plascencia,19-02-1927,MF,Mexico
 6898,17,Norbert Eschmann,19-03-1933,FW,Switzerland
 6899,18,Philippe Pottier,09-07-1938,FW,Switzerland
 6900,19,Gilbert Rey,30-10-1930,FW,Switzerland
