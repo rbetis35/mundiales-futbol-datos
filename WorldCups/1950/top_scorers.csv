@@ -1,0 +1,48 @@
+player_id,player_name,team,goals,assists,min.tot
+1,Ademir,Brazil,8,,540
+2,Oscar Míguez,Uruguay,5,,360
+3,Chico,Brazil,4,,360
+4,Alcides Ghiggia,Uruguay,4,,360
+5,Estanislau Basora,Spain,4,,540
+6,Telmo Zarra,Spain,4,,540
+7,Juan Alberto Schiaffino,Uruguay,3,,360
+8,Karl-Erik Palmér,Sweden,3,,450
+9,Stig Sundqvist,Sweden,3,,450
+10,Baltazar,Brazil,2,,180
+11,Riccardo Carapellese,Italy,2,,180
+12,Atilio Cremaschi,Chile,2,,270
+13,Jacques Fatton,Switzerland,2,,270
+14,Željko ?ajkovski,Yugoslavia,2,,270
+15,Kosta Tomaševi?,Yugoslavia,2,,270
+16,Zizinho,Brazil,2,,360
+17,Hasse Jeppson,Sweden,2,,360
+18,Jair,Brazil,2,,450
+19,Silvestre Igoa,Spain,2,,450
+20,Sune Andersson,Sweden,2,,450
+21,Alfredo dos Santos,Brazil,1,,90
+22,Fernando Riera,Chile,1,,90
+23,Egisto Pandolfini,Italy,1,,90
+24,Tihomir Ognjanov,Yugoslavia,1,,90
+25,Andrés Prieto,Chile,1,,180
+26,Wilf Mannion,England,1,,180
+27,Ermes Muccinelli,Italy,1,,180
+28,Atilio López,Paraguay,1,,180
+29,César López Fretes,Paraguay,1,,180
+30,Bror Mellberg,Sweden,1,,180
+31,Charles Antenen,Switzerland,1,,180
+32,George Robledo,Chile,1,,270
+33,Stan Mortensen,England,1,,270
+34,Héctor Ortiz,Mexico,1,,270
+35,Horacio Casarín,Mexico,1,,270
+36,René Bader,Switzerland,1,,270
+37,Ernesto Vidal,Uruguay,1,,270
+38,Joe Maca,USA,1,,270
+39,Joe Gaetjens,USA,1,,270
+40,Gino Pariani,USA,1,,270
+41,Frank Wallace,USA,1,,270
+42,Stjepan Bobek,Yugoslavia,1,,270
+43,Rajko Miti?,Yugoslavia,1,,270
+44,Friaça,Brazil,1,,360
+45,Maneca,Brazil,1,,360
+46,Obdulio Varela,Uruguay,1,,360
+47,Julio Pérez,Uruguay,1,,360

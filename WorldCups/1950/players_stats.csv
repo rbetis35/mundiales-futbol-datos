@@ -1,0 +1,279 @@
+player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
+5378,,Vicente Arraya,GK,Bolivia,0,0,0,0,,0,0
+5379,,Eduardo Gutiérrez,GK,Bolivia,1,1,90,0,,0,0
+6726,,Alberto Achá,DF,Bolivia,1,1,90,0,,0,0
+6816,,José Bustamante,DF,Bolivia,1,1,90,0,,0,0
+6819,,Antonio Greco,DF,Bolivia,1,1,90,0,,0,0
+7520,,Alberto Aparicio,MF,Bolivia,0,0,0,0,,0,0
+7521,,Duberty Aráoz,MF,Bolivia,0,0,0,0,,0,0
+7522,,René Cabrera,MF,Bolivia,0,0,0,0,,0,0
+7523,,Leonardo Ferrel,MF,Bolivia,1,1,90,0,,0,0
+7524,,Humberto Saavedra,MF,Bolivia,0,0,0,0,,0,0
+7525,,Antonio José Valencia,MF,Bolivia,1,1,90,0,,0,0
+7526,,Víctor Celestino Algarañaz,FW,Bolivia,1,1,90,0,,0,0
+7527,,Víctor Brown,FW,Bolivia,0,0,0,0,,0,0
+7528,,Roberto Capparelli,FW,Bolivia,1,1,90,0,,0,0
+7529,,Benedicto Godoy Véizaga,FW,Bolivia,0,0,0,0,,0,0
+7530,,Juan Guerra,FW,Bolivia,0,0,0,0,,0,0
+7531,,Benigno Gutiérrez,FW,Bolivia,1,1,90,0,,0,0
+7532,,Benjamin Maldonado,FW,Bolivia,1,1,90,0,,0,0
+7533,,Mario Mena,FW,Bolivia,0,0,0,0,,0,0
+7534,,Víctor Agustín Ugarte,FW,Bolivia,1,1,90,0,,0,0
+7535,,Barbosa,GK,Brazil,6,6,540,0,,0,0
+6725,,Castilho,GK,Brazil,0,0,0,0,,0,0
+7536,,Augusto,DF,Brazil,6,6,540,0,,0,0
+6728,,Nílton Santos,DF,Brazil,0,0,0,0,,0,0
+7537,,Juvenal,DF,Brazil,6,6,540,0,,0,0
+7538,,Nena,DF,Brazil,0,0,0,0,,0,0
+7279,,Bauer,MF,Brazil,5,5,450,0,,0,0
+7539,,Danilo Alvim,MF,Brazil,5,5,450,0,,0,0
+7540,,Bigode,MF,Brazil,5,5,450,0,,1,0
+7280,,Ely,MF,Brazil,1,1,90,0,,0,0
+7541,,Noronha,MF,Brazil,1,1,90,0,,0,0
+7542,,Rui,MF,Brazil,1,1,90,0,,0,0
+7543,,Friaça,FW,Brazil,4,4,360,1,,0,0
+7544,,Zizinho,FW,Brazil,4,4,360,2,,0,0
+7545,,Ademir,FW,Brazil,6,6,540,8,,0,0
+7546,,Jair,FW,Brazil,5,5,450,2,,0,0
+7547,,Chico,FW,Brazil,4,4,360,4,,0,0
+7548,,Adãozinho,FW,Brazil,0,0,0,0,,0,0
+7549,,Alfredo dos Santos,FW,Brazil,1,1,90,1,,0,0
+7283,,Baltazar,FW,Brazil,2,2,180,2,,0,0
+7550,,Maneca,FW,Brazil,4,4,360,1,,0,0
+7285,,Rodrigues,FW,Brazil,0,0,0,0,,0,0
+7551,,Sergio Livingstone,GK,Chile,3,3,270,0,,0,0
+7552,,René Quitral,GK,Chile,0,0,0,0,,0,0
+7553,,Manuel Álvarez,DF,Chile,3,3,270,0,,0,0
+7554,,Arturo Farías,DF,Chile,3,3,270,0,,0,0
+7555,,Miguel Flores,DF,Chile,0,0,0,0,,0,0
+7556,,Manuel Machuca,DF,Chile,1,1,90,0,,0,0
+7557,,Fernando Roldán,DF,Chile,2,2,180,0,,0,0
+7558,,Francisco Urroz,DF,Chile,0,0,0,0,,0,0
+7559,,Miguel Busquets,MF,Chile,3,3,270,0,,0,0
+7560,,Fernando Campos,MF,Chile,0,0,0,0,,0,0
+7561,,Hernán Carvallo,MF,Chile,2,2,180,0,,0,0
+7562,,Carlos Rojas,MF,Chile,1,1,90,0,,0,0
+7563,,Osvaldo Saez,MF,Chile,0,0,0,0,,0,0
+7564,,Atilio Cremaschi,FW,Chile,3,3,270,2,,0,0
+7565,,Guillermo Díaz,FW,Chile,2,2,180,0,,0,0
+7566,,Carlos Ibáñez,FW,Chile,1,1,90,0,,0,0
+7567,,Raimundo Infante,FW,Chile,0,0,0,0,,0,0
+7568,,Luis Mayanés,FW,Chile,1,1,90,0,,0,0
+7569,,Manuel Muñoz,FW,Chile,2,2,180,0,,0,0
+7570,,Andrés Prieto,FW,Chile,2,2,180,1,,0,0
+7571,,Fernando Riera,FW,Chile,1,1,90,1,,0,0
+7572,,George Robledo,FW,Chile,3,3,270,1,,0,0
+7573,,Ted Ditchburn,GK,England,0,0,0,0,,0,0
+7574,,Bert Williams,GK,England,3,3,270,0,,0,0
+7575,,John Aston,DF,England,2,2,180,0,,0,0
+7576,,Bill Eckersley,DF,England,1,1,90,0,,0,0
+7577,,Laurie Hughes,DF,England,3,3,270,0,,0,0
+7578,,Alf Ramsey,DF,England,3,3,270,0,,0,0
+7579,,Laurie Scott,DF,England,0,0,0,0,,0,0
+7580,,Jim Taylor,DF,England,0,0,0,0,,0,0
+7581,,Henry Cockburn,MF,England,0,0,0,0,,0,0
+7310,,Jimmy Dickinson,MF,England,3,3,270,0,,0,0
+7582,,Bill Nicholson,MF,England,0,0,0,0,,0,0
+7583,,Willie Watson,MF,England,0,0,0,0,,0,0
+7584,,Billy Wright,MF,England,3,3,270,0,,0,0
+7585,,Eddie Baily,FW,England,1,1,90,0,,0,0
+7586,,Roy Bentley,FW,England,2,2,180,0,,0,0
+7025,,Tom Finney,FW,England,3,3,270,0,,0,0
+7587,,Wilf Mannion,FW,England,2,2,180,1,,0,0
+7315,,Stanley Matthews,FW,England,1,1,90,0,,0,0
+7588,,Jackie Milburn,FW,England,1,1,90,0,,0,0
+7589,,Stan Mortensen,FW,England,3,3,270,1,,0,0
+7320,,Jimmy Mullen,FW,England,2,2,180,0,,0,0
+7590,,Giuseppe Casari,GK,Italy,0,0,0,0,,0,0
+7591,,Giuseppe Moro,GK,Italy,1,1,90,0,,0,0
+7592,,Lucidio Sentimenti,GK,Italy,1,1,90,0,,0,0
+7593,,Carlo Annovazzi,DF,Italy,1,1,90,0,,0,0
+7594,,Ivano Blason,DF,Italy,1,1,90,0,,0,0
+7595,,Osvaldo Fattori,DF,Italy,1,1,90,0,,0,0
+7596,,Zeffiro Furiassi,DF,Italy,2,2,180,0,,0,0
+7597,,Attilio Giovannini,DF,Italy,1,1,90,0,,0,0
+7598,,Augusto Magli,MF,Italy,1,1,90,0,,0,0
+7360,,Giacomo Mari,MF,Italy,1,1,90,0,,0,0
+7599,,Carlo Parola,MF,Italy,1,1,90,0,,0,0
+7600,,Leandro Remondini,MF,Italy,1,1,90,0,,0,0
+7358,,Omero Tognon,MF,Italy,0,0,0,0,,0,0
+7601,,Amedeo Amadei,FW,Italy,1,1,90,0,,0,0
+7602,,Giampiero Boniperti,FW,Italy,1,1,90,0,,0,0
+7603,,Aldo Campatelli,FW,Italy,1,1,90,0,,0,0
+7366,,Gino Cappello,FW,Italy,2,2,180,0,,0,0
+7604,,Emilio Caprile,FW,Italy,0,0,0,0,,0,0
+7605,,Riccardo Carapellese,FW,Italy,2,2,180,2,,0,0
+7367,,Benito Lorenzi,FW,Italy,0,0,0,0,,0,0
+7363,,Ermes Muccinelli,FW,Italy,2,2,180,1,,0,0
+7364,,Egisto Pandolfini,FW,Italy,1,1,90,1,,0,0
+6571,,Antonio Carbajal,GK,Mexico,3,3,270,0,,0,0
+7606,,Raúl Córdoba,GK,Mexico,0,0,0,0,,0,0
+7607,,Gregorio Gómez,DF,Mexico,2,2,180,0,,0,0
+7608,,Manuel Gutiérrez,DF,Mexico,2,2,180,0,,0,0
+7609,,Alfonso Montemayor,DF,Mexico,1,1,90,0,,0,0
+7067,,José Antonio Roca,DF,Mexico,3,3,270,0,,0,0
+7610,,Rodrigo Ruiz,DF,Mexico,1,1,90,0,,0,0
+7611,,Felipe Zetter,DF,Mexico,1,1,90,0,,0,0
+7612,,Samuel Cuburu,MF,Mexico,1,1,90,0,,0,0
+7613,,Antonio Flores,MF,Mexico,1,1,90,0,,0,0
+7614,,Carlos Guevara,MF,Mexico,0,0,0,0,,0,0
+7615,,Francisco Hernández,MF,Mexico,0,0,0,0,,0,0
+7378,,Mario Ochoa,MF,Mexico,2,2,180,0,,0,0
+7616,,Héctor Ortiz,MF,Mexico,3,3,270,1,,0,0
+6897,,Mario Pérez Plascencia,MF,Mexico,2,2,180,0,,0,0
+7617,,José Luis Borbolla,FW,Mexico,1,1,90,0,,0,0
+7618,,Horacio Casarín,FW,Mexico,3,3,270,1,,0,0
+7619,,José Naranjo,FW,Mexico,2,2,180,0,,0,0
+7620,,Leonardo Navarro,FW,Mexico,0,0,0,0,,0,0
+7621,,Max Prieto,FW,Mexico,0,0,0,0,,0,0
+7384,,Carlos Septién,FW,Mexico,2,2,180,0,,0,0
+7622,,José Velázquez,FW,Mexico,3,3,270,0,,0,0
+7623,,Pablo Centurión,GK,Paraguay,0,0,0,0,,0,0
+7624,,Marcelino Vargas,GK,Paraguay,2,2,180,0,,0,0
+7625,,Antonio Cabrera,DF,Paraguay,0,0,0,0,,0,0
+7626,,Casiano Céspedes,DF,Paraguay,2,2,180,0,,0,0
+7627,,Manuel Gavilán,DF,Paraguay,2,2,180,0,,0,0
+7628,,Alberto Gonzalito González,DF,Paraguay,2,2,180,0,,0,0
+7629,,Elioro Paredes,DF,Paraguay,0,0,0,0,,0,0
+7630,,Melanio Baez,MF,Paraguay,0,0,0,0,,0,0
+7631,,Castor Cantero,MF,Paraguay,2,2,180,0,,0,0
+7632,,Armando González,MF,Paraguay,0,0,0,0,,0,0
+7633,,Victoriano Leguizamón,MF,Paraguay,2,2,180,0,,0,0
+7634,,Enrique Avalos,FW,Paraguay,2,2,180,0,,0,0
+7635,,Marcial Avalos,FW,Paraguay,0,0,0,0,,0,0
+7636,,Ángel Berni,FW,Paraguay,0,0,0,0,,0,0
+7637,,Lorenzo Calonga,FW,Paraguay,0,0,0,0,,0,0
+7638,,Juan Cañete,FW,Paraguay,0,0,0,0,,0,0
+7639,,Atilio López,FW,Paraguay,2,2,180,1,,0,0
+7640,,César López Fretes,FW,Paraguay,2,2,180,1,,0,0
+7641,,Hilarión Osorio,FW,Paraguay,0,0,0,0,,0,0
+7642,,Darío Jara Saguier,FW,Paraguay,2,2,180,0,,0,0
+7643,,Francisco Sosa,FW,Paraguay,0,0,0,0,,0,0
+7644,,Leongino Unzaim,FW,Paraguay,2,2,180,0,,0,0
+7645,,Juan Acuña,GK,Spain,0,0,0,0,,0,0
+7646,,Ignacio Eizaguirre,GK,Spain,2,2,180,0,,0,0
+7647,,Antoni Ramallets,GK,Spain,4,4,360,0,,0,0
+7648,,Gabriel Alonso,DF,Spain,6,6,540,0,,0,0
+7649,,Francisco Antúnez,DF,Spain,1,1,90,0,,0,0
+7650,,Vicente Asensi,DF,Spain,1,1,90,0,,0,0
+7651,,Josep Gonzalvo,DF,Spain,5,5,450,0,,0,0
+7652,,Rafael Lesmes,DF,Spain,0,0,0,0,,0,0
+7653,,José Parra,DF,Spain,5,5,450,0,,0,0
+7654,,Marià Gonzalvo,MF,Spain,5,5,450,0,,0,0
+7655,,Luis Molowny,MF,Spain,1,1,90,0,,0,0
+7656,,Nando,MF,Spain,0,0,0,0,,0,0
+7657,,José Luis Panizo,MF,Spain,4,4,360,0,,0,0
+7658,,Antonio Puchades,MF,Spain,6,6,540,0,,0,0
+7659,,Alfonso Silva,MF,Spain,1,1,90,0,,0,0
+7660,,Estanislau Basora,FW,Spain,6,6,540,4,,0,0
+7661,,César,FW,Spain,0,0,0,0,,0,0
+7662,,Agustín Gaínza,FW,Spain,5,5,450,0,,0,0
+7663,,Rosendo Hernández,FW,Spain,2,2,180,0,,0,0
+7664,,Silvestre Igoa,FW,Spain,5,5,450,2,,0,0
+7665,,José Juncosa,FW,Spain,1,1,90,0,,0,0
+7666,,Telmo Zarra,FW,Spain,6,6,540,4,,0,0
+7667,,Torsten Lindberg,GK,Sweden,0,0,0,0,,0,0
+7159,,Kalle Svensson,GK,Sweden,5,5,450,0,,0,0
+7160,,Tore Svensson,GK,Sweden,0,0,0,0,,0,0
+7668,,Gunnar Johansson,DF,Sweden,2,2,180,0,,0,0
+7669,,Arne Månsson,DF,Sweden,0,0,0,0,,0,0
+7670,,Erik Nilsson,DF,Sweden,5,5,450,0,,0,0
+7671,,Lennart Samuelsson,DF,Sweden,5,5,450,0,,0,0
+7672,,Sune Andersson,MF,Sweden,5,5,450,2,,0,0
+7673,,Ingvar Gärd,MF,Sweden,5,5,450,0,,0,0
+7674,,Knut Nordahl,MF,Sweden,3,3,270,0,,0,0
+7675,,Olle Åhlund,MF,Sweden,0,0,0,0,,0,0
+7676,,Hasse Jeppson,FW,Sweden,4,4,360,2,,0,0
+7677,,Egon Jönsson,FW,Sweden,3,3,270,0,,0,0
+7179,,Bror Mellberg,FW,Sweden,2,2,180,1,,0,0
+7678,,Stellan Nilsson,FW,Sweden,2,2,180,0,,0,0
+7679,,Karl-Erik Palmér,FW,Sweden,5,5,450,3,,0,0
+7680,,Ingvar Rydell,FW,Sweden,1,1,90,0,,0,0
+7170,,Lennart Skoglund,FW,Sweden,3,3,270,0,,0,0
+7681,,Stig Sundqvist,FW,Sweden,5,5,450,3,,0,0
+7682,,Kurt Svensson,FW,Sweden,0,0,0,0,,0,0
+7683,,Börje Tapper,FW,Sweden,0,0,0,0,,0,0
+7684,,Eugen Corrodi,GK,Switzerland,0,0,0,0,,0,0
+7685,,Adolphe Hug,GK,Switzerland,1,1,90,0,,0,0
+7428,,Georges Stuber,GK,Switzerland,2,2,180,0,,0,0
+7686,,Roger Bocquet,DF,Switzerland,3,3,270,0,,0,0
+7687,,Rudolf Gyger,DF,Switzerland,0,0,0,0,,0,0
+6888,,Willy Kernen,DF,Switzerland,0,0,0,0,,0,0
+7431,,André Neury,DF,Switzerland,3,3,270,0,,0,0
+7688,,Kurt Rey,DF,Switzerland,0,0,0,0,,0,0
+7689,,Willi Steffen,DF,Switzerland,0,0,0,0,,0,0
+7435,,Oliver Eggimann,MF,Switzerland,3,3,270,0,,0,0
+7690,,Robert Hasler,MF,Switzerland,0,0,0,0,,0,0
+7691,,Roger Quinche,MF,Switzerland,3,3,270,0,,0,0
+7438,,Charles Antenen,FW,Switzerland,2,2,180,1,,0,0
+7692,,René Bader,FW,Switzerland,3,3,270,1,,0,0
+7693,,Walter Beerli,FW,Switzerland,0,0,0,0,,0,0
+7694,,Alfred Bickel,FW,Switzerland,2,2,180,0,,0,0
+7440,,Jacques Fatton,FW,Switzerland,3,3,270,2,,0,0
+7695,,Hans-Peter Friedländer,FW,Switzerland,2,2,180,0,,0,0
+7696,,Gerhard Lusenti,FW,Switzerland,3,3,270,0,,0,0
+7697,,Walter Schneiter,FW,Switzerland,0,0,0,0,,0,0
+7698,,Hans Siegenthaler,FW,Switzerland,0,0,0,0,,0,0
+7699,,Jean Tamini,FW,Switzerland,3,3,270,0,,0,0
+7466,,Roque Máspoli,GK,Uruguay,3,3,270,0,,0,0
+7700,,Aníbal Paz,GK,Uruguay,1,1,90,0,,0,0
+7701,,Schubert Gambetta,DF,Uruguay,2,2,180,0,,0,0
+7702,,Juan Carlos González,DF,Uruguay,2,2,180,0,,0,0
+7703,,Matías González,DF,Uruguay,4,4,360,0,,0,0
+6905,,William Martínez,DF,Uruguay,0,0,0,0,,0,0
+7469,,Eusebio Tejera,DF,Uruguay,4,4,360,0,,0,0
+7704,,Héctor Vilches,DF,Uruguay,0,0,0,0,,0,0
+7705,,Washington Ortuño,MF,Uruguay,0,0,0,0,,0,0
+7706,,Rodolfo Pini,MF,Uruguay,0,0,0,0,,0,0
+7470,,Víctor Rodríguez Andrade,MF,Uruguay,4,4,360,0,,0,0
+7707,,Obdulio Varela,MF,Uruguay,4,4,360,1,,0,0
+7708,,Julio César Britos,FW,Uruguay,0,0,0,0,,0,0
+7709,,Juan Burgueño,FW,Uruguay,0,0,0,0,,0,0
+7710,,Alcides Ghiggia,FW,Uruguay,4,4,360,4,,0,0
+7478,,Oscar Míguez,FW,Uruguay,4,4,360,5,,0,0
+7711,,Rubén Morán,FW,Uruguay,1,1,90,0,,0,0
+7484,,Julio Pérez,FW,Uruguay,4,4,360,1,,0,0
+7712,,Luis Rijo,FW,Uruguay,0,0,0,0,,0,0
+7713,,Carlos Romero,FW,Uruguay,0,0,0,0,,0,0
+7479,,Juan Alberto Schiaffino,FW,Uruguay,4,4,360,3,,0,0
+7714,,Ernesto Vidal,FW,Uruguay,3,3,270,1,,0,0
+7715,,Frank Borghi,GK,USA,3,3,270,0,,0,0
+7716,,Gino Gardassanich,GK,USA,0,0,0,0,,0,0
+7717,,Robert Annis,DF,USA,0,0,0,0,,0,0
+7718,,Harry Keough,DF,USA,3,3,270,0,,0,0
+7719,,Joe Maca,DF,USA,3,3,270,1,,0,0
+7720,,Walter Bahr,MF,USA,3,3,270,0,,0,0
+7721,,Charlie Colombo,MF,USA,3,3,270,0,,0,0
+7722,,Geoff Coombes,MF,USA,0,0,0,0,,0,0
+7723,,Ed McIlvenny,MF,USA,3,3,270,0,,0,0
+7724,,Robert Craddock,FW,USA,0,0,0,0,,0,0
+7725,,Nicholas DiOrio,FW,USA,0,0,0,0,,0,0
+7726,,Joe Gaetjens,FW,USA,3,3,270,1,,0,0
+7727,,Benny McLaughlin,FW,USA,0,0,0,0,,0,0
+7728,,Gino Pariani,FW,USA,3,3,270,1,,0,0
+7729,,Ed Souza,FW,USA,2,2,180,0,,0,0
+7730,,John Souza,FW,USA,3,3,270,0,,0,0
+7731,,Frank Wallace,FW,USA,3,3,270,1,,0,0
+7732,,Adam Wolanin,FW,USA,1,1,90,0,,0,0
+7218,,Vladimir Beara,GK,Yugoslavia,0,0,0,0,,0,0
+7733,,Sr?an Mrkuši?,GK,Yugoslavia,3,3,270,0,,0,0
+7734,,Božo Broketa,DF,Yugoslavia,0,0,0,0,,0,0
+7735,,Ratko ?oli?,DF,Yugoslavia,0,0,0,0,,0,0
+7505,,Ivica Horvat,DF,Yugoslavia,3,3,270,0,,0,0
+7736,,Miodrag Jovanovi?,DF,Yugoslavia,3,3,270,0,,0,0
+7504,,Branko Stankovi?,DF,Yugoslavia,3,3,270,0,,0,0
+7747,,Siniša Zlatkovi?,DF,Yugoslavia,0,0,0,0,,0,0
+7737,,Aleksandar Atanackovi?,MF,Yugoslavia,0,0,0,0,,0,0
+7509,,Zlatko ?ajkovski,MF,Yugoslavia,2,2,180,0,,0,0
+7738,,Predrag ?aji?,MF,Yugoslavia,3,3,270,0,,0,0
+7739,,Ervin Katni?,MF,Yugoslavia,0,0,0,0,,0,0
+7740,,Bela Palfi,MF,Yugoslavia,0,0,0,0,,0,0
+7741,,Ivo Radovnikovi?,MF,Yugoslavia,0,0,0,0,,0,0
+7742,,Stjepan Bobek,FW,Yugoslavia,3,3,270,1,,0,0
+7743,,Željko ?ajkovski,FW,Yugoslavia,3,3,270,2,,0,0
+7744,,Vladimir Firm,FW,Yugoslavia,0,0,0,0,,0,0
+7745,,Prvoslav Mihajlovi?,FW,Yugoslavia,1,1,90,0,,0,0
+7515,,Rajko Miti?,FW,Yugoslavia,3,3,270,1,,0,0
+7514,,Tihomir Ognjanov,FW,Yugoslavia,1,1,90,1,,0,0
+7746,,Kosta Tomaševi?,FW,Yugoslavia,3,3,270,2,,0,0
+7516,,Bernard Vukas,FW,Yugoslavia,2,2,180,0,,0,0
