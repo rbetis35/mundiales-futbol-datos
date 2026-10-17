@@ -7193,8 +7193,8 @@ player_id,world_cup_year,team,club,country_club
 5375,1982,Hungary,Pécs,Hungary
 5376,1982,Hungary,Tatabányai Bányász,Hungary
 5377,1982,Hungary,Waterschei Thor,Belgium
-
-
+5378,1950,Bolivia,Ferroviario La Paz,Bolivia
+5379,1950,Bolivia,CD Ingavi,Bolivia
 5380,1978,Hungary,Ferencváros,Hungary
 5380,1982,Hungary,Ferencváros,Hungary
 5381,1982,Hungary,Békéscsabai El?re,Hungary
@@ -8674,6 +8674,7 @@ player_id,world_cup_year,team,club,country_club
 6569,1962,Italy,Bologna,Italy
 6569,1966,Italy,Bologna,Italy
 6570,1966,Italy,Cagliari,Italy
+6571,1950,Mexico,Real España,Mexico
 6571,1954,Mexico,León,Mexico
 6571,1958,Mexico,León,Mexico
 6571,1962,Mexico,León,Mexico
@@ -8868,12 +8869,14 @@ player_id,world_cup_year,team,club,country_club
 6722,1962,Argentina,Racing Club,Argentina
 6723,1962,Argentina,Racing Club,Argentina
 6724,1962,Argentina,Argentinos Juniors,Argentina
+6725,1950,Brazil,Fluminense,Brazil
 6725,1954,Brazil,Fluminense,Brazil
 6725,1958,Brazil,Fluminense,Brazil
 6725,1962,Brazil,Fluminense,Brazil
-
+6726,1950,Bolivia,The Strongest,Bolivia
 6727,1958,Brazil,Bangu,Brazil
 6727,1962,Brazil,Bangu,Brazil
+6728,1950,Braizl,Botafogo,Brazil
 6728,1954,Brazil,Botafogo,Brazil
 6728,1958,Brazil,Botafogo,Brazil
 6728,1962,Brazil,Botafogo,Brazil
@@ -8986,11 +8989,11 @@ player_id,world_cup_year,team,club,country_club
 6813,1962,England,Blackburn Rovers,England
 6814,1962,England,Burnley,England
 6815,1962,England,Internazionale,Italy
-
+6816,1950,Bolivia,Litoral de Cochabamba,Bolivia
 6817,1958,England,West Bromwich Albion,England
 6817,1962,England,West Bromwich Albion,England
 6818,1962,England,Middlesbrough,England
-
+6819,1950,Bolivia,Litoral de Cochabamba,Bolivia
 6820,1958,Hungary,Dorog,Hungary
 6820,1962,Hungary,Dorog,Hungary
 6821,1958,Hungary,Vasas,Hungary
@@ -9077,6 +9080,7 @@ player_id,world_cup_year,team,club,country_club
 6885,1962,Spain,Barcelona,Spain
 6886,1962,Switzerland,Luzern,Switzerland
 6887,1962,Switzerland,Basel,Switzerland
+6888,1950,Switzerland,La Chaux-de-Fonds,Switzerland
 6888,1954,Switzerland,La Chaux-de-Fonds,Switzerland
 6888,1962,Switzerland,La Chaux-de-Fonds,Switzerland
 6889,1962,Switzerland,Grenchen,Switzerland
@@ -9089,7 +9093,7 @@ player_id,world_cup_year,team,club,country_club
 6895,1954,Switzerland,Grasshopper,Switzerland
 6895,1962,Switzerland,Lausanne-Sport,Switzerland
 6896,1962,Switzerland,Lausanne-Sport,Switzerland
-
+6897,1950,Mexico,Marte,Mexico
 6898,1954,Switzerland,Lausanne-Sport,Switzerland
 6898,1962,Switzerland,Stade Français,France
 6899,1962,Switzerland,Stade Français,France
@@ -9098,6 +9102,7 @@ player_id,world_cup_year,team,club,country_club
 6902,1962,Switzerland,La Chaux-de-Fonds,Switzerland
 6903,1962,Uruguay,Peñarol,Uruguay
 6904,1962,Uruguay,Nacional,Uruguay
+6905,1950,Uruguay,Rampla Juniors,Uruguay
 6905,1954,Uruguay,Rampla Juniors,Uruguay
 6905,1962,Uruguay,Peñarol,Uruguay
 6906,1962,Uruguay,Cerro,Uruguay
@@ -9249,6 +9254,7 @@ player_id,world_cup_year,team,club,country_club
 7024,1954,England,Fulham,England
 7024,1958,England,Fulham,England
 7024,1962,England,Fulham,England
+7025,1950,England,Preston North End,England
 7025,1954,England,Preston North End,England
 7025,1958,England,Preston North End,England
 7026,1958,England,Chelsea,England
@@ -9307,6 +9313,7 @@ player_id,world_cup_year,team,club,country_club
 7064,1958,Hungary,Újpest,Hungary
 7065,1958,Mexico,Toluca,Mexico
 7066,1958,Mexico,Necaxa,Mexico
+7067,1950,Mexico,Necaxa,Mexico
 7067,1954,Mexico,Zacatepec,Mexico
 7067,1958,Mexico,Zacatepec,Mexico
 7068,1958,Mexico,Cuautla,Mexico
@@ -9406,7 +9413,9 @@ player_id,world_cup_year,team,club,country_club
 7156,1958,Soviet Union,Lokomotiv Moscow,Russia
 7157,1958,Soviet Union,Torpedo Moscow,Russia
 7158,1958,Soviet Union,Dynamo Moscow,Russia
+7159,1950,Sweden,Helsingborg,Sweden
 7159,1958,Sweden,Helsingborg,Sweden
+7160,1950,Sweden,Elfsborg,Sweden
 7160,1958,Sweden,Malmö,Sweden
 7161,1958,Sweden,Elfsborg,Sweden
 7162,1958,Sweden,Örebro,Sweden
@@ -9417,6 +9426,7 @@ player_id,world_cup_year,team,club,country_club
 7167,1958,Sweden,AC Milan,Italy
 7168,1958,Sweden,Djurgården,Sweden
 7169,1958,Sweden,Padova,Italy
+7170,1950,Sweden,AIK,Sweden
 7170,1958,Sweden,Internazionale,Italy
 7171,1958,Sweden,Norrby,Sweden
 7172,1958,Sweden,Norrköping,Sweden
@@ -9426,6 +9436,7 @@ player_id,world_cup_year,team,club,country_club
 7176,1958,Sweden,Lazio,Italy
 7177,1958,Sweden,Motala,Sweden
 7178,1958,Sweden,Norrköping,Sweden
+7179,1950,Sweden,AIK,Sweden
 7179,1958,Sweden,AIK,Sweden
 7180,1958,Sweden,Göteborg,Sweden
 7181,1958,Wales,Arsenal,England
@@ -9469,6 +9480,7 @@ player_id,world_cup_year,team,club,country_club
 7215,1958,West Germany,Schalke 04,Germany
 7216,1958,West Germany,SV Sodingen,Germany
 7217,1958,West Germany,Borussia Dortmund,Germany
+7218,1950,Yugoslavia,Hadjuk Split,Croatia
 7218,1954,Yugoslavia,Hadjuk Split,Croatia
 7218,1958,Yugoslavia,Red Star Belgrade,Serbia
 7219,1958,Yugoslavia,Dinamo Zagreb,Croatia
@@ -9538,12 +9550,16 @@ player_id,world_cup_year,team,club,country_club
 7276,1954,Brazil,Vasco da Gama,Brazil
 7277,1954,Brazil,Sao Paulo,Brazil
 7278,1954,Brazil,Fluminense,Brazil
+7279,1950,Brazil,Sao Paulo,Brazil
 7279,1954,Brazil,Sao Paulo,Brazil
+7280,1950,Brazil,Vasco da Gama,Brazil
 7280,1954,Brazil,Vasco da Gama,Brazil
 7281,1954,Brazil,Flamengo,Brazil
 7282,1954,Brazil,Portuguesa,Brazil
+7283,1950,Brazil,Corinthians,Brazil
 7283,1954,Brazil,Corinthians,Brazil
 7284,1954,Brazil,Vasco da Gama,Brazil
+7285,1950,Brazil,Fluminense,Brazil
 7285,1954,Brazil,Palmeiras,Brazil
 7286,1954,Brazil,Sao Paulo,Brazil
 7287,1954,Brazil,Palmeiras,Brazil
@@ -9569,16 +9585,19 @@ player_id,world_cup_year,team,club,country_club
 7307,1954,England,Manchester United,England
 7308,1954,England,Birmingham City,England
 7309,1954,England,Luton Town,England
+7310,1950,England,Portsmouth,England
 7310,1954,England,Portsmouth,England
 7311,1954,England,Huddersfield Town,England
 7312,1954,England,Sheffield Wednesday,England
 7313,1954,England,Manchester United,England
 7314,1954,England,Chelsea,England
+7315,1950,England,Blackpool,England
 7315,1954,England,Blackpool,England
 7316,1954,England,Newcastle United,England
 7317,1954,England,Bolton Wanderers,England
 7318,1954,England,Manchester United,England
 7319,1954,England,Wolverhampton,England
+7320,1950,England,Wolverhampton,England
 7320,1954,England,Wolverhampton,England
 7321,1954,England,Fulham,England
 7322,1954,England,West Ham,England
@@ -9617,15 +9636,21 @@ player_id,world_cup_year,team,club,country_club
 7355,1954,Italy,Fiorentina,Italy
 7356,1954,Italy,Fiorentina,Italy
 7357,1954,Italy,Internazionale,Italy
+7358,1950,Italy,AC Milan,Italy
 7358,1954,Italy,AC Milan,Italy
 7359,1954,Italy,Internazionale,Italy
+7360,1950,Italy,Juventus,Italy
 7360,1954,Italy,Sampdoria,Italy
 7361,1954,Italy,Juventus,Italy
 7362,1954,Italy,Fiorentina,Italy
+7363,1950,Italy,Juventus,Italy
 7363,1954,Italy,Juventus,Italy
+7364,1950,Italy,Fiorentina,Italy
 7364,1954,Italy,Roma,Italy
 7365,1954,Italy,Roma,Italy
+7366,1950,Italy,Bologna,Italy
 7366,1954,Italy,Bologna,Italy
+7367,1950,Italy,Internazionale,Italy
 7367,1954,Italy,Internazionale,Italy
 7368,1954,Italy,Fiorentina,Italy
 7369,1954,Italy,Bologna,Italy
@@ -9637,12 +9662,14 @@ player_id,world_cup_year,team,club,country_club
 7375,1954,Mexico,Le n,Mexico
 7376,1954,Mexico,Atlas,Mexico
 7377,1954,Mexico,Atlante,Mexico
+7378,1950,Mexico,America,Mexico
 7378,1954,Mexico,Marte,Mexico
 7379,1954,Mexico,Atlas,Mexico
 7380,1954,Mexico,Oro,Mexico
 7381,1954,Mexico,Necaxa,Mexico
 7382,1954,Mexico,Guadalajara,Mexico
 7383,1954,Mexico,Guadalajara,Mexico
+7384,1950,Mexico,Real España,Mexico
 7384,1954,Mexico,Tampico,Mexico
 7385,1954,Mexico,Toluca,Mexico
 7386,1954,Mexico,Atlante,Mexico
@@ -9687,19 +9714,24 @@ player_id,world_cup_year,team,club,country_club
 7425,1954,South Korea,ROK Navy FC,South Korea
 7426,1954,Switzerland,Young Boys,Switzerland
 7427,1954,Switzerland,Servette,Switzerland
-7428,1954,Switzerland,Lausanne Sports,Switzerland
+7428,1950,Switzerland,Lausanne Sport,Switzerland
+7428,1954,Switzerland,Lausanne Sport,Switzerland
 7429,1954,Switzerland,Young Boys,Switzerland
-7430,1954,Switzerland,Lausanne Sports,Switzerland
+7430,1954,Switzerland,Lausanne Sport,Switzerland
+7431,1950,Switzerland,FC Locarno,Switzerland
 7431,1954,Switzerland,Servette,Switzerland
-7432,1954,Switzerland,Lausanne Sports,Switzerland
+7432,1954,Switzerland,Lausanne Sport,Switzerland
 7433,1954,Switzerland,Young Boys,Switzerland
 7434,1954,Switzerland,Young Boys,Switzerland
+7435,1950,Switzerland,Servette,Switzerland
 7435,1954,Switzerland,La Chaux-de-Fonds,Switzerland
 7436,1954,Switzerland,La Chaux-de-Fonds,Switzerland
 7437,1954,Switzerland,Grasshopper,Switzerland
+7438,1950,Switzerland,La Chaux-de-Fonds,Switzerland
 7438,1954,Switzerland,La Chaux-de-Fonds,Switzerland
 7438,1962,Switzerland,La Chaux-de-Fonds,Switzerland
 7439,1954,Switzerland,Grasshopper,Switzerland
+7440,1950,Switzerland,Servette,Switzerland
 7440,1954,Switzerland,Servette,Switzerland
 7441,1954,Switzerland,Basel,Switzerland
 7442,1954,Switzerland,La Chaux-de-Fonds,Switzerland
@@ -9726,24 +9758,30 @@ player_id,world_cup_year,team,club,country_club
 7463,1954,Turkey,Adalet SK Istanbul,Turkey
 7464,1954,Turkey,Galatasaray,Turkey
 7465,1954,Turkey,Besiktas,Turkey
-7466,1954,Uruguay,Pe arol,Uruguay
+7466,1950,Uruguay,Peñarol,Uruguay
+7466,1954,Uruguay,Peñarol,Uruguay
 7467,1954,Uruguay,Danubio,Uruguay
-7468,1954,Uruguay,Pe arol,Uruguay
-7469,1954,Uruguay,Defensor,Uruguay
-7470,1954,Uruguay,Pe arol,Uruguay
-7471,1954,Uruguay,Pe arol,Uruguay
+7468,1954,Uruguay,Peñarol,Uruguay
+7469,1950,Uruguay,Nacional,Uruguay
+7469,1954,Uruguay,Defensor Sporting,Uruguay
+7470,1950,Uruguay,Central Español,Uruguay
+7470,1954,Uruguay,Peñarol,Uruguay
+7471,1954,Uruguay,Peñarol,Uruguay
 7472,1954,Uruguay,Nacional,Uruguay
 7473,1954,Uruguay,Danubio,Uruguay
 7474,1954,Uruguay,Nacional,Uruguay
 7475,1954,Uruguay,Nacional,Uruguay
-7476,1954,Uruguay,Pe arol,Uruguay
-7477,1954,Uruguay,Pe arol,Uruguay
-7478,1954,Uruguay,Pe arol,Uruguay
-7479,1954,Uruguay,Pe arol,Uruguay
-7480,1954,Uruguay,Pe arol,Uruguay
+7476,1954,Uruguay,Peñarol,Uruguay
+7477,1954,Uruguay,Peñarol,Uruguay
+7478,1950,Uruguay,Peñarol,Uruguay
+7478,1954,Uruguay,Peñarol,Uruguay
+7479,1950,Uruguay,Peñarol,Uruguay
+7479,1954,Uruguay,Peñarol,Uruguay
+7480,1954,Uruguay,Peñarol,Uruguay
 7481,1954,Uruguay,Nacional,Uruguay
 7482,1954,Uruguay,Nacional,Uruguay
 7483,1954,Uruguay,Nacional,Uruguay
+7484,1950,Uruguay,River Plate,Uruguay
 7484,1954,Uruguay,Nacional,Uruguay
 7485,1954,Uruguay,Defensor Sporting,Uruguay
 7486,1954,West Germany,Fortuna D sseldorf,Germany
@@ -9764,18 +9802,24 @@ player_id,world_cup_year,team,club,country_club
 7501,1954,West Germany,BC Augsburg,Germany
 7502,1954,West Germany,1. FC K ln,Germany
 7503,1954,Yugoslavia,Dinamo Zagreb,Croatia
+7504,1950,Yugoslavia,Red Star Belgrade,Serbia
 7504,1954,Yugoslavia,Red Star Belgrade,Serbia
+7505,1950,Yugoslavia,Dinamo Zagreb,Croatia
 7505,1954,Yugoslavia,Dinamo Zagreb,Croatia
 7506,1954,Yugoslavia,Red Star Belgrade,Serbia
 7507,1954,Yugoslavia,Vojvodina Novi Sad,Serbia
 7508,1954,Yugoslavia,Partizan Belgrade,Serbia
+7509,1950,Yugoslavia,Partizan Belgrade,Serbia
 7509,1954,Yugoslavia,Partizan Belgrade,Serbia
 7510,1954,Yugoslavia,Partizan Belgrade,Serbia
 7511,1954,Yugoslavia,Dinamo Zagreb,Croatia
 7512,1954,Yugoslavia,Red Star Belgrade,Serbia
 7513,1954,Yugoslavia,Lokomotiva Zagreb,Croatia
+7514,1950,Yugoslavia,Red Star Belgrade,Serbia
 7514,1954,Yugoslavia,Spartak Subotica,Serbia
+7515,1950,Yugoslavia,Red Star Belgrade,Serbia
 7515,1954,Yugoslavia,Red Star Belgrade,Serbia
+7516,1950,Yugoslavia,Hajduk Split,Croatia
 7516,1954,Yugoslavia,Hajduk Split,Croatia
 7517,1954,Yugoslavia,Partizan Belgrade,Serbia
 7518,1954,Yugoslavia,Dinamo Zagreb,Croatia
@@ -9833,19 +9877,19 @@ player_id,world_cup_year,team,club,country_club
 7570,1950,Chile,Universidad Católica,Chile
 7571,1950,Chile,Universidad Católica,Chile
 7572,1950,Chile,Newcastle United,England
-7573,1950,England,Tottenham Hotspur,England
-7574,1950,England,Wolverhampton Wanderers,England
+7573,1950,England,Tottenham,England
+7574,1950,England,Wolverhampton,England
 7575,1950,England,Manchester United,England
 7576,1950,England,Blackburn Rovers,England
 7577,1950,England,Liverpool,England
-7578,1950,England,Tottenham Hotspur,England
+7578,1950,England,Tottenham,England
 7579,1950,England,Arsenal,England
 7580,1950,England,Fulham,England
 7581,1950,England,Manchester United,England
-7582,1950,England,Tottenham Hotspur,England
+7582,1950,England,Tottenham,England
 7583,1950,England,Sunderland,England
-7584,1950,England,Wolverhampton Wanderers,England
-7585,1950,England,Tottenham Hotspur,England
+7584,1950,England,Wolverhampton,England
+7585,1950,England,Tottenham,England
 7586,1950,England,Chelsea,England
 7587,1950,England,Middlesbrough,England
 7588,1950,England,Newcastle United,England
