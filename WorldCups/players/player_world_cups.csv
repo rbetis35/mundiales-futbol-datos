@@ -10054,6 +10054,7 @@ player_id,world_cup_year,team,club,country_club
 7745,1950,Yugoslavia,Partizan Belgrade,Serbia
 7746,1950,Yugoslavia,Red Star Belgrade,Serbia
 7747,1950,Yugoslavia,Naša Krila Zemun,Serbia
+7748,1930,Belgium,Daring Club,Belgium
 7748,1934,Belgium,Daring Club,Belgium
 7748,1938,Belgium,Daring Club,Belgium
 7749,1938,Belgium,Cercle Brugge,Belgium
@@ -10078,6 +10079,7 @@ player_id,world_cup_year,team,club,country_club
 7766,1938,Belgium,Royal Beerschot AC,Belgium
 7767,1938,Belgium,Berchem Sport,Belgium
 7768,1938,Belgium,Royal Beerschot AC,Belgium
+7769,1930,Belgium,Lierse,Belgium
 7769,1934,Belgium,Lierse,Belgium
 7769,1938,Belgium,Lierse,Belgium
 7770,1938,Brazil,Fluminense,Brazil
@@ -10175,6 +10177,7 @@ player_id,world_cup_year,team,club,country_club
 7848,1938,France,FC Sete,France
 7849,1938,France,Marseille,France
 7850,1938,France,Sochaux,France
+7851,1930,France,Sochaux,France
 7851,1934,France,Sochaux,France
 7851,1938,France,Sochaux,France
 7852,1938,France,Le Havre,France
@@ -10190,12 +10193,14 @@ player_id,world_cup_year,team,club,country_club
 7860,1938,France,FC Sete,France
 7861,1934,France,Sochaux,France
 7861,1938,France,Sochaux,France
+7862,1930,France,RC Paris,France
 7862,1934,France,RC Paris,France
 7862,1938,France,RC Roubaix,France
 7863,1938,France,Strasbourg,France
 7864,1938,France,Metz,France
 7865,1934,France,Rouen,France
 7865,1938,France,Rouen,France
+7866,1930,France,RC Paris,France
 7866,1934,France,RC Paris,France
 7866,1938,France,RC Paris,France
 7867,1938,France,Marseille,France
@@ -10367,6 +10372,7 @@ player_id,world_cup_year,team,club,country_club
 8000,1938,Romania,Venus Bucure?ti,Romania
 8001,1938,Romania,Ripensia Timi?oara,Romania
 8002,1938,Romania,AMEF Arad,Romania
+8003,1930,Romania,Chinezul Timi?oara,Romania
 8003,1934,Romania,Ripensia Timi?oara,Romania
 8003,1938,Romania,Ripensia Timi?oara,Romania
 8004,1938,Romania,Ripensia Timi?oara,Romania
@@ -10377,6 +10383,7 @@ player_id,world_cup_year,team,club,country_club
 8008,1938,Romania,Petrolul Ploiesti,Romania
 8009,1938,Romania,Rapid Bucure?ti,Romania
 8010,1938,Romania,Rapid Bucure?ti,Romania
+8011,1930,Romania,Petrolul Ploiesti,Romania
 8011,1938,Romania,Rapid Bucure?ti,Romania
 8012,1934,Romania,Crișana Oradea,Romania
 8012,1938,Romania,Rapid Bucure?ti,Romania
@@ -10388,6 +10395,7 @@ player_id,world_cup_year,team,club,country_club
 8016,1934,Romania,Ripensia Timi?oara,Romania
 8016,1938,Romania,Ripensia Timi?oara,Romania
 8017,1938,Romania,Petrolul Ploiesti,Romania
+8018,1930,Romania,Cornezul Timi?oara,Romania
 8018,1934,Romania,CAO Oradea,Romania
 8018,1938,Romania,CAO Oradea,Romania
 8019,1938,Romania,Rapid Bucure?ti,Romania
@@ -10485,6 +10493,7 @@ player_id,world_cup_year,team,club,country_club
 8102,1934,Belgium,Union St. Gilloise,Belgium
 8103,1934,Belgium,Mechelen,Belgium
 8104,1934,Belgium,Union St. Gilloise,Belgium
+8105,1930,Belgium,Mechelen,Belgium
 8105,1934,Belgium,Mechelen,Belgium
 8106,1934,Belgium,Antwerp,Belgium
 8107,1934,Belgium,Royale Union Hutoise,Belgium
@@ -10497,6 +10506,7 @@ player_id,world_cup_year,team,club,country_club
 8114,1934,Belgium,Daring Club,Belgium
 8115,1934,Belgium,Daring Club,Belgium
 8116,1934,Belgium,Standard Liège,Belgium
+8117,1930,Belgium,Club Brugge,Belgium
 8117,1934,Belgium,Club Brugge,Belgium
 8118,1934,Brazil,Botafogo,Brazil
 8119,1934,Brazil,Americano-RS,Brazil
@@ -10504,11 +10514,13 @@ player_id,world_cup_year,team,club,country_club
 8121,1934,Brazil,São Paulo,Brazil
 8122,1934,Brazil,Botafogo,Brazil
 8123,1934,Brazil,Botafogo,Brazil
+8124,1930,Brazil,Botafogo,Brazil
 8124,1934,Brazil,Botafogo,Brazil
 8125,1934,Brazil,Vasco da Gama,Brazil
 8126,1934,Brazil,Botafogo,Brazil
 8127,1934,Brazil,São Paulo,Brazil
 8128,1934,Brazil,Botafogo,Brazil
+8129,1930,Brazil,Botafogo,Brazil
 8129,1934,Brazil,Botafogo,Brazil
 8130,1934,Brazil,Ypiranga SP,Brazil
 8131,1934,Brazil,Palmeiras,Brazil
@@ -10548,10 +10560,12 @@ player_id,world_cup_year,team,club,country_club
 8165,1934,Egypt,Al Ahly,Egypt
 8166,1934,Egypt,Zamalek,Egypt
 8167,1934,France,Olympique Lillois,France
-8168,1934,France,Red Star Paris,France
+8168,1930,France,Red Star Olympique,France
+8168,1934,France,Red Star Olympique,France
 8169,1934,France,Fives,France
-8170,1934,France,Red Star Paris,France
+8170,1934,France,Red Star Olympique,France
 8171,1934,France,Olympique Lillois,France
+8178,1930,France,Amiens,France
 8178,1934,France,Excelsior Roubaix,France
 8179,1934,France,FC Sete,France
 8180,1934,France,Excelsior Roubaix,France
@@ -10560,6 +10574,7 @@ player_id,world_cup_year,team,club,country_club
 8183,1934,France,Marseille,France
 8184,1934,France,Strasbourg,France
 8185,1934,France,Mulhouse,France
+8186,1930,France,Sochaux,France
 8186,1934,France,CA Paris,France
 8187,1934,Germany,Dresdner SC,Germany
 8188,1934,Germany,TuS Duisburg,Germany
@@ -10595,6 +10610,7 @@ player_id,world_cup_year,team,club,country_club
 8218,1934,Italy,Juventus,Italy
 8219,1934,Italy,Internazionale,Italy
 8220,1934,Italy,Roma,Italy
+8221,1930,Argentina,San Lorenzo,Argentina
 8221,1934,Italy,Juventus,Italy
 8222,1934,Italy,Fiorentina,Italy
 8223,1934,Italy,Juventus,Italy
@@ -10624,7 +10640,8 @@ player_id,world_cup_year,team,club,country_club
 8247,1934,Romania,Ripensia Timi?oara,Romania
 8248,1934,Romania,Venus Bucure?ti,Romania
 8249,1934,Romania,Rapid Bucure?ti,Romania
-8250,1934,Romania,Juventus Bucure?ti,Romania
+8250,1930,Romania,Petrolul Plioesti,Romania
+8250,1934,Romania,Petrolul Plioesti,Romania
 8251,1934,Romania,Ripensia Timi?oara,Romania
 8252,1934,Romania,Juventus Bucure?ti,Romania
 8253,1934,Romania,Ripensia Timi?oara,Romania
@@ -10693,12 +10710,16 @@ player_id,world_cup_year,team,club,country_club
 8316,1934,USA,Pawtucket Rangers,USA
 8317,1934,USA,Philadelphia German-Americans,USA
 8318,1934,USA,Pawtucket Rangers,USA
+8319,1930,USA,New York Giants,USA
 8319,1934,USA,New York Americans,USA
 8320,1934,USA,Philadelphia German-Americans,USA
 8321,1934,USA,Baltimore Canton,USA
 8322,1934,USA,Philadelphia German-Americans,USA
+8323,1930,USA,New Bedford Whalers,USA
 8323,1934,USA,Pawtucket Rangers,USA
+8324,1930,USA,New York Nationals,USA
 8324,1934,USA,Cleveland Slavia,USA
+8325,1930,USA,Fall River,USA
 8325,1934,USA,St. Louis Stix Baer & Fuller,USA
 8326,1934,USA,St. Louis Stix Baer & Fuller,USA
 8327,1934,USA,Brooklyn Celtic,USA
