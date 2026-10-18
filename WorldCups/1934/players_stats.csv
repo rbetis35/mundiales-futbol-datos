@@ -1,0 +1,342 @@
+player_id,dorsal,Player,position,Squad,MP,Starts,Min,Gls,Ast,CrdY,CrdR
+8064,,Héctor Freschi,GK,Argentina,1,1,90,0,,0,0
+8065,,Ángel Grippa,GK,Argentina,0,0,0,0,,0,0
+8066,,Ramón Astudillo,DF,Argentina,0,0,0,0,,0,0
+8067,,Ernesto Belis,DF,Argentina,1,1,90,1,,0,0
+8068,,Enrique Chimento,DF,Argentina,0,0,0,0,,0,0
+8069,,Juan Pedevilla,DF,Argentina,1,1,90,0,,0,0
+8070,,Ernesto Albarracín,MF,Argentina,0,0,0,0,,0,0
+8071,,Arcadio López,MF,Argentina,1,1,90,0,,0,0
+8072,,Alfonso Lorenzo,MF,Argentina,0,0,0,0,,0,0
+8073,,José Nehin,MF,Argentina,1,1,90,0,,0,0
+8074,,Constantino Urbieta Sosa,MF,Argentina,1,1,90,0,,0,0
+8075,,Alfredo Devincenzi,FW,Argentina,1,1,90,0,,0,0
+8076,,Alberto Galateo,FW,Argentina,1,1,90,1,,0,0
+8077,,Roberto Irañeta,FW,Argentina,1,1,90,0,,0,0
+8078,,Luis Izzeta,FW,Argentina,0,0,0,0,,0,0
+8079,,Francisco Pérez,FW,Argentina,0,0,0,0,,0,0
+8080,,Francisco Rúa,FW,Argentina,1,1,90,0,,0,0
+8081,,Federico Wilde,FW,Argentina,1,1,90,0,,0,0
+8082,,Friederich Franzl,GK,Austria,0,0,0,0,,0,0
+8083,,Peter Platzer,GK,Austria,4,4,390,0,,0,0
+7870,,Rudolf Raftl,GK,Austria,0,0,0,0,,0,0
+8084,,Franz Cisar,DF,Austria,4,4,390,0,,0,0
+8085,,Anton Janda,DF,Austria,0,0,0,0,,0,0
+7874,,Willibald Schmaus,DF,Austria,0,0,0,0,,0,0
+8086,,Karl Sesta,DF,Austria,4,4,390,1,,0,0
+8087,,Leopold Hofmann,MF,Austria,0,0,0,0,,0,0
+8088,,Josef Smistik,MF,Austria,4,4,390,0,,0,0
+8089,,Johann Urbanek,MF,Austria,4,4,390,0,,0,0
+7880,,Franz Wagner,MF,Austria,4,4,390,0,,0,0
+8090,,Josef Bican,FW,Austria,4,4,390,1,,0,0
+8091,,Georg Braun,FW,Austria,1,1,90,0,,0,0
+8092,,Josef Hassmann,FW,Austria,0,0,0,0,,0,0
+8093,,Johann Horvath,FW,Austria,2,2,180,2,,0,0
+8094,,Matthias Kaburek,FW,Austria,0,0,0,0,,0,0
+8095,,Anton Schall,FW,Austria,2,2,210,1,,0,0
+8096,,Matthias Sindelar,FW,Austria,3,3,300,1,,0,0
+7888,,Josef Stroh,FW,Austria,0,0,0,0,,0,0
+8097,,Rudolf Viertl,FW,Austria,4,4,390,0,,0,0
+8098,,Hans Walzhofer,FW,Austria,0,0,0,0,,0,0
+8099,,Karl Zischek,FW,Austria,4,4,390,1,,0,0
+7748,,Arnold Badjou,GK,Belgium,0,0,0,0,,0,0
+8100,,André Vandewyer,GK,Belgium,1,1,90,0,,0,0
+8101,,Constant Joacim,DF,Belgium,1,1,90,0,,0,0
+8102,,Jules Pappaert,DF,Belgium,0,0,0,0,,0,0
+7755,,Philibert Smellinckx,DF,Belgium,1,1,90,0,,0,0
+8103,,Désiré Bourgeois,MF,Belgium,0,0,0,0,,0,0
+8104,,Jean Claessens,MF,Belgium,1,1,90,0,,0,0
+8105,,August Hellemans,MF,Belgium,0,0,0,0,,0,0
+8106,,Frans Peeraer,MF,Belgium,1,1,90,0,,0,0
+8107,,Victor Putmans,MF,Belgium,0,0,0,0,,0,0
+8108,,Charles Simons,MF,Belgium,0,0,0,0,,0,0
+8109,,Joseph Van Ingelgem,MF,Belgium,0,0,0,0,,0,0
+8110,,Félix Welkenhuysen,MF,Belgium,1,1,90,0,,0,0
+8111,,Jean Brichaut,FW,Belgium,0,0,0,0,,0,0
+7763,,Jean Capelle,FW,Belgium,1,1,90,0,,0,0
+8112,,François Devries,FW,Belgium,1,1,90,0,,0,0
+8113,,Laurent Grimmonprez,FW,Belgium,1,1,90,0,,0,0
+8114,,Albert Heremans,FW,Belgium,1,1,90,0,,0,0
+8115,,Robert Lamoot,FW,Belgium,0,0,0,0,,0,0
+8116,,Francois Ledent,FW,Belgium,0,0,0,0,,0,0
+8117,,Louis Versyp,FW,Belgium,0,0,0,0,,0,0
+7769,,Bernard Voorhoof,FW,Belgium,1,1,90,2,,0,0
+8334,,Germano Sobrinho,GK,Brazil,0,0,0,0,,0,0
+8118,,Pedrosa,GK,Brazil,1,1,90,0,,0,0
+7772,,Domingos da Guia,DF,Brazil,0,0,0,0,,0,0
+8119,,Luiz Luz,DF,Brazil,1,1,90,0,,0,0
+8120,,Octacílio,DF,Brazil,0,0,0,0,,0,0
+8121,,Sylvio Hoffmann,DF,Brazil,1,1,90,0,,0,0
+8122,,Ariel,MF,Brazil,0,0,0,0,,0,0
+8123,,Canalli,MF,Brazil,1,1,90,0,,0,0
+7780,,Martim,MF,Brazil,1,1,90,0,,0,0
+8124,,Pamplona,MF,Brazil,0,0,0,0,,0,0
+8125,,Tinoco,MF,Brazil,1,1,90,0,,0,0
+8126,,Waldyr,MF,Brazil,0,0,0,0,,0,0
+8127,,Armandinho,FW,Brazil,1,1,90,0,,0,0
+8128,,Áttila,FW,Brazil,0,0,0,0,,0,0
+8129,,Carvalho Leite,FW,Brazil,0,0,0,0,,0,0
+7785,,Luisinho,FW,Brazil,1,1,90,0,,0,0
+8130,,Gabriel Fernando Bilé,FW,Brazil,0,0,0,0,,0,0
+7783,,Leônidas,FW,Brazil,1,1,90,1,,0,0
+7787,,Patesko,FW,Brazil,1,1,90,0,,0,0
+8131,,Tunga,FW,Brazil,0,0,0,0,,0,0
+8132,,Waldemar de Brito,FW,Brazil,1,1,90,0,,0,0
+8133,,?estmír Patzel,GK,Czechoslovakia,0,0,0,0,,0,0
+7808,,František Pláni?ka,GK,Czechoslovakia,4,4,390,0,,0,0
+7809,,Jaroslav Burgr,DF,Czechoslovakia,1,1,90,0,,0,0
+8134,,Josef ?ty?oký,DF,Czechoslovakia,4,4,390,0,,0,0
+7811,,Ferdinand Dau?ík,DF,Czechoslovakia,0,0,0,0,,0,0
+8135,,Ladislav Ženíšek,DF,Czechoslovakia,3,3,300,0,,0,0
+7813,,Jaroslav Bou?ek,MF,Czechoslovakia,0,0,0,0,,0,0
+8136,,Štefan ?ambal,MF,Czechoslovakia,4,4,390,0,,0,0
+7815,,Vlastimil Kopecký,MF,Czechoslovakia,0,0,0,0,,0,0
+7816,,Josef Koš?álek,MF,Czechoslovakia,4,4,390,0,,0,0
+8137,,Rudolf Kr?il,MF,Czechoslovakia,4,4,390,0,,0,0
+8138,,Adolf Šimperský,MF,Czechoslovakia,0,0,0,0,,0,0
+8139,,Antonín Vodi?ka,MF,Czechoslovakia,0,0,0,0,,0,0
+8140,,František Junek,FW,Czechoslovakia,4,4,390,0,,0,0
+8141,,Géza Kalocsay,FW,Czechoslovakia,0,0,0,0,,0,0
+7822,,Old?ich Nejedlý,FW,Czechoslovakia,4,4,390,5,,0,0
+7823,,Antonín Pu?,FW,Czechoslovakia,4,4,390,2,,0,0
+8142,,Josef Silný,FW,Czechoslovakia,1,1,90,0,,0,0
+8143,,Ji?í Sobotka,FW,Czechoslovakia,4,4,390,1,,0,0
+8144,,Erich Srbek,FW,Czechoslovakia,0,0,0,0,,0,0
+8145,,František Šterc,FW,Czechoslovakia,0,0,0,0,,0,0
+8146,,František Svoboda,FW,Czechoslovakia,3,3,300,1,,0,0
+8147,,Aziz Fahmy,GK,Egypt,0,0,0,0,,0,0
+8148,,Mustafa Mansour,GK,Egypt,0,0,0,0,,0,0
+8149,,Ali El-Kaf,DF,Egypt,1,1,90,0,,0,0
+8150,,Yacout El-Soury,DF,Egypt,0,0,0,0,,0,0
+8151,,Hamidu,DF,Egypt,0,0,0,0,,0,0
+8152,,Mohammed Bakhati,MF,Egypt,0,0,0,0,,0,0
+8153,,Hassan El-Far,MF,Egypt,1,1,90,0,,0,0
+8154,,Ahmed Halim Ibrahim,MF,Egypt,1,1,90,0,,0,0
+8155,,Hafez Kasseb,MF,Egypt,0,0,0,0,,0,0
+8156,,Ismail Rafaat,MF,Egypt,1,1,90,0,,0,0
+8157,,Hassan Raghab,MF,Egypt,1,1,90,0,,0,0
+8158,,Moustafa Helmi Youssef,MF,Egypt,0,0,0,0,,0,0
+8159,,Mahmoud El-Nigero,FW,Egypt,0,0,0,0,,0,0
+8160,,Mahmoud 'El-Tetsh' Mokhtar,FW,Egypt,1,1,90,0,,0,0
+8161,,Abdulrahman Fawzi,FW,Egypt,1,1,90,2,,0,0
+8162,,Mohammed Hassan,FW,Egypt,1,1,90,0,,0,0
+8163,,Mohamed Latif,FW,Egypt,1,1,90,0,,0,0
+8164,,Labib Mahmoud,FW,Egypt,0,0,0,0,,0,0
+8165,,Kamel Mosaoud,FW,Egypt,1,1,90,0,,0,0
+8166,,Mostafa Taha,FW,Egypt,1,1,90,0,,0,0
+8167,,Robert Défossé,GK,France,0,0,0,0,,0,0
+7848,,René Llense,GK,France,0,0,0,0,,0,0
+8168,,Alex Thépot,GK,France,1,1,120,0,,0,0
+8169,,Joseph Gonzales,DF,France,0,0,0,0,,0,0
+8170,,Jacques Mairesse,DF,France,1,1,120,0,,0,0
+7851,,Étienne Mattler,DF,France,1,1,120,0,,0,0
+7853,,Jules Vandooren,DF,France,0,0,0,0,,0,0
+8171,,Georges Beaucourt,MF,France,0,0,0,0,,0,0
+7862,,Edmond Delfour,MF,France,1,1,120,0,,0,0
+8178,,Célestin Delmer,MF,France,0,0,0,0,,0,0
+8179,,Louis Gabrillargues,MF,France,0,0,0,0,,0,0
+8180,,Noël Liétaer,MF,France,1,1,120,0,,0,0
+8181,,Roger Rio,MF,France,1,1,120,0,,0,0
+8182,,Georges Verriest,MF,France,1,1,120,1,,0,0
+8183,,Joseph Alcazar,FW,France,1,1,120,0,,0,0
+7859,,Alfred Aston,FW,France,1,1,120,0,,0,0
+7861,,Roger Courtois,FW,France,0,0,0,0,,0,0
+8184,,Fritz Keller,FW,France,1,1,120,0,,0,0
+8185,,Pierre Korb,FW,France,0,0,0,0,,0,0
+8186,,Lucien Laurent,FW,France,0,0,0,0,,0,0
+7865,,Jean Nicolas,FW,France,1,1,120,1,,0,0
+7866,,Émile Veinante,FW,France,0,0,0,0,,0,0
+7868,,Fritz Buchloh,GK,Germany,0,0,0,0,,0,0
+7869,,Hans Jakob,GK,Germany,1,1,90,0,,0,0
+8187,,Willibald Kreß,GK,Germany,3,3,270,0,,0,0
+8188,,Willy Busch,DF,Germany,3,3,270,0,,0,0
+8189,,Sigmund Haringer,DF,Germany,3,3,270,0,,0,0
+7872,,Paul Janes,DF,Germany,2,2,180,0,,0,0
+7873,,Reinhold Münzenberg,DF,Germany,1,1,90,0,,0,0
+8190,,Hans Schwartz,DF,Germany,1,1,90,0,,0,0
+8191,,Ernst Albrecht,MF,Germany,0,0,0,0,,0,0
+8192,,Jakob Bender,MF,Germany,2,2,180,0,,0,0
+8193,,Rudolf Gramlich,MF,Germany,1,1,90,0,,0,0
+8194,,Karl Hohmann,MF,Germany,2,2,180,2,,0,0
+8195,,Paul Zielinski,MF,Germany,4,4,360,0,,0,0
+8196,,Edmund Conen,FW,Germany,4,4,360,4,,0,0
+8197,,Franz Dienert,FW,Germany,0,0,0,0,,0,0
+8198,,Matthias Heidemann,FW,Germany,1,1,90,0,,0,0
+8199,,Stanislaus Kobierski,FW,Germany,3,3,270,1,,0,0
+7884,,Ernst Lehner,FW,Germany,4,4,360,2,,0,0
+8200,,Rudolf Noack,FW,Germany,1,1,90,1,,0,0
+7887,,Otto Siffling,FW,Germany,4,4,360,1,,0,0
+8201,,Josef Streb,FW,Germany,0,0,0,0,,0,0
+7889,,Fritz Szepan,FW,Germany,4,4,360,0,,0,0
+7890,,József Háda,GK,Hungary,0,0,0,0,,0,0
+7892,,Antal Szabó,GK,Hungary,2,2,180,0,,0,0
+7893,,Sándor Bíró,DF,Hungary,0,0,0,0,,0,0
+8202,,Gyula Futó,DF,Hungary,1,1,90,0,,0,0
+8203,,László Sternberg,DF,Hungary,2,2,180,0,,0,0
+8204,,József Vágó,DF,Hungary,1,1,90,0,,0,0
+7897,,János Dudás,MF,Hungary,0,0,0,0,,0,0
+7898,,Gyula Lázár,MF,Hungary,1,1,90,0,,0,0
+8205,,István Palotás,MF,Hungary,2,2,180,0,,0,0
+7895,,Gyula Polgár,MF,Hungary,0,0,0,0,,0,0
+8206,,Rezs? Somlai,MF,Hungary,0,0,0,0,,0,0
+7900,,Antal Szalay,MF,Hungary,1,1,90,0,,0,0
+7901,,György Sz?cs,MF,Hungary,2,2,180,0,,0,0
+8207,,István Avar,FW,Hungary,1,1,90,0,,0,0
+8208,,Tibor Kemény,FW,Hungary,1,1,90,0,,0,0
+8209,,Imre Markos,FW,Hungary,2,2,152,0,,0,1
+7906,,György Sárosi,FW,Hungary,1,1,90,1,,0,0
+8210,,Gábor P. Szabó,FW,Hungary,1,1,90,0,,0,0
+8211,,István Tamássy,FW,Hungary,0,0,0,0,,0,0
+8212,,Pál Teleki,FW,Hungary,1,1,90,1,,0,0
+7909,,Géza Toldi,FW,Hungary,2,2,180,2,,0,0
+7910,,Jen? Vincze,FW,Hungary,1,1,90,1,,0,0
+8213,,Giuseppe Cavanna,GK,Italy,0,0,0,0,,0,0
+8214,,Gianpiero Combi,GK,Italy,5,5,510,0,,0,0
+7913,,Guido Masetti,GK,Italy,0,0,0,0,,0,0
+8215,,Luigi Allemandi,DF,Italy,5,5,510,0,,0,0
+8216,,Umberto Caligaris,DF,Italy,0,0,0,0,,0,0
+7916,,Eraldo Monzeglio,DF,Italy,4,4,420,0,,0,0
+8217,,Virginio Rosetta,DF,Italy,1,1,90,0,,0,0
+8218,,Luigi Bertolini,MF,Italy,4,4,390,0,,0,0
+8219,,Armando Castellazzi,MF,Italy,1,1,120,0,,0,0
+8220,,Attilio Ferraris,MF,Italy,3,3,300,0,,0,0
+7923,,Giuseppe Meazza,MF,Italy,5,5,510,2,,0,0
+8221,,Luis Monti,MF,Italy,5,5,510,0,,0,0
+8222,,Mario Pizziolo,MF,Italy,2,2,210,0,,0,0
+8223,,Mario Varglien,MF,Italy,0,0,0,0,,0,0
+8224,,Pietro Arcari,FW,Italy,0,0,0,0,,0,0
+8225,,Felice Borel,FW,Italy,1,1,90,0,,0,0
+8226,,Attilio Demaria,FW,Italy,1,1,90,0,,0,0
+7930,,Giovanni Ferrari,FW,Italy,4,4,420,2,,0,0
+8227,,Enrique Guaita,FW,Italy,4,4,420,1,,0,0
+8228,,Anfilogino Guarisi,FW,Italy,1,1,90,0,,0,0
+8229,,Raimundo Orsi,FW,Italy,5,5,510,3,,0,0
+8230,,Angelo Schiavio,FW,Italy,4,4,420,4,,0,0
+8231,,Leo Halle,GK,Netherlands,0,0,0,0,,0,0
+8232,,Gejus van der Meulen,GK,Netherlands,1,1,90,0,,0,0
+7935,,Adri van Male,GK,Netherlands,0,0,0,0,,0,0
+8233,,Jan van Diepenbeek,DF,Netherlands,0,0,0,0,,0,0
+8234,,Sjef van Run,DF,Netherlands,1,1,90,0,,0,0
+7939,,Mauk Weber,DF,Netherlands,1,1,90,0,,0,0
+7940,,Wim Anderiesen,MF,Netherlands,1,1,90,0,,0,0
+8235,,Toon Oprinsen,MF,Netherlands,0,0,0,0,,0,0
+7942,,Bas Paauwe,MF,Netherlands,0,0,0,0,,0,0
+8236,,Henk Pellikaan,MF,Netherlands,1,1,90,0,,0,0
+7944,,Puck van Heel,MF,Netherlands,1,1,90,0,,0,0
+8237,,Beb Bakhuys,FW,Netherlands,1,1,90,0,,0,0
+8238,,Jan Graafland,FW,Netherlands,0,0,0,0,,0,0
+8239,,Wim Langendaal,FW,Netherlands,0,0,0,0,,0,0
+8240,,Kees Mijnders,FW,Netherlands,0,0,0,0,,0,0
+8241,,Jaap Mol,FW,Netherlands,0,0,0,0,,0,0
+8242,,Arend Schoemaker,FW,Netherlands,0,0,0,0,,0,0
+7951,,Kick Smit,FW,Netherlands,1,1,90,1,,0,0
+8243,,Joop van Nellen,FW,Netherlands,1,1,90,0,,0,0
+7954,,Leen Vente,FW,Netherlands,1,1,90,1,,0,0
+8244,,Manus Vrauwdeunt,FW,Netherlands,0,0,0,0,,0,0
+7955,,Frank Wels,FW,Netherlands,1,1,90,0,,0,0
+8245,,Stanislav Konrad,GK,Romania,0,0,0,0,,0,0
+8246,,Adalbert Püllöck,GK,Romania,0,0,0,0,,0,0
+8247,,Vilmos Zombori,GK,Romania,1,1,90,0,,0,0
+8248,,Gheorghe Albu,DF,Romania,1,1,90,0,,0,0
+8003,,Rudolf Bürger,DF,Romania,0,0,0,0,,0,0
+8249,,Alexandru Cuedan,DF,Romania,0,0,0,0,,0,0
+8006,,Laz?r Sfera,DF,Romania,0,0,0,0,,0,0
+8250,,Emerich Vogl,DF,Romania,1,1,90,0,,0,0
+8251,,Vasile Deheleanu,MF,Romania,1,1,90,0,,0,0
+8252,,Gusztáv Juhász,MF,Romania,0,0,0,0,,0,0
+8253,,Rudolf Kotormány,MF,Romania,1,1,90,0,,0,0
+8254,,József Moravetz,MF,Romania,1,1,90,0,,0,0
+8255,,Károly Weichelt,MF,Romania,0,0,0,0,,0,0
+8012,,Iuliu Baratky,FW,Romania,0,0,0,0,,0,0
+8013,,Silviu Bindea,FW,Romania,1,1,90,0,,0,0
+8014,,Iuliu Bodola,FW,Romania,1,1,90,0,,0,0
+8256,,Gheorghe Ciolac,FW,Romania,0,0,0,0,,0,0
+8016,,?tefan Dobay,FW,Romania,1,1,90,1,,0,0
+8257,,István Klimek,FW,Romania,0,0,0,0,,0,0
+8018,,Nicolae Kovács,FW,Romania,1,1,90,0,,0,0
+8258,,Sándor Schwartz,FW,Romania,0,0,0,0,,0,0
+8259,,Gra?ian Sepi,FW,Romania,1,1,90,0,,0,0
+8260,,Juan José Nogués,GK,Spain,1,1,90,0,,0,0
+8261,,Ricardo Zamora,GK,Spain,2,2,210,0,,0,0
+8262,,Ciriaco,DF,Spain,2,2,210,0,,0,0
+8263,,Jacinto Quincoces,DF,Spain,3,3,300,0,,0,0
+8264,,Ramón Zabalo,DF,Spain,1,1,90,0,,0,0
+8265,,Crisant Bosch,MF,Spain,1,1,90,0,,0,0
+8266,,Leonardo Cilaurren,MF,Spain,3,3,300,0,,0,0
+8267,,Fede,MF,Spain,1,1,120,0,,0,0
+8268,,Hilario,MF,Spain,0,0,0,0,,0,0
+8269,,Simón Lecue,MF,Spain,2,2,180,0,,0,0
+8270,,Martín Marculeta,MF,Spain,1,1,90,0,,0,0
+8271,,José Muguerza,MF,Spain,3,3,300,0,,0,0
+8272,,Pedro Solé,MF,Spain,0,0,0,0,,0,0
+8273,,Martí Ventolrà,MF,Spain,1,1,90,0,,0,0
+8274,,Campanal I,FW,Spain,1,1,90,0,,0,0
+8275,,Chacho,FW,Spain,1,1,90,0,,0,0
+8276,,Guillermo Gorostiza,FW,Spain,2,2,210,0,,0,0
+8277,,José Iraragorri,FW,Spain,2,2,210,2,,0,0
+8278,,Lafuente,FW,Spain,2,2,210,0,,0,0
+8279,,Isidro Lángara,FW,Spain,2,2,210,1,,0,0
+8280,,Luis Marín Sabater,FW,Spain,0,0,0,0,,0,0
+8281,,Luis Regueiro Corso,FW,Spain,2,2,210,1,,0,0
+8282,,Sture Hult,GK,Sweden,0,0,0,0,,0,0
+8283,,Anders Rydberg,GK,Sweden,2,2,180,0,,0,0
+8284,,Eivar Widlund,GK,Sweden,0,0,0,0,,0,0
+8285,,Otto Andersson,DF,Sweden,0,0,0,0,,0,0
+8335,,Sven Oskar Andersson,DF,Sweden,2,2,180,0,,0,0
+8286,,Nils Axelsson,DF,Sweden,2,2,180,0,,0,0
+8287,,Ernst Andersson,MF,Sweden,2,2,180,0,,0,0
+8288,,Rune Carlsson,MF,Sweden,2,2,180,0,,0,0
+8289,,Victor Carlund,MF,Sweden,0,0,0,0,,0,0
+8290,,Nils Rosén,MF,Sweden,2,2,180,0,,0,0
+8035,,Lennart Bunke,FW,Sweden,0,0,0,0,,0,0
+8291,,Gösta Dunker,FW,Sweden,2,2,180,1,,0,0
+8292,,Ragnar Gustavsson,FW,Sweden,2,2,180,0,,0,0
+8293,,Carl-Erik Holmberg,FW,Sweden,0,0,0,0,,0,0
+8294,,Gunnar Jansson,FW,Sweden,0,0,0,0,,0,0
+8037,,Sven Jonasson,FW,Sweden,2,2,180,2,,0,0
+8038,,Tore Keller,FW,Sweden,2,2,180,0,,0,0
+8295,,Knut Kroon,FW,Sweden,2,2,180,1,,0,0
+8296,,Harry Lundahl,FW,Sweden,0,0,0,0,,0,0
+8297,,Gunnar Olsson,FW,Sweden,0,0,0,0,,0,0
+8298,,Arvid Thörn,FW,Sweden,0,0,0,0,,0,0
+8044,,Renato Bizzozero,GK,Switzerland,0,0,0,0,,0,0
+8045,,Willy Huber,GK,Switzerland,0,0,0,0,,0,0
+8299,,Frank Séchehaye,GK,Switzerland,2,2,180,0,,0,0
+8300,,Louis Gobet,DF,Switzerland,0,0,0,0,,0,0
+8047,,Severino Minelli,DF,Switzerland,2,2,180,0,,0,0
+8301,,Arnoldo Ortelli,DF,Switzerland,0,0,0,0,,0,0
+8302,,Walter Weiler,DF,Switzerland,2,2,180,0,,0,0
+8303,,Ernst Frick,MF,Switzerland,0,0,0,0,,0,0
+8049,,Albert Guinchard,MF,Switzerland,2,2,180,0,,0,0
+8304,,Ernst Hufschmid,MF,Switzerland,2,2,180,0,,0,0
+8305,,Fernand Jaccard,MF,Switzerland,2,2,180,0,,0,0
+8306,,Edmond Loichot,MF,Switzerland,0,0,0,0,,0,0
+8054,,André Abegglen,FW,Switzerland,2,2,180,1,,0,0
+8307,,Joseph Bossi,FW,Switzerland,1,1,90,0,,0,0
+8308,,Albert Büche,FW,Switzerland,0,0,0,0,,0,0
+8309,,Otto Bühler,FW,Switzerland,0,0,0,0,,0,0
+8310,,Erwin Hochsträsser,FW,Switzerland,0,0,0,0,,0,0
+8311,,Alfred Jäck,FW,Switzerland,1,1,90,0,,0,0
+8312,,Willy Jäggi,FW,Switzerland,1,1,90,1,,0,0
+8060,,Leopold Kielholz,FW,Switzerland,2,2,180,3,,0,0
+8313,,Raymond Passello,FW,Switzerland,1,1,90,0,,0,0
+8314,,Willy von Känel,FW,Switzerland,2,2,180,0,,0,0
+8315,,Julius Hjulian,GK,USA,1,1,90,0,,0,0
+8316,,Ed Czerkiewicz,DF,USA,1,1,90,0,,0,0
+8317,,Al Harker,DF,USA,0,0,0,0,,0,0
+8318,,Joe Martinelli,DF,USA,0,0,0,0,,0,0
+8319,,George Moorhouse,DF,USA,1,1,90,0,,0,0
+8320,,Herman Rapp,DF,USA,0,0,0,0,,0,0
+8321,,Tom Amrhein,MF,USA,0,0,0,0,,0,0
+8322,,Bill Fiedler,MF,USA,0,0,0,0,,0,0
+8323,,Tom Florie,MF,USA,1,1,90,0,,0,0
+8324,,Jimmy Gallagher,MF,USA,0,0,0,0,,0,0
+8325,,Billy Gonsalves,MF,USA,1,1,90,0,,0,0
+8326,,William Lehman,MF,USA,0,0,0,0,,0,0
+8327,,Tom Lynch,MF,USA,0,0,0,0,,0,0
+8328,,Peter Pietras,MF,USA,1,1,90,0,,0,0
+8329,,Walter Dick,FW,USA,1,1,90,0,,0,0
+8330,,Aldo Donelli,FW,USA,1,1,90,1,,0,0
+8331,,Willie McLean,FW,USA,1,1,90,0,,0,0
+8332,,Werner Nilsen,FW,USA,1,1,90,0,,0,0
+8333,,Francis Ryan,FW,USA,1,1,90,0,,0,0
