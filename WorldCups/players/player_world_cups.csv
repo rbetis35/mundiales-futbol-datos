@@ -10054,6 +10054,7 @@ player_id,world_cup_year,team,club,country_club
 7745,1950,Yugoslavia,Partizan Belgrade,Serbia
 7746,1950,Yugoslavia,Red Star Belgrade,Serbia
 7747,1950,Yugoslavia,Naša Krila Zemun,Serbia
+7748,1934,Belgium,Daring Club,Belgium
 7748,1938,Belgium,Daring Club,Belgium
 7749,1938,Belgium,Cercle Brugge,Belgium
 7750,1938,Belgium,Union St. Gilloise,Belgium
@@ -10061,6 +10062,7 @@ player_id,world_cup_year,team,club,country_club
 7752,1938,Belgium,Antwerp,Belgium
 7753,1938,Belgium,Standard Liege,Belgium
 7754,1938,Belgium,Royal Beerschot AC,Belgium
+7755,1934,Belgium,Union St. Gilloise,Belgium
 7755,1938,Belgium,Union St. Gilloise,Belgium
 7756,1938,Belgium,Standard Liege,Belgium
 7757,1938,Belgium,Royal Beerschot AC,Belgium
@@ -10069,15 +10071,18 @@ player_id,world_cup_year,team,club,country_club
 7760,1938,Belgium,Royal Beerschot AC,Belgium
 7761,1938,Belgium,Royal Beerschot AC,Belgium
 7762,1938,Belgium,Daring Club,Belgium
+7763,1934,Belgium,Standard Liege,Belgium
 7763,1938,Belgium,Standard Liege,Belgium
 7764,1938,Belgium,Royal Beerschot AC,Belgium
 7765,1938,Belgium,White Star,Belgium
 7766,1938,Belgium,Royal Beerschot AC,Belgium
 7767,1938,Belgium,Berchem Sport,Belgium
 7768,1938,Belgium,Royal Beerschot AC,Belgium
+7769,1934,Belgium,Lierse,Belgium
 7769,1938,Belgium,Lierse,Belgium
 7770,1938,Brazil,Fluminense,Brazil
 7771,1938,Brazil,Flamengo,Brazil
+7772,1934,Brazil,Vasco da Gama,Brazil
 7772,1938,Brazil,Flamengo,Brazil
 7773,1938,Brazil,Corinthians,Brazil
 7774,1938,Brazil,Fluminense,Brazil
@@ -10086,16 +10091,20 @@ player_id,world_cup_year,team,club,country_club
 7777,1938,Brazil,Portuguesa Santista,Brazil
 7778,1938,Brazil,Corinthians,Brazil
 7779,1938,Brazil,America-RJ,Brazil
+7780,1934,Brazil,Botafogo,Brazil
 7780,1938,Brazil,Botafogo,Brazil
 7781,1938,Brazil,Botafogo,Brazil
 7782,1938,Brazil,Fluminense,Brazil
+7783,1934,Brazil,Vasco da Gama,Brazil
 7783,1938,Brazil,Flamengo,Brazil
 7784,1938,Brazil,Corinthians,Brazil
-7785,1938,Brazil,Palestra Italia,Brazil
+7785,1934,Brazil,Sao Paulo,Brazil
+7785,1938,Brazil,Palmeiras,Brazil
 7786,1938,Brazil,Vasco da Gama,Brazil
+7787,1934,Brazil,Nacional,Uruguay
 7787,1938,Brazil,Botafogo,Brazil
 7788,1938,Brazil,Botafogo,Brazil
-7789,1938,Brazil,S o Crist v o,Brazil
+7789,1938,Brazil,Sao Cristovao,Brazil
 7790,1938,Brazil,Fluminense,Brazil
 7791,1938,Brazil,Fluminense,Brazil
 7792,1938,Cuba,Hispano America,Cuba
@@ -10114,21 +10123,29 @@ player_id,world_cup_year,team,club,country_club
 7805,1938,Cuba,Iberia Havana,Cuba
 7806,1938,Cuba,Centro Gallego,Cuba
 7807,1938,Czechoslovakia,SK Židenice,Czech Republic
+7808,1934,Czechoslovakia,Slavia Prague,Czech Republic
 7808,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7809,1934,Czechoslovakia,Sparta Prague,Czech Republic
 7809,1938,Czechoslovakia,Sparta Prague,Czech Republic
 7810,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7811,1934,Czechoslovakia,Slovan Bratislava,Slovakia
 7811,1938,Czechoslovakia,Slavia Prague,Czech Republic
 7812,1938,Czechoslovakia,Slovan Bratislava,Slovakia
+7813,1934,Czechoslovakia,Sparta Prague,Czech Republic
 7813,1938,Czechoslovakia,Sparta Prague,Czech Republic
 7814,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7815,1934,Czechoslovakia,Slavia Prague,Czech Republic
 7815,1938,Czechoslovakia,Slavia Prague,Czech Republic
+7816,1934,Czechoslovakia,Sparta Prague,Czech Republic
 7816,1938,Czechoslovakia,Sparta Prague,Czech Republic
 7817,1938,Czechoslovakia,Slavia Prague,Czech Republic
 7818,1938,Czechoslovakia,Slavia Prague,Czech Republic
 7819,1938,Czechoslovakia,Slavia Prague,Czech Republic
 7820,1938,Czechoslovakia,SK Pardubice,Czech Republic
 7821,1938,Czechoslovakia,Viktoria Zizkov,Czech Republic
+7822,1934,Czechoslovakia,Sparta Prague,Czech Republic
 7822,1938,Czechoslovakia,Sparta Prague,Czech Republic
+7823,1934,Czechoslovakia,Slavia Prague,Czech Republic
 7823,1938,Czechoslovakia,Slavia Prague,Czech Republic
 7824,1938,Czechoslovakia,Sparta Prague,Czech Republic
 7825,1938,Czechoslovakia,SK Židenice,Czech Republic
@@ -10154,74 +10171,105 @@ player_id,world_cup_year,team,club,country_club
 7845,1938,Dutch East Indies,Hercules Batavia,Indonesia
 7846,1938,France,Olympique Lillois,France
 7847,1938,France,Sochaux,France
+7848,1934,France,FC Sete,France
 7848,1938,France,FC Sete,France
 7849,1938,France,Marseille,France
 7850,1938,France,Sochaux,France
+7851,1934,France,Sochaux,France
 7851,1938,France,Sochaux,France
 7852,1938,France,Le Havre,France
+7853,1934,France,Olympique Lillois,France
 7853,1938,France,Olympique Lillois,France
 7854,1938,France,Marseille,France
 7855,1938,France,SC Fives,France
 7856,1938,France,RC Paris,France
 7857,1938,France,Le Havre,France
 7858,1938,France,RC Paris,France
+7859,1934,France,Red Star Olympique,France
 7859,1938,France,Red Star Olympique,France
 7860,1938,France,FC Sete,France
+7861,1934,France,Sochaux,France
 7861,1938,France,Sochaux,France
+7862,1934,France,RC Paris,France
 7862,1938,France,RC Roubaix,France
-7863,1938,France,RC Strasbourg,France
+7863,1938,France,Strasbourg,France
 7864,1938,France,Metz,France
+7865,1934,France,Rouen,France
 7865,1938,France,Rouen,France
+7866,1934,France,RC Paris,France
 7866,1938,France,RC Paris,France
 7867,1938,France,Marseille,France
+7868,1934,Germany,VfB Speldorf,Germany
 7868,1938,Germany,Hertha BSC,Germany
+7869,1934,Germany,Jahn Regensburg,Germany
 7869,1938,Germany,Jahn Regensburg,Germany
+7870,1934,Austria,Rapid Wien,Austria
 7870,1938,Germany,Rapid Wien,Austria
 7871,1938,Germany,Bayern Munich,Germany
-7872,1938,Germany,Fortuna D sseldorf,Germany
+7872,1934,Germany,Fortuna Dusseldorf,Germany
+7872,1938,Germany,Fortuna Dusseldorf,Germany
+7873,1934,Germany,Alemannia Aachen,Germany
 7873,1938,Germany,Alemannia Aachen,Germany
+7874,1934,Austria,First Vienna FC,Austria
 7874,1938,Germany,First Vienna FC,Austria
 7875,1938,Germany,Bayern Munich,Germany
 7876,1938,Germany,1. FC Schweinfurt 05,Germany
 7877,1938,Germany,1. FC Schweinfurt 05,Germany
 7878,1938,Germany,Austria Wien,Austria
 7879,1938,Germany,Rapid Wien,Austria
+7880,1934,Austria,Rapid Wien,Austria
 7880,1938,Germany,Rapid Wien,Austria
 7881,1938,Germany,TuS Koblenz-Neuendorf,Germany
 7882,1938,Germany,Schalke 04,Germany
 7883,1938,Germany,Admira Wien,Austria
-7884,1938,Germany,Augsburg,Germany
+7884,1934,Germany,TSV Schwaben Augsburg,Germany
+7884,1938,Germany,TSV Schwaben Augsburg,Germany
 7885,1938,Germany,Austria Wien,Austria
 7886,1938,Germany,Rapid Wien,Austria
+7887,1934,Germany,Waldhof Mannheim,Germany
 7887,1938,Germany,Waldhof Mannheim,Germany
+7888,1934,Austria,Austria Wien,Austria
 7888,1938,Germany,Austria Wien,Austria
+7889,1934,Germany,Schalke 04,Germany
 7889,1938,Germany,Schalke 04,Germany
-7890,1938,Hungary,Ferencv ros,Hungary
+7890,1934,Hungary,Ferencvaros,Hungary
+7890,1938,Hungary,Ferencvaros,Hungary
 7891,1938,Hungary,Szeged FC,Hungary
+7892,1934,Hungary,MTK Budapest,Hungary
 7892,1938,Hungary,MTK Budapest,Hungary
 7893,1938,Hungary,MTK Budapest,Hungary
-7894,1938,Hungary,Ferencv ros,Hungary
-7895,1938,Hungary,Ferencv ros,Hungary
-7896,1938,Hungary, jpest,Hungary
+7894,1938,Hungary,Ferencvaros,Hungary
+7895,1934,Hungary,Ferencvaros,Hungary
+7895,1938,Hungary,Ferencvaros,Hungary
+7896,1938,Hungary,Ujpest,Hungary
+7897,1934,Hungary,MTK Budapest,Hungary
 7897,1938,Hungary,MTK Budapest,Hungary
-7898,1938,Hungary,Ferencv ros,Hungary
-7899,1938,Hungary,Ferencv ros,Hungary
-7900,1938,Hungary, jpest,Hungary
-7901,1938,Hungary, jpest,Hungary
+7898,1934,Hungary,Ferencvaros,Hungary
+7898,1938,Hungary,Ferencvaros,Hungary
+7899,1938,Hungary,Ferencvaros,Hungary
+7900,1934,Hungary,Ujpest,Hungary
+7900,1938,Hungary,Ujpest,Hungary
+7901,1934,Hungary,Ujpest,Hungary
+7901,1938,Hungary,Ujpest,Hungary
 7902,1938,Hungary,MTK Budapest,Hungary
-7903,1938,Hungary,Ferencv ros,Hungary
+7903,1938,Hungary,Ferencvaros,Hungary
 7904,1938,Hungary,MTK Budapest,Hungary
 7905,1938,Hungary,Marseille,France
-7906,1938,Hungary,Ferencv ros,Hungary
+7906,1934,Hungary,Ferencvaros,Hungary
+7906,1938,Hungary,Ferencvaros,Hungary
 7907,1938,Hungary,MTK Budapest,Hungary
 7908,1938,Hungary,MTK Budapest,Hungary
-7909,1938,Hungary,Ferencv ros,Hungary
-7910,1938,Hungary, jpest,Hungary
-7911,1938,Hungary, jpest,Hungary
+7909,1934,Hungary,Ferencvaros,Hungary
+7909,1938,Hungary,Ferencvaros,Hungary
+7910,1934,Hungary,Bocskai,Hungary
+7910,1938,Hungary,Ujpest,Hungary
+7911,1938,Hungary,Ujpest,Hungary
 7912,1938,Italy,Bologna,Italy
+7913,1934,Italy,Roma,Italy
 7913,1938,Italy,Roma,Italy
 7914,1938,Italy,Lucchese,Italy
 7915,1938,Italy,Juventus,Italy
+7916,1934,Italy,Bologna,Italy
 7916,1938,Italy,Roma,Italy
 7917,1938,Italy,Juventus,Italy
 7918,1938,Italy,Bologna,Italy
@@ -10229,6 +10277,7 @@ player_id,world_cup_year,team,club,country_club
 7920,1938,Italy,Roma,Italy
 7921,1938,Italy,Genoa,Italy
 7922,1938,Italy,Internazionale,Italy
+7923,1934,Italy,Internazionale,Italy
 7923,1938,Italy,Internazionale,Italy
 7924,1938,Italy,Internazionale,Italy
 7925,1938,Italy,Genoa,Italy
@@ -10236,31 +10285,40 @@ player_id,world_cup_year,team,club,country_club
 7927,1938,Italy,Pisa,Italy
 7928,1938,Italy,Bologna,Italy
 7929,1938,Italy,Triestina,Italy
+7930,1934,Italy,Juventus,Italy
 7930,1938,Italy,Internazionale,Italy
 7931,1938,Italy,Internazionale,Italy
 7932,1938,Italy,Triestina,Italy
 7933,1938,Italy,Lazio,Italy
 7934,1938,Netherlands,Telstar,Netherlands
+7935,1934,Netherlands,Feyenoord,Netherlands
 7935,1938,Netherlands,Feyenoord,Netherlands
 7936,1938,Netherlands,Ajax,Netherlands
 7937,1938,Netherlands,DWS,Netherlands
 7938,1938,Netherlands,Be Quick 1887,Netherlands
+7939,1934,Netherlands,ADO Den Haag,Netherlands
 7939,1938,Netherlands,ADO Den Haag,Netherlands
+7940,1934,Netherlands,Ajax,Netherlands
 7940,1938,Netherlands,Ajax,Netherlands
 7941,1938,Netherlands,Be Quick 1887,Netherlands
+7942,1934,Netherlands,Feyenoord,Netherlands
 7942,1938,Netherlands,Feyenoord,Netherlands
 7943,1938,Netherlands,RFC Roermond,Netherlands
+7944,1934,Netherlands,Feyenoord,Netherlands
 7944,1938,Netherlands,Feyenoord,Netherlands
-7945,1938,Netherlands,KFC (Kooger FC),Netherlands
+7945,1938,Netherlands,Kooger FC,Netherlands
 7946,1938,Netherlands,VUC Den Haag,Netherlands
 7947,1938,Netherlands,HFC Haarlem,Netherlands
 7948,1938,Netherlands,RFC Rotterdam,Netherlands
 7949,1938,Netherlands,DWS,Netherlands
 7950,1938,Netherlands,DFC Dordrecht,Netherlands
+7951,1934,Netherlands,HFC Haarlem,Netherlands
 7951,1938,Netherlands,HFC Haarlem,Netherlands
 7952,1938,Netherlands,Heracles Almelo,Netherlands
 7953,1938,Netherlands,Neptunus Rotterdam,Netherlands
+7954,1934,Netherlands,Neptunus Rotterdam,Netherlands
 7954,1938,Netherlands,Feyenoord,Netherlands
+7955,1934,Netherlands,Unitas Gorinchem,Netherlands
 7955,1938,Netherlands,Unitas Gorinchem,Netherlands
 7956,1938,Norway,Valerenga,Norway
 7957,1938,Norway,Mj ndalen,Norway
@@ -10309,21 +10367,28 @@ player_id,world_cup_year,team,club,country_club
 8000,1938,Romania,Venus Bucure?ti,Romania
 8001,1938,Romania,Ripensia Timi?oara,Romania
 8002,1938,Romania,AMEF Arad,Romania
+8003,1934,Romania,Ripensia Timi?oara,Romania
 8003,1938,Romania,Ripensia Timi?oara,Romania
 8004,1938,Romania,Ripensia Timi?oara,Romania
 8005,1938,Romania,Victoria Cluj,Romania
+8006,1934,Romania,Venus Bucure?ti,Romania
 8006,1938,Romania,Venus Bucure?ti,Romania
 8007,1938,Romania,Venus Bucure?ti,Romania
 8008,1938,Romania,Petrolul Ploiesti,Romania
 8009,1938,Romania,Rapid Bucure?ti,Romania
 8010,1938,Romania,Rapid Bucure?ti,Romania
 8011,1938,Romania,Rapid Bucure?ti,Romania
+8012,1934,Romania,Crișana Oradea,Romania
 8012,1938,Romania,Rapid Bucure?ti,Romania
+8013,1934,Romania,Ripensia Timi?oara,Romania
 8013,1938,Romania,Ripensia Timi?oara,Romania
+8014,1934,Romania,CAO Oradea,Romania
 8014,1938,Romania,Venus Bucure?ti,Romania
 8015,1938,Romania,Rapid Bucure?ti,Romania
+8016,1934,Romania,Ripensia Timi?oara,Romania
 8016,1938,Romania,Ripensia Timi?oara,Romania
 8017,1938,Romania,Petrolul Ploiesti,Romania
+8018,1934,Romania,CAO Oradea,Romania
 8018,1938,Romania,CAO Oradea,Romania
 8019,1938,Romania,Rapid Bucure?ti,Romania
 8020,1938,Romania,Cri?ana Oradea,Romania
@@ -10341,31 +10406,40 @@ player_id,world_cup_year,team,club,country_club
 8032,1938,Sweden,GAIS,Sweden
 8033,1938,Sweden,IK Sleipner,Sweden
 8034,1938,Sweden,Landskrona BoIS,Sweden
+8035,1934,Sweden,Helsingborgs IF,Sweden
 8035,1938,Sweden,Helsingborgs IF,Sweden
 8036,1938,Sweden,Landskrona BoIS,Sweden
+8037,1934,Sweden,IF Elfsborg,Sweden
 8037,1938,Sweden,IF Elfsborg,Sweden
+8038,1934,Sweden,IK Sleipner,Sweden
 8038,1938,Sweden,IK Sleipner,Sweden
 8039,1938,Sweden,IFK Goteborg,Sweden
 8040,1938,Sweden,AIK,Sweden
 8041,1938,Sweden,IK Sleipner,Sweden
 8042,1938,Sweden,IK Sleipner,Sweden
 8043,1938,Switzerland,FC Grenchen,Switzerland
+8044,1934,Switzerland,Lugano,Switzerland
 8044,1938,Switzerland,Lugano,Switzerland
+8045,1934,Switzerland,Grasshopper,Switzerland
 8045,1938,Switzerland,Grasshopper,Switzerland
 8046,1938,Switzerland,Grasshopper,Switzerland
+8047,1934,Switzerland,Grasshopper,Switzerland
 8047,1938,Switzerland,Grasshopper,Switzerland
 8048,1938,Switzerland,Lausanne Sports,Switzerland
+8049,1934,Switzerland,Servette,Switzerland
 8049,1938,Switzerland,Servette,Switzerland
 8050,1938,Switzerland,Servette,Switzerland
 8051,1938,Switzerland,Grasshopper,Switzerland
 8052,1938,Switzerland,Grasshopper,Switzerland
 8053,1938,Switzerland,Grasshopper,Switzerland
+8054,1934,Switzerland,Grasshopper,Switzerland
 8054,1938,Switzerland,Servette,Switzerland
 8055,1938,Switzerland,Servette,Switzerland
 8056,1938,Switzerland,Young Boys,Switzerland
 8057,1938,Switzerland,Lugano,Switzerland
 8058,1938,Switzerland,Le Havre,France
 8059,1938,Switzerland,Lugano,Switzerland
+8060,1934,Switzerland,Servette,Switzerland
 8060,1938,Switzerland,SC Young Fellows,Switzerland
 8061,1938,Switzerland,Grasshopper,Switzerland
 8062,1938,Switzerland,Grasshopper,Switzerland
